@@ -14,7 +14,13 @@ document.addEventListener('DOMContentLoaded', () => {
                     scales: {
                         x: {
                             beginAtZero: true,
-                            stacked: true
+                            stacked: true,
+                            position: 'top',
+                            max: 150, // Set the maximum value for the bottom x-axis
+                            ticks: {
+                                // forces step size to be 50 units
+                                stepSize: 10
+                              }
                         },
                         y: {
                             stacked: true
