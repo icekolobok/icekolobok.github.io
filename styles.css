@@ -1,5 +1,28 @@
-.chart-container {
+.chart-container3 {
     width: 100%; /* Set your desired width */
     height: 5000px; /* Set your desired height */
     overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.chart-container5 {
+    width: 100%; /* Set your desired width */
+    height: 6000px; /* Set your desired height */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.chart-title {
+    text-align: center; /* Center the title */
+    margin-bottom: 10px; /* Add space between the title and the chart */
+}
+
+.chart-url {
+    display: block;
+    text-align: center; /* Center the URL */
+    margin-bottom: 20px; /* Adjust the space between URL and chart */
+    color: blue; /* Style the URL */
+    text-decoration: none; /* Remove underline from the URL */
+}
+
+.note {
+    text-align: center; /* Center the URL */
 }

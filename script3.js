@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('data.json')
+    fetch('data3.json')
         .then(response => response.json())
         .then(data => {
             const ctx = document.getElementById('myChart').getContext('2d');
@@ -16,9 +16,8 @@ document.addEventListener('DOMContentLoaded', () => {
                             beginAtZero: true,
                             stacked: true,
                             position: 'top',
-                            max: 150, // Set the maximum value for the bottom x-axis
+                            max: 150,
                             ticks: {
-                                // forces step size to be 50 units
                                 stepSize: 10
                               }
                         },
@@ -27,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         }
                     },
                     responsive: true,
-                    maintainAspectRatio: false // Allow the chart to take the height of its container
+                    maintainAspectRatio: false
                 
                 }
             });
