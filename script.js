@@ -19,7 +19,10 @@ document.addEventListener('DOMContentLoaded', () => {
                         y: {
                             stacked: true
                         }
-                    }
+                    },
+                    responsive: true,
+                    maintainAspectRatio: false // Allow the chart to take the height of its container
+                
                 }
             });
         })
