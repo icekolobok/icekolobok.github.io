@@ -10,6 +10,12 @@
     overflow-y: auto; /* Enable vertical scrolling */
 }
 
+.chart-container8 {
+    width: 100%; /* Set your desired width */
+    height: 10000px; /* Set your desired height */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
 .chart-title {
     text-align: center; /* Center the title */
     margin-bottom: 10px; /* Add space between the title and the chart */
@@ -25,4 +31,26 @@
 
 .note {
     text-align: center; /* Center the URL */
+}
+
+table {
+    width: 10%;
+    text-align: center;
+    vertical-align: top;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    text-align: center;
+    vertical-align: top;
+    justify-content: center;
+    align-items: center;
+  }
+
+body {
+    justify-content: center;
+    align-items: center;
 }
