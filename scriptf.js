@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
                               }
                         },
                         y: {
-                            stacked: true
+                            stacked: false
                         }
                     },
                     responsive: true,
