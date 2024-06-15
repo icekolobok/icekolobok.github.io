@@ -4,33 +4,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Titled Tuesday Winners</title>
-    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="icon" type="image/png" href="../../favicon.png">
     <meta property="og:title" content="Titled Tuesday Winners" />
     <meta property="og:description" content="Chess.com Titled Tuesday Winners, 428 events since 2014" />
     <meta property="og:image" content="https://www.titled-tuesday.com/image.png" />
     <meta property="og:url" content="https://www.titled-tuesday.com"/>
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Titled Tuesday Winners" />
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="../../styles.css">
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
     <h4 class="chart-title">Chess.com Titled Tuesday Winners, 429 events since 2014</h3>
-        <table>
+        <table class="header-table">
             <tr>
-              <td><a href="index.html" class="chart-url">Top-3</a></td>
-              <td><a href="5.html" class="chart-url">Top-5</a></td>
+              <td><a href="top3.html" class="chart-url">Top-3</a></td>
+              <td><a href="top5.html" class="chart-url">Top-5</a></td>
               <td>Top-8</td>
             </tr>
-            <tr>
-                <td colspan="3"><a href="freq.html" class="chart-url">Most tournaments played</a></td>
-            </tr>
+            <table class="header-table">
+                <tr>
+                    <td><a href="h2h.html" class="chart-url">Head-to-Head Crosstable</a></td>
+                    <td><a href="freq.html" class="chart-url">Most Tournaments Played</a></td>
+                </tr>
+            </table> 
           </table>
     <div class="chart-container8">
         <canvas id="myChart"></canvas>
     </div>
-    <script src="script8.js"></script>
+    <script src="../scripts/script8.js"></script>
     <div class="note">(X) - account closed, (?) - have a history of account closures, (i) - inactive, (d) - deceased</div>
-    <div class="note">Last Updated: 11-Jun-2024</div>
+    <div class="note">Last Updated: 15-Jun-2024</div>
 </body>
 </html>

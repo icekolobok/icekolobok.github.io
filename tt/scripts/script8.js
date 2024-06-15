@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    fetch('freq.json')
+    fetch('../data/data8.json')
         .then(response => response.json())
         .then(data => {
             const ctx = document.getElementById('myChart').getContext('2d');
@@ -14,15 +14,15 @@ document.addEventListener('DOMContentLoaded', () => {
                     scales: {
                         x: {
                             beginAtZero: true,
-                            stacked: false,
+                            stacked: true,
                             position: 'top',
-                            max: 340,
+                            max: 200,
                             ticks: {
                                 stepSize: 10
                               }
                         },
                         y: {
-                            stacked: false
+                            stacked: true
                         }
                     },
                     responsive: true,
