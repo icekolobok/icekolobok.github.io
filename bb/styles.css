@@ -22,17 +22,35 @@
     overflow-y: auto; /* Enable vertical scrolling */
 }
 
+.chart-containerp {
+    width: 100%; /* Set your desired width */
+    height: 800px; /* Set your desired height */
+    overflow-x: auto;
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.chart-containerb {
+    width: 100%; /* Set your desired width */
+    height: 800px; /* Set your desired height */
+    overflow-x: auto;
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
 .chart-title {
     text-align: center; /* Center the title */
     margin-bottom: 10px; /* Add space between the title and the chart */
 }
 
 .chart-url {
-    display: block;
     text-align: center; /* Center the URL */
-    margin-bottom: 20px; /* Adjust the space between URL and chart */
+    vertical-align: middle;
     color: blue; /* Style the URL */
     text-decoration: none; /* Remove underline from the URL */
+}
+
+.chart-url:focus, .chart-url:active {
+    outline: none; /* Ensure no outline is added on focus or active state */
+    border: none; /* Ensure no border is added on focus or active state */
 }
 
 .note {
@@ -42,16 +60,17 @@
 .header-table {
     width: 30%;
     text-align: center;
-    vertical-align: top;
+    vertical-align: middle;
     justify-content: center;
     align-items: center;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 20px;
 }
 
 td {
     text-align: center;
-    vertical-align: top;
+    vertical-align: middle;
     justify-content: center;
     align-items: center;
   }
@@ -59,4 +78,15 @@ td {
 body {
     justify-content: center;
     align-items: center;
+}
+
+.bb{
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: rgba(0, 102, 255, 0.9);
+    background-color: rgba(0, 102, 255, 0.01);
+}
+
+a {
+    display: inline-block; /* Ensure the link has a consistent display property */
 }
