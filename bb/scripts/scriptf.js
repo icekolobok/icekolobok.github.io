@@ -25,6 +25,11 @@ document.addEventListener('DOMContentLoaded', () => {
                             stacked: true
                         }
                     },
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
                     responsive: true,
                     maintainAspectRatio: false
                 }

@@ -25,6 +25,17 @@ document.addEventListener('DOMContentLoaded', () => {
                             stacked: true
                         }
                     },
+                    animations: {
+                          duration: 0,
+                          colors: false,
+                          x: false
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    animation: false,
                     responsive: true,
                     maintainAspectRatio: false
                 
