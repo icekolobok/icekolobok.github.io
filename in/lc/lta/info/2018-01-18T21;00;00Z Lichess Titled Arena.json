@@ -1,0 +1,212 @@
+{
+ "nbPlayers": 180,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "DrDrunkenstein",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2971,
+   "score": 199,
+   "nb": {
+    "game": 68,
+    "berserk": 0,
+    "win": 58
+   },
+   "performance": 2994
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 2,
+   "rating": 2846,
+   "score": 132,
+   "nb": {
+    "game": 57,
+    "berserk": 11,
+    "win": 41
+   },
+   "performance": 2841
+  },
+  {
+   "name": "opperwezen",
+   "title": "IM",
+   "flair": "objects.alarm-clock",
+   "patron": true,
+   "rank": 3,
+   "rating": 2785,
+   "score": 120,
+   "nb": {
+    "game": 68,
+    "berserk": 1,
+    "win": 42
+   },
+   "performance": 2757
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 294773,
+  "averageRating": 2338,
+  "berserks": 212,
+  "blackWins": 1536,
+  "games": 3448,
+  "draws": 232,
+  "whiteWins": 1680
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "DrDrunkenstein",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2971,
+    "score": 199,
+    "sheet": {
+     "scores": "22444444422022044444444422120442202224444422044444444422244442204422"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 2,
+    "rating": 2846,
+    "score": 132,
+    "sheet": {
+     "scores": "202204444542200422052200044444320444443300304220230433030"
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 3,
+    "rating": 2785,
+    "score": 120,
+    "sheet": {
+     "scores": "00004422222004422102202022444220444220202020042212021212020220442312"
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2744,
+    "score": 111,
+    "sheet": {
+     "scores": "202042201102200002200200022200222444220444220200422020444443200222"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2743,
+    "score": 108,
+    "sheet": {
+     "scores": "4444444422002004422000102202020444442200220000220024422012",
+     "fire": true
+    }
+   },
+   {
+    "name": "jlhammer",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2690,
+    "score": 103,
+    "sheet": {
+     "scores": "4422021022010000100004220422042202202044220021042202024422100044220",
+     "fire": true
+    }
+   },
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2758,
+    "score": 101,
+    "sheet": {
+     "scores": "4220200220002212222112120201044442202001021204422004444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "TheWarning",
+    "rank": 8,
+    "rating": 2684,
+    "score": 99,
+    "sheet": {
+     "scores": "200020210200202200220002204444444442202200000200004422022222022220"
+    }
+   },
+   {
+    "name": "Hawk20",
+    "title": "IM",
+    "rank": 9,
+    "rating": 2625,
+    "score": 95,
+    "sheet": {
+     "scores": "4220220120204422020102002022020022012444220004220422002002204220",
+     "fire": true
+    }
+   },
+   {
+    "name": "MeneerMandje",
+    "title": "GM",
+    "flair": "objects.basket",
+    "patron": true,
+    "rank": 10,
+    "rating": 2607,
+    "score": 95,
+    "sheet": {
+     "scores": "0220220220003302204422000300020000022220100020203022200201002100042204443302"
+    }
+   }
+  ]
+ },
+ "id": "WfvjOFkB",
+ "createdBy": "thibault",
+ "startsAt": "2018-01-18T21:00:00Z",
+ "system": "arena",
+ "fullName": "Lichess Titled Arena",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1500 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "[Read the announcement](https://lichess.org/blog/WjgXRCcAAOMX_1VF/lichess-titled-arena-2)\r\n\r\nStandard arena rules, $1500 prize pool. Prizes:\r\n$1000 - $250 - $125 - $75 - $50",
+ "onlyTitled": true
+}

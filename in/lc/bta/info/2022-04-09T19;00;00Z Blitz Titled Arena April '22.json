@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 480,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2870,
+   "score": 122,
+   "nb": {
+    "game": 49,
+    "berserk": 45,
+    "win": 31
+   },
+   "performance": 2905
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2850,
+   "score": 120,
+   "nb": {
+    "game": 58,
+    "berserk": 56,
+    "win": 32
+   },
+   "performance": 2860
+  },
+  {
+   "name": "Heisenberg01",
+   "title": "FM",
+   "rank": 3,
+   "rating": 2896,
+   "score": 119,
+   "nb": {
+    "game": 55,
+    "berserk": 23,
+    "win": 36
+   },
+   "performance": 2943
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 335594,
+  "averageRating": 2497,
+  "berserks": 2620,
+  "blackWins": 1719,
+  "games": 3998,
+  "draws": 329,
+  "whiteWins": 1950
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2870,
+    "score": 122,
+    "sheet": {
+     "scores": "1210210330555231000005555555533033030533053305330"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2850,
+    "score": 120,
+    "sheet": {
+     "scores": "3053313000130000233132553303030303033055555330000330200533"
+    }
+   },
+   {
+    "name": "Heisenberg01",
+    "title": "FM",
+    "rank": 3,
+    "rating": 2896,
+    "score": 119,
+    "sheet": {
+     "scores": "1202004422042304444220230042223210554453203233130003303"
+    }
+   },
+   {
+    "name": "neslraCsungaM77",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2840,
+    "score": 117,
+    "sheet": {
+     "scores": "1313130331301003323300030003000300300030300303305533053305555330"
+    }
+   },
+   {
+    "name": "Riquelme93",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2814,
+    "score": 116,
+    "sheet": {
+     "scores": "555553305330003000055330000445330055555533",
+     "fire": true
+    }
+   },
+   {
+    "name": "V_M",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2812,
+    "score": 111,
+    "sheet": {
+     "scores": "02004423030243222210444330305533003100000313010000555533"
+    }
+   },
+   {
+    "name": "Konevlad",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3025,
+    "score": 110,
+    "sheet": {
+     "scores": "1204221222200222221202202224444422242212244444422"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 8,
+    "rating": 2861,
+    "score": 107,
+    "sheet": {
+     "scores": "302442324444453212002232422004332230300130031022230"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 9,
+    "rating": 2845,
+    "score": 106,
+    "sheet": {
+     "scores": "04330244444433000200304444433031300020244533030"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2960,
+    "score": 101,
+    "sheet": {
+     "scores": "0003030103030000024454454222332453325553313"
+    }
+   }
+  ]
+ },
+ "id": "apr22bta",
+ "createdBy": "lichess",
+ "startsAt": "2022-04-09T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena April '22",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

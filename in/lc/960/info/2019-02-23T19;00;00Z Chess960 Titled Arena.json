@@ -1,0 +1,211 @@
+{
+ "nbPlayers": 319,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "DrNykterstein",
+   "title": "GM",
+   "flair": "people.santa-claus-light-skin-tone",
+   "patron": true,
+   "rank": 1,
+   "rating": 2828,
+   "score": 90,
+   "nb": {
+    "game": 32,
+    "berserk": 0,
+    "win": 27
+   },
+   "performance": 2686
+  },
+  {
+   "name": "Watneg",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2503,
+   "score": 78,
+   "nb": {
+    "game": 35,
+    "berserk": 0,
+    "win": 24
+   },
+   "performance": 2587
+  },
+  {
+   "name": "Dr-BassemAmin",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2412,
+   "score": 77,
+   "nb": {
+    "game": 35,
+    "berserk": 1,
+    "win": 25
+   },
+   "performance": 2523
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 197226,
+  "averageRating": 1993,
+  "berserks": 518,
+  "blackWins": 1193,
+  "games": 2649,
+  "draws": 175,
+  "whiteWins": 1281
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "DrNykterstein",
+    "title": "GM",
+    "flair": "people.santa-claus-light-skin-tone",
+    "patron": true,
+    "rank": 1,
+    "rating": 2828,
+    "score": 90,
+    "sheet": {
+     "scores": "42222224444220444444422020444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Watneg",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2503,
+    "score": 78,
+    "sheet": {
+     "scores": "21242212024221020422122422044444422"
+    }
+   },
+   {
+    "name": "Dr-BassemAmin",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2412,
+    "score": 77,
+    "sheet": {
+     "scores": "24422044220444220444220024221202202"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2495,
+    "score": 77,
+    "sheet": {
+     "scores": "000220200220204444454330443300020452300"
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 5,
+    "rating": 2420,
+    "score": 76,
+    "sheet": {
+     "scores": "23100220130212020202220204220444444220522",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 6,
+    "rating": 2379,
+    "score": 76,
+    "sheet": {
+     "scores": "055230000013000043202023130043300442300001043200202"
+    }
+   },
+   {
+    "name": "Boss1005",
+    "title": "IM",
+    "rank": 7,
+    "rating": 2414,
+    "score": 72,
+    "sheet": {
+     "scores": "01244442212022442200044220442202202"
+    }
+   },
+   {
+    "name": "wizard98",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2337,
+    "score": 72,
+    "sheet": {
+     "scores": "442200202204422012010422042204222422002002",
+     "fire": true
+    }
+   },
+   {
+    "name": "Alexandr_Ulanov",
+    "title": "IM",
+    "rank": 9,
+    "rating": 2455,
+    "score": 71,
+    "sheet": {
+     "scores": "2202044422042202020042204444422022100",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2471,
+    "score": 71,
+    "sheet": {
+     "scores": "4523032002000000222304423022002200444220220",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "960feb19",
+ "createdBy": "lukhas",
+ "startsAt": "2019-02-23T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 120,
+  "increment": 1
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "hippoBullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Read the announcement here](https://lichess.org/blog/XGHQsBEAACAAbR7d/bonus-titled-arena-chess960)\r\n\r\n[How to verify your title](https://lichess.org/help/master)",
+ "onlyTitled": true
+}

@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 560,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3008,
+   "score": 149,
+   "nb": {
+    "game": 65,
+    "berserk": 8,
+    "win": 41
+   },
+   "performance": 3083
+  },
+  {
+   "name": "toivok3",
+   "title": "IM",
+   "rank": 2,
+   "rating": 2924,
+   "score": 141,
+   "nb": {
+    "game": 62,
+    "berserk": 3,
+    "win": 41
+   },
+   "performance": 3025
+  },
+  {
+   "name": "Grey_parrot",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3074,
+   "score": 140,
+   "nb": {
+    "game": 64,
+    "berserk": 0,
+    "win": 46
+   },
+   "performance": 3143
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 725672,
+  "averageRating": 2430,
+  "berserks": 1090,
+  "blackWins": 3921,
+  "games": 8701,
+  "draws": 535,
+  "whiteWins": 4245
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3008,
+    "score": 149,
+    "sheet": {
+     "scores": "00100200001244422022202111002044444444220444444442222224444444231"
+    }
+   },
+   {
+    "name": "toivok3",
+    "title": "IM",
+    "rank": 2,
+    "rating": 2924,
+    "score": 141,
+    "sheet": {
+     "scores": "42224422120204444444442201044444220422110110010030444220444230",
+     "fire": true
+    }
+   },
+   {
+    "name": "Grey_parrot",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3074,
+    "score": 140,
+    "sheet": {
+     "scores": "2204442202120221212024444220442222201202200442204422242204444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Wild-King91",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2997,
+    "score": 133,
+    "sheet": {
+     "scores": "020044331023252202002200201202020220221044222444222444444444422"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3024,
+    "score": 126,
+    "sheet": {
+     "scores": "422244442200423023002020422222020422004220044220422002044444220",
+     "fire": true
+    }
+   },
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 3014,
+    "score": 125,
+    "sheet": {
+     "scores": "4220230304220030442205444544422042203020230002004422004422130",
+     "fire": true
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 7,
+    "rating": 2839,
+    "score": 114,
+    "sheet": {
+     "scores": "3204220024452204422012000220321200422000021202202000044220202444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 8,
+    "rating": 2947,
+    "score": 114,
+    "sheet": {
+     "scores": "03033010320444522022052200220220020220203044444320020302020053202"
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 9,
+    "rating": 2845,
+    "score": 110,
+    "sheet": {
+     "scores": "30042202102220042204444442200002043200300202002113020202042201202204220"
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2882,
+    "score": 108,
+    "sheet": {
+     "scores": "30422020101120202120200442204220244220220002000004442212022022204230030"
+    }
+   }
+  ]
+ },
+ "id": "jan21lta",
+ "createdBy": "lichess",
+ "startsAt": "2021-01-16T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena January '21",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

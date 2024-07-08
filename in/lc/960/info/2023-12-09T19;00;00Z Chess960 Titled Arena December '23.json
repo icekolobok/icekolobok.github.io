@@ -1,0 +1,197 @@
+{
+ "nbPlayers": 268,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "BenjaminBokTwitch",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2573,
+   "score": 105,
+   "nb": {
+    "game": 41,
+    "berserk": 19,
+    "win": 29
+   },
+   "performance": 2619
+  },
+  {
+   "name": "Vladimirovich9000",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2613,
+   "score": 102,
+   "nb": {
+    "game": 31,
+    "berserk": 1,
+    "win": 27
+   },
+   "performance": 2709
+  },
+  {
+   "name": "drop_stone",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2451,
+   "score": 98,
+   "nb": {
+    "game": 45,
+    "berserk": 40,
+    "win": 26
+   },
+   "performance": 2497
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 102111,
+  "averageRating": 2066,
+  "berserks": 955,
+  "blackWins": 603,
+  "games": 1384,
+  "draws": 98,
+  "whiteWins": 683
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "BenjaminBokTwitch",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2573,
+    "score": 105,
+    "sheet": {
+     "scores": "53203204230223200454554543212120031255522",
+     "fire": true
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2613,
+    "score": 102,
+    "sheet": {
+     "scores": "2544444444444444442204444422021"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2451,
+    "score": 98,
+    "sheet": {
+     "scores": "100043303000055331323300033033023305533255422"
+    }
+   },
+   {
+    "name": "SindarovGM",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2551,
+    "score": 88,
+    "sheet": {
+     "scores": "0433044330024444442200442224444220"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2308,
+    "score": 87,
+    "sheet": {
+     "scores": "305444330002300432000000300303255445330103300"
+    }
+   },
+   {
+    "name": "V_M",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2474,
+    "score": 83,
+    "sheet": {
+     "scores": "3030432011303031233053303055330423120321"
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 7,
+    "rating": 2291,
+    "score": 83,
+    "sheet": {
+     "scores": "03030000132444453304330003000003303044332330"
+    }
+   },
+   {
+    "name": "Nizi3",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2404,
+    "score": 78,
+    "sheet": {
+     "scores": "0300330230300332433030533102055230533"
+    }
+   },
+   {
+    "name": "goltsev2000",
+    "title": "FM",
+    "rank": 9,
+    "rating": 2385,
+    "score": 77,
+    "sheet": {
+     "scores": "300013055320205330300003112054554231300"
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2403,
+    "score": 76,
+    "sheet": {
+     "scores": "00044432003002230330030004230020221022002244422"
+    }
+   }
+  ]
+ },
+ "id": "960dec23",
+ "createdBy": "lukhas",
+ "startsAt": "2023-12-09T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena December '23",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/96wdec23)\r\n\r\nJoin the [official Lichess Chess960 team](https://lichess.org/team/lichess-chess960) for news and events",
+ "onlyTitled": true
+}

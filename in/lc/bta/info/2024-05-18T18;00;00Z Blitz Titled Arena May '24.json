@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 461,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2896,
+   "score": 154,
+   "nb": {
+    "game": 51,
+    "berserk": 44,
+    "win": 38
+   },
+   "performance": 3009
+  },
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2852,
+   "score": 140,
+   "nb": {
+    "game": 51,
+    "berserk": 51,
+    "win": 34
+   },
+   "performance": 2865
+  },
+  {
+   "name": "drop_stone",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2826,
+   "score": 130,
+   "nb": {
+    "game": 67,
+    "berserk": 66,
+    "win": 33
+   },
+   "performance": 2807
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 331954,
+  "averageRating": 2459,
+  "berserks": 2885,
+  "blackWins": 1667,
+  "games": 3896,
+  "draws": 345,
+  "whiteWins": 1884
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2896,
+    "score": 154,
+    "sheet": {
+     "scores": "244330301033005320555543300533054555533055553305533"
+    }
+   },
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2852,
+    "score": 140,
+    "sheet": {
+     "scores": "033033255553300005555555332330330005555553300300303"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2826,
+    "score": 130,
+    "sheet": {
+     "scores": "3130033025555533000533033130100031001301003130332553303130100305330"
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "rank": 4,
+    "rating": 2798,
+    "score": 125,
+    "sheet": {
+     "scores": "02331030533033003055330305330300310030313033003030302330255533"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2846,
+    "score": 124,
+    "sheet": {
+     "scores": "01304552303030203000210032055230052310444544232433030533"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2831,
+    "score": 122,
+    "sheet": {
+     "scores": "10032331104544330002300033033233233255330545433000433"
+    }
+   },
+   {
+    "name": "Watneg",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2800,
+    "score": 122,
+    "sheet": {
+     "scores": "533030533100030310555533013011311253303300031030011325332330",
+     "fire": true
+    }
+   },
+   {
+    "name": "Mitrabha",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2722,
+    "score": 114,
+    "sheet": {
+     "scores": "10330301304445330030330003033000003045433030030305330330533000"
+    }
+   },
+   {
+    "name": "handofprince",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2733,
+    "score": 114,
+    "sheet": {
+     "scores": "10000030305533003303303013030003055332331300300533000030055533"
+    }
+   },
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2799,
+    "score": 111,
+    "sheet": {
+     "scores": "0130553303233000000301053325330553303300203011031305330230"
+    }
+   }
+  ]
+ },
+ "id": "may24bta",
+ "createdBy": "cormacobear",
+ "startsAt": "2024-05-18T18:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena May '24",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/may24bua)",
+ "onlyTitled": true
+}

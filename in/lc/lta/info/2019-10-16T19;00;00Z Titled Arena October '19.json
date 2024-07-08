@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 395,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3110,
+   "score": 176,
+   "nb": {
+    "game": 67,
+    "berserk": 0,
+    "win": 53
+   },
+   "performance": 3117
+  },
+  {
+   "name": "Vladimirovich9000",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2822,
+   "score": 126,
+   "nb": {
+    "game": 69,
+    "berserk": 0,
+    "win": 43
+   },
+   "performance": 2942
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2948,
+   "score": 120,
+   "nb": {
+    "game": 61,
+    "berserk": 12,
+    "win": 38
+   },
+   "performance": 2944
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 537080,
+  "averageRating": 2450,
+  "berserks": 340,
+  "blackWins": 2905,
+  "games": 6413,
+  "draws": 390,
+  "whiteWins": 3118
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3110,
+    "score": 176,
+    "sheet": {
+     "scores": "0202222224444444444444422002204444220204220004422044444444422044422"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2822,
+    "score": 126,
+    "sheet": {
+     "scores": "022442200220220020221020021022220210444422120422044220002020444444422"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2948,
+    "score": 120,
+    "sheet": {
+     "scores": "3300000023002042200044444230002020442224422044230442300454221",
+     "fire": true
+    }
+   },
+   {
+    "name": "Federicov93",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2944,
+    "score": 114,
+    "sheet": {
+     "scores": "42201210220222200442200422044444422100201202042202100220242210422",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 5,
+    "rating": 2875,
+    "score": 114,
+    "sheet": {
+     "scores": "30303022200000043200422000220020004444453202020043200452205320202023001"
+    }
+   },
+   {
+    "name": "Eduiturri",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2947,
+    "score": 106,
+    "sheet": {
+     "scores": "2202044444442200212020221044444222422044442202",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2896,
+    "score": 105,
+    "sheet": {
+     "scores": "000204444220220002224422012022020442202021104442202000220242202"
+    }
+   },
+   {
+    "name": "VS99",
+    "title": "FM",
+    "flair": "smileys.smiling-face-with-sunglasses",
+    "patron": true,
+    "rank": 8,
+    "rating": 2878,
+    "score": 103,
+    "sheet": {
+     "scores": "0422024220444422120220102002202112042201202204422244422"
+    }
+   },
+   {
+    "name": "Platy2",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2790,
+    "score": 103,
+    "sheet": {
+     "scores": "2010044220422020204442202020020444220222200042224422020022200"
+    }
+   },
+   {
+    "name": "srinathbaggins",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2750,
+    "score": 102,
+    "sheet": {
+     "scores": "4220442210110044442204220220020220221022000042201022042202022100202",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "oct19lta",
+ "createdBy": "lukhas",
+ "startsAt": "2019-10-16T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena October '19",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

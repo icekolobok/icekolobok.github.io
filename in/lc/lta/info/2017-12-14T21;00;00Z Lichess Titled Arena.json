@@ -1,0 +1,204 @@
+{
+ "nbPlayers": 188,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "DannyTheDonkey",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2500,
+   "score": 141,
+   "nb": {
+    "game": 64,
+    "berserk": 0,
+    "win": 44
+   },
+   "performance": 2918
+  },
+  {
+   "name": "Bombegranate",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2944,
+   "score": 124,
+   "nb": {
+    "game": 67,
+    "berserk": 0,
+    "win": 40
+   },
+   "performance": 2793
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 3,
+   "rating": 2893,
+   "score": 113,
+   "nb": {
+    "game": 60,
+    "berserk": 11,
+    "win": 37
+   },
+   "performance": 2761
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 193572,
+  "averageRating": 2277,
+  "berserks": 136,
+  "blackWins": 1027,
+  "games": 2289,
+  "draws": 118,
+  "whiteWins": 1144
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "DannyTheDonkey",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2500,
+    "score": 141,
+    "sheet": {
+     "scores": "0422222022044221210444422124422102222222001200444444422044442202"
+    }
+   },
+   {
+    "name": "Bombegranate",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2944,
+    "score": 124,
+    "sheet": {
+     "scores": "2000020444422044442200020002204220011244220244442202020224422004220"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 3,
+    "rating": 2893,
+    "score": 113,
+    "sheet": {
+     "scores": "202204230000422044522030022025422052302433000300224442202202"
+    }
+   },
+   {
+    "name": "GeorgMeier",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2500,
+    "score": 111,
+    "sheet": {
+     "scores": "0220010204220202244442204422242202042204221022012044220042202"
+    }
+   },
+   {
+    "name": "TheWarning",
+    "rank": 5,
+    "rating": 2500,
+    "score": 109,
+    "sheet": {
+     "scores": "220220200204422020202000204444220220242200422120022022242302204230",
+     "fire": true
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2708,
+    "score": 106,
+    "sheet": {
+     "scores": "0204422002004442212120220000002202020020022102244444422030422031002"
+    }
+   },
+   {
+    "name": "Pap-G",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2484,
+    "score": 100,
+    "sheet": {
+     "scores": "2020444422102120202442210022002120210042202022020200020204230422002"
+    }
+   },
+   {
+    "name": "jlhammer",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2559,
+    "score": 98,
+    "sheet": {
+     "scores": "02002022000422000020444422020202012422000202202120044444220422"
+    }
+   },
+   {
+    "name": "TwelveTeen",
+    "title": "NM",
+    "rank": 9,
+    "rating": 2628,
+    "score": 98,
+    "sheet": {
+     "scores": "220442200200201200020444442222200022104442202020222004220022",
+     "fire": true
+    }
+   },
+   {
+    "name": "Macrofago",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2517,
+    "score": 96,
+    "sheet": {
+     "scores": "0000423020444220202022002002000000002212020222442202000200204444422"
+    }
+   }
+  ]
+ },
+ "id": "GToVqkC9",
+ "createdBy": "isaacly",
+ "startsAt": "2017-12-14T21:00:00Z",
+ "system": "arena",
+ "fullName": "Lichess Titled Arena",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Restricted prize tourney"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "\r\n[POST-TOURNEY RECAP](https://lichess.org/blog/WjRTPScAAJXo7r5s/magnus-carlsen-wins-the-first-lichess-titled-arena)!\r\n\r\n\r\nStandard arena rules, $1000 prize pool ([details](https://lichess.org/blog/WgtAgSgAABRkEU_x/titled-prize-tournament))\r\nPrizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

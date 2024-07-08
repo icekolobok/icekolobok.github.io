@@ -1,0 +1,206 @@
+{
+ "nbPlayers": 448,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3053,
+   "score": 143,
+   "nb": {
+    "game": 65,
+    "berserk": 4,
+    "win": 44
+   },
+   "performance": 3163
+  },
+  {
+   "name": "ARM-777777",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3026,
+   "score": 129,
+   "nb": {
+    "game": 70,
+    "berserk": 0,
+    "win": 43
+   },
+   "performance": 3069
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3030,
+   "score": 126,
+   "nb": {
+    "game": 65,
+    "berserk": 3,
+    "win": 41
+   },
+   "performance": 3091
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 491390,
+  "averageRating": 2483,
+  "berserks": 763,
+  "blackWins": 2713,
+  "games": 6080,
+  "draws": 359,
+  "whiteWins": 3008
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3053,
+    "score": 143,
+    "sheet": {
+     "scores": "13130020220204220021002444220200444442222202244444444422244422022"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3026,
+    "score": 129,
+    "sheet": {
+     "scores": "0020201004444422004222220444220200200444220442200221004222422044221020"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3030,
+    "score": 126,
+    "sheet": {
+     "scores": "24422010220204444444220200020202044422002121102224220422004443302"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3037,
+    "score": 124,
+    "sheet": {
+     "scores": "03233002202044422044222444221004442201210042200204422004220042202"
+    }
+   },
+   {
+    "name": "Eyesless18",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2932,
+    "score": 120,
+    "sheet": {
+     "scores": "5533000452304443200200021004442200220121212422002300011224222320003200",
+     "fire": true
+    }
+   },
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2927,
+    "score": 118,
+    "sheet": {
+     "scores": "553300305330310313105320033000303005330320300001020000330533001300533",
+     "fire": true
+    }
+   },
+   {
+    "name": "MeneerMandje",
+    "title": "GM",
+    "flair": "objects.basket",
+    "patron": true,
+    "rank": 7,
+    "rating": 2883,
+    "score": 114,
+    "sheet": {
+     "scores": "522030220002442202444555455555555533",
+     "fire": true
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2966,
+    "score": 110,
+    "sheet": {
+     "scores": "303102030212022010120224220220220220220220104422100442202104444422"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2985,
+    "score": 110,
+    "sheet": {
+     "scores": "202204220210001200200202210002021000022220020442200222220020444222444220422"
+    }
+   },
+   {
+    "name": "Watneg",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2962,
+    "score": 110,
+    "sheet": {
+     "scores": "0004444422044422020110020442212422100002444220204220022022022"
+    }
+   }
+  ]
+ },
+ "id": "jun21lta",
+ "createdBy": "lichess",
+ "startsAt": "2021-06-19T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena June '21",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,250 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $750/$250/$125/$75/$50",
+ "onlyTitled": true
+}

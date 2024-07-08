@@ -1,0 +1,205 @@
+{
+ "nbPlayers": 293,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Zaven_ChessMood",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2498,
+   "score": 70,
+   "nb": {
+    "game": 29,
+    "berserk": 1,
+    "win": 21
+   },
+   "performance": 2519
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2302,
+   "score": 62,
+   "nb": {
+    "game": 32,
+    "berserk": 18,
+    "win": 17
+   },
+   "performance": 2329
+  },
+  {
+   "name": "Former_Player",
+   "title": "GM",
+   "flair": "activity.lichess-variant-960",
+   "rank": 3,
+   "rating": 2464,
+   "score": 61,
+   "nb": {
+    "game": 25,
+    "berserk": 1,
+    "win": 19
+   },
+   "performance": 2542
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 116187,
+  "averageRating": 1987,
+  "berserks": 495,
+  "blackWins": 685,
+  "games": 1543,
+  "draws": 136,
+  "whiteWins": 722
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2498,
+    "score": 70,
+    "sheet": {
+     "scores": "22120222224442202444444422012",
+     "fire": true
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2302,
+    "score": 62,
+    "sheet": {
+     "scores": "11055330300310022442200224533002"
+    }
+   },
+   {
+    "name": "Former_Player",
+    "title": "GM",
+    "flair": "activity.lichess-variant-960",
+    "rank": 3,
+    "rating": 2464,
+    "score": 61,
+    "sheet": {
+     "scores": "4422112222044442302224422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Lavrik87",
+    "title": "IM",
+    "flair": "activity.basketball",
+    "rank": 4,
+    "rating": 2172,
+    "score": 61,
+    "sheet": {
+     "scores": "11212442302254230033022223312"
+    }
+   },
+   {
+    "name": "wizard98",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2375,
+    "score": 61,
+    "sheet": {
+     "scores": "2442210122422010024422020002204422"
+    }
+   },
+   {
+    "name": "Raunaksadhwani2005",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2180,
+    "score": 59,
+    "sheet": {
+     "scores": "02433001200120000200200120224444422222"
+    }
+   },
+   {
+    "name": "lenochka18",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2350,
+    "score": 58,
+    "sheet": {
+     "scores": "1204442210220020244444220213"
+    }
+   },
+   {
+    "name": "JseMartinez",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2321,
+    "score": 56,
+    "sheet": {
+     "scores": "0302331300004422024423024330020"
+    }
+   },
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2321,
+    "score": 56,
+    "sheet": {
+     "scores": "005220444220202044320030230303000"
+    }
+   },
+   {
+    "name": "VS99",
+    "title": "FM",
+    "flair": "smileys.smiling-face-with-sunglasses",
+    "patron": true,
+    "rank": 10,
+    "rating": 2295,
+    "score": 53,
+    "sheet": {
+     "scores": "13031024422044221204220422"
+    }
+   }
+  ]
+ },
+ "id": "960sep19",
+ "createdBy": "lukhas",
+ "startsAt": "2019-09-28T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena Sep '19",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

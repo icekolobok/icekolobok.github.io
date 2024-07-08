@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 478,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "BMWHero",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2325,
+   "score": 89,
+   "nb": {
+    "game": 43,
+    "berserk": 16,
+    "win": 25
+   },
+   "performance": 2395
+  },
+  {
+   "name": "FeegLood",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2379,
+   "score": 87,
+   "nb": {
+    "game": 40,
+    "berserk": 17,
+    "win": 24
+   },
+   "performance": 2428
+  },
+  {
+   "name": "caching",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2420,
+   "score": 86,
+   "nb": {
+    "game": 36,
+    "berserk": 16,
+    "win": 24
+   },
+   "performance": 2474
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 204112,
+  "averageRating": 1986,
+  "berserks": 1405,
+  "blackWins": 1202,
+  "games": 2737,
+  "draws": 206,
+  "whiteWins": 1329
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "BMWHero",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2325,
+    "score": 89,
+    "sheet": {
+     "scores": "1044455330230100025230300200044432043224320"
+    }
+   },
+   {
+    "name": "FeegLood",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2379,
+    "score": 87,
+    "sheet": {
+     "scores": "1303044444533002230245220030003054432012"
+    }
+   },
+   {
+    "name": "caching",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2420,
+    "score": 86,
+    "sheet": {
+     "scores": "001044330004444444423030305433044320"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2309,
+    "score": 83,
+    "sheet": {
+     "scores": "2330330053300300013010055330330032005422010423"
+    }
+   },
+   {
+    "name": "C9C9C9C9C9",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2320,
+    "score": 82,
+    "sheet": {
+     "scores": "105533000023023255332330303000003045533000"
+    }
+   },
+   {
+    "name": "samisahi",
+    "title": "IM",
+    "rank": 6,
+    "rating": 2350,
+    "score": 74,
+    "sheet": {
+     "scores": "0305533021003104422001210004422044442200"
+    }
+   },
+   {
+    "name": "enmQ",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2349,
+    "score": 73,
+    "sheet": {
+     "scores": "30444422004220222444422044220022"
+    }
+   },
+   {
+    "name": "Riquelme93",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2352,
+    "score": 73,
+    "sheet": {
+     "scores": "330303053302320202220002054422130004422",
+     "fire": true
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2178,
+    "score": 73,
+    "sheet": {
+     "scores": "000303000300043303030033003003030100010230533004533000"
+    }
+   },
+   {
+    "name": "Konevlad",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2440,
+    "score": 71,
+    "sheet": {
+     "scores": "42222222204444444422002020422021",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "960feb21",
+ "createdBy": "lichess",
+ "startsAt": "2021-02-06T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena February '21",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

@@ -1,0 +1,209 @@
+{
+ "nbPlayers": 353,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 1,
+   "rating": 3063,
+   "score": 163,
+   "nb": {
+    "game": 76,
+    "berserk": 31,
+    "win": 48
+   },
+   "performance": 3158
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3120,
+   "score": 158,
+   "nb": {
+    "game": 73,
+    "berserk": 38,
+    "win": 45
+   },
+   "performance": 3169
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3155,
+   "score": 153,
+   "nb": {
+    "game": 71,
+    "berserk": 27,
+    "win": 47
+   },
+   "performance": 3169
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 415837,
+  "averageRating": 2599,
+  "berserks": 919,
+  "blackWins": 2218,
+  "games": 4943,
+  "draws": 323,
+  "whiteWins": 2402
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 1,
+    "rating": 3063,
+    "score": 163,
+    "sheet": {
+     "scores": "0030545455330433000002003030320023022020000304230523254442204422054445533002"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3120,
+    "score": 158,
+    "sheet": {
+     "scores": "5522030030445330024320230005220000545422010320554320130310203022544330533",
+     "fire": true
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3155,
+    "score": 153,
+    "sheet": {
+     "scores": "30533030533000204544442200320203044220204444522000312044444433022003002"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3161,
+    "score": 143,
+    "sheet": {
+     "scores": "32000042204220022101044220442204444444220042210042224220422044442210022",
+     "fire": true
+    }
+   },
+   {
+    "name": "neslraCsungaM77",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3109,
+    "score": 130,
+    "sheet": {
+     "scores": "224220204423044230120044222422020210000200221022044220020442202204442302"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 6,
+    "rating": 3018,
+    "score": 130,
+    "sheet": {
+     "scores": "31021130000324432004433223033124452310000020020000320000045322422030452203"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3139,
+    "score": 122,
+    "sheet": {
+     "scores": "03222244422000220444444422121000042212422102224320022222033022"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 8,
+    "rating": 3086,
+    "score": 115,
+    "sheet": {
+     "scores": "30330002330300200422030002044422022022002120422044442200020042204423"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 9,
+    "rating": 3108,
+    "score": 114,
+    "sheet": {
+     "scores": "02233005533012442212100304220100221212020101022010442202242204220222"
+    }
+   },
+   {
+    "name": "tamojerry",
+    "title": "FM",
+    "rank": 10,
+    "rating": 3009,
+    "score": 112,
+    "sheet": {
+     "scores": "003205330002300330002053303020001202042210452204220020452210044422"
+    }
+   }
+  ]
+ },
+ "id": "feb24lta",
+ "createdBy": "lichess",
+ "startsAt": "2024-02-24T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena February '24",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/feb24wua)",
+ "onlyTitled": true
+}

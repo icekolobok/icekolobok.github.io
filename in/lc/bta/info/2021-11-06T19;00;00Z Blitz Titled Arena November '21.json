@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 491,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2857,
+   "score": 126,
+   "nb": {
+    "game": 56,
+    "berserk": 56,
+    "win": 34
+   },
+   "performance": 2894
+  },
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2817,
+   "score": 126,
+   "nb": {
+    "game": 57,
+    "berserk": 57,
+    "win": 35
+   },
+   "performance": 2879
+  },
+  {
+   "name": "kyart2",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2914,
+   "score": 122,
+   "nb": {
+    "game": 48,
+    "berserk": 23,
+    "win": 34
+   },
+   "performance": 2987
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 353689,
+  "averageRating": 2504,
+  "berserks": 2432,
+  "blackWins": 1812,
+  "games": 4164,
+  "draws": 348,
+  "whiteWins": 2004
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2857,
+    "score": 126,
+    "sheet": {
+     "scores": "33030330003030533103000555533001055330330553303003305533",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2817,
+    "score": 126,
+    "sheet": {
+     "scores": "533030533033003053305555330303030330000030330310305332533",
+     "fire": true
+    }
+   },
+   {
+    "name": "kyart2",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2914,
+    "score": 122,
+    "sheet": {
+     "scores": "553302253300024533043303020444442200304332444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Heisenberg01",
+    "title": "FM",
+    "rank": 4,
+    "rating": 2849,
+    "score": 122,
+    "sheet": {
+     "scores": "025422000320030422043200100020200544320444453300223054523033"
+    }
+   },
+   {
+    "name": "MahammadMuradli2003",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2729,
+    "score": 122,
+    "sheet": {
+     "scores": "0030005533033003000303302330000005533010003303305555533005533010"
+    }
+   },
+   {
+    "name": "Riquelme93",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2803,
+    "score": 119,
+    "sheet": {
+     "scores": "0020023300300555330330030131300005553303030033000233255533022"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2824,
+    "score": 115,
+    "sheet": {
+     "scores": "330005545553310302303300303003004444331044445330",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 2852,
+    "score": 104,
+    "sheet": {
+     "scores": "300033044542204433132443204332320044330033130"
+    }
+   },
+   {
+    "name": "rob188",
+    "title": "FM",
+    "flair": "smileys.alien",
+    "rank": 9,
+    "rating": 2707,
+    "score": 99,
+    "sheet": {
+     "scores": "02330303303000230305321053322301003105330004330033030232"
+    }
+   },
+   {
+    "name": "MeneerMandje",
+    "title": "GM",
+    "flair": "objects.basket",
+    "patron": true,
+    "rank": 10,
+    "rating": 2718,
+    "score": 98,
+    "sheet": {
+     "scores": "03053303003033100055533003030030330003005330330003002532000"
+    }
+   }
+  ]
+ },
+ "id": "nov21bta",
+ "createdBy": "lichess",
+ "startsAt": "2021-11-06T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena November '21",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

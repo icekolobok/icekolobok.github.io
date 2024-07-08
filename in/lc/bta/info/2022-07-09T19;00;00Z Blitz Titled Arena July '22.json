@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 477,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "SVODMEVKO",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2905,
+   "score": 139,
+   "nb": {
+    "game": 49,
+    "berserk": 45,
+    "win": 35
+   },
+   "performance": 2951
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2968,
+   "score": 137,
+   "nb": {
+    "game": 49,
+    "berserk": 48,
+    "win": 34
+   },
+   "performance": 2904
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2858,
+   "score": 120,
+   "nb": {
+    "game": 52,
+    "berserk": 52,
+    "win": 32
+   },
+   "performance": 2881
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 340004,
+  "averageRating": 2481,
+  "berserks": 2544,
+  "blackWins": 1754,
+  "games": 4024,
+  "draws": 283,
+  "whiteWins": 1987
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2905,
+    "score": 139,
+    "sheet": {
+     "scores": "3311055555331305455330330330303305331030055555523",
+     "fire": true
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2968,
+    "score": 137,
+    "sheet": {
+     "scores": "3254555555533003305320303031305533103055330055331"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2858,
+    "score": 120,
+    "sheet": {
+     "scores": "0313055330032330030555331033053300055330330330055330"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2895,
+    "score": 117,
+    "sheet": {
+     "scores": "3300030330230220220444444544445230555332533",
+     "fire": true
+    }
+   },
+   {
+    "name": "Vetranio",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2738,
+    "score": 115,
+    "sheet": {
+     "scores": "00303300053301103000310003313000533003000233025555533033233232"
+    }
+   },
+   {
+    "name": "DuXiaosu",
+    "title": "CM",
+    "rank": 6,
+    "rating": 2797,
+    "score": 111,
+    "sheet": {
+     "scores": "33030300300302125555555330303000433054230020432033",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2834,
+    "score": 106,
+    "sheet": {
+     "scores": "4443313020220030243304442204444453305331130",
+     "fire": true
+    }
+   },
+   {
+    "name": "Riquelme93",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2758,
+    "score": 103,
+    "sheet": {
+     "scores": "53300533000002003000303300303023003033020030030055523255331",
+     "fire": true
+    }
+   },
+   {
+    "name": "chessm1105",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2692,
+    "score": 100,
+    "sheet": {
+     "scores": "0055330553305330300030000053205330330030003300330030330"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2818,
+    "score": 95,
+    "sheet": {
+     "scores": "03305330053300003030003003030433055331052303031233"
+    }
+   }
+  ]
+ },
+ "id": "jul22bta",
+ "createdBy": "lichess",
+ "startsAt": "2022-07-09T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena July '22",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

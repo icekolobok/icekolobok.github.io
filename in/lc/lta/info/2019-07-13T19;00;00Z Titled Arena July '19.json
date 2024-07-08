@@ -1,0 +1,214 @@
+{
+ "nbPlayers": 332,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3062,
+   "score": 159,
+   "nb": {
+    "game": 66,
+    "berserk": 0,
+    "win": 51
+   },
+   "performance": 3116
+  },
+  {
+   "name": "DrNykterstein",
+   "title": "GM",
+   "flair": "people.santa-claus-light-skin-tone",
+   "patron": true,
+   "rank": 2,
+   "rating": 3063,
+   "score": 157,
+   "nb": {
+    "game": 65,
+    "berserk": 0,
+    "win": 48
+   },
+   "performance": 3092
+  },
+  {
+   "name": "opperwezen",
+   "title": "IM",
+   "flair": "objects.alarm-clock",
+   "patron": true,
+   "rank": 3,
+   "rating": 2973,
+   "score": 129,
+   "nb": {
+    "game": 64,
+    "berserk": 0,
+    "win": 45
+   },
+   "performance": 2984
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 408449,
+  "averageRating": 2415,
+  "berserks": 290,
+  "blackWins": 2203,
+  "games": 4903,
+  "draws": 307,
+  "whiteWins": 2393
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3062,
+    "score": 159,
+    "sheet": {
+     "scores": "444444442204444442202022021020204222422222022044444220444422022222",
+     "fire": true
+    }
+   },
+   {
+    "name": "DrNykterstein",
+    "title": "GM",
+    "flair": "people.santa-claus-light-skin-tone",
+    "patron": true,
+    "rank": 2,
+    "rating": 3063,
+    "score": 157,
+    "sheet": {
+     "scores": "22002104444220444422102224444220202224221020042222224444444444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 3,
+    "rating": 2973,
+    "score": 129,
+    "sheet": {
+     "scores": "2202044422010220204444444422020200204442202200444220204220220422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Boss1005",
+    "title": "IM",
+    "rank": 4,
+    "rating": 2953,
+    "score": 127,
+    "sheet": {
+     "scores": "3042200444422044422044220220422002244220010210422020442202224220"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2920,
+    "score": 124,
+    "sheet": {
+     "scores": "422000022020200220444422022244444220002202200202244444444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "wizard98",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2849,
+    "score": 109,
+    "sheet": {
+     "scores": "03044442204220020002200200102102202444442211000042202020204444220"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2868,
+    "score": 107,
+    "sheet": {
+     "scores": "3002302000030242202042200020012004220442204444442200422022220212"
+    }
+   },
+   {
+    "name": "KAstar",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2819,
+    "score": 103,
+    "sheet": {
+     "scores": "00022230422022024442224422000004422020100302110224444422"
+    }
+   },
+   {
+    "name": "Peacefully",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2868,
+    "score": 102,
+    "sheet": {
+     "scores": "22222244442201202202102004422020220002200444220020220220422002",
+     "fire": true
+    }
+   },
+   {
+    "name": "VS99",
+    "title": "FM",
+    "flair": "smileys.smiling-face-with-sunglasses",
+    "patron": true,
+    "rank": 10,
+    "rating": 2720,
+    "score": 99,
+    "sheet": {
+     "scores": "2000244442202222042222200022244221222002200422044220022"
+    }
+   }
+  ]
+ },
+ "id": "jul19lta",
+ "createdBy": "lukhas",
+ "startsAt": "2019-07-13T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena July '19",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

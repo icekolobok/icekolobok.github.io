@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 290,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3220,
+   "score": 137,
+   "nb": {
+    "game": 65,
+    "berserk": 11,
+    "win": 43
+   },
+   "performance": 3196
+  },
+  {
+   "name": "OhanyanEminChess",
+   "title": "GM",
+   "flair": "symbols.exclamation-question-mark",
+   "rank": 2,
+   "rating": 3113,
+   "score": 133,
+   "nb": {
+    "game": 66,
+    "berserk": 17,
+    "win": 43
+   },
+   "performance": 3212
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 3,
+   "rating": 3081,
+   "score": 124,
+   "nb": {
+    "game": 73,
+    "berserk": 34,
+    "win": 38
+   },
+   "performance": 3082
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 329841,
+  "averageRating": 2571,
+  "berserks": 571,
+  "blackWins": 1755,
+  "games": 3943,
+  "draws": 243,
+  "whiteWins": 1945
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3220,
+    "score": 137,
+    "sheet": {
+     "scores": "10044422242212000020442200442204444422044422002304444331023103202"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 2,
+    "rating": 3113,
+    "score": 133,
+    "sheet": {
+     "scores": "255230023021313045443304220220004221012320220320320220204443204422"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 3,
+    "rating": 3081,
+    "score": 124,
+    "sheet": {
+     "scores": "1000303044320010220000030220433000311023004543302300432033012030555523020"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3185,
+    "score": 123,
+    "sheet": {
+     "scores": "033000210442210204422020202200444230444423010004444445330221"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3007,
+    "score": 113,
+    "sheet": {
+     "scores": "2330030003003002230423004444422044220320010004422044442211200200"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2955,
+    "score": 110,
+    "sheet": {
+     "scores": "022020044442204232220220422002002002022000230442204220220000200442202002"
+    }
+   },
+   {
+    "name": "PeshkaCh",
+    "title": "FM",
+    "rank": 7,
+    "rating": 3003,
+    "score": 109,
+    "sheet": {
+     "scores": "44222442202102004221020212020201122444220200200220042224442202",
+     "fire": true
+    }
+   },
+   {
+    "name": "Platy2",
+    "title": "GM",
+    "rank": 8,
+    "rating": 3027,
+    "score": 108,
+    "sheet": {
+     "scores": "3000442202002200244220423010042202012020200202220022022024220444422"
+    }
+   },
+   {
+    "name": "tamojerry",
+    "title": "FM",
+    "rank": 9,
+    "rating": 2944,
+    "score": 106,
+    "sheet": {
+     "scores": "30055330330522030330000003021020422000300443200010044442202302300"
+    }
+   },
+   {
+    "name": "chess-art-us",
+    "title": "IM",
+    "flair": "smileys.shushing-face",
+    "rank": 10,
+    "rating": 2956,
+    "score": 102,
+    "sheet": {
+     "scores": "120003042200220224442204220204220000523024220022310002003020004331"
+    }
+   }
+  ]
+ },
+ "id": "apr23lta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-04-15T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena April '23",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/apr23wua)",
+ "onlyTitled": true
+}

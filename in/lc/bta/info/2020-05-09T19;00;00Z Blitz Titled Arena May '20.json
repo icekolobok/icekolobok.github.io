@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 1160,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Feokl1995",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2721,
+   "score": 117,
+   "nb": {
+    "game": 64,
+    "berserk": 60,
+    "win": 32
+   },
+   "performance": 2707
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2774,
+   "score": 113,
+   "nb": {
+    "game": 52,
+    "berserk": 40,
+    "win": 29
+   },
+   "performance": 2803
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2763,
+   "score": 107,
+   "nb": {
+    "game": 50,
+    "berserk": 38,
+    "win": 28
+   },
+   "performance": 2772
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 1020707,
+  "averageRating": 2418,
+  "berserks": 5562,
+  "blackWins": 5251,
+  "games": 12119,
+  "draws": 1061,
+  "whiteWins": 5807
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Feokl1995",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2721,
+    "score": 117,
+    "sheet": {
+     "scores": "1010303055331000000330330330023310332533033000532053300005533012"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2774,
+    "score": 113,
+    "sheet": {
+     "scores": "1253305533031130033002433001053310202445523005321033"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2763,
+    "score": 107,
+    "sheet": {
+     "scores": "10253303000555332533030001300131304523052302302532"
+    }
+   },
+   {
+    "name": "wizard98",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2671,
+    "score": 102,
+    "sheet": {
+     "scores": "25555553300002000000300303300022010301103100020244221055330102"
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2769,
+    "score": 101,
+    "sheet": {
+     "scores": "120444444220120212012220202444422244220000220300330310"
+    }
+   },
+   {
+    "name": "Konevlad",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2937,
+    "score": 99,
+    "sheet": {
+     "scores": "04220442212220444422021211100222442224444422"
+    }
+   },
+   {
+    "name": "KBabazada",
+    "title": "FM",
+    "rank": 7,
+    "rating": 2705,
+    "score": 99,
+    "sheet": {
+     "scores": "0201044444444423022201202224443203104230422002"
+    }
+   },
+   {
+    "name": "muisback",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 2712,
+    "score": 99,
+    "sheet": {
+     "scores": "30313100103255330001225553300033001000123302020330204422"
+    }
+   },
+   {
+    "name": "Golubov_Saveliy",
+    "title": "IM",
+    "rank": 9,
+    "rating": 2741,
+    "score": 98,
+    "sheet": {
+     "scores": "13030300022023030003202220222242203000444444444523"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2703,
+    "score": 98,
+    "sheet": {
+     "scores": "0131010100022442210220252222222210025320013031003300030433030121"
+    }
+   }
+  ]
+ },
+ "id": "may20bta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-05-09T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena May '20",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 261,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "DrNykterstein",
+   "title": "GM",
+   "flair": "people.santa-claus-light-skin-tone",
+   "patron": true,
+   "rank": 1,
+   "rating": 2739,
+   "score": 98,
+   "nb": {
+    "game": 36,
+    "berserk": 0,
+    "win": 30
+   },
+   "performance": 2666
+  },
+  {
+   "name": "Jasugi99",
+   "title": "NM",
+   "rank": 2,
+   "rating": 2377,
+   "score": 80,
+   "nb": {
+    "game": 34,
+    "berserk": 0,
+    "win": 25
+   },
+   "performance": 2375
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 3,
+   "rating": 2370,
+   "score": 78,
+   "nb": {
+    "game": 42,
+    "berserk": 11,
+    "win": 25
+   },
+   "performance": 2406
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 172612,
+  "averageRating": 2015,
+  "berserks": 187,
+  "blackWins": 1035,
+  "games": 2264,
+  "draws": 150,
+  "whiteWins": 1079
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "DrNykterstein",
+    "title": "GM",
+    "flair": "people.santa-claus-light-skin-tone",
+    "patron": true,
+    "rank": 1,
+    "rating": 2739,
+    "score": 98,
+    "sheet": {
+     "scores": "442204422022244422042224444422244422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 2,
+    "rating": 2377,
+    "score": 80,
+    "sheet": {
+     "scores": "4442204442204444422000022004444220",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 3,
+    "rating": 2370,
+    "score": 78,
+    "sheet": {
+     "scores": "000232002000052302200444220544444231202202"
+    }
+   },
+   {
+    "name": "Watneg",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2528,
+    "score": 76,
+    "sheet": {
+     "scores": "42202202042224422044422042202002044220",
+     "fire": true
+    }
+   },
+   {
+    "name": "Boss1005",
+    "title": "IM",
+    "rank": 5,
+    "rating": 2508,
+    "score": 75,
+    "sheet": {
+     "scores": "04422242212004442204222444422022"
+    }
+   },
+   {
+    "name": "TerryR2",
+    "title": "IM",
+    "rank": 6,
+    "rating": 2431,
+    "score": 75,
+    "sheet": {
+     "scores": "1224220044221022204220442204422012022112"
+    }
+   },
+   {
+    "name": "GeorgMeier",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2431,
+    "score": 69,
+    "sheet": {
+     "scores": "24422020004442224221011204442202121"
+    }
+   },
+   {
+    "name": "PaulfromSPb",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2280,
+    "score": 69,
+    "sheet": {
+     "scores": "442200442202000221042200212020442200002020002302",
+     "fire": true
+    }
+   },
+   {
+    "name": "JseMartinez",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2458,
+    "score": 68,
+    "sheet": {
+     "scores": "1104220210122202244422022002044442202"
+    }
+   },
+   {
+    "name": "Eduiturri",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2382,
+    "score": 66,
+    "sheet": {
+     "scores": "10444220422242212000200112244422022"
+    }
+   }
+  ]
+ },
+ "id": "960mar19",
+ "createdBy": "lukhas",
+ "startsAt": "2019-03-27T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena Mar '19",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 120,
+  "increment": 1
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,500 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "hippoBullet"
+ },
+ "description": "Prizes: $1000/$250/$125/$75/$50",
+ "onlyTitled": true
+}

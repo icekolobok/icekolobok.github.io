@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 748,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2774,
+   "score": 146,
+   "nb": {
+    "game": 58,
+    "berserk": 56,
+    "win": 39
+   },
+   "performance": 2843
+  },
+  {
+   "name": "Inventing_Invention",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2778,
+   "score": 142,
+   "nb": {
+    "game": 56,
+    "berserk": 37,
+    "win": 37
+   },
+   "performance": 2855
+  },
+  {
+   "name": "Feokl1995",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2725,
+   "score": 128,
+   "nb": {
+    "game": 62,
+    "berserk": 62,
+    "win": 34
+   },
+   "performance": 2684
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 599973,
+  "averageRating": 2401,
+  "berserks": 4462,
+  "blackWins": 3078,
+  "games": 7078,
+  "draws": 585,
+  "whiteWins": 3415
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2774,
+    "score": 146,
+    "sheet": {
+     "scores": "3303030200303053303030055555533033055330053325533033055330",
+     "fire": true
+    }
+   },
+   {
+    "name": "Inventing_Invention",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2778,
+    "score": 142,
+    "sheet": {
+     "scores": "52305433000023100302442304545455533045433244532003310031",
+     "fire": true
+    }
+   },
+   {
+    "name": "Feokl1995",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2725,
+    "score": 128,
+    "sheet": {
+     "scores": "01003005331300330053300000330003030330555330030305555555330033"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2699,
+    "score": 117,
+    "sheet": {
+     "scores": "3030055533003300005330002023245433233004422104444422"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2648,
+    "score": 112,
+    "sheet": {
+     "scores": "0322454444330233030030313030033000131303001030300255230330030"
+    }
+   },
+   {
+    "name": "kyart2",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2772,
+    "score": 108,
+    "sheet": {
+     "scores": "0330445331200220222422244220442200220005432053303310"
+    }
+   },
+   {
+    "name": "LyinTed",
+    "rank": 7,
+    "rating": 2688,
+    "score": 108,
+    "sheet": {
+     "scores": "0002020305552325543305330000055330033031033005533"
+    }
+   },
+   {
+    "name": "Fandorine96",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2696,
+    "score": 107,
+    "sheet": {
+     "scores": "55554220030003300323200005330003103300000533003310055533",
+     "fire": true
+    }
+   },
+   {
+    "name": "Grey_parrot",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2751,
+    "score": 105,
+    "sheet": {
+     "scores": "5320322210220032444554423022331210003025444221",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2670,
+    "score": 103,
+    "sheet": {
+     "scores": "053300310000003300300053303300313030300303055533055330033000"
+    }
+   }
+  ]
+ },
+ "id": "aug20bta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-08-08T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena August '20",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

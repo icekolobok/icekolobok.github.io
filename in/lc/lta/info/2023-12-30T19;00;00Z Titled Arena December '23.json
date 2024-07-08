@@ -1,0 +1,206 @@
+{
+ "nbPlayers": 369,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Arka50",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3149,
+   "score": 124,
+   "nb": {
+    "game": 65,
+    "berserk": 0,
+    "win": 41
+   },
+   "performance": 3134
+  },
+  {
+   "name": "AngelitoRT",
+   "title": "IM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3048,
+   "score": 118,
+   "nb": {
+    "game": 65,
+    "berserk": 1,
+    "win": 37
+   },
+   "performance": 3148
+  },
+  {
+   "name": "SindarovGM",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3054,
+   "score": 116,
+   "nb": {
+    "game": 59,
+    "berserk": 0,
+    "win": 38
+   },
+   "performance": 3087
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 433675,
+  "averageRating": 2614,
+  "berserks": 793,
+  "blackWins": 2339,
+  "games": 5165,
+  "draws": 312,
+  "whiteWins": 2514
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3149,
+    "score": 124,
+    "sheet": {
+     "scores": "44444220422004444442200204220022022002044422111200020042210044220",
+     "fire": true
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3048,
+    "score": 118,
+    "sheet": {
+     "scores": "01202212422022110002020224422002044221012002102242224221244444422"
+    }
+   },
+   {
+    "name": "SindarovGM",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3054,
+    "score": 116,
+    "sheet": {
+     "scores": "20044444220220444220000000224442202442200442204220020442202"
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "rank": 4,
+    "rating": 3041,
+    "score": 116,
+    "sheet": {
+     "scores": "32230302000444422222042201203032023002022200200422022442210204433"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 5,
+    "rating": 3043,
+    "score": 115,
+    "sheet": {
+     "scores": "3030000442200100022002020012044220000000544522120443300204423032004532"
+    }
+   },
+   {
+    "name": "MeneerMandje",
+    "title": "GM",
+    "flair": "objects.basket",
+    "patron": true,
+    "rank": 6,
+    "rating": 2956,
+    "score": 114,
+    "sheet": {
+     "scores": "320200200031044220044230300010330000220200330020202200452202021204444220300003",
+     "fire": true
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3112,
+    "score": 111,
+    "sheet": {
+     "scores": "31002200054230302202202020120444422043203002024220245433002022"
+    }
+   },
+   {
+    "name": "samisahi",
+    "title": "IM",
+    "rank": 8,
+    "rating": 3034,
+    "score": 111,
+    "sheet": {
+     "scores": "02444220200002202010044442204221212022004422004221200004422022221200"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 9,
+    "rating": 3087,
+    "score": 110,
+    "sheet": {
+     "scores": "000022222012102202202022020220044444444422104220444220042212"
+    }
+   },
+   {
+    "name": "h1kk1",
+    "title": "FM",
+    "rank": 10,
+    "rating": 2879,
+    "score": 108,
+    "sheet": {
+     "scores": "2444422020423003010252210045230200100202000200204432020200020220042212"
+    }
+   }
+  ]
+ },
+ "id": "dec23lta",
+ "createdBy": "lukhas",
+ "startsAt": "2023-12-30T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena December '23",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/OBrNdCgV)",
+ "onlyTitled": true
+}

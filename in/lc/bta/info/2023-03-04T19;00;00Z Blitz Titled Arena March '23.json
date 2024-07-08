@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 453,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "nihalsarin2004",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2959,
+   "score": 140,
+   "nb": {
+    "game": 56,
+    "berserk": 49,
+    "win": 35
+   },
+   "performance": 2972
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2886,
+   "score": 126,
+   "nb": {
+    "game": 57,
+    "berserk": 56,
+    "win": 32
+   },
+   "performance": 2884
+  },
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2930,
+   "score": 120,
+   "nb": {
+    "game": 50,
+    "berserk": 45,
+    "win": 32
+   },
+   "performance": 2976
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 359198,
+  "averageRating": 2477,
+  "berserks": 2724,
+  "blackWins": 1837,
+  "games": 4200,
+  "draws": 340,
+  "whiteWins": 2023
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2959,
+    "score": 140,
+    "sheet": {
+     "scores": "53300555555533053303303300110533002433025330331033253301",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2886,
+    "score": 126,
+    "sheet": {
+     "scores": "305555555330552305330300330310253300030033003003110312331"
+    }
+   },
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2930,
+    "score": 120,
+    "sheet": {
+     "scores": "33233033003055331003032555330130023033130330555533",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2870,
+    "score": 114,
+    "sheet": {
+     "scores": "55330310300030555330033053303105555555533",
+     "fire": true
+    }
+   },
+   {
+    "name": "Hooligan64",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2908,
+    "score": 113,
+    "sheet": {
+     "scores": "053303311200454230312453310305230303303033003255330"
+    }
+   },
+   {
+    "name": "Mitrabha",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2727,
+    "score": 109,
+    "sheet": {
+     "scores": "330000000003055330330233043300533030300105553305533032",
+     "fire": true
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2843,
+    "score": 108,
+    "sheet": {
+     "scores": "3030000330005443300523045331023045433000302020444422"
+    }
+   },
+   {
+    "name": "hansontwitch",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2837,
+    "score": 107,
+    "sheet": {
+     "scores": "03303033055330303004422044533030533103033005433"
+    }
+   },
+   {
+    "name": "athena-pallada",
+    "title": "GM",
+    "flair": "nature.fire",
+    "rank": 9,
+    "rating": 2877,
+    "score": 104,
+    "sheet": {
+     "scores": "0553310310533003300300053310000003030022300120444442224221"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2846,
+    "score": 101,
+    "sheet": {
+     "scores": "030300031100030042204455230003324442323303023005433"
+    }
+   }
+  ]
+ },
+ "id": "mar23bta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-03-04T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena March '23",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/mar23bua) ",
+ "onlyTitled": true
+}

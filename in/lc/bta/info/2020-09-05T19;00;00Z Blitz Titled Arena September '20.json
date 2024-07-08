@@ -1,0 +1,206 @@
+{
+ "nbPlayers": 772,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2819,
+   "score": 125,
+   "nb": {
+    "game": 46,
+    "berserk": 39,
+    "win": 31
+   },
+   "performance": 2865
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 2,
+   "rating": 2762,
+   "score": 125,
+   "nb": {
+    "game": 50,
+    "berserk": 31,
+    "win": 34
+   },
+   "performance": 2834
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2760,
+   "score": 123,
+   "nb": {
+    "game": 52,
+    "berserk": 52,
+    "win": 31
+   },
+   "performance": 2764
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 635382,
+  "averageRating": 2385,
+  "berserks": 4569,
+  "blackWins": 3280,
+  "games": 7551,
+  "draws": 639,
+  "whiteWins": 3632
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2819,
+    "score": 125,
+    "sheet": {
+     "scores": "0532255330213253301100330554533125533053305523"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 2,
+    "rating": 2762,
+    "score": 125,
+    "sheet": {
+     "scores": "25554330230220030055422105532023232055331130045523"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2760,
+    "score": 123,
+    "sheet": {
+     "scores": "1300553305330003325533005555533130000330055533000330"
+    }
+   },
+   {
+    "name": "Leon_Livaic",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2638,
+    "score": 116,
+    "sheet": {
+     "scores": "2444533233022310243300300533003303033000300304444330303"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2823,
+    "score": 109,
+    "sheet": {
+     "scores": "044423044422022044222522021010330222444422025330"
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2701,
+    "score": 105,
+    "sheet": {
+     "scores": "30303110444452300433013004422102300002445230330020000233"
+    }
+   },
+   {
+    "name": "Abdisalimov",
+    "title": "IM",
+    "rank": 7,
+    "rating": 2658,
+    "score": 104,
+    "sheet": {
+     "scores": "320444423120020122230220300200422044554533004432",
+     "fire": true
+    }
+   },
+   {
+    "name": "yesaiedo",
+    "title": "IM",
+    "rank": 8,
+    "rating": 2565,
+    "score": 103,
+    "sheet": {
+     "scores": "305553300023000023053300553300302043303300320330020233"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 9,
+    "rating": 2740,
+    "score": 101,
+    "sheet": {
+     "scores": "304533122300453313100002300523045542311104523"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2655,
+    "score": 101,
+    "sheet": {
+     "scores": "0030000003033003033130305553310000313055330330553300003300"
+    }
+   }
+  ]
+ },
+ "id": "sep20bta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-09-05T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena September '20",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

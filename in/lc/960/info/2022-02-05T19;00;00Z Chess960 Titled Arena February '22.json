@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 388,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2442,
+   "score": 97,
+   "nb": {
+    "game": 43,
+    "berserk": 39,
+    "win": 26
+   },
+   "performance": 2492
+  },
+  {
+   "name": "Vladimirovich9000",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2524,
+   "score": 93,
+   "nb": {
+    "game": 36,
+    "berserk": 3,
+    "win": 28
+   },
+   "performance": 2593
+  },
+  {
+   "name": "Jasugi99",
+   "title": "NM",
+   "rank": 3,
+   "rating": 2281,
+   "score": 89,
+   "nb": {
+    "game": 48,
+    "berserk": 48,
+    "win": 24
+   },
+   "performance": 2290
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 164117,
+  "averageRating": 2037,
+  "berserks": 909,
+  "blackWins": 980,
+  "games": 2197,
+  "draws": 147,
+  "whiteWins": 1070
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2442,
+    "score": 97,
+    "sheet": {
+     "scores": "0305533252300303303254320130533003253310330"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2524,
+    "score": 93,
+    "sheet": {
+     "scores": "444221004444422020422044444523044220",
+     "fire": true
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 3,
+    "rating": 2281,
+    "score": 89,
+    "sheet": {
+     "scores": "000055533005330303300105330305331053303000300031"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 4,
+    "rating": 2422,
+    "score": 82,
+    "sheet": {
+     "scores": "244220444444442204422042200000044220"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2347,
+    "score": 81,
+    "sheet": {
+     "scores": "00301003223033003031043202113005454423005330"
+    }
+   },
+   {
+    "name": "BlueGreensun",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2297,
+    "score": 76,
+    "sheet": {
+     "scores": "033005533033030302002301303300330330304330"
+    }
+   },
+   {
+    "name": "Chessfis",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2447,
+    "score": 74,
+    "sheet": {
+     "scores": "302444220442201200204442204444220"
+    }
+   },
+   {
+    "name": "may6enexttime",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2425,
+    "score": 72,
+    "sheet": {
+     "scores": "53300553300432044220220210422042210",
+     "fire": true
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 9,
+    "rating": 2386,
+    "score": 69,
+    "sheet": {
+     "scores": "3310204442300001210000202212020044444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2309,
+    "score": 69,
+    "sheet": {
+     "scores": "02323303023302223003300030000204423003000303300"
+    }
+   }
+  ]
+ },
+ "id": "960feb22",
+ "createdBy": "lichess",
+ "startsAt": "2022-02-05T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena February '22",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

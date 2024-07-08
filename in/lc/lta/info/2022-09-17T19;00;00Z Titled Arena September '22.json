@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 375,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3187,
+   "score": 177,
+   "nb": {
+    "game": 63,
+    "berserk": 2,
+    "win": 52
+   },
+   "performance": 3355
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 2,
+   "rating": 3078,
+   "score": 129,
+   "nb": {
+    "game": 75,
+    "berserk": 30,
+    "win": 43
+   },
+   "performance": 3074
+  },
+  {
+   "name": "SVODMEVKO",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3059,
+   "score": 123,
+   "nb": {
+    "game": 69,
+    "berserk": 14,
+    "win": 41
+   },
+   "performance": 3076
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 449138,
+  "averageRating": 2537,
+  "berserks": 931,
+  "blackWins": 2375,
+  "games": 5367,
+  "draws": 336,
+  "whiteWins": 2656
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3187,
+    "score": 177,
+    "sheet": {
+     "scores": "220444444444442204422044221210220444444422004221204444444454432",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 2,
+    "rating": 3078,
+    "score": 129,
+    "sheet": {
+     "scores": "303300422000330210130202200023044423020423003030202020022044544330045230300"
+    }
+   },
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3059,
+    "score": 123,
+    "sheet": {
+     "scores": "320422042202100021204444422120044220320224320020020045221003033010432",
+     "fire": true
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3128,
+    "score": 120,
+    "sheet": {
+     "scores": "4422020220444422022020212002122200202044422044222422004444220",
+     "fire": true
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 5,
+    "rating": 3065,
+    "score": 115,
+    "sheet": {
+     "scores": "1301044220004422120220120242203042204220444444221200022044220"
+    }
+   },
+   {
+    "name": "toivok3",
+    "title": "IM",
+    "rank": 6,
+    "rating": 2981,
+    "score": 114,
+    "sheet": {
+     "scores": "13104220444220010030200000000444432000042200020444422021000423022004422"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2930,
+    "score": 114,
+    "sheet": {
+     "scores": "00030230000000304230454230444220005330301030300300005533030003053303"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 8,
+    "rating": 3012,
+    "score": 112,
+    "sheet": {
+     "scores": "5231045220220004220221304220200200022020422222020210444221244220",
+     "fire": true
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 9,
+    "rating": 3103,
+    "score": 110,
+    "sheet": {
+     "scores": "0330000020031030124230105533033100233055555555533"
+    }
+   },
+   {
+    "name": "JungleViking",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2960,
+    "score": 110,
+    "sheet": {
+     "scores": "104220020044220202004422022202202103301311003002023002200202202002002020002444220"
+    }
+   }
+  ]
+ },
+ "id": "sep22lta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2022-09-17T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena September '22",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

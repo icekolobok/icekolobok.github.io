@@ -1,0 +1,199 @@
+{
+ "nbPlayers": 413,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Grey_parrot",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2564,
+   "score": 96,
+   "nb": {
+    "game": 32,
+    "berserk": 0,
+    "win": 27
+   },
+   "performance": 2620
+  },
+  {
+   "name": "FeegLood",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2415,
+   "score": 85,
+   "nb": {
+    "game": 39,
+    "berserk": 20,
+    "win": 24
+   },
+   "performance": 2459
+  },
+  {
+   "name": "neslraCsungaM77",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2276,
+   "score": 77,
+   "nb": {
+    "game": 47,
+    "berserk": 45,
+    "win": 22
+   },
+   "performance": 2244
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 168708,
+  "averageRating": 1999,
+  "berserks": 1231,
+  "blackWins": 1020,
+  "games": 2294,
+  "draws": 159,
+  "whiteWins": 1115
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Grey_parrot",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2564,
+    "score": 96,
+    "sheet": {
+     "scores": "21044444444444442204422104444422"
+    }
+   },
+   {
+    "name": "FeegLood",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2415,
+    "score": 85,
+    "sheet": {
+     "scores": "004433100230023005444452303300024444230"
+    }
+   },
+   {
+    "name": "neslraCsungaM77",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2276,
+    "score": 77,
+    "sheet": {
+     "scores": "03000300303303300553302330103303323300300310013"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2351,
+    "score": 76,
+    "sheet": {
+     "scores": "12004442300020302005445533000444422"
+    }
+   },
+   {
+    "name": "LastGladiator2",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2290,
+    "score": 76,
+    "sheet": {
+     "scores": "23303033030533005330003003001313000000055532"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2353,
+    "score": 73,
+    "sheet": {
+     "scores": "3005330300003000055330004230204445522"
+    }
+   },
+   {
+    "name": "Afisky",
+    "title": "NM",
+    "rank": 7,
+    "rating": 2341,
+    "score": 70,
+    "sheet": {
+     "scores": "444444220204220444444220220",
+     "fire": true
+    }
+   },
+   {
+    "name": "sp1cycaterpillar",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2427,
+    "score": 69,
+    "sheet": {
+     "scores": "3312022044444444444220202022",
+     "fire": true
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2453,
+    "score": 67,
+    "sheet": {
+     "scores": "3244422100444320044444422"
+    }
+   },
+   {
+    "name": "funny_chess",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2359,
+    "score": 67,
+    "sheet": {
+     "scores": "204444422012022102110444221044220"
+    }
+   }
+  ]
+ },
+ "id": "960jun21",
+ "createdBy": "lichess",
+ "startsAt": "2021-06-05T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena June '21",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

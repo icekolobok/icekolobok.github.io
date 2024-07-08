@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 252,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2402,
+   "score": 93,
+   "nb": {
+    "game": 45,
+    "berserk": 24,
+    "win": 28
+   },
+   "performance": 2456
+  },
+  {
+   "name": "Arka50",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2400,
+   "score": 87,
+   "nb": {
+    "game": 39,
+    "berserk": 8,
+    "win": 26
+   },
+   "performance": 2467
+  },
+  {
+   "name": "yoseph2013",
+   "title": "IM",
+   "flair": "objects.alarm-clock",
+   "rank": 3,
+   "rating": 2284,
+   "score": 80,
+   "nb": {
+    "game": 43,
+    "berserk": 35,
+    "win": 22
+   },
+   "performance": 2264
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 85009,
+  "averageRating": 2076,
+  "berserks": 626,
+  "blackWins": 564,
+  "games": 1206,
+  "draws": 73,
+  "whiteWins": 569
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2402,
+    "score": 93,
+    "sheet": {
+     "scores": "301312003004231023032044330544230545230020223"
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2400,
+    "score": 87,
+    "sheet": {
+     "scores": "304222542313044454544220020422010200221"
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "rank": 3,
+    "rating": 2284,
+    "score": 80,
+    "sheet": {
+     "scores": "0324230545553301300000033030005330030030330"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2409,
+    "score": 78,
+    "sheet": {
+     "scores": "20044423104232423043312230423022023002"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 5,
+    "rating": 2369,
+    "score": 75,
+    "sheet": {
+     "scores": "3131000444433030303113044230030020523003"
+    }
+   },
+   {
+    "name": "Vetranio",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2104,
+    "score": 70,
+    "sheet": {
+     "scores": "05330300030200303000030030025533030003000533003100"
+    }
+   },
+   {
+    "name": "kapaccino",
+    "title": "IM",
+    "rank": 7,
+    "rating": 2241,
+    "score": 68,
+    "sheet": {
+     "scores": "033005330320002033001010032002303053300423030"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2272,
+    "score": 67,
+    "sheet": {
+     "scores": "00453300000010302310030005543310030045330"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2528,
+    "score": 66,
+    "sheet": {
+     "scores": "0054422244422222122444422"
+    }
+   },
+   {
+    "name": "Rikikits",
+    "title": "GM",
+    "flair": "people.man-shrugging-light-skin-tone",
+    "rank": 10,
+    "rating": 2303,
+    "score": 64,
+    "sheet": {
+     "scores": "00330233102000303003005533030553303"
+    }
+   }
+  ]
+ },
+ "id": "960aug23",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-08-05T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena August '23",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/96waug23)\r\n\r\nJoin the [official Lichess Chess960 team](https://lichess.org/team/lichess-chess960) for news and events",
+ "onlyTitled": true
+}

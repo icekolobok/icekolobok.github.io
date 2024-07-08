@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 328,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3139,
+   "score": 141,
+   "nb": {
+    "game": 64,
+    "berserk": 32,
+    "win": 39
+   },
+   "performance": 3126
+  },
+  {
+   "name": "junglebook1",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3118,
+   "score": 135,
+   "nb": {
+    "game": 62,
+    "berserk": 1,
+    "win": 42
+   },
+   "performance": 3211
+  },
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3117,
+   "score": 129,
+   "nb": {
+    "game": 66,
+    "berserk": 13,
+    "win": 40
+   },
+   "performance": 3136
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 364183,
+  "averageRating": 2593,
+  "berserks": 886,
+  "blackWins": 2024,
+  "games": 4450,
+  "draws": 270,
+  "whiteWins": 2156
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3139,
+    "score": 141,
+    "sheet": {
+     "scores": "1243303030230000330445222444230100020302032444330312220555553303"
+    }
+   },
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3118,
+    "score": 135,
+    "sheet": {
+     "scores": "04423000204444220020024442204444422020200210422244444422042212"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3117,
+    "score": 129,
+    "sheet": {
+     "scores": "121022044442302444442222300200020200004220542300122442204222331032"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3068,
+    "score": 126,
+    "sheet": {
+     "scores": "52200024320432000445320002020231242303000042313054232220000302044432",
+     "fire": true
+    }
+   },
+   {
+    "name": "MatthewG-p4p",
+    "title": "IM",
+    "flair": "smileys.beaming-face-with-smiling-eyes",
+    "patron": true,
+    "rank": 5,
+    "rating": 3063,
+    "score": 122,
+    "sheet": {
+     "scores": "10444552200022002302202202031200012045454442203045555330"
+    }
+   },
+   {
+    "name": "Amin_____tb",
+    "title": "GM",
+    "flair": "nature.waxing-gibbous-moon",
+    "rank": 6,
+    "rating": 3044,
+    "score": 120,
+    "sheet": {
+     "scores": "3010020442202312002042304453303300200320230000005220022422000444320422"
+    }
+   },
+   {
+    "name": "Katarina0TP",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 3015,
+    "score": 117,
+    "sheet": {
+     "scores": "0020444230100230312000442200024444444230030442212255432"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 8,
+    "rating": 3087,
+    "score": 112,
+    "sheet": {
+     "scores": "030330045330221000020121020020042212044220021222122422101022222444220"
+    }
+   },
+   {
+    "name": "Bardyk01",
+    "title": "FM",
+    "rank": 9,
+    "rating": 2956,
+    "score": 112,
+    "sheet": {
+     "scores": "110300330220102202000130300054444432100203000203033102030002020000055433022020"
+    }
+   },
+   {
+    "name": "vovaches",
+    "title": "CM",
+    "flair": "activity.lichess-blitz",
+    "rank": 10,
+    "rating": 3012,
+    "score": 111,
+    "sheet": {
+     "scores": "22044220242202000201000224220202001222044442200044422024442203",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "jan24lta",
+ "createdBy": "lichess",
+ "startsAt": "2024-01-27T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena January '24",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jan24wua)",
+ "onlyTitled": true
+}

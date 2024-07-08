@@ -1,0 +1,212 @@
+{
+ "nbPlayers": 580,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2989,
+   "score": 132,
+   "nb": {
+    "game": 64,
+    "berserk": 6,
+    "win": 41
+   },
+   "performance": 3047
+  },
+  {
+   "name": "Inventing_Invention",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3008,
+   "score": 121,
+   "nb": {
+    "game": 64,
+    "berserk": 3,
+    "win": 41
+   },
+   "performance": 2986
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 3,
+   "rating": 2980,
+   "score": 117,
+   "nb": {
+    "game": 69,
+    "berserk": 27,
+    "win": 39
+   },
+   "performance": 2922
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 706611,
+  "averageRating": 2425,
+  "berserks": 1191,
+  "blackWins": 3741,
+  "games": 8362,
+  "draws": 544,
+  "whiteWins": 4077
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2989,
+    "score": 132,
+    "sheet": {
+     "scores": "0304422000003112002030202224442204442200212020044444442224444422"
+    }
+   },
+   {
+    "name": "Inventing_Invention",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3008,
+    "score": 121,
+    "sheet": {
+     "scores": "2442202202020010202204422004422044422000200042304422044444320202"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 3,
+    "rating": 2980,
+    "score": 117,
+    "sheet": {
+     "scores": "553310022020200423010220422042301202301302022522003203030313023233030",
+     "fire": true
+    }
+   },
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3049,
+    "score": 116,
+    "sheet": {
+     "scores": "022044220120220224422021002020222442222202120044444445422"
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2981,
+    "score": 116,
+    "sheet": {
+     "scores": "4220222204230220442204220220200004444422000212022202200444422002",
+     "fire": true
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 6,
+    "rating": 2839,
+    "score": 115,
+    "sheet": {
+     "scores": "04230220242202020244320000422003202044422030020220001021200443300020042212"
+    }
+   },
+   {
+    "name": "Shant7777777",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2906,
+    "score": 111,
+    "sheet": {
+     "scores": "3302222101202020220220200202220020102124422004444444422020224221",
+     "fire": true
+    }
+   },
+   {
+    "name": "BMWHero",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 2879,
+    "score": 110,
+    "sheet": {
+     "scores": "22042200220222221044444220222021200002010202422000442204444221",
+     "fire": true
+    }
+   },
+   {
+    "name": "Chopper1905",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2827,
+    "score": 110,
+    "sheet": {
+     "scores": "442200004422022000000442202000422044222220444220221200024220422100",
+     "fire": true
+    }
+   },
+   {
+    "name": "dmitrij_IM",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2891,
+    "score": 109,
+    "sheet": {
+     "scores": "02044422112104220042202020202204220422100202022222422020104222220022"
+    }
+   }
+  ]
+ },
+ "id": "nov20lta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-11-21T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena November '20",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

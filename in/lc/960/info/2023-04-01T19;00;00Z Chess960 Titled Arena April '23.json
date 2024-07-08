@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 284,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "neslraCsungaM77",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2440,
+   "score": 118,
+   "nb": {
+    "game": 47,
+    "berserk": 38,
+    "win": 30
+   },
+   "performance": 2503
+  },
+  {
+   "name": "Hooligan64",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2461,
+   "score": 91,
+   "nb": {
+    "game": 38,
+    "berserk": 38,
+    "win": 24
+   },
+   "performance": 2520
+  },
+  {
+   "name": "Riquelme93",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2505,
+   "score": 88,
+   "nb": {
+    "game": 30,
+    "berserk": 3,
+    "win": 25
+   },
+   "performance": 2690
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 111818,
+  "averageRating": 2075,
+  "berserks": 923,
+  "blackWins": 700,
+  "games": 1526,
+  "draws": 109,
+  "whiteWins": 717
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "neslraCsungaM77",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2440,
+    "score": 118,
+    "sheet": {
+     "scores": "54444220000330055330000055555332330301303245533",
+     "fire": true
+    }
+   },
+   {
+    "name": "Hooligan64",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2461,
+    "score": 91,
+    "sheet": {
+     "scores": "03030013030303303055553300533255533033"
+    }
+   },
+   {
+    "name": "Riquelme93",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2505,
+    "score": 88,
+    "sheet": {
+     "scores": "044444330204444444444220224422"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2356,
+    "score": 88,
+    "sheet": {
+     "scores": "53203310305330001053313001032555330030005330",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zubrrr",
+    "title": "IM",
+    "rank": 5,
+    "rating": 2485,
+    "score": 83,
+    "sheet": {
+     "scores": "4444444230000053300130000310330310055533",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2424,
+    "score": 82,
+    "sheet": {
+     "scores": "330130545433102033103003005433030054230",
+     "fire": true
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2491,
+    "score": 81,
+    "sheet": {
+     "scores": "044320422100032454422022054444220220"
+    }
+   },
+   {
+    "name": "Inventing_Invention",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2496,
+    "score": 80,
+    "sheet": {
+     "scores": "0555320330532044445544433"
+    }
+   },
+   {
+    "name": "caching",
+    "title": "GM",
+    "patron": true,
+    "rank": 9,
+    "rating": 2330,
+    "score": 79,
+    "sheet": {
+     "scores": "030303305330031003000033030303030053300300053300033"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2387,
+    "score": 78,
+    "sheet": {
+     "scores": "1000030304330433052300004330444533103022"
+    }
+   }
+  ]
+ },
+ "id": "960apr23",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-04-01T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena April '23",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/96wapr23)\r\n\r\nJoin the official [Lichess Chess960 team](https://lichess.org/team/lichess-chess960) for news and events",
+ "onlyTitled": true
+}

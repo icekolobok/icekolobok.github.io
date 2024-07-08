@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 400,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Hooligan64",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2940,
+   "score": 169,
+   "nb": {
+    "game": 55,
+    "berserk": 46,
+    "win": 39
+   },
+   "performance": 2991
+  },
+  {
+   "name": "tamojerry",
+   "title": "FM",
+   "rank": 2,
+   "rating": 2702,
+   "score": 128,
+   "nb": {
+    "game": 55,
+    "berserk": 53,
+    "win": 35
+   },
+   "performance": 2767
+  },
+  {
+   "name": "junglebook1",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2948,
+   "score": 124,
+   "nb": {
+    "game": 46,
+    "berserk": 35,
+    "win": 32
+   },
+   "performance": 2957
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 309680,
+  "averageRating": 2473,
+  "berserks": 3025,
+  "blackWins": 1620,
+  "games": 3685,
+  "draws": 298,
+  "whiteWins": 1767
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Hooligan64",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2940,
+    "score": 169,
+    "sheet": {
+     "scores": "2555555533033103233001255554544330533110204332555545330"
+    }
+   },
+   {
+    "name": "tamojerry",
+    "title": "FM",
+    "rank": 2,
+    "rating": 2702,
+    "score": 128,
+    "sheet": {
+     "scores": "3004330455553303300533030300553303033033055533033001030"
+    }
+   },
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2948,
+    "score": 124,
+    "sheet": {
+     "scores": "0310033030533025544533023205533044552300554432"
+    }
+   },
+   {
+    "name": "SindarovGM",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2778,
+    "score": 124,
+    "sheet": {
+     "scores": "5553303303000103033055330331300300230253312332330303025331",
+     "fire": true
+    }
+   },
+   {
+    "name": "Eyesless18",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2750,
+    "score": 123,
+    "sheet": {
+     "scores": "533030004523023023301053305331003025433130330433002300033031030",
+     "fire": true
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 6,
+    "rating": 2719,
+    "score": 119,
+    "sheet": {
+     "scores": "01110301055545553303003003300003303130303055453300055330"
+    }
+   },
+   {
+    "name": "dimochka_tsoi",
+    "title": "FM",
+    "rank": 7,
+    "rating": 2716,
+    "score": 119,
+    "sheet": {
+     "scores": "130013030003002332330300300312330305553303300013010303301303032332331"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 2774,
+    "score": 114,
+    "sheet": {
+     "scores": "330030255533101300054442300003033130533043300555330",
+     "fire": true
+    }
+   },
+   {
+    "name": "NeonAssassin777",
+    "title": "IM",
+    "rank": 9,
+    "rating": 2639,
+    "score": 111,
+    "sheet": {
+     "scores": "100020000423001300043305330000033030331053305330053303000553300303"
+    }
+   },
+   {
+    "name": "yanekirillshubin",
+    "title": "IM",
+    "rank": 10,
+    "rating": 2667,
+    "score": 110,
+    "sheet": {
+     "scores": "0533130030033013130533000300000033053301000103302330330001300032553300"
+    }
+   }
+  ]
+ },
+ "id": "nov23bta",
+ "createdBy": "lukhas",
+ "startsAt": "2023-11-11T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena November '23",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/nov23bua) ",
+ "onlyTitled": true
+}

@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 1093,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "manwithavan",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3092,
+   "score": 152,
+   "nb": {
+    "game": 66,
+    "berserk": 2,
+    "win": 47
+   },
+   "performance": 3172
+  },
+  {
+   "name": "avalongamemaster",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2969,
+   "score": 139,
+   "nb": {
+    "game": 67,
+    "berserk": 0,
+    "win": 45
+   },
+   "performance": 3083
+  },
+  {
+   "name": "Konevlad",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2955,
+   "score": 133,
+   "nb": {
+    "game": 66,
+    "berserk": 0,
+    "win": 43
+   },
+   "performance": 3110
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 1543319,
+  "averageRating": 2448,
+  "berserks": 1295,
+  "blackWins": 8301,
+  "games": 18672,
+  "draws": 1318,
+  "whiteWins": 9053
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "manwithavan",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3092,
+    "score": 152,
+    "sheet": {
+     "scores": "244442212021202024444422022002210244422044444444221200220422044422"
+    }
+   },
+   {
+    "name": "avalongamemaster",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2969,
+    "score": 139,
+    "sheet": {
+     "scores": "2200104220242200444220444422121042200422042200242200444442204442202",
+     "fire": true
+    }
+   },
+   {
+    "name": "Konevlad",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2955,
+    "score": 133,
+    "sheet": {
+     "scores": "200120022202444442202220202022200202044220444220422044442222224422"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 4,
+    "rating": 3078,
+    "score": 124,
+    "sheet": {
+     "scores": "105444230032032000322204423121010000202020220020202042203012000054444432022"
+    }
+   },
+   {
+    "name": "Sasha",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3011,
+    "score": 121,
+    "sheet": {
+     "scores": "244220222120220224444221022100102242210422222020204444221042212"
+    }
+   },
+   {
+    "name": "Inventing_Invention",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2921,
+    "score": 120,
+    "sheet": {
+     "scores": "1202000100242204444444422120020200422000422044422020220444422012"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2960,
+    "score": 119,
+    "sheet": {
+     "scores": "4222445320020220220021204422022104220220422002020442212422022004220",
+     "fire": true
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2986,
+    "score": 119,
+    "sheet": {
+     "scores": "20020020200444220000022004444442202200200030220422004422004422004442202"
+    }
+   },
+   {
+    "name": "Golubov_Saveliy",
+    "title": "IM",
+    "rank": 9,
+    "rating": 2898,
+    "score": 117,
+    "sheet": {
+     "scores": "300244232532000201000024220100222204422222000020202202244422124422022"
+    }
+   },
+   {
+    "name": "VS99",
+    "title": "FM",
+    "flair": "smileys.smiling-face-with-sunglasses",
+    "patron": true,
+    "rank": 10,
+    "rating": 2854,
+    "score": 117,
+    "sheet": {
+     "scores": "0444442200020442200444221020044422001044220242201224422020002"
+    }
+   }
+  ]
+ },
+ "id": "apr20lta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-04-25T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena April '20",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n[View recap blog post](https://lichess.org/blog/XqSs7BIAACEAo0Ki/star-studded-struggle-sees-supremacy-secured)",
+ "onlyTitled": true
+}

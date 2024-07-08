@@ -1,0 +1,200 @@
+{
+ "nbPlayers": 354,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3100,
+   "score": 156,
+   "nb": {
+    "game": 61,
+    "berserk": 0,
+    "win": 45
+   },
+   "performance": 3127
+  },
+  {
+   "name": "Watneg",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2986,
+   "score": 126,
+   "nb": {
+    "game": 66,
+    "berserk": 0,
+    "win": 42
+   },
+   "performance": 2991
+  },
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2972,
+   "score": 123,
+   "nb": {
+    "game": 60,
+    "berserk": 0,
+    "win": 41
+   },
+   "performance": 3022
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 441133,
+  "averageRating": 2494,
+  "berserks": 183,
+  "blackWins": 2287,
+  "games": 5246,
+  "draws": 352,
+  "whiteWins": 2607
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3100,
+    "score": 156,
+    "sheet": {
+     "scores": "2022244220020020004444444444444444442201202102422044444444422"
+    }
+   },
+   {
+    "name": "Watneg",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2986,
+    "score": 126,
+    "sheet": {
+     "scores": "044444220044442202422044221212002102211020442200422122220220422020"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2972,
+    "score": 123,
+    "sheet": {
+     "scores": "444220044444220442204442200042202010202020202202200044444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2973,
+    "score": 123,
+    "sheet": {
+     "scores": "30001004444220002444220104220004444442200422044444220422022"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2990,
+    "score": 107,
+    "sheet": {
+     "scores": "12020122220020202444422022224442304220222212000202120444220"
+    }
+   },
+   {
+    "name": "Heisenberg01",
+    "title": "FM",
+    "rank": 6,
+    "rating": 2879,
+    "score": 105,
+    "sheet": {
+     "scores": "0102000044220204444220202100444422001002204444220022004220102120"
+    }
+   },
+   {
+    "name": "dhoine98",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2923,
+    "score": 102,
+    "sheet": {
+     "scores": "444444422002221022000202202020020102044422000021212120444221",
+     "fire": true
+    }
+   },
+   {
+    "name": "NeverEnough",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2913,
+    "score": 97,
+    "sheet": {
+     "scores": "222200200012044220202002204442200121022100202104444442202022"
+    }
+   },
+   {
+    "name": "FrostWyrm",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2890,
+    "score": 97,
+    "sheet": {
+     "scores": "24221202202042202000044220042200022024422022002201112044221202"
+    }
+   },
+   {
+    "name": "TitledWolf",
+    "rank": 10,
+    "rating": 2820,
+    "score": 97,
+    "sheet": {
+     "scores": "10444220442300102204220202002010022032010442210002300000012044422"
+    }
+   }
+  ]
+ },
+ "id": "dec19lta",
+ "createdBy": "lukhas",
+ "startsAt": "2019-12-14T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena December '19",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

@@ -1,0 +1,211 @@
+{
+ "nbPlayers": 414,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3159,
+   "score": 138,
+   "nb": {
+    "game": 60,
+    "berserk": 5,
+    "win": 43
+   },
+   "performance": 3218
+  },
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3109,
+   "score": 120,
+   "nb": {
+    "game": 62,
+    "berserk": 0,
+    "win": 40
+   },
+   "performance": 3157
+  },
+  {
+   "name": "MatthewG-p4p",
+   "title": "IM",
+   "flair": "smileys.beaming-face-with-smiling-eyes",
+   "patron": true,
+   "rank": 3,
+   "rating": 3028,
+   "score": 117,
+   "nb": {
+    "game": 58,
+    "berserk": 1,
+    "win": 38
+   },
+   "performance": 3117
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 497936,
+  "averageRating": 2557,
+  "berserks": 620,
+  "blackWins": 2717,
+  "games": 5990,
+  "draws": 334,
+  "whiteWins": 2939
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3159,
+    "score": 138,
+    "sheet": {
+     "scores": "220422020422020204220104444444442302442204444230312244432002",
+     "fire": true
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3109,
+    "score": 120,
+    "sheet": {
+     "scores": "10442200444444422102022020004442200422002022000442204442204220"
+    }
+   },
+   {
+    "name": "MatthewG-p4p",
+    "title": "IM",
+    "flair": "smileys.beaming-face-with-smiling-eyes",
+    "patron": true,
+    "rank": 3,
+    "rating": 3028,
+    "score": 117,
+    "sheet": {
+     "scores": "2444222442204422002242212000004442222202102020220444230422"
+    }
+   },
+   {
+    "name": "Hooligan64",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3062,
+    "score": 117,
+    "sheet": {
+     "scores": "220012022000044422020210444220444444230004432020000000204230052200320",
+     "fire": true
+    }
+   },
+   {
+    "name": "CleverTacticButFail",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3043,
+    "score": 114,
+    "sheet": {
+     "scores": "000302202023244230003000442202000042202042202220004422042302052204422"
+    }
+   },
+   {
+    "name": "neslraCsungaM77",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3069,
+    "score": 113,
+    "sheet": {
+     "scores": "22200220220044220442200222202002220422001222212002222042200204444230"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 3086,
+    "score": 113,
+    "sheet": {
+     "scores": "3300444220202212042200202021200044422020422020042204422002204230310",
+     "fire": true
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 3009,
+    "score": 110,
+    "sheet": {
+     "scores": "00210200020100242200242204442202204220202042200422020000444422000220422"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 9,
+    "rating": 3081,
+    "score": 109,
+    "sheet": {
+     "scores": "03304230012000220020022000220444444222422021204220204444422"
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 10,
+    "rating": 3039,
+    "score": 108,
+    "sheet": {
+     "scores": "553310300030001000042202200020300020004442200202204220044423002044422",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "jan23lta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-01-21T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena January '23",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jan23wua)",
+ "onlyTitled": true
+}

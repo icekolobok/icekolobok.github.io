@@ -1,0 +1,206 @@
+{
+ "nbPlayers": 518,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Riquelme93",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2822,
+   "score": 141,
+   "nb": {
+    "game": 61,
+    "berserk": 60,
+    "win": 36
+   },
+   "performance": 2922
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2876,
+   "score": 133,
+   "nb": {
+    "game": 59,
+    "berserk": 59,
+    "win": 35
+   },
+   "performance": 2913
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2901,
+   "score": 125,
+   "nb": {
+    "game": 53,
+    "berserk": 38,
+    "win": 33
+   },
+   "performance": 2951
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 412583,
+  "averageRating": 2492,
+  "berserks": 3038,
+  "blackWins": 2198,
+  "games": 4882,
+  "draws": 377,
+  "whiteWins": 2307
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Riquelme93",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2822,
+    "score": 141,
+    "sheet": {
+     "scores": "3233030000553305533103030130553303303003300003253325555533130"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2876,
+    "score": 133,
+    "sheet": {
+     "scores": "02330032330003033010305555553300330330553301030305533053303"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2901,
+    "score": 125,
+    "sheet": {
+     "scores": "30030003044533010131303303055533033033244554445230310"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2824,
+    "score": 105,
+    "sheet": {
+     "scores": "03031301001303013005553303300033033030305330320253303033"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 5,
+    "rating": 2886,
+    "score": 103,
+    "sheet": {
+     "scores": "455230220422245532003003131303302013000002304443302",
+     "fire": true
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2766,
+    "score": 103,
+    "sheet": {
+     "scores": "03102304433000330030033000300330310330330003255330001305330103"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2741,
+    "score": 99,
+    "sheet": {
+     "scores": "2330454330003030003030030200253300030533030300005553301000"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2897,
+    "score": 98,
+    "sheet": {
+     "scores": "1324320032000422022320020444545231030303302025231"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 9,
+    "rating": 2842,
+    "score": 97,
+    "sheet": {
+     "scores": "300330305330330533002003302000522043300454331233"
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2885,
+    "score": 95,
+    "sheet": {
+     "scores": "0013042300331011204230302523001002002030423004444532031"
+    }
+   }
+  ]
+ },
+ "id": "oct22bta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2022-10-01T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena October '22",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

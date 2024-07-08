@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 579,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3037,
+   "score": 146,
+   "nb": {
+    "game": 64,
+    "berserk": 9,
+    "win": 42
+   },
+   "performance": 3088
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3028,
+   "score": 125,
+   "nb": {
+    "game": 67,
+    "berserk": 5,
+    "win": 41
+   },
+   "performance": 3036
+  },
+  {
+   "name": "MeneerMandje",
+   "title": "GM",
+   "flair": "objects.basket",
+   "patron": true,
+   "rank": 3,
+   "rating": 2897,
+   "score": 125,
+   "nb": {
+    "game": 74,
+    "berserk": 24,
+    "win": 41
+   },
+   "performance": 2865
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 641430,
+  "averageRating": 2463,
+  "berserks": 1033,
+  "blackWins": 3475,
+  "games": 7801,
+  "draws": 470,
+  "whiteWins": 3856
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3037,
+    "score": 146,
+    "sheet": {
+     "scores": "1010130444220442202004444422004220000454444442200004444330444331"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3028,
+    "score": 125,
+    "sheet": {
+     "scores": "2012002130244442202120444422001202000020220444422042200454220300422"
+    }
+   },
+   {
+    "name": "MeneerMandje",
+    "title": "GM",
+    "flair": "objects.basket",
+    "patron": true,
+    "rank": 3,
+    "rating": 2897,
+    "score": 125,
+    "sheet": {
+     "scores": "12122453201002200554433044230202202042300102204220300000203202104230033012"
+    }
+   },
+   {
+    "name": "toivok3",
+    "title": "IM",
+    "rank": 4,
+    "rating": 2966,
+    "score": 123,
+    "sheet": {
+     "scores": "2312000204442200000201020004422010221200004442202002202024444444444330",
+     "fire": true
+    }
+   },
+   {
+    "name": "Praggnanandhaachess",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2948,
+    "score": 117,
+    "sheet": {
+     "scores": "1120442212000120104444220202210442200104422222000422042202020444220"
+    }
+   },
+   {
+    "name": "Inventing_Invention",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3011,
+    "score": 116,
+    "sheet": {
+     "scores": "0302020220442200220442202020202002000444320022044422042303020553300"
+    }
+   },
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 3030,
+    "score": 115,
+    "sheet": {
+     "scores": "11210432032103042302102020200204422244442200224454444230"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2992,
+    "score": 115,
+    "sheet": {
+     "scores": "0200301210202020422042200202202004220202210022002204444220102002022442204422"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 9,
+    "rating": 2894,
+    "score": 114,
+    "sheet": {
+     "scores": "02042202104220220001020244422022044220021324422042201000102003300231004220"
+    }
+   },
+   {
+    "name": "wizard98",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2897,
+    "score": 113,
+    "sheet": {
+     "scores": "202022220042200044442210220422020442202021001002000422042304220025330"
+    }
+   }
+  ]
+ },
+ "id": "may21lta",
+ "createdBy": "lichess",
+ "startsAt": "2021-05-22T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena May '21",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,750 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $1250/$250/$125/$75/$50",
+ "onlyTitled": true
+}

@@ -1,0 +1,105 @@
+.chart-container3 {
+    width: 100%; /* Set your desired width */
+    height: 750px; /* Set your desired height */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.chart-container5 {
+    width: 100%; /* Set your desired width */
+    height: 1300px; /* Set your desired height */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.chart-container8 {
+    width: 100%; /* Set your desired width */
+    height: 1750px; /* Set your desired height */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.chart-containerf {
+    width: 100%; /* Set your desired width */
+    height: 11400px; /* Set your desired height */
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.chart-containerp {
+    width: 100%; /* Set your desired width */
+    height: 700px; /* Set your desired height */
+    overflow-x: auto;
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.chart-containerb {
+    width: 100%; /* Set your desired width */
+    height: 850px; /* Set your desired height */
+    overflow-x: auto;
+    overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.chart-title {
+    text-align: center; /* Center the title */
+    margin-bottom: 10px; /* Add space between the title and the chart */
+}
+
+
+.chart-url {
+    text-align: center; /* Center the URL */
+    vertical-align: middle;
+    color: blue; /* Style the URL */
+    text-decoration: none; /* Remove underline from the URL */
+}
+
+.chart-url:focus, .chart-url:active {
+    outline: none; /* Ensure no outline is added on focus or active state */
+    border: none; /* Ensure no border is added on focus or active state */
+}
+
+.note {
+    text-align: center; /* Center the URL */
+}
+
+.header-table {
+    width: 30%;
+    text-align: center;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.top-table {
+    width: 10%;
+    text-align: center;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+    justify-content: center;
+    align-items: center;
+  }
+
+a {
+    display: inline-block; /* Ensure the link has a consistent display property */
+}
+
+body {
+    justify-content: center;
+    align-items: center;
+}
+
+
+.ta {
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    text-decoration-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(0, 173, 131, 0.01);
+}

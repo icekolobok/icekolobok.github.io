@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 325,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 1,
+   "rating": 2412,
+   "score": 92,
+   "nb": {
+    "game": 47,
+    "berserk": 32,
+    "win": 26
+   },
+   "performance": 2470
+  },
+  {
+   "name": "Hooligan64",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2428,
+   "score": 83,
+   "nb": {
+    "game": 43,
+    "berserk": 34,
+    "win": 24
+   },
+   "performance": 2446
+  },
+  {
+   "name": "Mlchael",
+   "title": "IM",
+   "rank": 3,
+   "rating": 2429,
+   "score": 78,
+   "nb": {
+    "game": 38,
+    "berserk": 8,
+    "win": 23
+   },
+   "performance": 2469
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 132688,
+  "averageRating": 2080,
+  "berserks": 940,
+  "blackWins": 775,
+  "games": 1753,
+  "draws": 153,
+  "whiteWins": 825
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 1,
+    "rating": 2412,
+    "score": 92,
+    "sheet": {
+     "scores": "12533120232423000104230030000023030330555330533"
+    }
+   },
+   {
+    "name": "Hooligan64",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2428,
+    "score": 83,
+    "sheet": {
+     "scores": "0533100003302023303033110433053313053303032"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 3,
+    "rating": 2429,
+    "score": 78,
+    "sheet": {
+     "scores": "24230244220444423030423042210010042301"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2483,
+    "score": 76,
+    "sheet": {
+     "scores": "13030000332330423033022244433103304320"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2494,
+    "score": 75,
+    "sheet": {
+     "scores": "02444552322204444442200202202022"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2418,
+    "score": 75,
+    "sheet": {
+     "scores": "3003022043300443300203033244331303100033"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2410,
+    "score": 73,
+    "sheet": {
+     "scores": "30032433003102004455321300533002004230"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 2392,
+    "score": 70,
+    "sheet": {
+     "scores": "0023303020554543300042300553300000030"
+    }
+   },
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2379,
+    "score": 68,
+    "sheet": {
+     "scores": "0533000003233243300331302330300053302"
+    }
+   },
+   {
+    "name": "Konevlad",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2584,
+    "score": 67,
+    "sheet": {
+     "scores": "22444444422104220224422222"
+    }
+   }
+  ]
+ },
+ "id": "960feb23",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-02-04T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena February '23",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/96wfeb23)",
+ "onlyTitled": true
+}

@@ -1,0 +1,952 @@
+[
+    {
+        "w": "Anton_Demchenko",
+        "b": "Malev212",
+        "r": 0
+    },
+    {
+        "w": "ItalianMachine",
+        "b": "Noukii",
+        "r": 0
+    },
+    {
+        "w": "ChadaevNikolay",
+        "b": "Tirantes",
+        "r": 1
+    },
+    {
+        "w": "Tesla17",
+        "b": "Dlugy",
+        "r": 0
+    },
+    {
+        "w": "AlexanderL",
+        "b": "Goala",
+        "r": 1
+    },
+    {
+        "w": "Viaje",
+        "b": "DanielNaroditsky",
+        "r": 0
+    },
+    {
+        "w": "E-Shaposhnikov",
+        "b": "kikydu96",
+        "r": 0
+    },
+    {
+        "w": "AdrianaNikolova",
+        "b": "jcibarra",
+        "r": 0
+    },
+    {
+        "w": "Aygehovit1992",
+        "b": "spirals5",
+        "r": 1
+    },
+    {
+        "w": "wanyaland",
+        "b": "Boryboy",
+        "r": 0
+    },
+    {
+        "w": "DeviatkinAndrey",
+        "b": "WanderingPuppet",
+        "r": 1
+    },
+    {
+        "w": "Penguininja",
+        "b": "Izoria123",
+        "r": 0
+    },
+    {
+        "w": "LePlusMortel",
+        "b": "Kanthecarowin",
+        "r": 1
+    },
+    {
+        "w": "ZEN-22",
+        "b": "GrigorGrigorov",
+        "r": 1
+    },
+    {
+        "w": "Cryptochess",
+        "b": "Thomaslegend",
+        "r": 2
+    },
+    {
+        "w": "Alliswell998",
+        "b": "Sadovsky_Artem",
+        "r": 0
+    },
+    {
+        "w": "SerGo055",
+        "b": "kharposh",
+        "r": 1
+    },
+    {
+        "w": "jcgs1030",
+        "b": "simplerXiao",
+        "r": 2
+    },
+    {
+        "w": "ErnestoGuevaraLynch",
+        "b": "gauranga",
+        "r": 2
+    },
+    {
+        "w": "chesstatour",
+        "b": "fastestmindalive",
+        "r": 0
+    },
+    {
+        "w": "ArnaudovP",
+        "b": "ilmago",
+        "r": 0
+    },
+    {
+        "w": "saraswathii",
+        "b": "Fh2411",
+        "r": 2
+    },
+    {
+        "w": "TheLancer",
+        "b": "steinitz_attack",
+        "r": 1
+    },
+    {
+        "w": "Shivagami",
+        "b": "MMSANCHEZ",
+        "r": 0
+    },
+    {
+        "w": "Noukii",
+        "b": "LePlusMortel",
+        "r": 1
+    },
+    {
+        "w": "Sadovsky_Artem",
+        "b": "ChadaevNikolay",
+        "r": 1
+    },
+    {
+        "w": "Dlugy",
+        "b": "Izoria123",
+        "r": 2
+    },
+    {
+        "w": "AlexanderL",
+        "b": "SerGo055",
+        "r": 0
+    },
+    {
+        "w": "DanielNaroditsky",
+        "b": "DeviatkinAndrey",
+        "r": 2
+    },
+    {
+        "w": "jcibarra",
+        "b": "fastestmindalive",
+        "r": 1
+    },
+    {
+        "w": "Boryboy",
+        "b": "Aygehovit1992",
+        "r": 1
+    },
+    {
+        "w": "kikydu96",
+        "b": "TheLancer",
+        "r": 0
+    },
+    {
+        "w": "MMSANCHEZ",
+        "b": "ZEN-22",
+        "r": 0
+    },
+    {
+        "w": "Malev212",
+        "b": "ilmago",
+        "r": 1
+    },
+    {
+        "w": "Cryptochess",
+        "b": "jcgs1030",
+        "r": 1
+    },
+    {
+        "w": "simplerXiao",
+        "b": "Thomaslegend",
+        "r": 1
+    },
+    {
+        "w": "Fh2411",
+        "b": "ErnestoGuevaraLynch",
+        "r": 1
+    },
+    {
+        "w": "gauranga",
+        "b": "saraswathii",
+        "r": 0
+    },
+    {
+        "w": "spirals5",
+        "b": "Anton_Demchenko",
+        "r": 2
+    },
+    {
+        "w": "E-Shaposhnikov",
+        "b": "wanyaland",
+        "r": 0
+    },
+    {
+        "w": "GrigorGrigorov",
+        "b": "AdrianaNikolova",
+        "r": 2
+    },
+    {
+        "w": "WanderingPuppet",
+        "b": "ArnaudovP",
+        "r": 2
+    },
+    {
+        "w": "ItalianMachine",
+        "b": "Viaje",
+        "r": 1
+    },
+    {
+        "w": "Tirantes",
+        "b": "Penguininja",
+        "r": 1
+    },
+    {
+        "w": "Kanthecarowin",
+        "b": "Tesla17",
+        "r": 1
+    },
+    {
+        "w": "Alliswell998",
+        "b": "chesstatour",
+        "r": 2
+    },
+    {
+        "w": "kharposh",
+        "b": "steinitz_attack",
+        "r": 1
+    },
+    {
+        "w": "Noukii",
+        "b": "SerGo055",
+        "r": 1
+    },
+    {
+        "w": "jcibarra",
+        "b": "TheLancer",
+        "r": 1
+    },
+    {
+        "w": "Boryboy",
+        "b": "Sadovsky_Artem",
+        "r": 2
+    },
+    {
+        "w": "Malev212",
+        "b": "ZEN-22",
+        "r": 1
+    },
+    {
+        "w": "Dlugy",
+        "b": "Cryptochess",
+        "r": 1
+    },
+    {
+        "w": "DanielNaroditsky",
+        "b": "simplerXiao",
+        "r": 1
+    },
+    {
+        "w": "Izoria123",
+        "b": "DeviatkinAndrey",
+        "r": 2
+    },
+    {
+        "w": "Fh2411",
+        "b": "ChadaevNikolay",
+        "r": 0
+    },
+    {
+        "w": "saraswathii",
+        "b": "AlexanderL",
+        "r": 0
+    },
+    {
+        "w": "Aygehovit1992",
+        "b": "kikydu96",
+        "r": 1
+    },
+    {
+        "w": "LePlusMortel",
+        "b": "wanyaland",
+        "r": 0
+    },
+    {
+        "w": "fastestmindalive",
+        "b": "Tirantes",
+        "r": 1
+    },
+    {
+        "w": "MMSANCHEZ",
+        "b": "Kanthecarowin",
+        "r": 1
+    },
+    {
+        "w": "kharposh",
+        "b": "ItalianMachine",
+        "r": 2
+    },
+    {
+        "w": "ilmago",
+        "b": "Shivagami",
+        "r": 0
+    },
+    {
+        "w": "Anton_Demchenko",
+        "b": "WanderingPuppet",
+        "r": 1
+    },
+    {
+        "w": "Thomaslegend",
+        "b": "GrigorGrigorov",
+        "r": 0
+    },
+    {
+        "w": "ErnestoGuevaraLynch",
+        "b": "spirals5",
+        "r": 1
+    },
+    {
+        "w": "ArnaudovP",
+        "b": "Alliswell998",
+        "r": 0
+    },
+    {
+        "w": "AdrianaNikolova",
+        "b": "jcgs1030",
+        "r": 1
+    },
+    {
+        "w": "gauranga",
+        "b": "chesstatour",
+        "r": 0
+    },
+    {
+        "w": "Viaje",
+        "b": "E-Shaposhnikov",
+        "r": 1
+    },
+    {
+        "w": "Tesla17",
+        "b": "Penguininja",
+        "r": 0
+    },
+    {
+        "w": "Noukii",
+        "b": "Malev212",
+        "r": 1
+    },
+    {
+        "w": "jcibarra",
+        "b": "Dlugy",
+        "r": 0
+    },
+    {
+        "w": "Sadovsky_Artem",
+        "b": "DanielNaroditsky",
+        "r": 1
+    },
+    {
+        "w": "ChadaevNikolay",
+        "b": "Boryboy",
+        "r": 0
+    },
+    {
+        "w": "fastestmindalive",
+        "b": "AlexanderL",
+        "r": 0
+    },
+    {
+        "w": "TheLancer",
+        "b": "Aygehovit1992",
+        "r": 0
+    },
+    {
+        "w": "DeviatkinAndrey",
+        "b": "SerGo055",
+        "r": 0
+    },
+    {
+        "w": "Izoria123",
+        "b": "MMSANCHEZ",
+        "r": 1
+    },
+    {
+        "w": "wanyaland",
+        "b": "Shivagami",
+        "r": 1
+    },
+    {
+        "w": "ZEN-22",
+        "b": "Anton_Demchenko",
+        "r": 1
+    },
+    {
+        "w": "GrigorGrigorov",
+        "b": "ItalianMachine",
+        "r": 1
+    },
+    {
+        "w": "Cryptochess",
+        "b": "AdrianaNikolova",
+        "r": 1
+    },
+    {
+        "w": "simplerXiao",
+        "b": "Fh2411",
+        "r": 0
+    },
+    {
+        "w": "ErnestoGuevaraLynch",
+        "b": "Alliswell998",
+        "r": 1
+    },
+    {
+        "w": "kharposh",
+        "b": "saraswathii",
+        "r": 1
+    },
+    {
+        "w": "chesstatour",
+        "b": "LePlusMortel",
+        "r": 0
+    },
+    {
+        "w": "Tirantes",
+        "b": "Kanthecarowin",
+        "r": 1
+    },
+    {
+        "w": "Penguininja",
+        "b": "Viaje",
+        "r": 1
+    },
+    {
+        "w": "kikydu96",
+        "b": "ilmago",
+        "r": 1
+    },
+    {
+        "w": "Thomaslegend",
+        "b": "ArnaudovP",
+        "r": 0
+    },
+    {
+        "w": "spirals5",
+        "b": "jcgs1030",
+        "r": 1
+    },
+    {
+        "w": "WanderingPuppet",
+        "b": "gauranga",
+        "r": 1
+    },
+    {
+        "w": "Dlugy",
+        "b": "Noukii",
+        "r": 1
+    },
+    {
+        "w": "Boryboy",
+        "b": "AlexanderL",
+        "r": 2
+    },
+    {
+        "w": "Sadovsky_Artem",
+        "b": "jcibarra",
+        "r": 2
+    },
+    {
+        "w": "Aygehovit1992",
+        "b": "Malev212",
+        "r": 2
+    },
+    {
+        "w": "Izoria123",
+        "b": "wanyaland",
+        "r": 0
+    },
+    {
+        "w": "SerGo055",
+        "b": "ZEN-22",
+        "r": 2
+    },
+    {
+        "w": "DanielNaroditsky",
+        "b": "ErnestoGuevaraLynch",
+        "r": 2
+    },
+    {
+        "w": "GrigorGrigorov",
+        "b": "Fh2411",
+        "r": 1
+    },
+    {
+        "w": "ChadaevNikolay",
+        "b": "Cryptochess",
+        "r": 2
+    },
+    {
+        "w": "DeviatkinAndrey",
+        "b": "kharposh",
+        "r": 1
+    },
+    {
+        "w": "LePlusMortel",
+        "b": "Tirantes",
+        "r": 1
+    },
+    {
+        "w": "fastestmindalive",
+        "b": "kikydu96",
+        "r": 2
+    },
+    {
+        "w": "TheLancer",
+        "b": "MMSANCHEZ",
+        "r": 0
+    },
+    {
+        "w": "Penguininja",
+        "b": "Anton_Demchenko",
+        "r": 0
+    },
+    {
+        "w": "simplerXiao",
+        "b": "spirals5",
+        "r": 1
+    },
+    {
+        "w": "ArnaudovP",
+        "b": "AdrianaNikolova",
+        "r": 1
+    },
+    {
+        "w": "ItalianMachine",
+        "b": "WanderingPuppet",
+        "r": 1
+    },
+    {
+        "w": "Alliswell998",
+        "b": "saraswathii",
+        "r": 1
+    },
+    {
+        "w": "chesstatour",
+        "b": "Tesla17",
+        "r": 0
+    },
+    {
+        "w": "ilmago",
+        "b": "Viaje",
+        "r": 0
+    },
+    {
+        "w": "jcgs1030",
+        "b": "gauranga",
+        "r": 1
+    },
+    {
+        "w": "Dlugy",
+        "b": "Boryboy",
+        "r": 0
+    },
+    {
+        "w": "Noukii",
+        "b": "Sadovsky_Artem",
+        "r": 2
+    },
+    {
+        "w": "wanyaland",
+        "b": "AlexanderL",
+        "r": 1
+    },
+    {
+        "w": "SerGo055",
+        "b": "jcibarra",
+        "r": 0
+    },
+    {
+        "w": "Aygehovit1992",
+        "b": "GrigorGrigorov",
+        "r": 0
+    },
+    {
+        "w": "Malev212",
+        "b": "DanielNaroditsky",
+        "r": 1
+    },
+    {
+        "w": "ZEN-22",
+        "b": "DeviatkinAndrey",
+        "r": 0
+    },
+    {
+        "w": "Izoria123",
+        "b": "Cryptochess",
+        "r": 1
+    },
+    {
+        "w": "LePlusMortel",
+        "b": "ErnestoGuevaraLynch",
+        "r": 0
+    },
+    {
+        "w": "MMSANCHEZ",
+        "b": "Anton_Demchenko",
+        "r": 0
+    },
+    {
+        "w": "ChadaevNikolay",
+        "b": "ItalianMachine",
+        "r": 0
+    },
+    {
+        "w": "simplerXiao",
+        "b": "ArnaudovP",
+        "r": 0
+    },
+    {
+        "w": "Fh2411",
+        "b": "fastestmindalive",
+        "r": 1
+    },
+    {
+        "w": "kikydu96",
+        "b": "kharposh",
+        "r": 0
+    },
+    {
+        "w": "Tirantes",
+        "b": "Alliswell998",
+        "r": 1
+    },
+    {
+        "w": "Shivagami",
+        "b": "Tesla17",
+        "r": 2
+    },
+    {
+        "w": "Viaje",
+        "b": "AdrianaNikolova",
+        "r": 0
+    },
+    {
+        "w": "spirals5",
+        "b": "Penguininja",
+        "r": 1
+    },
+    {
+        "w": "WanderingPuppet",
+        "b": "chesstatour",
+        "r": 1
+    },
+    {
+        "w": "jcgs1030",
+        "b": "saraswathii",
+        "r": 1
+    },
+    {
+        "w": "ilmago",
+        "b": "gauranga",
+        "r": 1
+    },
+    {
+        "w": "Boryboy",
+        "b": "Noukii",
+        "r": 1
+    },
+    {
+        "w": "wanyaland",
+        "b": "Dlugy",
+        "r": 0
+    },
+    {
+        "w": "jcibarra",
+        "b": "Malev212",
+        "r": 0
+    },
+    {
+        "w": "GrigorGrigorov",
+        "b": "Sadovsky_Artem",
+        "r": 0
+    },
+    {
+        "w": "DeviatkinAndrey",
+        "b": "ErnestoGuevaraLynch",
+        "r": 1
+    },
+    {
+        "w": "Anton_Demchenko",
+        "b": "Izoria123",
+        "r": 2
+    },
+    {
+        "w": "AlexanderL",
+        "b": "Fh2411",
+        "r": 1
+    },
+    {
+        "w": "ItalianMachine",
+        "b": "Aygehovit1992",
+        "r": 2
+    },
+    {
+        "w": "SerGo055",
+        "b": "ArnaudovP",
+        "r": 0
+    },
+    {
+        "w": "ZEN-22",
+        "b": "kharposh",
+        "r": 0
+    },
+    {
+        "w": "MMSANCHEZ",
+        "b": "LePlusMortel",
+        "r": 0
+    },
+    {
+        "w": "Cryptochess",
+        "b": "Tirantes",
+        "r": 1
+    },
+    {
+        "w": "WanderingPuppet",
+        "b": "simplerXiao",
+        "r": 0
+    },
+    {
+        "w": "fastestmindalive",
+        "b": "spirals5",
+        "r": 2
+    },
+    {
+        "w": "AdrianaNikolova",
+        "b": "Tesla17",
+        "r": 1
+    },
+    {
+        "w": "kikydu96",
+        "b": "Alliswell998",
+        "r": 1
+    },
+    {
+        "w": "jcgs1030",
+        "b": "Viaje",
+        "r": 1
+    },
+    {
+        "w": "Shivagami",
+        "b": "Penguininja",
+        "r": 0
+    },
+    {
+        "w": "ilmago",
+        "b": "chesstatour",
+        "r": 0
+    },
+    {
+        "w": "Malev212",
+        "b": "Boryboy",
+        "r": 0
+    },
+    {
+        "w": "Sadovsky_Artem",
+        "b": "Dlugy",
+        "r": 1
+    },
+    {
+        "w": "DeviatkinAndrey",
+        "b": "wanyaland",
+        "r": 1
+    },
+    {
+        "w": "Noukii",
+        "b": "Izoria123",
+        "r": 0
+    },
+    {
+        "w": "AlexanderL",
+        "b": "GrigorGrigorov",
+        "r": 0
+    },
+    {
+        "w": "ArnaudovP",
+        "b": "jcibarra",
+        "r": 1
+    },
+    {
+        "w": "kharposh",
+        "b": "Anton_Demchenko",
+        "r": 0
+    },
+    {
+        "w": "Aygehovit1992",
+        "b": "Cryptochess",
+        "r": 1
+    },
+    {
+        "w": "LePlusMortel",
+        "b": "ItalianMachine",
+        "r": 1
+    },
+    {
+        "w": "ErnestoGuevaraLynch",
+        "b": "SerGo055",
+        "r": 1
+    },
+    {
+        "w": "AdrianaNikolova",
+        "b": "simplerXiao",
+        "r": 1
+    },
+    {
+        "w": "Fh2411",
+        "b": "ZEN-22",
+        "r": 2
+    },
+    {
+        "w": "kikydu96",
+        "b": "jcgs1030",
+        "r": 2
+    },
+    {
+        "w": "fastestmindalive",
+        "b": "MMSANCHEZ",
+        "r": 0
+    },
+    {
+        "w": "Tirantes",
+        "b": "spirals5",
+        "r": 2
+    },
+    {
+        "w": "Penguininja",
+        "b": "WanderingPuppet",
+        "r": 2
+    },
+    {
+        "w": "Tesla17",
+        "b": "Alliswell998",
+        "r": 0
+    },
+    {
+        "w": "chesstatour",
+        "b": "Shivagami",
+        "r": 0
+    },
+    {
+        "w": "gauranga",
+        "b": "Viaje",
+        "r": 0
+    },
+    {
+        "w": "Boryboy",
+        "b": "DeviatkinAndrey",
+        "r": 2
+    },
+    {
+        "w": "Sadovsky_Artem",
+        "b": "Izoria123",
+        "r": 1
+    },
+    {
+        "w": "Dlugy",
+        "b": "GrigorGrigorov",
+        "r": 0
+    },
+    {
+        "w": "ArnaudovP",
+        "b": "Malev212",
+        "r": 1
+    },
+    {
+        "w": "Anton_Demchenko",
+        "b": "LePlusMortel",
+        "r": 1
+    },
+    {
+        "w": "ErnestoGuevaraLynch",
+        "b": "Aygehovit1992",
+        "r": 1
+    },
+    {
+        "w": "wanyaland",
+        "b": "Noukii",
+        "r": 0
+    },
+    {
+        "w": "AlexanderL",
+        "b": "AdrianaNikolova",
+        "r": 1
+    },
+    {
+        "w": "jcibarra",
+        "b": "kharposh",
+        "r": 1
+    },
+    {
+        "w": "Fh2411",
+        "b": "kikydu96",
+        "r": 1
+    },
+    {
+        "w": "MMSANCHEZ",
+        "b": "ItalianMachine",
+        "r": 1
+    },
+    {
+        "w": "ZEN-22",
+        "b": "jcgs1030",
+        "r": 1
+    },
+    {
+        "w": "spirals5",
+        "b": "SerGo055",
+        "r": 0
+    },
+    {
+        "w": "simplerXiao",
+        "b": "Penguininja",
+        "r": 1
+    },
+    {
+        "w": "Tirantes",
+        "b": "Shivagami",
+        "r": 1
+    },
+    {
+        "w": "Alliswell998",
+        "b": "gauranga",
+        "r": 1
+    },
+    {
+        "w": "Viaje",
+        "b": "chesstatour",
+        "r": 2
+    },
+    {
+        "w": "WanderingPuppet",
+        "b": "ilmago",
+        "r": 1
+    }
+]

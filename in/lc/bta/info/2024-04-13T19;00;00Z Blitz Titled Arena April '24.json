@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 396,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "nihalsarin2004",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2933,
+   "score": 164,
+   "nb": {
+    "game": 50,
+    "berserk": 49,
+    "win": 38
+   },
+   "performance": 2977
+  },
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2835,
+   "score": 125,
+   "nb": {
+    "game": 57,
+    "berserk": 28,
+    "win": 34
+   },
+   "performance": 2855
+  },
+  {
+   "name": "AngelitoRT",
+   "title": "IM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2816,
+   "score": 118,
+   "nb": {
+    "game": 56,
+    "berserk": 32,
+    "win": 28
+   },
+   "performance": 2806
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 312716,
+  "averageRating": 2452,
+  "berserks": 2676,
+  "blackWins": 1579,
+  "games": 3685,
+  "draws": 297,
+  "whiteWins": 1809
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2933,
+    "score": 164,
+    "sheet": {
+     "scores": "11055553325554533033255331005330553305330555555533"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2835,
+    "score": 125,
+    "sheet": {
+     "scores": "130313223023012045320103012422055423020245330032444533031"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2816,
+    "score": 118,
+    "sheet": {
+     "scores": "25331100025330323310002233113001030100010445232444455533"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2755,
+    "score": 116,
+    "sheet": {
+     "scores": "13003300011313113011325330031313030103310053303053310103000303005533"
+    }
+   },
+   {
+    "name": "SindarovGM",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2798,
+    "score": 115,
+    "sheet": {
+     "scores": "0033031300545331023310300553302302303025555533030310"
+    }
+   },
+   {
+    "name": "dr_xStranger",
+    "title": "IM",
+    "flair": "smileys.face-with-raised-eyebrow",
+    "rank": 6,
+    "rating": 2705,
+    "score": 115,
+    "sheet": {
+     "scores": "233000044433110130012013030224330304444445331001253300033"
+    }
+   },
+   {
+    "name": "Watneg",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2768,
+    "score": 114,
+    "sheet": {
+     "scores": "131301053301300010025553300055330300055331125330313030303"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2828,
+    "score": 108,
+    "sheet": {
+     "scores": "3020011020054443304422045220522223044542303100522"
+    }
+   },
+   {
+    "name": "innocentguy",
+    "title": "CM",
+    "flair": "smileys.ghost",
+    "rank": 9,
+    "rating": 2703,
+    "score": 105,
+    "sheet": {
+     "scores": "110131032013120123300233124423020444445555533"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2776,
+    "score": 105,
+    "sheet": {
+     "scores": "330303002243305444544330310533003300330304330030",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "apr24bta",
+ "createdBy": "lichess",
+ "startsAt": "2024-04-13T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena April '24",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/apr24bua) ",
+ "onlyTitled": true
+}

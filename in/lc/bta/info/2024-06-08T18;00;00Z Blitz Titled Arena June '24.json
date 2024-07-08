@@ -1,0 +1,214 @@
+{
+ "nbPlayers": 360,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Vladimirovich9000",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2906,
+   "score": 150,
+   "nb": {
+    "game": 61,
+    "berserk": 33,
+    "win": 40
+   },
+   "performance": 2951
+  },
+  {
+   "name": "BabaRamdev",
+   "title": "GM",
+   "flair": "smileys.clown-face",
+   "patron": true,
+   "rank": 2,
+   "rating": 2813,
+   "score": 137,
+   "nb": {
+    "game": 61,
+    "berserk": 61,
+    "win": 34
+   },
+   "performance": 2842
+  },
+  {
+   "name": "yoseph2013",
+   "title": "IM",
+   "flair": "objects.alarm-clock",
+   "rank": 3,
+   "rating": 2815,
+   "score": 131,
+   "nb": {
+    "game": 57,
+    "berserk": 53,
+    "win": 35
+   },
+   "performance": 2863
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 280293,
+  "averageRating": 2476,
+  "berserks": 2898,
+  "blackWins": 1418,
+  "games": 3304,
+  "draws": 246,
+  "whiteWins": 1640
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2906,
+    "score": 150,
+    "sheet": {
+     "scores": "2330000320302553225320205433242304543300052305543212544522121"
+    }
+   },
+   {
+    "name": "BabaRamdev",
+    "title": "GM",
+    "flair": "smileys.clown-face",
+    "patron": true,
+    "rank": 2,
+    "rating": 2813,
+    "score": 137,
+    "sheet": {
+     "scores": "0553300130332533030025553300130300555533010305553303010303031"
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "rank": 3,
+    "rating": 2815,
+    "score": 131,
+    "sheet": {
+     "scores": "233053305330330553300303030301303003000455330323305555330"
+    }
+   },
+   {
+    "name": "Mirakel05",
+    "title": "FM",
+    "flair": "people.santa-claus",
+    "rank": 4,
+    "rating": 2736,
+    "score": 126,
+    "sheet": {
+     "scores": "255330003003300033053303303030303030330033000330030003300555553303"
+    }
+   },
+   {
+    "name": "ZodabwitsaIM",
+    "title": "IM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2840,
+    "score": 123,
+    "sheet": {
+     "scores": "31313053300443324455230302330032103055330300204433103102"
+    }
+   },
+   {
+    "name": "wizard98",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2774,
+    "score": 122,
+    "sheet": {
+     "scores": "0130330303003005533030305553323300033000330011030012553305533"
+    }
+   },
+   {
+    "name": "pultis12",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2747,
+    "score": 120,
+    "sheet": {
+     "scores": "1302000555533045433053200000555553300004320030553300"
+    }
+   },
+   {
+    "name": "tamojerry",
+    "title": "FM",
+    "rank": 8,
+    "rating": 2738,
+    "score": 116,
+    "sheet": {
+     "scores": "3253300030330033030331000030003033055330030300030553303000305533"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 9,
+    "rating": 2828,
+    "score": 114,
+    "sheet": {
+     "scores": "3042300324533130303000432010030230454330554533004330"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2837,
+    "score": 113,
+    "sheet": {
+     "scores": "303005553300323300300533003012330233030005330030053325330"
+    }
+   }
+  ]
+ },
+ "id": "jun24bta",
+ "createdBy": "cormacobear",
+ "startsAt": "2024-06-08T18:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena June '24",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "\u2265 20 Blitz rated games",
+    "verdict": "ok"
+   },
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jun24bua)",
+ "minRatedGames": {
+  "nb": 20
+ },
+ "onlyTitled": true
+}

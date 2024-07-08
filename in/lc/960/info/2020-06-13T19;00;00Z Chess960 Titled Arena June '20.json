@@ -1,0 +1,201 @@
+{
+ "nbPlayers": 652,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "muisback",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2357,
+   "score": 74,
+   "nb": {
+    "game": 33,
+    "berserk": 4,
+    "win": 21
+   },
+   "performance": 2408
+  },
+  {
+   "name": "ARM-777777",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2279,
+   "score": 72,
+   "nb": {
+    "game": 38,
+    "berserk": 10,
+    "win": 24
+   },
+   "performance": 2368
+  },
+  {
+   "name": "Esssquire",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2422,
+   "score": 71,
+   "nb": {
+    "game": 29,
+    "berserk": 4,
+    "win": 21
+   },
+   "performance": 2483
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 253125,
+  "averageRating": 1888,
+  "berserks": 1328,
+  "blackWins": 1564,
+  "games": 3462,
+  "draws": 288,
+  "whiteWins": 1610
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "muisback",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2357,
+    "score": 74,
+    "sheet": {
+     "scores": "244221002444543303122202024220422"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2279,
+    "score": 72,
+    "sheet": {
+     "scores": "33044330020221000442202230204443302022",
+     "fire": true
+    }
+   },
+   {
+    "name": "Esssquire",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2422,
+    "score": 71,
+    "sheet": {
+     "scores": "10442224422044422120044552212"
+    }
+   },
+   {
+    "name": "FeegLood",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2500,
+    "score": 70,
+    "sheet": {
+     "scores": "223002120442313022432124445422"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2336,
+    "score": 68,
+    "sheet": {
+     "scores": "3023020020204444221244330003030222302"
+    }
+   },
+   {
+    "name": "pasukan_bodrex",
+    "title": "IM",
+    "rank": 6,
+    "rating": 2342,
+    "score": 68,
+    "sheet": {
+     "scores": "44422222044442300043200000310423003",
+     "fire": true
+    }
+   },
+   {
+    "name": "Mitrabha",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2161,
+    "score": 68,
+    "sheet": {
+     "scores": "24442302442300300030030000000052303030042201"
+    }
+   },
+   {
+    "name": "Watneg",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2310,
+    "score": 65,
+    "sheet": {
+     "scores": "3045533001013030024230311002230230222"
+    }
+   },
+   {
+    "name": "LyinTed",
+    "rank": 9,
+    "rating": 2210,
+    "score": 63,
+    "sheet": {
+     "scores": "55320033010302003302300030000003003044422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Chopper1905",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2311,
+    "score": 62,
+    "sheet": {
+     "scores": "33002200200002200444422024444422",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "960jun20",
+ "createdBy": "lukhas",
+ "startsAt": "2020-06-13T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena June '20",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

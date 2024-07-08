@@ -1,0 +1,209 @@
+{
+ "nbPlayers": 307,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 1,
+   "rating": 2862,
+   "score": 125,
+   "nb": {
+    "game": 67,
+    "berserk": 2,
+    "win": 44
+   },
+   "performance": 2857
+  },
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2797,
+   "score": 122,
+   "nb": {
+    "game": 66,
+    "berserk": 0,
+    "win": 42
+   },
+   "performance": 2856
+  },
+  {
+   "name": "Arka50",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2760,
+   "score": 113,
+   "nb": {
+    "game": 69,
+    "berserk": 4,
+    "win": 37
+   },
+   "performance": 2774
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 415679,
+  "averageRating": 2341,
+  "berserks": 271,
+  "blackWins": 2217,
+  "games": 4990,
+  "draws": 325,
+  "whiteWins": 2448
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 1,
+    "rating": 2862,
+    "score": 125,
+    "sheet": {
+     "scores": "1242200020442204220220204220022004220020044220204444220220442304432"
+    }
+   },
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2797,
+    "score": 122,
+    "sheet": {
+     "scores": "200202444422001200202022000202200221202202204444444220044444422022"
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2760,
+    "score": 113,
+    "sheet": {
+     "scores": "100022004442202444442200222004220100230300002120202000200044220444422"
+    }
+   },
+   {
+    "name": "wizard98",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2738,
+    "score": 112,
+    "sheet": {
+     "scores": "444444220020042200000201021022044220202121024220204422002220222220202",
+     "fire": true
+    }
+   },
+   {
+    "name": "UnVieuxMonsieur",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2827,
+    "score": 111,
+    "sheet": {
+     "scores": "244221020004220022022022044221042202204220222204442202004422102"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2826,
+    "score": 109,
+    "sheet": {
+     "scores": "244444422002022220422002442300030022104220022042222204422"
+    }
+   },
+   {
+    "name": "DrDrunkenstein",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2870,
+    "score": 109,
+    "sheet": {
+     "scores": "32012444220422000102222022020442224422002044220444220200220",
+     "fire": true
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 8,
+    "rating": 2796,
+    "score": 109,
+    "sheet": {
+     "scores": "020120004444444444220201020001204220422042202002020422020423120"
+    }
+   },
+   {
+    "name": "Nirvana95",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2775,
+    "score": 102,
+    "sheet": {
+     "scores": "1022044221000210222120444422022020202220244444422002022200"
+    }
+   },
+   {
+    "name": "BabaRamdev",
+    "title": "GM",
+    "flair": "smileys.clown-face",
+    "patron": true,
+    "rank": 10,
+    "rating": 2758,
+    "score": 100,
+    "sheet": {
+     "scores": "10022022002024422100120120010010244444442224422020220422022"
+    }
+   }
+  ]
+ },
+ "id": "dyhuymXb",
+ "createdBy": "arex",
+ "startsAt": "2018-05-04T19:00:00Z",
+ "system": "arena",
+ "fullName": "Lichess Titled Arena 5",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $3,600 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "[Titled Arena 5 Announcement](https://lichess.org/blog/WtCEiyQAAN8vg4Bs/announcing-lichess-titled-arena-5)\r\n[Official livestream commentary by IM ChessExplained](https://www.twitch.tv/chessxplained)\r\n\r\n$3,600 prize pool!\r\n- 1st $3,000\r\n- 2nd $250\r\n- 3rd $175\r\n- 4th $100\r\n- 5th $75",
+ "onlyTitled": true
+}

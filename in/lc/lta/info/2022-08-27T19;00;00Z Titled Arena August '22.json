@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 343,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3196,
+   "score": 164,
+   "nb": {
+    "game": 70,
+    "berserk": 9,
+    "win": 50
+   },
+   "performance": 3245
+  },
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3159,
+   "score": 138,
+   "nb": {
+    "game": 63,
+    "berserk": 2,
+    "win": 45
+   },
+   "performance": 3120
+  },
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3095,
+   "score": 136,
+   "nb": {
+    "game": 61,
+    "berserk": 0,
+    "win": 44
+   },
+   "performance": 3181
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 381524,
+  "averageRating": 2512,
+  "berserks": 797,
+  "blackWins": 2175,
+  "games": 4616,
+  "draws": 227,
+  "whiteWins": 2214
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3196,
+    "score": 164,
+    "sheet": {
+     "scores": "5331023044220444442211200302020444423023022244422044443212000044444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3159,
+    "score": 138,
+    "sheet": {
+     "scores": "444444444422020200444220220004220444442202022020442200452210022",
+     "fire": true
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3095,
+    "score": 136,
+    "sheet": {
+     "scores": "0442204444422022000444220022020442200022044444422244422044220"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3110,
+    "score": 133,
+    "sheet": {
+     "scores": "01013044330042200212130444220204321120422000021024444444454442200"
+    }
+   },
+   {
+    "name": "C9C9C9C9C9",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3117,
+    "score": 128,
+    "sheet": {
+     "scores": "10302210303200031202200020230020422002225230103045322522120445432243302"
+    }
+   },
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 3058,
+    "score": 122,
+    "sheet": {
+     "scores": "55330055330330000553305553325555553303303",
+     "fire": true
+    }
+   },
+   {
+    "name": "dmitrij_IM",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3011,
+    "score": 121,
+    "sheet": {
+     "scores": "02024444442204220202022004442202202004220200200244220422042210422"
+    }
+   },
+   {
+    "name": "STL_Liang",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2995,
+    "score": 118,
+    "sheet": {
+     "scores": "104220020202200324442202202022200444422022044422043303000002020120422"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 9,
+    "rating": 2968,
+    "score": 116,
+    "sheet": {
+     "scores": "1030103002000100022300302112132330121222000444321002203021202044444433003002"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 3055,
+    "score": 114,
+    "sheet": {
+     "scores": "30210444442300042201202002020002004220442204442202002224442200220"
+    }
+   }
+  ]
+ },
+ "id": "aug22lta",
+ "createdBy": "lichess",
+ "startsAt": "2022-08-27T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena August '22",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,250 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $750/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/aug22wua) ",
+ "onlyTitled": true
+}

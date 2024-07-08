@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 728,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "nihalsarin2004",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2815,
+   "score": 129,
+   "nb": {
+    "game": 51,
+    "berserk": 30,
+    "win": 36
+   },
+   "performance": 2919
+  },
+  {
+   "name": "Grey_parrot",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2844,
+   "score": 117,
+   "nb": {
+    "game": 47,
+    "berserk": 20,
+    "win": 32
+   },
+   "performance": 2872
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2733,
+   "score": 117,
+   "nb": {
+    "game": 62,
+    "berserk": 62,
+    "win": 32
+   },
+   "performance": 2721
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 605007,
+  "averageRating": 2421,
+  "berserks": 4761,
+  "blackWins": 3100,
+  "games": 7093,
+  "draws": 579,
+  "whiteWins": 3414
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2815,
+    "score": 129,
+    "sheet": {
+     "scores": "555555330022032422020203244442202325432030033105533",
+     "fire": true
+    }
+   },
+   {
+    "name": "Grey_parrot",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2844,
+    "score": 117,
+    "sheet": {
+     "scores": "30555555533000233053202221202244422244220422112"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2733,
+    "score": 117,
+    "sheet": {
+     "scores": "03303000555330300305330330033000033100101005533053303023300533"
+    }
+   },
+   {
+    "name": "Uzbek005",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2770,
+    "score": 116,
+    "sheet": {
+     "scores": "23304445442225433003042300053300302305332330330033"
+    }
+   },
+   {
+    "name": "Raunaksadhwani2005",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2796,
+    "score": 115,
+    "sheet": {
+     "scores": "0220244444422244444442204220244444230442200"
+    }
+   },
+   {
+    "name": "AnishOnYoutube",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2811,
+    "score": 114,
+    "sheet": {
+     "scores": "025533255553310003305553305555553313"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2712,
+    "score": 112,
+    "sheet": {
+     "scores": "3255330323300103030103005330533030533013003323323310312"
+    }
+   },
+   {
+    "name": "Feokl1995",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2713,
+    "score": 112,
+    "sheet": {
+     "scores": "330230300013030105533100253300033005555533233000533010030",
+     "fire": true
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2686,
+    "score": 111,
+    "sheet": {
+     "scores": "304330330313130011300005330300130433021303033255330233030103"
+    }
+   },
+   {
+    "name": "kyart2",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2768,
+    "score": 108,
+    "sheet": {
+     "scores": "010010444422022220444443201102022455230533005330112"
+    }
+   }
+  ]
+ },
+ "id": "nov20bta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-11-07T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena November '20",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

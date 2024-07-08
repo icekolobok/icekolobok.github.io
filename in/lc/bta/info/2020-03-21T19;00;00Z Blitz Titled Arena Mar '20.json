@@ -1,0 +1,209 @@
+{
+ "nbPlayers": 942,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2830,
+   "score": 99,
+   "nb": {
+    "game": 40,
+    "berserk": 19,
+    "win": 29
+   },
+   "performance": 2883
+  },
+  {
+   "name": "DrNykterstein",
+   "title": "GM",
+   "flair": "people.santa-claus-light-skin-tone",
+   "patron": true,
+   "rank": 2,
+   "rating": 2837,
+   "score": 98,
+   "nb": {
+    "game": 39,
+    "berserk": 14,
+    "win": 29
+   },
+   "performance": 2910
+  },
+  {
+   "name": "Vladimirovich9000",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2703,
+   "score": 98,
+   "nb": {
+    "game": 41,
+    "berserk": 0,
+    "win": 30
+   },
+   "performance": 2891
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 889308,
+  "averageRating": 2437,
+  "berserks": 3714,
+  "blackWins": 4766,
+  "games": 10706,
+  "draws": 885,
+  "whiteWins": 5055
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2830,
+    "score": 99,
+    "sheet": {
+     "scores": "4433022044422233030055533033003004444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "DrNykterstein",
+    "title": "GM",
+    "flair": "people.santa-claus-light-skin-tone",
+    "patron": true,
+    "rank": 2,
+    "rating": 2837,
+    "score": 98,
+    "sheet": {
+     "scores": "532023053312024523020330444444423044220",
+     "fire": true
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2703,
+    "score": 98,
+    "sheet": {
+     "scores": "22202012244220422010444442204444422044422"
+    }
+   },
+   {
+    "name": "Esssquire",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2867,
+    "score": 97,
+    "sheet": {
+     "scores": "0444220022104444442204444220444444220"
+    }
+   },
+   {
+    "name": "Golubov_Saveliy",
+    "title": "IM",
+    "rank": 5,
+    "rating": 2712,
+    "score": 93,
+    "sheet": {
+     "scores": "024422100204444442300044422004222444423"
+    }
+   },
+   {
+    "name": "elhamisbackagain",
+    "title": "FM",
+    "rank": 6,
+    "rating": 2761,
+    "score": 92,
+    "sheet": {
+     "scores": "13244444422244220220044444432023222"
+    }
+   },
+   {
+    "name": "Feokl1995",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2779,
+    "score": 92,
+    "sheet": {
+     "scores": "303033033233005331033253310030131042204222422"
+    }
+   },
+   {
+    "name": "AstanehChess",
+    "title": "IM",
+    "patron": true,
+    "rank": 8,
+    "rating": 2701,
+    "score": 91,
+    "sheet": {
+     "scores": "330300302230023003300444330555330023303100203302",
+     "fire": true
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 9,
+    "rating": 2661,
+    "score": 90,
+    "sheet": {
+     "scores": "55331023021200300205231202304432004230203030532",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 10,
+    "rating": 2684,
+    "score": 90,
+    "sheet": {
+     "scores": "1045433100000330000030555423000054330033033003303"
+    }
+   }
+  ]
+ },
+ "id": "mar20bta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-03-21T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena Mar '20",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

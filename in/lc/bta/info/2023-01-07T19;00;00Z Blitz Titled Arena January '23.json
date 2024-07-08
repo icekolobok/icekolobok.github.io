@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 607,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "SVODMEVKO",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2883,
+   "score": 143,
+   "nb": {
+    "game": 57,
+    "berserk": 52,
+    "win": 36
+   },
+   "performance": 2934
+  },
+  {
+   "name": "neslraCsungaM77",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2841,
+   "score": 138,
+   "nb": {
+    "game": 65,
+    "berserk": 58,
+    "win": 36
+   },
+   "performance": 2883
+  },
+  {
+   "name": "hansontwitch",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2818,
+   "score": 118,
+   "nb": {
+    "game": 53,
+    "berserk": 38,
+    "win": 30
+   },
+   "performance": 2864
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 490075,
+  "averageRating": 2486,
+  "berserks": 3664,
+  "blackWins": 2451,
+  "games": 5732,
+  "draws": 497,
+  "whiteWins": 2784
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2883,
+    "score": 143,
+    "sheet": {
+     "scores": "325544553310033055533103054330533005330113030310533053310"
+    }
+   },
+   {
+    "name": "neslraCsungaM77",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2841,
+    "score": 138,
+    "sheet": {
+     "scores": "00443300300230330330553310533033023010300301101311031055555455331"
+    }
+   },
+   {
+    "name": "hansontwitch",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2818,
+    "score": 118,
+    "sheet": {
+     "scores": "10453305331030053300300324433130000002544542305552310"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 4,
+    "rating": 2782,
+    "score": 115,
+    "sheet": {
+     "scores": "32433033053310030301030305330003003030254433000012453300000532"
+    }
+   },
+   {
+    "name": "Amin_____tb",
+    "title": "GM",
+    "flair": "nature.waxing-gibbous-moon",
+    "rank": 5,
+    "rating": 2832,
+    "score": 114,
+    "sheet": {
+     "scores": "0330000100303053302523233002232230302004533103205554533"
+    }
+   },
+   {
+    "name": "Watneg",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2838,
+    "score": 114,
+    "sheet": {
+     "scores": "2555553310330303000330000331010033130255544332533"
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2912,
+    "score": 112,
+    "sheet": {
+     "scores": "533032044320444330033010100300433022212131044444433",
+     "fire": true
+    }
+   },
+   {
+    "name": "tamojerry",
+    "title": "FM",
+    "rank": 8,
+    "rating": 2713,
+    "score": 111,
+    "sheet": {
+     "scores": "53300053303000300331300330330305330533000030533055330330",
+     "fire": true
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 9,
+    "rating": 2781,
+    "score": 110,
+    "sheet": {
+     "scores": "045533030303010330030010043303044444443300254330300300"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2852,
+    "score": 109,
+    "sheet": {
+     "scores": "30030044433104444523003042202304444222230310302231"
+    }
+   }
+  ]
+ },
+ "id": "jan23bta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-01-07T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena January '23",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jan23bua) ",
+ "onlyTitled": true
+}

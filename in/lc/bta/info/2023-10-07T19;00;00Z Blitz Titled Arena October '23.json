@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 442,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2931,
+   "score": 140,
+   "nb": {
+    "game": 50,
+    "berserk": 13,
+    "win": 37
+   },
+   "performance": 3085
+  },
+  {
+   "name": "junglebook1",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2998,
+   "score": 131,
+   "nb": {
+    "game": 46,
+    "berserk": 43,
+    "win": 32
+   },
+   "performance": 3035
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2866,
+   "score": 120,
+   "nb": {
+    "game": 59,
+    "berserk": 56,
+    "win": 33
+   },
+   "performance": 2831
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 359797,
+  "averageRating": 2459,
+  "berserks": 3205,
+  "blackWins": 1813,
+  "games": 4155,
+  "draws": 312,
+  "whiteWins": 2030
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2931,
+    "score": 140,
+    "sheet": {
+     "scores": "01202544443302310224522024423254544322442205444532"
+    }
+   },
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2998,
+    "score": 131,
+    "sheet": {
+     "scores": "4423031103033132330301323305332533255555555533",
+     "fire": true
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2866,
+    "score": 120,
+    "sheet": {
+     "scores": "30533010031303300300303031305330303005533055330000555330330"
+    }
+   },
+   {
+    "name": "dimochka_tsoi",
+    "title": "FM",
+    "rank": 4,
+    "rating": 2730,
+    "score": 119,
+    "sheet": {
+     "scores": "55330101131000303301305331030132533000330303103033030300553310330",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 5,
+    "rating": 2764,
+    "score": 119,
+    "sheet": {
+     "scores": "555330330003033000023000005533100053305555330303033000300030330",
+     "fire": true
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2822,
+    "score": 118,
+    "sheet": {
+     "scores": "44330002242300222444320030030230100105433253303033033033000330",
+     "fire": true
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2856,
+    "score": 117,
+    "sheet": {
+     "scores": "1301312523233000302533030444230304444433030130304522"
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "rank": 8,
+    "rating": 2718,
+    "score": 116,
+    "sheet": {
+     "scores": "013010131030533103033030033003010000555555553303303300533"
+    }
+   },
+   {
+    "name": "Shant7777777",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2889,
+    "score": 113,
+    "sheet": {
+     "scores": "01043303001300023242304444423120303300044432244432222"
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2733,
+    "score": 112,
+    "sheet": {
+     "scores": "03000000423010305533053300533001030053300330000000055533005533"
+    }
+   }
+  ]
+ },
+ "id": "oct23bta",
+ "createdBy": "lukhas",
+ "startsAt": "2023-10-07T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena October '23",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/oct23bua) ",
+ "onlyTitled": true
+}

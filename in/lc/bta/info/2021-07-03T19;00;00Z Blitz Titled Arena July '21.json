@@ -1,0 +1,205 @@
+{
+ "nbPlayers": 512,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "DrNykterstein",
+   "title": "GM",
+   "flair": "people.santa-claus-light-skin-tone",
+   "patron": true,
+   "rank": 1,
+   "rating": 3102,
+   "score": 120,
+   "nb": {
+    "game": 34,
+    "berserk": 0,
+    "win": 32
+   },
+   "performance": 3137
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2782,
+   "score": 105,
+   "nb": {
+    "game": 48,
+    "berserk": 48,
+    "win": 28
+   },
+   "performance": 2827
+  },
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2805,
+   "score": 104,
+   "nb": {
+    "game": 49,
+    "berserk": 48,
+    "win": 28
+   },
+   "performance": 2827
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 332674,
+  "averageRating": 2477,
+  "berserks": 1773,
+  "blackWins": 1723,
+  "games": 4024,
+  "draws": 347,
+  "whiteWins": 1954
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "DrNykterstein",
+    "title": "GM",
+    "flair": "people.santa-claus-light-skin-tone",
+    "patron": true,
+    "rank": 1,
+    "rating": 3102,
+    "score": 120,
+    "sheet": {
+     "scores": "2020444444444444444444444444444422"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2782,
+    "score": 105,
+    "sheet": {
+     "scores": "030533233031300030302533023305330553323302330330"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2805,
+    "score": 104,
+    "sheet": {
+     "scores": "3010313053325553300330033032331033043300313005331"
+    }
+   },
+   {
+    "name": "MahammadMuradli2003",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2659,
+    "score": 99,
+    "sheet": {
+     "scores": "3030300553305330300030553300000055533030005330030003"
+    }
+   },
+   {
+    "name": "Chesstoday",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2808,
+    "score": 95,
+    "sheet": {
+     "scores": "0030005230000223004453302455330020320204445422"
+    }
+   },
+   {
+    "name": "chessbrahs",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2768,
+    "score": 94,
+    "sheet": {
+     "scores": "0533233005553300300130305554555433"
+    }
+   },
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2792,
+    "score": 94,
+    "sheet": {
+     "scores": "304433033004330303000042302000303300533255330013020"
+    }
+   },
+   {
+    "name": "Riquelme93",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2828,
+    "score": 87,
+    "sheet": {
+     "scores": "25533000300110442202303224423030203324331102"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2788,
+    "score": 86,
+    "sheet": {
+     "scores": "32130030001032030532005532000444445230321022",
+     "fire": true
+    }
+   },
+   {
+    "name": "BMWHero",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2773,
+    "score": 85,
+    "sheet": {
+     "scores": "03030033103311030202030004442300204220445231020330"
+    }
+   }
+  ]
+ },
+ "id": "jul21bta",
+ "createdBy": "lichess",
+ "startsAt": "2021-07-03T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena July '21",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

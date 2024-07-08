@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 251,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "damnsaltythatsport",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2873,
+   "score": 137,
+   "nb": {
+    "game": 61,
+    "berserk": 1,
+    "win": 44
+   },
+   "performance": 2914
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2837,
+   "score": 117,
+   "nb": {
+    "game": 58,
+    "berserk": 0,
+    "win": 39
+   },
+   "performance": 2895
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2884,
+   "score": 114,
+   "nb": {
+    "game": 55,
+    "berserk": 0,
+    "win": 39
+   },
+   "performance": 2891
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 331817,
+  "averageRating": 2356,
+  "berserks": 351,
+  "blackWins": 1750,
+  "games": 3996,
+  "draws": 261,
+  "whiteWins": 1985
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "damnsaltythatsport",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2873,
+    "score": 137,
+    "sheet": {
+     "scores": "5220204220202042202120044422020044444444442200220210444444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2837,
+    "score": 117,
+    "sheet": {
+     "scores": "0220022000422022044444220224442204220022201204444222422222"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2884,
+    "score": 114,
+    "sheet": {
+     "scores": "2042202200220220042204422022442200044444220444444220220"
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 4,
+    "rating": 2782,
+    "score": 110,
+    "sheet": {
+     "scores": "042204422002010004444422020022102000202044444222444220302201"
+    }
+   },
+   {
+    "name": "BabaRamdev",
+    "title": "GM",
+    "flair": "smileys.clown-face",
+    "patron": true,
+    "rank": 5,
+    "rating": 2739,
+    "score": 107,
+    "sheet": {
+     "scores": "442204220010044220120442202200432000422042202022000224423102022",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 6,
+    "rating": 2818,
+    "score": 106,
+    "sheet": {
+     "scores": "00002044220200044422044422022020224222230120221044320422022"
+    }
+   },
+   {
+    "name": "UnVieuxMonsieur",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2777,
+    "score": 103,
+    "sheet": {
+     "scores": "0022222044444422002222002220010444221302102200220220022243200"
+    }
+   },
+   {
+    "name": "Astramariy",
+    "title": "IM",
+    "rank": 8,
+    "rating": 2738,
+    "score": 97,
+    "sheet": {
+     "scores": "02201004422012444220220012020444220020020200044220002044422"
+    }
+   },
+   {
+    "name": "ViejoTortuga",
+    "title": "GM",
+    "flair": "smileys.angry-face-with-horns",
+    "rank": 9,
+    "rating": 2673,
+    "score": 96,
+    "sheet": {
+     "scores": "0042200444220444221042204221200110442200221022020210042200"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2799,
+    "score": 95,
+    "sheet": {
+     "scores": "044422042210204422022000002222002004221302204220222220422"
+    }
+   }
+  ]
+ },
+ "id": "3ImmfhBr",
+ "createdBy": "assios",
+ "startsAt": "2018-08-04T19:00:00Z",
+ "system": "arena",
+ "fullName": "Lichess Titled Arena 6",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "[Congrats salty!](https://twitter.com/lichess/status/1025859990043721728)\r\n\r\n\r\nPrizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

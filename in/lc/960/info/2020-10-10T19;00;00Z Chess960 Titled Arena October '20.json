@@ -1,0 +1,200 @@
+{
+ "nbPlayers": 465,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Mario_Zagallo",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2552,
+   "score": 98,
+   "nb": {
+    "game": 35,
+    "berserk": 2,
+    "win": 28
+   },
+   "performance": 2517
+  },
+  {
+   "name": "Raunaksadhwani2005",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2384,
+   "score": 81,
+   "nb": {
+    "game": 32,
+    "berserk": 3,
+    "win": 23
+   },
+   "performance": 2521
+  },
+  {
+   "name": "Ogrilla",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2370,
+   "score": 70,
+   "nb": {
+    "game": 32,
+    "berserk": 0,
+    "win": 21
+   },
+   "performance": 2548
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 176886,
+  "averageRating": 1958,
+  "berserks": 1028,
+  "blackWins": 1064,
+  "games": 2424,
+  "draws": 195,
+  "whiteWins": 1165
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Mario_Zagallo",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2552,
+    "score": 98,
+    "sheet": {
+     "scores": "24220444444444444222442203044422030"
+    }
+   },
+   {
+    "name": "Raunaksadhwani2005",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2384,
+    "score": 81,
+    "sheet": {
+     "scores": "01224444444442212244442302302030"
+    }
+   },
+   {
+    "name": "Ogrilla",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2370,
+    "score": 70,
+    "sheet": {
+     "scores": "22442212124222422102444220212222"
+    }
+   },
+   {
+    "name": "FeegLood",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2352,
+    "score": 69,
+    "sheet": {
+     "scores": "05454330000323312033010122302003020303201"
+    }
+   },
+   {
+    "name": "C9C9C9C9C9",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2345,
+    "score": 66,
+    "sheet": {
+     "scores": "53305553300300002022023242322302",
+     "fire": true
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2433,
+    "score": 64,
+    "sheet": {
+     "scores": "04442202022020422112044444422"
+    }
+   },
+   {
+    "name": "athena-pallada",
+    "title": "GM",
+    "flair": "nature.fire",
+    "rank": 7,
+    "rating": 2271,
+    "score": 63,
+    "sheet": {
+     "scores": "0300303003005533003303000022224220422020"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2308,
+    "score": 61,
+    "sheet": {
+     "scores": "33000302200444320443204222422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Mapwright",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2545,
+    "score": 60,
+    "sheet": {
+     "scores": "444444442204422022422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Dr-BassemAmin",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2393,
+    "score": 60,
+    "sheet": {
+     "scores": "30442304444432010002044422"
+    }
+   }
+  ]
+ },
+ "id": "960oct20",
+ "createdBy": "lukhas",
+ "startsAt": "2020-10-10T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena October '20",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

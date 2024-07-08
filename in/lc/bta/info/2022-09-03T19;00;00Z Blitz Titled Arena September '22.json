@@ -1,0 +1,204 @@
+{
+ "nbPlayers": 403,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2890,
+   "score": 131,
+   "nb": {
+    "game": 49,
+    "berserk": 25,
+    "win": 35
+   },
+   "performance": 3035
+  },
+  {
+   "name": "retired93",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2946,
+   "score": 129,
+   "nb": {
+    "game": 51,
+    "berserk": 28,
+    "win": 37
+   },
+   "performance": 2997
+  },
+  {
+   "name": "Vladimirovich9000",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2943,
+   "score": 125,
+   "nb": {
+    "game": 56,
+    "berserk": 16,
+    "win": 38
+   },
+   "performance": 2980
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 287516,
+  "averageRating": 2489,
+  "berserks": 2314,
+  "blackWins": 1486,
+  "games": 3381,
+  "draws": 268,
+  "whiteWins": 1627
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2890,
+    "score": 131,
+    "sheet": {
+     "scores": "3303030032444443210325454444443325230320043302532",
+     "fire": true
+    }
+   },
+   {
+    "name": "retired93",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2946,
+    "score": 129,
+    "sheet": {
+     "scores": "445442305443303053303030330205533030044422244222221",
+     "fire": true
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2943,
+    "score": 125,
+    "sheet": {
+     "scores": "12044444422022020043225443222301022020032444444320330221"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2861,
+    "score": 118,
+    "sheet": {
+     "scores": "5533030030555330000533030303033011032533003001255332331",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2801,
+    "score": 115,
+    "sheet": {
+     "scores": "303103030033023300300120303005533105555331003130000005553313"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 6,
+    "rating": 2889,
+    "score": 113,
+    "sheet": {
+     "scores": "0533023044442201302031044453202320023031101224544330"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2745,
+    "score": 113,
+    "sheet": {
+     "scores": "03000033032330553300053310003005330025330533030313233233000100"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 8,
+    "rating": 2888,
+    "score": 108,
+    "sheet": {
+     "scores": "13023130444423030243303303243324422023045330310"
+    }
+   },
+   {
+    "name": "IGMGataKamsky",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2826,
+    "score": 107,
+    "sheet": {
+     "scores": "1210120012110244523101003030300120001033055553203024455330"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2763,
+    "score": 102,
+    "sheet": {
+     "scores": "0001310030300233043300002233001304544523105555533"
+    }
+   }
+  ]
+ },
+ "id": "sep22bta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2022-09-03T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena September '22",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/sep22bua) ",
+ "onlyTitled": true
+}

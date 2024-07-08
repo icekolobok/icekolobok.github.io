@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 400,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3118,
+   "score": 162,
+   "nb": {
+    "game": 69,
+    "berserk": 0,
+    "win": 50
+   },
+   "performance": 3188
+  },
+  {
+   "name": "iamstraw",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3017,
+   "score": 144,
+   "nb": {
+    "game": 72,
+    "berserk": 11,
+    "win": 48
+   },
+   "performance": 3054
+  },
+  {
+   "name": "Vladimirovich9000",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3032,
+   "score": 130,
+   "nb": {
+    "game": 69,
+    "berserk": 0,
+    "win": 43
+   },
+   "performance": 3076
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 451842,
+  "averageRating": 2534,
+  "berserks": 911,
+  "blackWins": 2479,
+  "games": 5450,
+  "draws": 332,
+  "whiteWins": 2639
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3118,
+    "score": 162,
+    "sheet": {
+     "scores": "442200244221042204220444444444444422000444220022202202222204444422012",
+     "fire": true
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3017,
+    "score": 144,
+    "sheet": {
+     "scores": "244422044220422044442202200202200200444220220442200542204330523000021303"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3032,
+    "score": 130,
+    "sheet": {
+     "scores": "000022120020204422012002210004220444220422020022020444444422244444221"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3097,
+    "score": 123,
+    "sheet": {
+     "scores": "330303302223044422104442302323302002022221212102300422044522021",
+     "fire": true
+    }
+   },
+   {
+    "name": "cicergross",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2900,
+    "score": 122,
+    "sheet": {
+     "scores": "1020004220442200020022022044444444442304422002022012020533023000320"
+    }
+   },
+   {
+    "name": "Butlerpigeon99",
+    "title": "IM",
+    "flair": "smileys.face-with-monocle",
+    "rank": 6,
+    "rating": 2839,
+    "score": 116,
+    "sheet": {
+     "scores": "044532022042202044542204423012000201305220533022010320220300301"
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2975,
+    "score": 110,
+    "sheet": {
+     "scores": "30222444422000000201202022020002004220202000242202210442204444222221"
+    }
+   },
+   {
+    "name": "smurf42",
+    "title": "NM",
+    "rank": 8,
+    "rating": 2792,
+    "score": 108,
+    "sheet": {
+     "scores": "04444422044221200220202200044220000422010000044220204220002222004220"
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "rank": 9,
+    "rating": 2966,
+    "score": 107,
+    "sheet": {
+     "scores": "02230023120002202044422020022223002002044230004320542304423013"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2888,
+    "score": 106,
+    "sheet": {
+     "scores": "020022044442202020004444422022000202000220444220022022002204422"
+    }
+   }
+  ]
+ },
+ "id": "feb22lta",
+ "createdBy": "lichess",
+ "startsAt": "2022-02-19T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena February '22",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

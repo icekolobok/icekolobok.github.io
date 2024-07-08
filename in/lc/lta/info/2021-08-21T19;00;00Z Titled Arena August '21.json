@@ -1,0 +1,204 @@
+{
+ "nbPlayers": 391,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "C9C9C9C9C9",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3062,
+   "score": 148,
+   "nb": {
+    "game": 62,
+    "berserk": 14,
+    "win": 43
+   },
+   "performance": 3123
+  },
+  {
+   "name": "Arka50",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2994,
+   "score": 123,
+   "nb": {
+    "game": 65,
+    "berserk": 8,
+    "win": 39
+   },
+   "performance": 3035
+  },
+  {
+   "name": "Grey_parrot",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3068,
+   "score": 117,
+   "nb": {
+    "game": 64,
+    "berserk": 0,
+    "win": 43
+   },
+   "performance": 3084
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 475184,
+  "averageRating": 2509,
+  "berserks": 524,
+  "blackWins": 2483,
+  "games": 5677,
+  "draws": 380,
+  "whiteWins": 2814
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "C9C9C9C9C9",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3062,
+    "score": 148,
+    "sheet": {
+     "scores": "52202202100044454554444442200130044220443212000020454432044432",
+     "fire": true
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2994,
+    "score": 123,
+    "sheet": {
+     "scores": "04444422002044422244422100301010022000304220222222442212022024230"
+    }
+   },
+   {
+    "name": "Grey_parrot",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3068,
+    "score": 117,
+    "sheet": {
+     "scores": "2202204442204221242200222222244220220202022002204220422042200422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2997,
+    "score": 115,
+    "sheet": {
+     "scores": "103004442212020022044422044442202204220202022003000020454222330"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3001,
+    "score": 111,
+    "sheet": {
+     "scores": "42200021044422120202022204220442200022022004220220444423043300",
+     "fire": true
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "rank": 6,
+    "rating": 2935,
+    "score": 111,
+    "sheet": {
+     "scores": "244230210200444423120000001020522012004454422044523000000230310"
+    }
+   },
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 3017,
+    "score": 109,
+    "sheet": {
+     "scores": "3003003022200442200001000220022124444442200020445220302213030423"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2922,
+    "score": 107,
+    "sheet": {
+     "scores": "313000305330100030124220021120222220221002020120202222210422244220202202"
+    }
+   },
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2971,
+    "score": 106,
+    "sheet": {
+     "scores": "202210020442201110200110000442202200222422024442200020044444422"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2910,
+    "score": 106,
+    "sheet": {
+     "scores": "0202022004442200000222220044422120242210221012044220004220220200220022"
+    }
+   }
+  ]
+ },
+ "id": "aug21lta",
+ "createdBy": "lichess",
+ "startsAt": "2021-08-21T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena August '21",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

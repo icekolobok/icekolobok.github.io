@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 366,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3180,
+   "score": 143,
+   "nb": {
+    "game": 64,
+    "berserk": 5,
+    "win": 44
+   },
+   "performance": 3210
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3148,
+   "score": 136,
+   "nb": {
+    "game": 45,
+    "berserk": 25,
+    "win": 34
+   },
+   "performance": 3083
+  },
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3134,
+   "score": 129,
+   "nb": {
+    "game": 67,
+    "berserk": 0,
+    "win": 46
+   },
+   "performance": 3173
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 426792,
+  "averageRating": 2536,
+  "berserks": 651,
+  "blackWins": 2325,
+  "games": 5200,
+  "draws": 280,
+  "whiteWins": 2595
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3180,
+    "score": 143,
+    "sheet": {
+     "scores": "1044444423001304422044220432100022242300222444222220220444444220"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3148,
+    "score": 136,
+    "sheet": {
+     "scores": "330010522044444444444422000455533002555555533",
+     "fire": true
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3134,
+    "score": 129,
+    "sheet": {
+     "scores": "4444220002022044422121020422020220422022120022220444220442204220422",
+     "fire": true
+    }
+   },
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3152,
+    "score": 128,
+    "sheet": {
+     "scores": "43300003324533023031210213102305231313100555555555331",
+     "fire": true
+    }
+   },
+   {
+    "name": "toivok3",
+    "title": "IM",
+    "rank": 5,
+    "rating": 3006,
+    "score": 123,
+    "sheet": {
+     "scores": "2533023002204532000102120523044220001045220230312042204220022022523"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3102,
+    "score": 120,
+    "sheet": {
+     "scores": "0444423021120210020020444220022012100044422000020204444222444422"
+    }
+   },
+   {
+    "name": "Katarina0TP",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2990,
+    "score": 118,
+    "sheet": {
+     "scores": "01024330422022030210310230000000432024432120244442302202200220232220212000"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 8,
+    "rating": 3050,
+    "score": 117,
+    "sheet": {
+     "scores": "02042202022002022022044220422022120444220201200200022044442201202202422"
+    }
+   },
+   {
+    "name": "elm20o7",
+    "title": "FM",
+    "rank": 9,
+    "rating": 2896,
+    "score": 112,
+    "sheet": {
+     "scores": "32533003030030204422000422002004220522020010212022200022020220445432"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 10,
+    "rating": 2958,
+    "score": 111,
+    "sheet": {
+     "scores": "03030000010202120003054220032000004445523020000444220000030523010443312"
+    }
+   }
+  ]
+ },
+ "id": "oct22lta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2022-10-15T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena October '22",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

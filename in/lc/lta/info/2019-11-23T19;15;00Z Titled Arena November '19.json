@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 356,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3103,
+   "score": 157,
+   "nb": {
+    "game": 61,
+    "berserk": 0,
+    "win": 49
+   },
+   "performance": 3143
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 2,
+   "rating": 2959,
+   "score": 125,
+   "nb": {
+    "game": 64,
+    "berserk": 16,
+    "win": 39
+   },
+   "performance": 2983
+  },
+  {
+   "name": "TerryR2",
+   "title": "IM",
+   "rank": 3,
+   "rating": 2968,
+   "score": 116,
+   "nb": {
+    "game": 54,
+    "berserk": 0,
+    "win": 37
+   },
+   "performance": 3021
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 423083,
+  "averageRating": 2474,
+  "berserks": 240,
+  "blackWins": 2264,
+  "games": 5015,
+  "draws": 370,
+  "whiteWins": 2381
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3103,
+    "score": 157,
+    "sheet": {
+     "scores": "4444422021022020444222220204442204422044444444442202204444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 2,
+    "rating": 2959,
+    "score": 125,
+    "sheet": {
+     "scores": "3310200552200032002030024320020200300254220220444542204230444432",
+     "fire": true
+    }
+   },
+   {
+    "name": "TerryR2",
+    "title": "IM",
+    "rank": 3,
+    "rating": 2968,
+    "score": 116,
+    "sheet": {
+     "scores": "101244220422020200220422044444444442200004220444422022"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2951,
+    "score": 112,
+    "sheet": {
+     "scores": "0024444422022204422010004422004432000204444442302222021"
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2889,
+    "score": 106,
+    "sheet": {
+     "scores": "20011021000224220220422044220220442211101020444220021204444220"
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 6,
+    "rating": 2905,
+    "score": 105,
+    "sheet": {
+     "scores": "200044220020021022022042200244444444444445533"
+    }
+   },
+   {
+    "name": "FrostWyrm",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2803,
+    "score": 98,
+    "sheet": {
+     "scores": "020220220004442202202002020020202024444422004220422022022020220"
+    }
+   },
+   {
+    "name": "Zhalmakhanov_R",
+    "title": "IM",
+    "rank": 8,
+    "rating": 2817,
+    "score": 97,
+    "sheet": {
+     "scores": "2200202442202000442201004220202104423002220444522042210",
+     "fire": true
+    }
+   },
+   {
+    "name": "DrMelekess",
+    "title": "IM",
+    "flair": "activity.lichess-correspondence",
+    "rank": 9,
+    "rating": 2737,
+    "score": 97,
+    "sheet": {
+     "scores": "522002010044222422020044220001202202002044220444220230003002",
+     "fire": true
+    }
+   },
+   {
+    "name": "srinathbaggins",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2838,
+    "score": 95,
+    "sheet": {
+     "scores": "2121012020422020000422044422120200422020204422042302202200022"
+    }
+   }
+  ]
+ },
+ "id": "nov19lta",
+ "createdBy": "lukhas",
+ "startsAt": "2019-11-23T19:15:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena November '19",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\nPostponed to start 1915 UTC.",
+ "onlyTitled": true
+}

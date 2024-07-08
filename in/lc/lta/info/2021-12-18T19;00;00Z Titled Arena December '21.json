@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 440,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "DrChampionstein",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3154,
+   "score": 148,
+   "nb": {
+    "game": 64,
+    "berserk": 0,
+    "win": 48
+   },
+   "performance": 3198
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3132,
+   "score": 136,
+   "nb": {
+    "game": 68,
+    "berserk": 5,
+    "win": 45
+   },
+   "performance": 3209
+  },
+  {
+   "name": "CleverTacticButFail",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2967,
+   "score": 117,
+   "nb": {
+    "game": 74,
+    "berserk": 31,
+    "win": 40
+   },
+   "performance": 2970
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 499551,
+  "averageRating": 2534,
+  "berserks": 594,
+  "blackWins": 2688,
+  "games": 6010,
+  "draws": 373,
+  "whiteWins": 2949
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "DrChampionstein",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3154,
+    "score": 148,
+    "sheet": {
+     "scores": "4444444444221042202202204444442224220202220200220442204221204422",
+     "fire": true
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3132,
+    "score": 136,
+    "sheet": {
+     "scores": "30231202022010044442224422020221044422022422044222220210422044231312"
+    }
+   },
+   {
+    "name": "CleverTacticButFail",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2967,
+    "score": 117,
+    "sheet": {
+     "scores": "32023030000022102233052304423002043303022020000120020423030432053303300002",
+     "fire": true
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2977,
+    "score": 112,
+    "sheet": {
+     "scores": "0200422120200010004444422104422002020022102444422000022004442204220"
+    }
+   },
+   {
+    "name": "Arseniii_Nesterov",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2952,
+    "score": 111,
+    "sheet": {
+     "scores": "00020000442204444220020210422004444422021020044442304523"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3033,
+    "score": 110,
+    "sheet": {
+     "scores": "3020212044422000020000022000102022002022042202044422104422244444220"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3081,
+    "score": 109,
+    "sheet": {
+     "scores": "04442202202002202200244220220121020100221004422024220220444221312"
+    }
+   },
+   {
+    "name": "Wild-King91",
+    "title": "GM",
+    "rank": 8,
+    "rating": 3043,
+    "score": 108,
+    "sheet": {
+     "scores": "233003000442200230020222120012242202120444231022044423030033030"
+    }
+   },
+   {
+    "name": "adnaPZg0",
+    "title": "IM",
+    "rank": 9,
+    "rating": 2904,
+    "score": 103,
+    "sheet": {
+     "scores": "1044422002004442200002120002010442200022042222202300200204422100422"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 10,
+    "rating": 2826,
+    "score": 102,
+    "sheet": {
+     "scores": "454330300003000220232001020242202022030100000003120100423000002302304220010422",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "dec21lta",
+ "createdBy": "lichess",
+ "startsAt": "2021-12-18T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena December '21",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

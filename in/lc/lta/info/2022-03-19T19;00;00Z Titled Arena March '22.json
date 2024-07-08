@@ -1,0 +1,205 @@
+{
+ "nbPlayers": 383,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3132,
+   "score": 131,
+   "nb": {
+    "game": 64,
+    "berserk": 8,
+    "win": 40
+   },
+   "performance": 3088
+  },
+  {
+   "name": "C9C9C9C9C9",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3126,
+   "score": 130,
+   "nb": {
+    "game": 63,
+    "berserk": 8,
+    "win": 42
+   },
+   "performance": 3160
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3095,
+   "score": 121,
+   "nb": {
+    "game": 63,
+    "berserk": 3,
+    "win": 41
+   },
+   "performance": 3101
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 446059,
+  "averageRating": 2535,
+  "berserks": 634,
+  "blackWins": 2426,
+  "games": 5391,
+  "draws": 300,
+  "whiteWins": 2665
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3132,
+    "score": 131,
+    "sheet": {
+     "scores": "2442302330200200444230442202444220230002242204230202522000244422"
+    }
+   },
+   {
+    "name": "C9C9C9C9C9",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3126,
+    "score": 130,
+    "sheet": {
+     "scores": "300012320205422042204544230000044220220422022044220423004444432"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3095,
+    "score": 121,
+    "sheet": {
+     "scores": "244442222202224221202044220422022042202000202020200442324442300"
+    }
+   },
+   {
+    "name": "Heisenberg01",
+    "title": "FM",
+    "rank": 4,
+    "rating": 2988,
+    "score": 116,
+    "sheet": {
+     "scores": "000444444220000004442211004444220000020012010042222202042200042204422"
+    }
+   },
+   {
+    "name": "caching",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2983,
+    "score": 115,
+    "sheet": {
+     "scores": "44445330220222022044220004220000200442202020202204422102120044220",
+     "fire": true
+    }
+   },
+   {
+    "name": "Pon4ik2006",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3007,
+    "score": 113,
+    "sheet": {
+     "scores": "2422122210004422002422004444220422111002202020044220422000442202"
+    }
+   },
+   {
+    "name": "sp1cycaterpillar",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3062,
+    "score": 113,
+    "sheet": {
+     "scores": "03000300204220221022000202044220444444442204444444422"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 8,
+    "rating": 3005,
+    "score": 113,
+    "sheet": {
+     "scores": "220010044442200020242200201202444220422004442200222202122204220022",
+     "fire": true
+    }
+   },
+   {
+    "name": "jimakos",
+    "title": "FM",
+    "rank": 9,
+    "rating": 2924,
+    "score": 113,
+    "sheet": {
+     "scores": "0053305230020523002302444220221020042202200100020444230300000200442210"
+    }
+   },
+   {
+    "name": "MahammadMuradli2003",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2956,
+    "score": 112,
+    "sheet": {
+     "scores": "3303000102004442202222200422004220000422024444220042302002204331200",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "mar22lta",
+ "createdBy": "lichess",
+ "startsAt": "2022-03-19T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena March '22",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

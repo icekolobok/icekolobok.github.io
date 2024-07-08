@@ -1,0 +1,205 @@
+{
+ "nbPlayers": 536,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3067,
+   "score": 165,
+   "nb": {
+    "game": 68,
+    "berserk": 4,
+    "win": 51
+   },
+   "performance": 3115
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2954,
+   "score": 145,
+   "nb": {
+    "game": 62,
+    "berserk": 8,
+    "win": 44
+   },
+   "performance": 3066
+  },
+  {
+   "name": "BMWHero",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2869,
+   "score": 119,
+   "nb": {
+    "game": 60,
+    "berserk": 0,
+    "win": 38
+   },
+   "performance": 2938
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 601072,
+  "averageRating": 2428,
+  "berserks": 764,
+  "blackWins": 3126,
+  "games": 7183,
+  "draws": 479,
+  "whiteWins": 3578
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3067,
+    "score": 165,
+    "sheet": {
+     "scores": "22222042224220010444422004422044422020020422054442204422044444554423",
+     "fire": true
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2954,
+    "score": 145,
+    "sheet": {
+     "scores": "00020204442204220004423022044220044444220222200044444444454533"
+    }
+   },
+   {
+    "name": "BMWHero",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2869,
+    "score": 119,
+    "sheet": {
+     "scores": "244220444220442212000120200444422100020220044220002044444422"
+    }
+   },
+   {
+    "name": "C9C9C9C9C9",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3002,
+    "score": 118,
+    "sheet": {
+     "scores": "3044230422022213022042310204423012022030222230230022002202445330"
+    }
+   },
+   {
+    "name": "FeegLood",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2962,
+    "score": 118,
+    "sheet": {
+     "scores": "1201200202020104444220220010044442200042202000422022444230444423"
+    }
+   },
+   {
+    "name": "Konevlad",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2966,
+    "score": 117,
+    "sheet": {
+     "scores": "12012102244444220244221112002002021020442202002200220444220224422"
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 7,
+    "rating": 2879,
+    "score": 116,
+    "sheet": {
+     "scores": "24320020220202204444220210200230000130454220000422020201044454220220"
+    }
+   },
+   {
+    "name": "grizzlybear79",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2903,
+    "score": 113,
+    "sheet": {
+     "scores": "0004444442200022000004220200210444444220220442202200200442202202"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2872,
+    "score": 110,
+    "sheet": {
+     "scores": "1304220202202210200021002020202020444220022002020220022444444422023012"
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2860,
+    "score": 109,
+    "sheet": {
+     "scores": "0444220422002000220022212020220022042202004220020100220104220044422020020312"
+    }
+   }
+  ]
+ },
+ "id": "oct20lta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-10-24T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena October '20",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

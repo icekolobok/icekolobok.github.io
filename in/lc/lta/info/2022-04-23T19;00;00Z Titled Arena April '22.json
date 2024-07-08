@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 395,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3104,
+   "score": 145,
+   "nb": {
+    "game": 64,
+    "berserk": 0,
+    "win": 46
+   },
+   "performance": 3191
+  },
+  {
+   "name": "yyoochess",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2996,
+   "score": 123,
+   "nb": {
+    "game": 62,
+    "berserk": 0,
+    "win": 42
+   },
+   "performance": 3082
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3059,
+   "score": 119,
+   "nb": {
+    "game": 67,
+    "berserk": 17,
+    "win": 39
+   },
+   "performance": 3021
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 445194,
+  "averageRating": 2514,
+  "berserks": 577,
+  "blackWins": 2459,
+  "games": 5469,
+  "draws": 300,
+  "whiteWins": 2710
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3104,
+    "score": 145,
+    "sheet": {
+     "scores": "2244442202020444220444442202204220220044220122422002044444442211"
+    }
+   },
+   {
+    "name": "yyoochess",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2996,
+    "score": 123,
+    "sheet": {
+     "scores": "22422022042210244442204220004220444442202020220442200004422022"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3059,
+    "score": 119,
+    "sheet": {
+     "scores": "5320100120002023042300442210022224442202044220422004422020423030130",
+     "fire": true
+    }
+   },
+   {
+    "name": "MeneerMandje",
+    "title": "GM",
+    "flair": "objects.basket",
+    "patron": true,
+    "rank": 4,
+    "rating": 2946,
+    "score": 117,
+    "sheet": {
+     "scores": "00202020023030303002004220044444422044220202020003020213030030002020204442202"
+    }
+   },
+   {
+    "name": "Artem_0degov",
+    "title": "FM",
+    "flair": "objects.gem-stone",
+    "patron": true,
+    "rank": 5,
+    "rating": 2878,
+    "score": 113,
+    "sheet": {
+     "scores": "10044444422004442202002020444220202001002044222422000444230"
+    }
+   },
+   {
+    "name": "temp006",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2937,
+    "score": 109,
+    "sheet": {
+     "scores": "4220200000104221202204220422121022022042204444445532031022",
+     "fire": true
+    }
+   },
+   {
+    "name": "Chessfis",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2914,
+    "score": 108,
+    "sheet": {
+     "scores": "3303022220000002200204442204442202000210220021200042202102020422000444220",
+     "fire": true
+    }
+   },
+   {
+    "name": "Chamaeleon3",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2981,
+    "score": 107,
+    "sheet": {
+     "scores": "002002044442200200202222021022042201002200044220044220422022244221"
+    }
+   },
+   {
+    "name": "Pon4ik2006",
+    "title": "GM",
+    "rank": 9,
+    "rating": 3002,
+    "score": 105,
+    "sheet": {
+     "scores": "2202004221002024442200120110020200444444220220120422020222222121",
+     "fire": true
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2999,
+    "score": 105,
+    "sheet": {
+     "scores": "4422020422002201020020020200042202004422020200222202200204221021244422",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "apr22lta",
+ "createdBy": "lichess",
+ "startsAt": "2022-04-23T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena April '22",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

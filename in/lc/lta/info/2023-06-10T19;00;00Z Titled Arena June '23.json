@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 314,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3142,
+   "score": 143,
+   "nb": {
+    "game": 62,
+    "berserk": 0,
+    "win": 42
+   },
+   "performance": 3255
+  },
+  {
+   "name": "AngelitoRT",
+   "title": "IM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3130,
+   "score": 130,
+   "nb": {
+    "game": 68,
+    "berserk": 0,
+    "win": 42
+   },
+   "performance": 3160
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3127,
+   "score": 123,
+   "nb": {
+    "game": 65,
+    "berserk": 8,
+    "win": 40
+   },
+   "performance": 3122
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 339953,
+  "averageRating": 2561,
+  "berserks": 446,
+  "blackWins": 1881,
+  "games": 4088,
+  "draws": 245,
+  "whiteWins": 1962
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3142,
+    "score": 143,
+    "sheet": {
+     "scores": "10124220202121212120422012122444220444422004442212444444444422"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3130,
+    "score": 130,
+    "sheet": {
+     "scores": "11224220022422022020201120122422020444444422120204442202444220202002"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3127,
+    "score": 123,
+    "sheet": {
+     "scores": "10423104422021200224230000020204444444230442204220202200423032320"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 4,
+    "rating": 3074,
+    "score": 117,
+    "sheet": {
+     "scores": "332220223022202000200024454220020330020030000004330320230444222230522",
+     "fire": true
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3040,
+    "score": 108,
+    "sheet": {
+     "scores": "0000102200102324320011100232230423030423000220204444422022022042202002"
+    }
+   },
+   {
+    "name": "Chessisnotfair",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2908,
+    "score": 108,
+    "sheet": {
+     "scores": "30004220002204422044220202002000220202002004442200022120002210200004444230020"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 7,
+    "rating": 3000,
+    "score": 105,
+    "sheet": {
+     "scores": "0102201002042202442204220000444442200022042200021224220220422022"
+    }
+   },
+   {
+    "name": "gmspideribarra",
+    "title": "GM",
+    "flair": "nature.spider-web",
+    "rank": 8,
+    "rating": 2933,
+    "score": 105,
+    "sheet": {
+     "scores": "20121222102000220220210200220444422022042200202200000422020422120200220422"
+    }
+   },
+   {
+    "name": "greennight",
+    "title": "IM",
+    "flair": "objects.musical-note",
+    "rank": 9,
+    "rating": 2912,
+    "score": 104,
+    "sheet": {
+     "scores": "120130000223000200222445220202210212044220022020202000000422044442302"
+    }
+   },
+   {
+    "name": "onamissionfromGod",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2926,
+    "score": 104,
+    "sheet": {
+     "scores": "300330300130300330000220220020230002000002200000010444442204442212030532010"
+    }
+   }
+  ]
+ },
+ "id": "jun23lta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-06-10T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena June '23",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jun23wua)",
+ "onlyTitled": true
+}

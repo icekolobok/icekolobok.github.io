@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 355,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3154,
+   "score": 162,
+   "nb": {
+    "game": 61,
+    "berserk": 1,
+    "win": 49
+   },
+   "performance": 3251
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3128,
+   "score": 126,
+   "nb": {
+    "game": 63,
+    "berserk": 12,
+    "win": 41
+   },
+   "performance": 3113
+  },
+  {
+   "name": "Nikotheo",
+   "title": "GM",
+   "flair": "people.santa-claus",
+   "rank": 3,
+   "rating": 3060,
+   "score": 118,
+   "nb": {
+    "game": 65,
+    "berserk": 6,
+    "win": 42
+   },
+   "performance": 3105
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 354880,
+  "averageRating": 2523,
+  "berserks": 756,
+  "blackWins": 1949,
+  "games": 4296,
+  "draws": 237,
+  "whiteWins": 2110
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3154,
+    "score": 162,
+    "sheet": {
+     "scores": "0422042211044222422020444444444220444444442202204444444422022"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3128,
+    "score": 126,
+    "sheet": {
+     "scores": "300422022204422044442202004230422022102012422044443202210433031"
+    }
+   },
+   {
+    "name": "Nikotheo",
+    "title": "GM",
+    "flair": "people.santa-claus",
+    "rank": 3,
+    "rating": 3060,
+    "score": 118,
+    "sheet": {
+     "scores": "02023002042213042302120042300020220220422022042202020444444444220"
+    }
+   },
+   {
+    "name": "elm20o7",
+    "title": "FM",
+    "rank": 4,
+    "rating": 2921,
+    "score": 118,
+    "sheet": {
+     "scores": "30230003210220020022454220230442224423000020000203052200020545220203202"
+    }
+   },
+   {
+    "name": "MatthewG-p4p",
+    "title": "IM",
+    "flair": "smileys.beaming-face-with-smiling-eyes",
+    "patron": true,
+    "rank": 5,
+    "rating": 2957,
+    "score": 118,
+    "sheet": {
+     "scores": "042204422021202042202202044422004220442200000044230010320302200452202"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 6,
+    "rating": 2943,
+    "score": 118,
+    "sheet": {
+     "scores": "533003023222032230023000020030303000422022105423000202022044454330030002",
+     "fire": true
+    }
+   },
+   {
+    "name": "Pon4ik2006",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3044,
+    "score": 113,
+    "sheet": {
+     "scores": "20210422022220020210020022042224221020204222220422044422042204422"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 8,
+    "rating": 3002,
+    "score": 111,
+    "sheet": {
+     "scores": "320444220020220422002102200223022020021202102044220442202444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2955,
+    "score": 111,
+    "sheet": {
+     "scores": "004422044422022002204220220044220021202022020221002022012000220444422"
+    }
+   },
+   {
+    "name": "MeneerMandje",
+    "title": "GM",
+    "flair": "objects.basket",
+    "patron": true,
+    "rank": 10,
+    "rating": 2883,
+    "score": 110,
+    "sheet": {
+     "scores": "12030000013124423000000442303020053200000010230044522020000300302303303200300330"
+    }
+   }
+  ]
+ },
+ "id": "may22lta",
+ "createdBy": "lichess",
+ "startsAt": "2022-05-28T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena May '22",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

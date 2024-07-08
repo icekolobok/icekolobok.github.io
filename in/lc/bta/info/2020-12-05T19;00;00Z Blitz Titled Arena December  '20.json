@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 701,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2759,
+   "score": 143,
+   "nb": {
+    "game": 59,
+    "berserk": 58,
+    "win": 36
+   },
+   "performance": 2834
+  },
+  {
+   "name": "drop_stone",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2742,
+   "score": 131,
+   "nb": {
+    "game": 65,
+    "berserk": 64,
+    "win": 37
+   },
+   "performance": 2758
+  },
+  {
+   "name": "nihalsarin2004",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2790,
+   "score": 124,
+   "nb": {
+    "game": 50,
+    "berserk": 34,
+    "win": 33
+   },
+   "performance": 2865
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 549974,
+  "averageRating": 2417,
+  "berserks": 3992,
+  "blackWins": 2791,
+  "games": 6550,
+  "draws": 571,
+  "whiteWins": 3188
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2759,
+    "score": 143,
+    "sheet": {
+     "scores": "31300001031300533005553300302533055553305533000330533055533"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2742,
+    "score": 131,
+    "sheet": {
+     "scores": "03055433000300303033030003305533100300330325330533013053305330320"
+    }
+   },
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2790,
+    "score": 124,
+    "sheet": {
+     "scores": "13055533030105330552213020223032554330302204455331"
+    }
+   },
+   {
+    "name": "FeegLood",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2814,
+    "score": 122,
+    "sheet": {
+     "scores": "301020010444422023244552300132522020002320225455544320"
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2690,
+    "score": 122,
+    "sheet": {
+     "scores": "322553301023300233013053313031323325533000303013030533033",
+     "fire": true
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2734,
+    "score": 117,
+    "sheet": {
+     "scores": "0030330001033003200444553300004330303033003004330303032454423"
+    }
+   },
+   {
+    "name": "kyart2",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2805,
+    "score": 116,
+    "sheet": {
+     "scores": "2303204220455533003105545533120555555330",
+     "fire": true
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 8,
+    "rating": 2732,
+    "score": 116,
+    "sheet": {
+     "scores": "5555321300533001045321030103303303010442203303103204522",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 9,
+    "rating": 2717,
+    "score": 116,
+    "sheet": {
+     "scores": "330330543303300330555330303303053305330000233103031033",
+     "fire": true
+    }
+   },
+   {
+    "name": "Atakishiyev04",
+    "title": "FM",
+    "rank": 10,
+    "rating": 2669,
+    "score": 114,
+    "sheet": {
+     "scores": "000044442300444423130445220532030044433022020045221"
+    }
+   }
+  ]
+ },
+ "id": "dec20bta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-12-05T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena December  '20",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

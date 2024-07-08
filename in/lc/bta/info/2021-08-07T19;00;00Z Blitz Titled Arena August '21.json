@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 419,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 1,
+   "rating": 2828,
+   "score": 131,
+   "nb": {
+    "game": 42,
+    "berserk": 23,
+    "win": 33
+   },
+   "performance": 3002
+  },
+  {
+   "name": "DrNykterstein",
+   "title": "GM",
+   "flair": "people.santa-claus-light-skin-tone",
+   "patron": true,
+   "rank": 2,
+   "rating": 3122,
+   "score": 114,
+   "nb": {
+    "game": 38,
+    "berserk": 0,
+    "win": 33
+   },
+   "performance": 3151
+  },
+  {
+   "name": "Arka50",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2872,
+   "score": 103,
+   "nb": {
+    "game": 44,
+    "berserk": 26,
+    "win": 27
+   },
+   "performance": 2927
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 343605,
+  "averageRating": 2503,
+  "berserks": 2102,
+  "blackWins": 1746,
+  "games": 4005,
+  "draws": 304,
+  "whiteWins": 1955
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 1,
+    "rating": 2828,
+    "score": 131,
+    "sheet": {
+     "scores": "555533030300203200444454545444545445533030",
+     "fire": true
+    }
+   },
+   {
+    "name": "DrNykterstein",
+    "title": "GM",
+    "flair": "people.santa-claus-light-skin-tone",
+    "patron": true,
+    "rank": 2,
+    "rating": 3122,
+    "score": 114,
+    "sheet": {
+     "scores": "44444444444444422042202220444220444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2872,
+    "score": 103,
+    "sheet": {
+     "scores": "03103000244454330330032445330523044543301012"
+    }
+   },
+   {
+    "name": "MahammadMuradli2003",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2702,
+    "score": 100,
+    "sheet": {
+     "scores": "0130305555330303030003030305330005330300330303033000000330"
+    }
+   },
+   {
+    "name": "Chesstoday",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2824,
+    "score": 99,
+    "sheet": {
+     "scores": "1300553301003300033001054423025330445230030002233021"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2892,
+    "score": 98,
+    "sheet": {
+     "scores": "03030330233033000553303303303030053300055330053300"
+    }
+   },
+   {
+    "name": "Abik02",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2774,
+    "score": 94,
+    "sheet": {
+     "scores": "33010555330000001000332533003053300105555533",
+     "fire": true
+    }
+   },
+   {
+    "name": "Praggnanandhaachess",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2797,
+    "score": 93,
+    "sheet": {
+     "scores": "30233033044320230300304444230232021045230003022"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2777,
+    "score": 93,
+    "sheet": {
+     "scores": "310000330005330030031032555330030013233005553303"
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2873,
+    "score": 92,
+    "sheet": {
+     "scores": "302330310230433030004433104220202044443302120302"
+    }
+   }
+  ]
+ },
+ "id": "aug21bta",
+ "createdBy": "lichess",
+ "startsAt": "2021-08-07T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena August '21",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Live Stream w/ IM Astaneh](https://twitch.tv/lichessdotorg)",
+ "onlyTitled": true
+}

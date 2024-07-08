@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 689,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2890,
+   "score": 134,
+   "nb": {
+    "game": 54,
+    "berserk": 54,
+    "win": 32
+   },
+   "performance": 2970
+  },
+  {
+   "name": "Konevlad",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3090,
+   "score": 120,
+   "nb": {
+    "game": 47,
+    "berserk": 12,
+    "win": 33
+   },
+   "performance": 3088
+  },
+  {
+   "name": "junglebook1",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2963,
+   "score": 120,
+   "nb": {
+    "game": 51,
+    "berserk": 37,
+    "win": 30
+   },
+   "performance": 3016
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 562678,
+  "averageRating": 2515,
+  "berserks": 4147,
+  "blackWins": 2921,
+  "games": 6618,
+  "draws": 536,
+  "whiteWins": 3161
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2890,
+    "score": 134,
+    "sheet": {
+     "scores": "010553310000330055533055533011303300005555533255533003"
+    }
+   },
+   {
+    "name": "Konevlad",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3090,
+    "score": 120,
+    "sheet": {
+     "scores": "00210332444442210031120444444454433054452204220"
+    }
+   },
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2963,
+    "score": 120,
+    "sheet": {
+     "scores": "132330010105320232021310433255455543210300545332330"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2865,
+    "score": 117,
+    "sheet": {
+     "scores": "30330003300332555533005330130130003305330555533033"
+    }
+   },
+   {
+    "name": "Heisenberg01",
+    "title": "FM",
+    "rank": 5,
+    "rating": 2865,
+    "score": 115,
+    "sheet": {
+     "scores": "54523043201000233110543303055230302012020202045221305331",
+     "fire": true
+    }
+   },
+   {
+    "name": "Inventing_Invention",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2901,
+    "score": 113,
+    "sheet": {
+     "scores": "023303110125330303001200552213130332523043310555533"
+    }
+   },
+   {
+    "name": "Saparmyrat",
+    "title": "IM",
+    "rank": 7,
+    "rating": 2753,
+    "score": 107,
+    "sheet": {
+     "scores": "003000324433033003300032230443303013000330001303325330304330"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2944,
+    "score": 105,
+    "sheet": {
+     "scores": "00422120224423042203030104445220445523002030532030"
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 9,
+    "rating": 2928,
+    "score": 105,
+    "sheet": {
+     "scores": "10533000030244442300120220224422002442200422044432023"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2804,
+    "score": 105,
+    "sheet": {
+     "scores": "03030000444230303003000455330001000053305533003055330003300"
+    }
+   }
+  ]
+ },
+ "id": "jan22bta",
+ "createdBy": "lichess",
+ "startsAt": "2022-01-08T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena January '22",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

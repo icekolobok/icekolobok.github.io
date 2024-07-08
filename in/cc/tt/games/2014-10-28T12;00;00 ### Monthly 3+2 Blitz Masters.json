@@ -1,0 +1,952 @@
+[
+    {
+        "w": "Nouki",
+        "b": "ruzomberok",
+        "r": 1
+    },
+    {
+        "w": "TomsKantans",
+        "b": "lorcho",
+        "r": 0
+    },
+    {
+        "w": "GeorgMeier",
+        "b": "marabu44",
+        "r": 1
+    },
+    {
+        "w": "AlmirDzhumaev",
+        "b": "vovkcoach",
+        "r": 0
+    },
+    {
+        "w": "GMNeiksans",
+        "b": "oggy1984",
+        "r": 1
+    },
+    {
+        "w": "exoticprincess",
+        "b": "GMHess",
+        "r": 1
+    },
+    {
+        "w": "liczner",
+        "b": "Palacios-LLera",
+        "r": 1
+    },
+    {
+        "w": "Trendle",
+        "b": "jcibarra",
+        "r": 0
+    },
+    {
+        "w": "Iran_Chess_Trainer",
+        "b": "THORK",
+        "r": 0
+    },
+    {
+        "w": "HZMC92",
+        "b": "Th3ChessViking",
+        "r": 1
+    },
+    {
+        "w": "DanielRensch",
+        "b": "gumersindo",
+        "r": 0
+    },
+    {
+        "w": "KingPetrosian",
+        "b": "mat_kolosowski",
+        "r": 0
+    },
+    {
+        "w": "KaydenTroffChess",
+        "b": "WanderingPuppet",
+        "r": 1
+    },
+    {
+        "w": "Carolina-moon",
+        "b": "JamesColeman",
+        "r": 0
+    },
+    {
+        "w": "VovAn1991",
+        "b": "RealBlindMuddy",
+        "r": 1
+    },
+    {
+        "w": "Fischwitsch",
+        "b": "Time2Pretend",
+        "r": 2
+    },
+    {
+        "w": "David_Klein",
+        "b": "alexsuper1987",
+        "r": 1
+    },
+    {
+        "w": "SabinaFoisor",
+        "b": "swayamsm",
+        "r": 1
+    },
+    {
+        "w": "GedoGluperd",
+        "b": "Danesz22",
+        "r": 0
+    },
+    {
+        "w": "IMRosen",
+        "b": "jbj",
+        "r": 1
+    },
+    {
+        "w": "Alexander_Donchenko",
+        "b": "brauliocuarta",
+        "r": 1
+    },
+    {
+        "w": "DaPazz",
+        "b": "mokerslag",
+        "r": 0
+    },
+    {
+        "w": "MichiganEagle",
+        "b": "dsanchez1973",
+        "r": 1
+    },
+    {
+        "w": "kevin9512",
+        "b": "wannabe2700",
+        "r": 0
+    },
+    {
+        "w": "XeresLt",
+        "b": "chesstatour",
+        "r": 1
+    },
+    {
+        "w": "ilmago",
+        "b": "GMG",
+        "r": 0
+    },
+    {
+        "w": "Nouki",
+        "b": "Alexander_Donchenko",
+        "r": 1
+    },
+    {
+        "w": "lorcho",
+        "b": "mokerslag",
+        "r": 0
+    },
+    {
+        "w": "GeorgMeier",
+        "b": "David_Klein",
+        "r": 2
+    },
+    {
+        "w": "vovkcoach",
+        "b": "MichiganEagle",
+        "r": 1
+    },
+    {
+        "w": "GMNeiksans",
+        "b": "VovAn1991",
+        "r": 0
+    },
+    {
+        "w": "wannabe2700",
+        "b": "liczner",
+        "r": 1
+    },
+    {
+        "w": "jcibarra",
+        "b": "JamesColeman",
+        "r": 1
+    },
+    {
+        "w": "mat_kolosowski",
+        "b": "XeresLt",
+        "r": 2
+    },
+    {
+        "w": "GMG",
+        "b": "KaydenTroffChess",
+        "r": 1
+    },
+    {
+        "w": "gumersindo",
+        "b": "exoticprincess",
+        "r": 0
+    },
+    {
+        "w": "THORK",
+        "b": "SabinaFoisor",
+        "r": 0
+    },
+    {
+        "w": "Danesz22",
+        "b": "HZMC92",
+        "r": 1
+    },
+    {
+        "w": "Time2Pretend",
+        "b": "IMRosen",
+        "r": 1
+    },
+    {
+        "w": "GMHess",
+        "b": "Fischwitsch",
+        "r": 1
+    },
+    {
+        "w": "Iran_Chess_Trainer",
+        "b": "Trendle",
+        "r": 0
+    },
+    {
+        "w": "Th3ChessViking",
+        "b": "KingPetrosian",
+        "r": 1
+    },
+    {
+        "w": "Palacios-LLera",
+        "b": "DanielRensch",
+        "r": 1
+    },
+    {
+        "w": "WanderingPuppet",
+        "b": "GedoGluperd",
+        "r": 0
+    },
+    {
+        "w": "jbj",
+        "b": "oggy1984",
+        "r": 2
+    },
+    {
+        "w": "ruzomberok",
+        "b": "Carolina-moon",
+        "r": 2
+    },
+    {
+        "w": "marabu44",
+        "b": "AlmirDzhumaev",
+        "r": 2
+    },
+    {
+        "w": "alexsuper1987",
+        "b": "dsanchez1973",
+        "r": 1
+    },
+    {
+        "w": "brauliocuarta",
+        "b": "kevin9512",
+        "r": 2
+    },
+    {
+        "w": "chesstatour",
+        "b": "DaPazz",
+        "r": 1
+    },
+    {
+        "w": "wannabe2700",
+        "b": "Nouki",
+        "r": 0
+    },
+    {
+        "w": "vovkcoach",
+        "b": "GMG",
+        "r": 0
+    },
+    {
+        "w": "mokerslag",
+        "b": "jcibarra",
+        "r": 0
+    },
+    {
+        "w": "VovAn1991",
+        "b": "exoticprincess",
+        "r": 0
+    },
+    {
+        "w": "SabinaFoisor",
+        "b": "Danesz22",
+        "r": 0
+    },
+    {
+        "w": "Time2Pretend",
+        "b": "GeorgMeier",
+        "r": 0
+    },
+    {
+        "w": "mat_kolosowski",
+        "b": "David_Klein",
+        "r": 0
+    },
+    {
+        "w": "XeresLt",
+        "b": "lorcho",
+        "r": 0
+    },
+    {
+        "w": "MichiganEagle",
+        "b": "GMNeiksans",
+        "r": 0
+    },
+    {
+        "w": "GMHess",
+        "b": "Palacios-LLera",
+        "r": 1
+    },
+    {
+        "w": "liczner",
+        "b": "Alexander_Donchenko",
+        "r": 0
+    },
+    {
+        "w": "Th3ChessViking",
+        "b": "Trendle",
+        "r": 0
+    },
+    {
+        "w": "KaydenTroffChess",
+        "b": "GedoGluperd",
+        "r": 1
+    },
+    {
+        "w": "JamesColeman",
+        "b": "THORK",
+        "r": 2
+    },
+    {
+        "w": "HZMC92",
+        "b": "alexsuper1987",
+        "r": 0
+    },
+    {
+        "w": "gumersindo",
+        "b": "chesstatour",
+        "r": 1
+    },
+    {
+        "w": "jbj",
+        "b": "ilmago",
+        "r": 1
+    },
+    {
+        "w": "ruzomberok",
+        "b": "Fischwitsch",
+        "r": 0
+    },
+    {
+        "w": "marabu44",
+        "b": "Carolina-moon",
+        "r": 1
+    },
+    {
+        "w": "oggy1984",
+        "b": "AlmirDzhumaev",
+        "r": 1
+    },
+    {
+        "w": "brauliocuarta",
+        "b": "DanielRensch",
+        "r": 1
+    },
+    {
+        "w": "kevin9512",
+        "b": "KingPetrosian",
+        "r": 1
+    },
+    {
+        "w": "dsanchez1973",
+        "b": "WanderingPuppet",
+        "r": 0
+    },
+    {
+        "w": "GMG",
+        "b": "Nouki",
+        "r": 1
+    },
+    {
+        "w": "jcibarra",
+        "b": "exoticprincess",
+        "r": 0
+    },
+    {
+        "w": "Danesz22",
+        "b": "GeorgMeier",
+        "r": 0
+    },
+    {
+        "w": "David_Klein",
+        "b": "lorcho",
+        "r": 1
+    },
+    {
+        "w": "mokerslag",
+        "b": "vovkcoach",
+        "r": 0
+    },
+    {
+        "w": "GMNeiksans",
+        "b": "wannabe2700",
+        "r": 1
+    },
+    {
+        "w": "Alexander_Donchenko",
+        "b": "GMHess",
+        "r": 0
+    },
+    {
+        "w": "Trendle",
+        "b": "KaydenTroffChess",
+        "r": 0
+    },
+    {
+        "w": "VovAn1991",
+        "b": "gumersindo",
+        "r": 0
+    },
+    {
+        "w": "alexsuper1987",
+        "b": "SabinaFoisor",
+        "r": 0
+    },
+    {
+        "w": "mat_kolosowski",
+        "b": "marabu44",
+        "r": 1
+    },
+    {
+        "w": "JamesColeman",
+        "b": "oggy1984",
+        "r": 0
+    },
+    {
+        "w": "Time2Pretend",
+        "b": "XeresLt",
+        "r": 1
+    },
+    {
+        "w": "THORK",
+        "b": "jbj",
+        "r": 1
+    },
+    {
+        "w": "Fischwitsch",
+        "b": "kevin9512",
+        "r": 2
+    },
+    {
+        "w": "brauliocuarta",
+        "b": "liczner",
+        "r": 0
+    },
+    {
+        "w": "WanderingPuppet",
+        "b": "Th3ChessViking",
+        "r": 0
+    },
+    {
+        "w": "GedoGluperd",
+        "b": "HZMC92",
+        "r": 0
+    },
+    {
+        "w": "Palacios-LLera",
+        "b": "MichiganEagle",
+        "r": 0
+    },
+    {
+        "w": "chesstatour",
+        "b": "ilmago",
+        "r": 0
+    },
+    {
+        "w": "AlmirDzhumaev",
+        "b": "ruzomberok",
+        "r": 0
+    },
+    {
+        "w": "DanielRensch",
+        "b": "KingPetrosian",
+        "r": 1
+    },
+    {
+        "w": "exoticprincess",
+        "b": "GMG",
+        "r": 1
+    },
+    {
+        "w": "GeorgMeier",
+        "b": "Nouki",
+        "r": 2
+    },
+    {
+        "w": "David_Klein",
+        "b": "vovkcoach",
+        "r": 0
+    },
+    {
+        "w": "KaydenTroffChess",
+        "b": "GMNeiksans",
+        "r": 2
+    },
+    {
+        "w": "GMHess",
+        "b": "gumersindo",
+        "r": 1
+    },
+    {
+        "w": "jcibarra",
+        "b": "SabinaFoisor",
+        "r": 1
+    },
+    {
+        "w": "Danesz22",
+        "b": "mat_kolosowski",
+        "r": 1
+    },
+    {
+        "w": "THORK",
+        "b": "Time2Pretend",
+        "r": 1
+    },
+    {
+        "w": "oggy1984",
+        "b": "liczner",
+        "r": 0
+    },
+    {
+        "w": "lorcho",
+        "b": "MichiganEagle",
+        "r": 1
+    },
+    {
+        "w": "Th3ChessViking",
+        "b": "wannabe2700",
+        "r": 1
+    },
+    {
+        "w": "mokerslag",
+        "b": "VovAn1991",
+        "r": 1
+    },
+    {
+        "w": "Alexander_Donchenko",
+        "b": "Trendle",
+        "r": 1
+    },
+    {
+        "w": "ilmago",
+        "b": "HZMC92",
+        "r": 0
+    },
+    {
+        "w": "alexsuper1987",
+        "b": "JamesColeman",
+        "r": 1
+    },
+    {
+        "w": "jbj",
+        "b": "ruzomberok",
+        "r": 1
+    },
+    {
+        "w": "XeresLt",
+        "b": "marabu44",
+        "r": 1
+    },
+    {
+        "w": "GedoGluperd",
+        "b": "brauliocuarta",
+        "r": 1
+    },
+    {
+        "w": "dsanchez1973",
+        "b": "DanielRensch",
+        "r": 0
+    },
+    {
+        "w": "chesstatour",
+        "b": "AlmirDzhumaev",
+        "r": 0
+    },
+    {
+        "w": "exoticprincess",
+        "b": "GeorgMeier",
+        "r": 1
+    },
+    {
+        "w": "vovkcoach",
+        "b": "jcibarra",
+        "r": 0
+    },
+    {
+        "w": "GMG",
+        "b": "GMHess",
+        "r": 1
+    },
+    {
+        "w": "Nouki",
+        "b": "Danesz22",
+        "r": 1
+    },
+    {
+        "w": "GMNeiksans",
+        "b": "David_Klein",
+        "r": 1
+    },
+    {
+        "w": "KaydenTroffChess",
+        "b": "THORK",
+        "r": 2
+    },
+    {
+        "w": "lorcho",
+        "b": "HZMC92",
+        "r": 1
+    },
+    {
+        "w": "liczner",
+        "b": "mokerslag",
+        "r": 1
+    },
+    {
+        "w": "Th3ChessViking",
+        "b": "Alexander_Donchenko",
+        "r": 2
+    },
+    {
+        "w": "gumersindo",
+        "b": "SabinaFoisor",
+        "r": 2
+    },
+    {
+        "w": "alexsuper1987",
+        "b": "mat_kolosowski",
+        "r": 0
+    },
+    {
+        "w": "jbj",
+        "b": "XeresLt",
+        "r": 1
+    },
+    {
+        "w": "oggy1984",
+        "b": "DanielRensch",
+        "r": 0
+    },
+    {
+        "w": "wannabe2700",
+        "b": "VovAn1991",
+        "r": 0
+    },
+    {
+        "w": "Trendle",
+        "b": "GedoGluperd",
+        "r": 1
+    },
+    {
+        "w": "MichiganEagle",
+        "b": "ilmago",
+        "r": 1
+    },
+    {
+        "w": "JamesColeman",
+        "b": "marabu44",
+        "r": 2
+    },
+    {
+        "w": "ruzomberok",
+        "b": "brauliocuarta",
+        "r": 1
+    },
+    {
+        "w": "AlmirDzhumaev",
+        "b": "dsanchez1973",
+        "r": 1
+    },
+    {
+        "w": "exoticprincess",
+        "b": "Nouki",
+        "r": 1
+    },
+    {
+        "w": "jcibarra",
+        "b": "GMG",
+        "r": 1
+    },
+    {
+        "w": "lorcho",
+        "b": "GMNeiksans",
+        "r": 0
+    },
+    {
+        "w": "GeorgMeier",
+        "b": "liczner",
+        "r": 1
+    },
+    {
+        "w": "vovkcoach",
+        "b": "KaydenTroffChess",
+        "r": 1
+    },
+    {
+        "w": "GMHess",
+        "b": "THORK",
+        "r": 1
+    },
+    {
+        "w": "Danesz22",
+        "b": "Th3ChessViking",
+        "r": 1
+    },
+    {
+        "w": "mat_kolosowski",
+        "b": "Alexander_Donchenko",
+        "r": 2
+    },
+    {
+        "w": "David_Klein",
+        "b": "gumersindo",
+        "r": 1
+    },
+    {
+        "w": "SabinaFoisor",
+        "b": "jbj",
+        "r": 0
+    },
+    {
+        "w": "DanielRensch",
+        "b": "MichiganEagle",
+        "r": 1
+    },
+    {
+        "w": "VovAn1991",
+        "b": "Trendle",
+        "r": 1
+    },
+    {
+        "w": "mokerslag",
+        "b": "alexsuper1987",
+        "r": 1
+    },
+    {
+        "w": "XeresLt",
+        "b": "AlmirDzhumaev",
+        "r": 1
+    },
+    {
+        "w": "ruzomberok",
+        "b": "oggy1984",
+        "r": 0
+    },
+    {
+        "w": "JamesColeman",
+        "b": "chesstatour",
+        "r": 1
+    },
+    {
+        "w": "marabu44",
+        "b": "GedoGluperd",
+        "r": 0
+    },
+    {
+        "w": "ilmago",
+        "b": "wannabe2700",
+        "r": 0
+    },
+    {
+        "w": "dsanchez1973",
+        "b": "brauliocuarta",
+        "r": 0
+    },
+    {
+        "w": "exoticprincess",
+        "b": "GMNeiksans",
+        "r": 1
+    },
+    {
+        "w": "jcibarra",
+        "b": "GeorgMeier",
+        "r": 0
+    },
+    {
+        "w": "vovkcoach",
+        "b": "Danesz22",
+        "r": 0
+    },
+    {
+        "w": "Nouki",
+        "b": "GMHess",
+        "r": 2
+    },
+    {
+        "w": "GMG",
+        "b": "David_Klein",
+        "r": 1
+    },
+    {
+        "w": "jbj",
+        "b": "lorcho",
+        "r": 0
+    },
+    {
+        "w": "liczner",
+        "b": "VovAn1991",
+        "r": 1
+    },
+    {
+        "w": "DanielRensch",
+        "b": "Alexander_Donchenko",
+        "r": 0
+    },
+    {
+        "w": "mat_kolosowski",
+        "b": "KaydenTroffChess",
+        "r": 0
+    },
+    {
+        "w": "THORK",
+        "b": "mokerslag",
+        "r": 0
+    },
+    {
+        "w": "oggy1984",
+        "b": "Th3ChessViking",
+        "r": 1
+    },
+    {
+        "w": "gumersindo",
+        "b": "XeresLt",
+        "r": 1
+    },
+    {
+        "w": "SabinaFoisor",
+        "b": "JamesColeman",
+        "r": 1
+    },
+    {
+        "w": "GedoGluperd",
+        "b": "wannabe2700",
+        "r": 1
+    },
+    {
+        "w": "MichiganEagle",
+        "b": "Trendle",
+        "r": 2
+    },
+    {
+        "w": "alexsuper1987",
+        "b": "ruzomberok",
+        "r": 2
+    },
+    {
+        "w": "AlmirDzhumaev",
+        "b": "brauliocuarta",
+        "r": 0
+    },
+    {
+        "w": "marabu44",
+        "b": "ilmago",
+        "r": 1
+    },
+    {
+        "w": "chesstatour",
+        "b": "dsanchez1973",
+        "r": 0
+    },
+    {
+        "w": "Danesz22",
+        "b": "exoticprincess",
+        "r": 1
+    },
+    {
+        "w": "GeorgMeier",
+        "b": "GMG",
+        "r": 2
+    },
+    {
+        "w": "GMNeiksans",
+        "b": "jcibarra",
+        "r": 1
+    },
+    {
+        "w": "GMHess",
+        "b": "lorcho",
+        "r": 1
+    },
+    {
+        "w": "Nouki",
+        "b": "liczner",
+        "r": 0
+    },
+    {
+        "w": "Alexander_Donchenko",
+        "b": "vovkcoach",
+        "r": 1
+    },
+    {
+        "w": "KaydenTroffChess",
+        "b": "mokerslag",
+        "r": 0
+    },
+    {
+        "w": "David_Klein",
+        "b": "oggy1984",
+        "r": 1
+    },
+    {
+        "w": "gumersindo",
+        "b": "jbj",
+        "r": 0
+    },
+    {
+        "w": "SabinaFoisor",
+        "b": "DanielRensch",
+        "r": 0
+    },
+    {
+        "w": "VovAn1991",
+        "b": "THORK",
+        "r": 1
+    },
+    {
+        "w": "GedoGluperd",
+        "b": "Th3ChessViking",
+        "r": 1
+    },
+    {
+        "w": "MichiganEagle",
+        "b": "alexsuper1987",
+        "r": 1
+    },
+    {
+        "w": "Trendle",
+        "b": "XeresLt",
+        "r": 1
+    },
+    {
+        "w": "brauliocuarta",
+        "b": "JamesColeman",
+        "r": 0
+    },
+    {
+        "w": "wannabe2700",
+        "b": "marabu44",
+        "r": 1
+    },
+    {
+        "w": "ruzomberok",
+        "b": "chesstatour",
+        "r": 1
+    },
+    {
+        "w": "dsanchez1973",
+        "b": "ilmago",
+        "r": 0
+    }
+]

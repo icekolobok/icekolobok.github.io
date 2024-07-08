@@ -1,0 +1,204 @@
+{
+ "nbPlayers": 462,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Arka50",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2879,
+   "score": 132,
+   "nb": {
+    "game": 59,
+    "berserk": 49,
+    "win": 34
+   },
+   "performance": 2900
+  },
+  {
+   "name": "FeegLood",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2884,
+   "score": 123,
+   "nb": {
+    "game": 53,
+    "berserk": 32,
+    "win": 34
+   },
+   "performance": 2945
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2885,
+   "score": 119,
+   "nb": {
+    "game": 52,
+    "berserk": 51,
+    "win": 29
+   },
+   "performance": 2840
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 377902,
+  "averageRating": 2501,
+  "berserks": 2710,
+  "blackWins": 2028,
+  "games": 4536,
+  "draws": 370,
+  "whiteWins": 2138
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2879,
+    "score": 132,
+    "sheet": {
+     "scores": "10033100300130230104555455330003312131305330332455330553300"
+    }
+   },
+   {
+    "name": "FeegLood",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2884,
+    "score": 123,
+    "sheet": {
+     "scores": "03113102533255554432000004452302055220422022330320432"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2885,
+    "score": 119,
+    "sheet": {
+     "scores": "1030330030125555555321301000030533105330033000555533"
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2808,
+    "score": 118,
+    "sheet": {
+     "scores": "101000300130532243323300100052300302255330452300330555532"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2784,
+    "score": 118,
+    "sheet": {
+     "scores": "13030553305330231000330233020553305555555330200030"
+    }
+   },
+   {
+    "name": "Astramariy",
+    "title": "IM",
+    "rank": 6,
+    "rating": 2800,
+    "score": 111,
+    "sheet": {
+     "scores": "5444442201200002303003045422044553203303253303300",
+     "fire": true
+    }
+   },
+   {
+    "name": "Twelvedigits",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2798,
+    "score": 102,
+    "sheet": {
+     "scores": "303031021001024444444554330043300043304423032"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 2848,
+    "score": 101,
+    "sheet": {
+     "scores": "33000255321210423054453300303304544230131302",
+     "fire": true
+    }
+   },
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2884,
+    "score": 100,
+    "sheet": {
+     "scores": "2553325553313003031305330555533233"
+    }
+   },
+   {
+    "name": "wateenellende",
+    "title": "IM",
+    "flair": "nature.turtle",
+    "patron": true,
+    "rank": 10,
+    "rating": 2786,
+    "score": 95,
+    "sheet": {
+     "scores": "010330303301310302202305533005330220330301303005532"
+    }
+   }
+  ]
+ },
+ "id": "sep21bta",
+ "createdBy": "lichess",
+ "startsAt": "2021-09-04T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena September '21",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

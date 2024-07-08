@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 509,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "drop_stone",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2853,
+   "score": 130,
+   "nb": {
+    "game": 56,
+    "berserk": 51,
+    "win": 31
+   },
+   "performance": 2885
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2912,
+   "score": 127,
+   "nb": {
+    "game": 59,
+    "berserk": 41,
+    "win": 34
+   },
+   "performance": 2880
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2824,
+   "score": 115,
+   "nb": {
+    "game": 54,
+    "berserk": 54,
+    "win": 29
+   },
+   "performance": 2799
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 401548,
+  "averageRating": 2527,
+  "berserks": 2901,
+  "blackWins": 1999,
+  "games": 4641,
+  "draws": 410,
+  "whiteWins": 2232
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2853,
+    "score": 130,
+    "sheet": {
+     "scores": "24455330033030100533010005330233030010005555533255552310"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2912,
+    "score": 127,
+    "sheet": {
+     "scores": "03255523233003300533030000300230030025553303054432124432003"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2824,
+    "score": 115,
+    "sheet": {
+     "scores": "033003300100055330303000555555533030030301300005555330"
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2790,
+    "score": 115,
+    "sheet": {
+     "scores": "130233000125533003130130555330000001030331003033130053300325331"
+    }
+   },
+   {
+    "name": "Mitrabha",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2767,
+    "score": 113,
+    "sheet": {
+     "scores": "3302533000033030324330330330005533010043323302533013020022",
+     "fire": true
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2826,
+    "score": 112,
+    "sheet": {
+     "scores": "255533042200003000030303000000532113023013004544445330432"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 7,
+    "rating": 2891,
+    "score": 109,
+    "sheet": {
+     "scores": "20100002022022121204442212052302552302205220054444523"
+    }
+   },
+   {
+    "name": "Chamaeleon3",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2768,
+    "score": 108,
+    "sheet": {
+     "scores": "1300230433042310242300000325533003033043313000331252203012"
+    }
+   },
+   {
+    "name": "Heisenberg01",
+    "title": "FM",
+    "rank": 9,
+    "rating": 2803,
+    "score": 103,
+    "sheet": {
+     "scores": "0010002103255533013000202010231253303103020003103052200545330"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2837,
+    "score": 98,
+    "sheet": {
+     "scores": "30305533100020052304423055455555533"
+    }
+   }
+  ]
+ },
+ "id": "dec21bta",
+ "createdBy": "lichess",
+ "startsAt": "2021-12-04T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena December '21",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

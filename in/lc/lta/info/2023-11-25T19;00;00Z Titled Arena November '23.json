@@ -1,0 +1,209 @@
+{
+ "nbPlayers": 383,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Inventing_Invention",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3201,
+   "score": 133,
+   "nb": {
+    "game": 60,
+    "berserk": 0,
+    "win": 42
+   },
+   "performance": 3268
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 2,
+   "rating": 3199,
+   "score": 127,
+   "nb": {
+    "game": 43,
+    "berserk": 27,
+    "win": 31
+   },
+   "performance": 3139
+  },
+  {
+   "name": "Arka50",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3175,
+   "score": 122,
+   "nb": {
+    "game": 59,
+    "berserk": 3,
+    "win": 39
+   },
+   "performance": 3256
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 428994,
+  "averageRating": 2592,
+  "berserks": 853,
+  "blackWins": 2358,
+  "games": 5157,
+  "draws": 320,
+  "whiteWins": 2479
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Inventing_Invention",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3201,
+    "score": 133,
+    "sheet": {
+     "scores": "222204422044221204442204220210021000220444444444422242224220"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 2,
+    "rating": 3199,
+    "score": 127,
+    "sheet": {
+     "scores": "0023300523003004445422030054544555555555533"
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3175,
+    "score": 122,
+    "sheet": {
+     "scores": "33020022020220010120220202012024444444422120422044444444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3180,
+    "score": 120,
+    "sheet": {
+     "scores": "100000030544422002201224422001001244442202021202202202444220200124422"
+    }
+   },
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 3234,
+    "score": 120,
+    "sheet": {
+     "scores": "00032000032553303130022044220042302044220220204220444444532"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 3151,
+    "score": 114,
+    "sheet": {
+     "scores": "23300300004533242302533030330305555553305533"
+    }
+   },
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3160,
+    "score": 113,
+    "sheet": {
+     "scores": "0422244442212422020221202020202201202204422022044220044422002"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 3147,
+    "score": 112,
+    "sheet": {
+     "scores": "5442200202044220222201022001200200422101100422044442224444220",
+     "fire": true
+    }
+   },
+   {
+    "name": "MatthewG-p4p",
+    "title": "IM",
+    "flair": "smileys.beaming-face-with-smiling-eyes",
+    "patron": true,
+    "rank": 9,
+    "rating": 3101,
+    "score": 107,
+    "sheet": {
+     "scores": "20220304220000020442222200444444444442202045533"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 10,
+    "rating": 3095,
+    "score": 106,
+    "sheet": {
+     "scores": "330102033003130200230220022203200020044544230032002200201042224422",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "nov23lta",
+ "createdBy": "lukhas",
+ "startsAt": "2023-11-25T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena November '23",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/nov23wua)",
+ "onlyTitled": true
+}

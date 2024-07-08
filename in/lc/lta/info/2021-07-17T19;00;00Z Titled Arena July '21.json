@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 416,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "C9C9C9C9C9",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3067,
+   "score": 196,
+   "nb": {
+    "game": 75,
+    "berserk": 31,
+    "win": 53
+   },
+   "performance": 3089
+  },
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3021,
+   "score": 141,
+   "nb": {
+    "game": 65,
+    "berserk": 1,
+    "win": 44
+   },
+   "performance": 3091
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3104,
+   "score": 137,
+   "nb": {
+    "game": 43,
+    "berserk": 30,
+    "win": 33
+   },
+   "performance": 2991
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 475660,
+  "averageRating": 2460,
+  "berserks": 791,
+  "blackWins": 2528,
+  "games": 5741,
+  "draws": 312,
+  "whiteWins": 2901
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "C9C9C9C9C9",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3067,
+    "score": 196,
+    "sheet": {
+     "scores": "000121123200230202045220444523044453302445444220054554522055545433055320032"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3021,
+    "score": 141,
+    "sheet": {
+     "scores": "42222311244221212002202101042204444220020044422044222444422044422",
+     "fire": true
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3104,
+    "score": 137,
+    "sheet": {
+     "scores": "2533030130444230304454455555553303105555533"
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 4,
+    "rating": 2924,
+    "score": 121,
+    "sheet": {
+     "scores": "2022004422020002222204444422010220220044422001202222044444230030300"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 3006,
+    "score": 119,
+    "sheet": {
+     "scores": "2222422042202002044422012000202022042200004220220044442203044442300"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2930,
+    "score": 117,
+    "sheet": {
+     "scores": "030053313031003003055330211204422022200442204422020220204442210"
+    }
+   },
+   {
+    "name": "ABachmann",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2879,
+    "score": 115,
+    "sheet": {
+     "scores": "244220042202044442202042204220200002204544220021100454432"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2822,
+    "score": 115,
+    "sheet": {
+     "scores": "3000045330000423020200030002454231303000004220004222433102200304220230302"
+    }
+   },
+   {
+    "name": "MeneerMandje",
+    "title": "GM",
+    "flair": "objects.basket",
+    "patron": true,
+    "rank": 9,
+    "rating": 2861,
+    "score": 114,
+    "sheet": {
+     "scores": "033020522003300200030302000000322320200000000444220310042210042202020220022044532"
+    }
+   },
+   {
+    "name": "wateenellende",
+    "title": "IM",
+    "flair": "nature.turtle",
+    "patron": true,
+    "rank": 10,
+    "rating": 2817,
+    "score": 114,
+    "sheet": {
+     "scores": "1204320053302302300010000230230000200254332330300000110024322454330222"
+    }
+   }
+  ]
+ },
+ "id": "jul21lta",
+ "createdBy": "lichess",
+ "startsAt": "2021-07-17T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena July '21",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,500 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $1000/$250/$125/$75/$50",
+ "onlyTitled": true
+}

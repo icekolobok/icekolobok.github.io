@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 270,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "DrDrunkenstein",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3030,
+   "score": 168,
+   "nb": {
+    "game": 65,
+    "berserk": 0,
+    "win": 49
+   },
+   "performance": 3012
+  },
+  {
+   "name": "CleverTacticButFail",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2939,
+   "score": 160,
+   "nb": {
+    "game": 64,
+    "berserk": 5,
+    "win": 48
+   },
+   "performance": 2972
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2913,
+   "score": 129,
+   "nb": {
+    "game": 62,
+    "berserk": 2,
+    "win": 42
+   },
+   "performance": 2838
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 392078,
+  "averageRating": 2346,
+  "berserks": 220,
+  "blackWins": 2102,
+  "games": 4650,
+  "draws": 285,
+  "whiteWins": 2263
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "DrDrunkenstein",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3030,
+    "score": 168,
+    "sheet": {
+     "scores": "44444444444444444220101120444444220422100204442204442200422242202",
+     "fire": true
+    }
+   },
+   {
+    "name": "CleverTacticButFail",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2939,
+    "score": 160,
+    "sheet": {
+     "scores": "1302220222022020444444422022020444444221200204442204444445454423"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2913,
+    "score": 129,
+    "sheet": {
+     "scores": "44220204422000442204444222220220444444422000210220004444220200",
+     "fire": true
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 4,
+    "rating": 2826,
+    "score": 116,
+    "sheet": {
+     "scores": "422012020042201023042202044442202204422002020002203002020422044432021",
+     "fire": true
+    }
+   },
+   {
+    "name": "Nirvana95",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2791,
+    "score": 108,
+    "sheet": {
+     "scores": "2042202022121004444422022220220200022044442202002200442200022022"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2713,
+    "score": 108,
+    "sheet": {
+     "scores": "20022202002202020020044220000000002020244444422242210444220022021222002"
+    }
+   },
+   {
+    "name": "UnVieuxMonsieur",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2733,
+    "score": 104,
+    "sheet": {
+     "scores": "044220000422020002200220200024444220000422042200220442210220022223002"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 2749,
+    "score": 101,
+    "sheet": {
+     "scores": "0030303300200220204422022002000002004422002010422022042202222202204422"
+    }
+   },
+   {
+    "name": "TheWarning",
+    "rank": 9,
+    "rating": 2794,
+    "score": 100,
+    "sheet": {
+     "scores": "0220042211011000422010022022044422020021202204220204444222220220"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2762,
+    "score": 97,
+    "sheet": {
+     "scores": "220024422002044220002020103110202210202200222202024444422020220",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "qkdW41M2",
+ "createdBy": "arex",
+ "startsAt": "2018-04-12T19:00:00Z",
+ "system": "arena",
+ "fullName": "Lichess Titled Arena 4",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $3200 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "[Titled Arena 4 announcement](https://lichess.org/blog/WrbhMyYAAJRMal2w/lichess-titled-arena-4)\r\n[Official stream with IM Eric Rosen](https://www.twitch.tv/imrosen)\r\n\r\n$3200 prize pool!\r\n- 1st $2250\r\n- 2nd $500\r\n- 3rd $200\r\n- 4th $125 - 5th $75 - 6th $50",
+ "onlyTitled": true
+}

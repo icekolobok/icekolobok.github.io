@@ -1,0 +1,200 @@
+{
+ "nbPlayers": 796,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2769,
+   "score": 128,
+   "nb": {
+    "game": 55,
+    "berserk": 54,
+    "win": 34
+   },
+   "performance": 2854
+  },
+  {
+   "name": "FeegLood",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2800,
+   "score": 123,
+   "nb": {
+    "game": 60,
+    "berserk": 39,
+    "win": 34
+   },
+   "performance": 2818
+  },
+  {
+   "name": "Arka50",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2743,
+   "score": 123,
+   "nb": {
+    "game": 59,
+    "berserk": 56,
+    "win": 34
+   },
+   "performance": 2760
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 708879,
+  "averageRating": 2424,
+  "berserks": 5361,
+  "blackWins": 3634,
+  "games": 8293,
+  "draws": 700,
+  "whiteWins": 3959
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2769,
+    "score": 128,
+    "sheet": {
+     "scores": "3030020030533033000053301303313055533025330555533053313"
+    }
+   },
+   {
+    "name": "FeegLood",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2800,
+    "score": 123,
+    "sheet": {
+     "scores": "523100104433003301020433003303030003245231303044330024454331",
+     "fire": true
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2743,
+    "score": 123,
+    "sheet": {
+     "scores": "03300053300030130305553302053300030053300433033005553305330"
+    }
+   },
+   {
+    "name": "Chesstoday",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2751,
+    "score": 113,
+    "sheet": {
+     "scores": "24423010131044442205532054433030103011000044453203301"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2758,
+    "score": 113,
+    "sheet": {
+     "scores": "3102552303030130105330103000332533000303031005533055533"
+    }
+   },
+   {
+    "name": "may6enexttime",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2814,
+    "score": 112,
+    "sheet": {
+     "scores": "05453302212030444444444444433030033013030311120"
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2651,
+    "score": 112,
+    "sheet": {
+     "scores": "0303303300305555555533030303001303303000303030003300023303000"
+    }
+   },
+   {
+    "name": "MahammadMuradli2003",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2655,
+    "score": 111,
+    "sheet": {
+     "scores": "03300003000302100553300054330033030305553300555533030030"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2807,
+    "score": 110,
+    "sheet": {
+     "scores": "130303055332330422243212444442201104444442200"
+    }
+   },
+   {
+    "name": "Riquelme93",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2659,
+    "score": 108,
+    "sheet": {
+     "scores": "003130330030003303030000003030303055553313055331303033010300302"
+    }
+   }
+  ]
+ },
+ "id": "jan21bta",
+ "createdBy": "lichess",
+ "startsAt": "2021-01-02T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena January '21",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

@@ -1,0 +1,204 @@
+{
+ "nbPlayers": 689,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "may6enexttime",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2927,
+   "score": 124,
+   "nb": {
+    "game": 48,
+    "berserk": 0,
+    "win": 37
+   },
+   "performance": 2961
+  },
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2798,
+   "score": 110,
+   "nb": {
+    "game": 47,
+    "berserk": 47,
+    "win": 29
+   },
+   "performance": 2855
+  },
+  {
+   "name": "Chesstoday",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2805,
+   "score": 109,
+   "nb": {
+    "game": 53,
+    "berserk": 14,
+    "win": 30
+   },
+   "performance": 2845
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 539995,
+  "averageRating": 2450,
+  "berserks": 3428,
+  "blackWins": 2800,
+  "games": 6442,
+  "draws": 516,
+  "whiteWins": 3126
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "may6enexttime",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2927,
+    "score": 124,
+    "sheet": {
+     "scores": "444220020244444444220422022002244444422044444220",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2798,
+    "score": 110,
+    "sheet": {
+     "scores": "00033055553300303033030533033001233005555533033"
+    }
+   },
+   {
+    "name": "Chesstoday",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2805,
+    "score": 109,
+    "sheet": {
+     "scores": "00054322231103020000044444422233100200244452203254320"
+    }
+   },
+   {
+    "name": "Esssquire",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2677,
+    "score": 102,
+    "sheet": {
+     "scores": "033000044423255330030300003303052303100300303003033030533"
+    }
+   },
+   {
+    "name": "MeneerMandje",
+    "title": "GM",
+    "flair": "objects.basket",
+    "patron": true,
+    "rank": 5,
+    "rating": 2664,
+    "score": 101,
+    "sheet": {
+     "scores": "5533033000000000130000555433033030030030300303000033005330033030",
+     "fire": true
+    }
+   },
+   {
+    "name": "Azerichessss",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2888,
+    "score": 100,
+    "sheet": {
+     "scores": "1305330445532103300304331013022044220444423"
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2778,
+    "score": 100,
+    "sheet": {
+     "scores": "1304320102010000030005543303033130310302331233130053313013"
+    }
+   },
+   {
+    "name": "Chopper1905",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2821,
+    "score": 97,
+    "sheet": {
+     "scores": "0030423022220444230422010244444322321044422"
+    }
+   },
+   {
+    "name": "Riquelme93",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2830,
+    "score": 97,
+    "sheet": {
+     "scores": "555330303003024220452212242212000005545522",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2784,
+    "score": 95,
+    "sheet": {
+     "scores": "305532002204454320310442204230030004545320"
+    }
+   }
+  ]
+ },
+ "id": "may21bta",
+ "createdBy": "lichess",
+ "startsAt": "2021-05-08T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena May '21",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

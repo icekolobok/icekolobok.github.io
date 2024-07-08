@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 299,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2465,
+   "score": 100,
+   "nb": {
+    "game": 42,
+    "berserk": 32,
+    "win": 26
+   },
+   "performance": 2543
+  },
+  {
+   "name": "drop_stone",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2370,
+   "score": 94,
+   "nb": {
+    "game": 44,
+    "berserk": 42,
+    "win": 26
+   },
+   "performance": 2427
+  },
+  {
+   "name": "chessmaster2006",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2490,
+   "score": 89,
+   "nb": {
+    "game": 38,
+    "berserk": 17,
+    "win": 25
+   },
+   "performance": 2523
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 119719,
+  "averageRating": 2073,
+  "berserks": 904,
+  "blackWins": 761,
+  "games": 1668,
+  "draws": 104,
+  "whiteWins": 803
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2465,
+    "score": 100,
+    "sheet": {
+     "scores": "105230331030312533033245555423032330130330"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2370,
+    "score": 94,
+    "sheet": {
+     "scores": "10303300055553305330330233055330303003033002"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2490,
+    "score": 89,
+    "sheet": {
+     "scores": "02554330330305444330023032024422052301"
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2416,
+    "score": 85,
+    "sheet": {
+     "scores": "22444444444432010044220230002200202200422"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2416,
+    "score": 85,
+    "sheet": {
+     "scores": "3300230454442302304533030000330002304433",
+     "fire": true
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2396,
+    "score": 84,
+    "sheet": {
+     "scores": "330244523033032230423000330002244453300",
+     "fire": true
+    }
+   },
+   {
+    "name": "DrNykterstein",
+    "title": "GM",
+    "flair": "people.santa-claus-light-skin-tone",
+    "patron": true,
+    "rank": 7,
+    "rating": 2541,
+    "score": 80,
+    "sheet": {
+     "scores": "300033222030030554454543300232532"
+    }
+   },
+   {
+    "name": "Alexsur81",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2488,
+    "score": 79,
+    "sheet": {
+     "scores": "44444221222244422042210422044320",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 9,
+    "rating": 2356,
+    "score": 74,
+    "sheet": {
+     "scores": "03300301000533000305552300022030002054330213"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 10,
+    "rating": 2413,
+    "score": 73,
+    "sheet": {
+     "scores": "330230202200444444444230300300303102",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "960dec22",
+ "createdBy": "konstantinos07",
+ "startsAt": "2022-12-03T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena December '22",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Join the official Lichess 960 team](https://lichess.org/team/lichess-chess960)",
+ "onlyTitled": true
+}

@@ -1,0 +1,205 @@
+{
+ "nbPlayers": 366,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Inventing_Invention",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3056,
+   "score": 129,
+   "nb": {
+    "game": 65,
+    "berserk": 11,
+    "win": 43
+   },
+   "performance": 3120
+  },
+  {
+   "name": "neslraCsungaM77",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3053,
+   "score": 126,
+   "nb": {
+    "game": 64,
+    "berserk": 5,
+    "win": 40
+   },
+   "performance": 3094
+  },
+  {
+   "name": "OhanyanEminChess",
+   "title": "GM",
+   "flair": "symbols.exclamation-question-mark",
+   "rank": 3,
+   "rating": 2924,
+   "score": 125,
+   "nb": {
+    "game": 83,
+    "berserk": 40,
+    "win": 40
+   },
+   "performance": 2915
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 402129,
+  "averageRating": 2532,
+  "berserks": 887,
+  "blackWins": 2167,
+  "games": 4838,
+  "draws": 274,
+  "whiteWins": 2397
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Inventing_Invention",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3056,
+    "score": 129,
+    "sheet": {
+     "scores": "12042201222020444220303002020444442202304423020444320220020205522"
+    }
+   },
+   {
+    "name": "neslraCsungaM77",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3053,
+    "score": 126,
+    "sheet": {
+     "scores": "1242202021244422002224220020022044220422000120444444320444230210"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 3,
+    "rating": 2924,
+    "score": 125,
+    "sheet": {
+     "scores": "00230020032102320202001310045422243303020545330002302301100200030023031203301022030"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3058,
+    "score": 123,
+    "sheet": {
+     "scores": "220220022022444422042200200220210212022021210204444422042204442212002",
+     "fire": true
+    }
+   },
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3003,
+    "score": 117,
+    "sheet": {
+     "scores": "5442204230000204220220120222212222022442202044422022220300422022",
+     "fire": true
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 6,
+    "rating": 3030,
+    "score": 117,
+    "sheet": {
+     "scores": "0004444422002212422004220442210004442200020200221204444442202"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 3031,
+    "score": 114,
+    "sheet": {
+     "scores": "02422020444442201002043200022110004444442202020302023022230300330"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 3065,
+    "score": 111,
+    "sheet": {
+     "scores": "3003024422023022200044320203044422002020422022042200004422020422"
+    }
+   },
+   {
+    "name": "elm20o7",
+    "title": "FM",
+    "rank": 9,
+    "rating": 2906,
+    "score": 111,
+    "sheet": {
+     "scores": "2303003131000330203200220230523000004330030300200104220000033120000054423030330",
+     "fire": true
+    }
+   },
+   {
+    "name": "Dmitry_Anikonov",
+    "title": "FM",
+    "rank": 10,
+    "rating": 2828,
+    "score": 109,
+    "sheet": {
+     "scores": "044422012044442202242202010222101000442210200204220000220102210442200"
+    }
+   }
+  ]
+ },
+ "id": "jun22lta",
+ "createdBy": "lichess",
+ "startsAt": "2022-06-25T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena June '22",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

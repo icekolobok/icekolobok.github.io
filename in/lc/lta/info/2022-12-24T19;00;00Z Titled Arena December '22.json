@@ -1,0 +1,205 @@
+{
+ "nbPlayers": 370,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "CleverTacticButFail",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3020,
+   "score": 147,
+   "nb": {
+    "game": 67,
+    "berserk": 38,
+    "win": 42
+   },
+   "performance": 3043
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3099,
+   "score": 141,
+   "nb": {
+    "game": 62,
+    "berserk": 6,
+    "win": 43
+   },
+   "performance": 3153
+  },
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3057,
+   "score": 139,
+   "nb": {
+    "game": 55,
+    "berserk": 2,
+    "win": 42
+   },
+   "performance": 3133
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 396170,
+  "averageRating": 2519,
+  "berserks": 583,
+  "blackWins": 2125,
+  "games": 4764,
+  "draws": 300,
+  "whiteWins": 2339
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "CleverTacticButFail",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3020,
+    "score": 147,
+    "sheet": {
+     "scores": "1002045220442200044454220203030030445444433020000310330545553300330"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3099,
+    "score": 141,
+    "sheet": {
+     "scores": "10042224221045220220101044220202204444442202224230224444454422"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3057,
+    "score": 139,
+    "sheet": {
+     "scores": "2444442203204442200244422044444444442204220022020044422"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 4,
+    "rating": 3016,
+    "score": 127,
+    "sheet": {
+     "scores": "02452300023020444423002210222030220000103120044442204231002224444330"
+    }
+   },
+   {
+    "name": "Gokerkan",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2940,
+    "score": 107,
+    "sheet": {
+     "scores": "24220042312002200220000024221022030444230220023030444220202022103002"
+    }
+   },
+   {
+    "name": "DrMelekess",
+    "title": "IM",
+    "flair": "activity.lichess-correspondence",
+    "rank": 6,
+    "rating": 2900,
+    "score": 106,
+    "sheet": {
+     "scores": "22020022244220120202212020120212002221110024422004444432000220422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Brave_spirit12",
+    "title": "FM",
+    "flair": "smileys.woozy-face",
+    "rank": 7,
+    "rating": 2847,
+    "score": 102,
+    "sheet": {
+     "scores": "1302202004422000000200442202000221202220202044422004444220422003"
+    }
+   },
+   {
+    "name": "dimochka_tsoi",
+    "title": "FM",
+    "rank": 8,
+    "rating": 2956,
+    "score": 100,
+    "sheet": {
+     "scores": "1104221102010200444220200000001022002010220444220044444442302200"
+    }
+   },
+   {
+    "name": "SHREKDAVID",
+    "title": "IM",
+    "rank": 9,
+    "rating": 2927,
+    "score": 98,
+    "sheet": {
+     "scores": "00222020000422022044422020042200422002100220004422120422011224220"
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 10,
+    "rating": 2827,
+    "score": 98,
+    "sheet": {
+     "scores": "002210020422223020423002044220004433023003000000044222422000302002"
+    }
+   }
+  ]
+ },
+ "id": "dec22lta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2022-12-24T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena December '22",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

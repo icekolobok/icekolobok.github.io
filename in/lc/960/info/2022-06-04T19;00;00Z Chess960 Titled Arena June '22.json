@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 294,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2382,
+   "score": 93,
+   "nb": {
+    "game": 38,
+    "berserk": 29,
+    "win": 23
+   },
+   "performance": 2338
+  },
+  {
+   "name": "MahammadMuradli2003",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2352,
+   "score": 91,
+   "nb": {
+    "game": 43,
+    "berserk": 34,
+    "win": 25
+   },
+   "performance": 2407
+  },
+  {
+   "name": "onamissionfromGod",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2279,
+   "score": 91,
+   "nb": {
+    "game": 53,
+    "berserk": 53,
+    "win": 25
+   },
+   "performance": 2274
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 112403,
+  "averageRating": 2033,
+  "berserks": 1072,
+  "blackWins": 677,
+  "games": 1537,
+  "draws": 114,
+  "whiteWins": 746
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2382,
+    "score": 93,
+    "sheet": {
+     "scores": "24555533005545331054330442200001031003"
+    }
+   },
+   {
+    "name": "MahammadMuradli2003",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2352,
+    "score": 91,
+    "sheet": {
+     "scores": "3030043300255533030330554330000002304533030"
+    }
+   },
+   {
+    "name": "onamissionfromGod",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2279,
+    "score": 91,
+    "sheet": {
+     "scores": "53303300053323300000330013100300055533000300030030533",
+     "fire": true
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2328,
+    "score": 87,
+    "sheet": {
+     "scores": "13033003003305331053313003233030331300053300330"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 5,
+    "rating": 2541,
+    "score": 86,
+    "sheet": {
+     "scores": "24442224444444442203052300220423"
+    }
+   },
+   {
+    "name": "greennight",
+    "title": "IM",
+    "flair": "objects.musical-note",
+    "rank": 6,
+    "rating": 2264,
+    "score": 83,
+    "sheet": {
+     "scores": "0130300200032000300000330331003245553313000000030303310330"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2447,
+    "score": 82,
+    "sheet": {
+     "scores": "0020444220221202444444444444331"
+    }
+   },
+   {
+    "name": "promove2500",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2343,
+    "score": 80,
+    "sheet": {
+     "scores": "310000023043300245533000330330330303054321"
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 9,
+    "rating": 2244,
+    "score": 80,
+    "sheet": {
+     "scores": "5330103303000000300300003253300000055330320330030003000031",
+     "fire": true
+    }
+   },
+   {
+    "name": "RealDavidNavara",
+    "title": "GM",
+    "flair": "activity.lichess-variant-960",
+    "rank": 10,
+    "rating": 2597,
+    "score": 79,
+    "sheet": {
+     "scores": "0204444222422042203222242224422222"
+    }
+   }
+  ]
+ },
+ "id": "960jun22",
+ "createdBy": "lichess",
+ "startsAt": "2022-06-04T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena June '22",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

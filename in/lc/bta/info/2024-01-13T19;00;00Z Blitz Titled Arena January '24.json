@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 472,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Hooligan64",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2995,
+   "score": 140,
+   "nb": {
+    "game": 44,
+    "berserk": 31,
+    "win": 35
+   },
+   "performance": 3066
+  },
+  {
+   "name": "SVODMEVKO",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2866,
+   "score": 113,
+   "nb": {
+    "game": 43,
+    "berserk": 36,
+    "win": 29
+   },
+   "performance": 2861
+  },
+  {
+   "name": "masmos97",
+   "title": "GM",
+   "flair": "activity.magic-wand",
+   "rank": 3,
+   "rating": 2751,
+   "score": 112,
+   "nb": {
+    "game": 49,
+    "berserk": 5,
+    "win": 35
+   },
+   "performance": 2985
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 352370,
+  "averageRating": 2454,
+  "berserks": 3039,
+  "blackWins": 1897,
+  "games": 4257,
+  "draws": 337,
+  "whiteWins": 2023
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Hooligan64",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2995,
+    "score": 140,
+    "sheet": {
+     "scores": "53204552303305445454553324455330053325332330",
+     "fire": true
+    }
+   },
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2866,
+    "score": 113,
+    "sheet": {
+     "scores": "5553300044332330003103045330255553305320433",
+     "fire": true
+    }
+   },
+   {
+    "name": "masmos97",
+    "title": "GM",
+    "flair": "activity.magic-wand",
+    "rank": 3,
+    "rating": 2751,
+    "score": 112,
+    "sheet": {
+     "scores": "0120210444444422044220222222422044220442302523023"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2844,
+    "score": 107,
+    "sheet": {
+     "scores": "5330130020300253211310455230221303033002330031304533102",
+     "fire": true
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2846,
+    "score": 106,
+    "sheet": {
+     "scores": "303242203024423000233121024423044230330305533030211"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2802,
+    "score": 103,
+    "sheet": {
+     "scores": "12025330000330032445330303300533022330330233030532"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2774,
+    "score": 101,
+    "sheet": {
+     "scores": "532055554423033000033005555555533",
+     "fire": true
+    }
+   },
+   {
+    "name": "tamojerry",
+    "title": "FM",
+    "rank": 8,
+    "rating": 2691,
+    "score": 99,
+    "sheet": {
+     "scores": "105332533002003030000003033055330301033001000300330003000300533031"
+    }
+   },
+   {
+    "name": "dr_xStranger",
+    "title": "IM",
+    "flair": "smileys.face-with-raised-eyebrow",
+    "rank": 9,
+    "rating": 2677,
+    "score": 95,
+    "sheet": {
+     "scores": "033003102020004433003313000033003000433031011052303303310030330"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 10,
+    "rating": 2739,
+    "score": 94,
+    "sheet": {
+     "scores": "003300053200010033020130331030130433005330533002553301"
+    }
+   }
+  ]
+ },
+ "id": "jan24bta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2024-01-13T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena January '24",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jan24bua)",
+ "onlyTitled": true
+}

@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 487,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Shant7777777",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2910,
+   "score": 118,
+   "nb": {
+    "game": 55,
+    "berserk": 24,
+    "win": 31
+   },
+   "performance": 2934
+  },
+  {
+   "name": "MahammadMuradli2003",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2774,
+   "score": 114,
+   "nb": {
+    "game": 52,
+    "berserk": 50,
+    "win": 31
+   },
+   "performance": 2904
+  },
+  {
+   "name": "hitter1999",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2881,
+   "score": 111,
+   "nb": {
+    "game": 47,
+    "berserk": 16,
+    "win": 34
+   },
+   "performance": 2982
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 364307,
+  "averageRating": 2504,
+  "berserks": 2583,
+  "blackWins": 1841,
+  "games": 4277,
+  "draws": 346,
+  "whiteWins": 2090
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Shant7777777",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2910,
+    "score": 118,
+    "sheet": {
+     "scores": "2331110100422043302444330312221130444320244330053302331"
+    }
+   },
+   {
+    "name": "MahammadMuradli2003",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2774,
+    "score": 114,
+    "sheet": {
+     "scores": "3130555330300030030230303053303310303000554555330331"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2881,
+    "score": 111,
+    "sheet": {
+     "scores": "22023212044220444444444443303302300533033003202",
+     "fire": true
+    }
+   },
+   {
+    "name": "BMWHero",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2842,
+    "score": 110,
+    "sheet": {
+     "scores": "0300120023005433030303044232444532004445433043301"
+    }
+   },
+   {
+    "name": "BlueGreensun",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2821,
+    "score": 109,
+    "sheet": {
+     "scores": "12005331304444230330000030004423030302023044533030020533"
+    }
+   },
+   {
+    "name": "Khalilmousavii",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2822,
+    "score": 107,
+    "sheet": {
+     "scores": "233245553300103000313022532053302300030304554320020"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2816,
+    "score": 104,
+    "sheet": {
+     "scores": "0330433033024553300003033000000303130330330000000303030310330532"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 2861,
+    "score": 101,
+    "sheet": {
+     "scores": "0303003310033020330255330000201303300305555555330"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 9,
+    "rating": 2868,
+    "score": 100,
+    "sheet": {
+     "scores": "3304454445423030300223302242302303045231300",
+     "fire": true
+    }
+   },
+   {
+    "name": "Revan_2002",
+    "title": "FM",
+    "rank": 10,
+    "rating": 2702,
+    "score": 99,
+    "sheet": {
+     "scores": "0330003100022030554454330003000055523003303202103042210"
+    }
+   }
+  ]
+ },
+ "id": "mar22bta",
+ "createdBy": "lichess",
+ "startsAt": "2022-03-05T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena March '22",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 448,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 1,
+   "rating": 3138,
+   "score": 175,
+   "nb": {
+    "game": 66,
+    "berserk": 5,
+    "win": 52
+   },
+   "performance": 3217
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3081,
+   "score": 125,
+   "nb": {
+    "game": 63,
+    "berserk": 3,
+    "win": 41
+   },
+   "performance": 3065
+  },
+  {
+   "name": "nihalsarin2004",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3010,
+   "score": 125,
+   "nb": {
+    "game": 70,
+    "berserk": 0,
+    "win": 42
+   },
+   "performance": 3012
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 581493,
+  "averageRating": 2508,
+  "berserks": 435,
+  "blackWins": 3108,
+  "games": 6950,
+  "draws": 450,
+  "whiteWins": 3392
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 1,
+    "rating": 3138,
+    "score": 175,
+    "sheet": {
+     "scores": "432044523012004442204444444220222042210222444444422022044444444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3081,
+    "score": 125,
+    "sheet": {
+     "scores": "222222020000222202222042222224422102204444442200444453200220220"
+    }
+   },
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3010,
+    "score": 125,
+    "sheet": {
+     "scores": "1210042201202210221000444220220004220444442224444422002211204220200022"
+    }
+   },
+   {
+    "name": "Inventing_Invention",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2917,
+    "score": 122,
+    "sheet": {
+     "scores": "5220422044444442202210202012000422042210422022422000042303022012003002",
+     "fire": true
+    }
+   },
+   {
+    "name": "NeverEnough",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2954,
+    "score": 110,
+    "sheet": {
+     "scores": "042204444422000221202000220210442210021104220422044442204221"
+    }
+   },
+   {
+    "name": "elm20o7",
+    "title": "FM",
+    "rank": 6,
+    "rating": 2903,
+    "score": 110,
+    "sheet": {
+     "scores": "3223000102205422042202200200422020204442200030000452300300330303031202"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2817,
+    "score": 109,
+    "sheet": {
+     "scores": "0004444220444444422020042210200004422020422222222020220002002"
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 8,
+    "rating": 2891,
+    "score": 108,
+    "sheet": {
+     "scores": "02022044444442202020220220000004442200202022020204442202202042200"
+    }
+   },
+   {
+    "name": "toivok3",
+    "title": "IM",
+    "rank": 9,
+    "rating": 2827,
+    "score": 108,
+    "sheet": {
+     "scores": "1020000244444454220220200000202220030201044444220201242200212000202"
+    }
+   },
+   {
+    "name": "PchelkinVK",
+    "title": "CM",
+    "flair": "nature.honeybee",
+    "rank": 10,
+    "rating": 2856,
+    "score": 107,
+    "sheet": {
+     "scores": "22212442200220000202044422022220020200044422002204442200220202020022"
+    }
+   }
+  ]
+ },
+ "id": "jan20lta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-01-15T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena January '20",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

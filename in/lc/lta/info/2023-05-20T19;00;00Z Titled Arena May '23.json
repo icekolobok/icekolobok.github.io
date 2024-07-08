@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 370,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3234,
+   "score": 178,
+   "nb": {
+    "game": 68,
+    "berserk": 6,
+    "win": 51
+   },
+   "performance": 3289
+  },
+  {
+   "name": "Vladimirovich9000",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3116,
+   "score": 134,
+   "nb": {
+    "game": 70,
+    "berserk": 0,
+    "win": 46
+   },
+   "performance": 3214
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3116,
+   "score": 119,
+   "nb": {
+    "game": 63,
+    "berserk": 8,
+    "win": 39
+   },
+   "performance": 3120
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 468155,
+  "averageRating": 2567,
+  "berserks": 612,
+  "blackWins": 2559,
+  "games": 5547,
+  "draws": 337,
+  "whiteWins": 2651
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3234,
+    "score": 178,
+    "sheet": {
+     "scores": "10055542212022444444222220442204220010204444444444442224220044444422"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3116,
+    "score": 134,
+    "sheet": {
+     "scores": "2422002202202220220220224442202102004221022044444444220222044220220222"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3116,
+    "score": 119,
+    "sheet": {
+     "scores": "322453302102002020220444444221002210422000220233020210444230422",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3109,
+    "score": 113,
+    "sheet": {
+     "scores": "533010220200204220444220230000442202002022022044221044220304422",
+     "fire": true
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3062,
+    "score": 112,
+    "sheet": {
+     "scores": "1202202205422044220004220200102000044230444221200202204442222311"
+    }
+   },
+   {
+    "name": "dimochka_tsoi",
+    "title": "FM",
+    "rank": 6,
+    "rating": 3043,
+    "score": 111,
+    "sheet": {
+     "scores": "222244220120442202002000244220000422021204220220220224443213022"
+    }
+   },
+   {
+    "name": "Arseniii_Nesterov",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3014,
+    "score": 111,
+    "sheet": {
+     "scores": "10442210002204444444442302044230000030454555330"
+    }
+   },
+   {
+    "name": "MatthewG-p4p",
+    "title": "IM",
+    "flair": "smileys.beaming-face-with-smiling-eyes",
+    "patron": true,
+    "rank": 8,
+    "rating": 3045,
+    "score": 107,
+    "sheet": {
+     "scores": "0302020200020200444442202002204220422242200442202002130220004523"
+    }
+   },
+   {
+    "name": "dr_xStranger",
+    "title": "IM",
+    "flair": "smileys.face-with-raised-eyebrow",
+    "rank": 9,
+    "rating": 2942,
+    "score": 106,
+    "sheet": {
+     "scores": "104330000002020422042300002000200044220220444422004222220302022102022202"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 3078,
+    "score": 105,
+    "sheet": {
+     "scores": "300000222303002200220044220422004444220442201122444220422"
+    }
+   }
+  ]
+ },
+ "id": "may23lta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-05-20T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena May '23",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/may23wua)",
+ "onlyTitled": true
+}

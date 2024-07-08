@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 807,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3123,
+   "score": 155,
+   "nb": {
+    "game": 64,
+    "berserk": 11,
+    "win": 47
+   },
+   "performance": 3091
+  },
+  {
+   "name": "DrNykterstein",
+   "title": "GM",
+   "flair": "people.santa-claus-light-skin-tone",
+   "patron": true,
+   "rank": 2,
+   "rating": 3160,
+   "score": 129,
+   "nb": {
+    "game": 62,
+    "berserk": 0,
+    "win": 42
+   },
+   "performance": 3060
+  },
+  {
+   "name": "CleverTacticButFail",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2925,
+   "score": 122,
+   "nb": {
+    "game": 66,
+    "berserk": 15,
+    "win": 42
+   },
+   "performance": 2975
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 995105,
+  "averageRating": 2426,
+  "berserks": 952,
+  "blackWins": 5340,
+  "games": 12011,
+  "draws": 767,
+  "whiteWins": 5904
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3123,
+    "score": 155,
+    "sheet": {
+     "scores": "2220220212102202200444220044220202042204444444522020444555555433"
+    }
+   },
+   {
+    "name": "DrNykterstein",
+    "title": "GM",
+    "flair": "people.santa-claus-light-skin-tone",
+    "patron": true,
+    "rank": 2,
+    "rating": 3160,
+    "score": 129,
+    "sheet": {
+     "scores": "12044221212022044422044442200422004444220001020220444422044221"
+    }
+   },
+   {
+    "name": "CleverTacticButFail",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2925,
+    "score": 122,
+    "sheet": {
+     "scores": "120020202422044444220020442200202300422032044220220205320205330330"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2974,
+    "score": 122,
+    "sheet": {
+     "scores": "0444221202422100020002042200200002002002020442202104444422000204442202304220"
+    }
+   },
+   {
+    "name": "Konevlad",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3026,
+    "score": 118,
+    "sheet": {
+     "scores": "4442202011020220202042204220200044442212122202000204422044444220",
+     "fire": true
+    }
+   },
+   {
+    "name": "Inventing_Invention",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3024,
+    "score": 117,
+    "sheet": {
+     "scores": "112004444220001204422121002002212020442212020202200044444444422"
+    }
+   },
+   {
+    "name": "may6enexttime",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2937,
+    "score": 117,
+    "sheet": {
+     "scores": "132230220204444422000422000120202044442210102200202004442200442212"
+    }
+   },
+   {
+    "name": "wizard98",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2894,
+    "score": 117,
+    "sheet": {
+     "scores": "1202200020200022120220010220422022000044422010220422022020442204442222200202030200"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2912,
+    "score": 115,
+    "sheet": {
+     "scores": "212000204220200044221202044422242204422022020100020000220220444422022011"
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2934,
+    "score": 113,
+    "sheet": {
+     "scores": "3300023011202000220202200004422002022000200020000444444444444423022030",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "jun20lta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-06-27T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena June '20",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

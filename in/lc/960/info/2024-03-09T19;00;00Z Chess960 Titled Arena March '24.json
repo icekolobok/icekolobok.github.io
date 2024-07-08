@@ -1,0 +1,201 @@
+{
+ "nbPlayers": 294,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2502,
+   "score": 90,
+   "nb": {
+    "game": 40,
+    "berserk": 36,
+    "win": 24
+   },
+   "performance": 2559
+  },
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2550,
+   "score": 82,
+   "nb": {
+    "game": 44,
+    "berserk": 20,
+    "win": 24
+   },
+   "performance": 2576
+  },
+  {
+   "name": "piejonk",
+   "title": "NM",
+   "rank": 3,
+   "rating": 2429,
+   "score": 76,
+   "nb": {
+    "game": 39,
+    "berserk": 0,
+    "win": 26
+   },
+   "performance": 2526
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 138532,
+  "averageRating": 2126,
+  "berserks": 1115,
+  "blackWins": 802,
+  "games": 1841,
+  "draws": 153,
+  "whiteWins": 886
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2502,
+    "score": 90,
+    "sheet": {
+     "scores": "5532033130010305533033013030303055533113",
+     "fire": true
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2550,
+    "score": 82,
+    "sheet": {
+     "scores": "30422001213223242310442313023033111313003310"
+    }
+   },
+   {
+    "name": "piejonk",
+    "title": "NM",
+    "rank": 3,
+    "rating": 2429,
+    "score": 76,
+    "sheet": {
+     "scores": "204220444442204220444221202001202202211"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2403,
+    "score": 75,
+    "sheet": {
+     "scores": "1305533011033000053300030103003000330320301300003131"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2520,
+    "score": 73,
+    "sheet": {
+     "scores": "100302124422244444422020302230130231"
+    }
+   },
+   {
+    "name": "Watneg",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2417,
+    "score": 70,
+    "sheet": {
+     "scores": "0244221052310110020332230020003003030055330"
+    }
+   },
+   {
+    "name": "V_M",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2565,
+    "score": 69,
+    "sheet": {
+     "scores": "202210212022022210220242224444422222"
+    }
+   },
+   {
+    "name": "wizard98",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2336,
+    "score": 69,
+    "sheet": {
+     "scores": "00100002203033033000233030030303000100030330553303"
+    }
+   },
+   {
+    "name": "dr_xStranger",
+    "title": "IM",
+    "flair": "smileys.face-with-raised-eyebrow",
+    "rank": 9,
+    "rating": 2386,
+    "score": 68,
+    "sheet": {
+     "scores": "13004231030030230304230231302300022330032002"
+    }
+   },
+   {
+    "name": "MahammadMuradli2003",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2396,
+    "score": 68,
+    "sheet": {
+     "scores": "3300455330003305330330000303033030130",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "960mar24",
+ "createdBy": "lichess",
+ "startsAt": "2024-03-09T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena March '24",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/96wmar24)\r\n\r\nJoin the [official Lichess Chess960 team](https://lichess.org/team/lichess-chess960) for news and events",
+ "onlyTitled": true
+}

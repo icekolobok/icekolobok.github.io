@@ -1,0 +1,204 @@
+{
+ "nbPlayers": 344,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3156,
+   "score": 143,
+   "nb": {
+    "game": 65,
+    "berserk": 11,
+    "win": 43
+   },
+   "performance": 3172
+  },
+  {
+   "name": "chessmaster2006",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3132,
+   "score": 140,
+   "nb": {
+    "game": 67,
+    "berserk": 10,
+    "win": 44
+   },
+   "performance": 3162
+  },
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3108,
+   "score": 139,
+   "nb": {
+    "game": 62,
+    "berserk": 10,
+    "win": 41
+   },
+   "performance": 3162
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 381268,
+  "averageRating": 2570,
+  "berserks": 679,
+  "blackWins": 2101,
+  "games": 4593,
+  "draws": 251,
+  "whiteWins": 2241
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3156,
+    "score": 143,
+    "sheet": {
+     "scores": "10202204444220004454320000222044442304220422004443210203044445331"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3132,
+    "score": 140,
+    "sheet": {
+     "scores": "0443310022120001022020200444442204444442222224422020454330330020422"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3108,
+    "score": 139,
+    "sheet": {
+     "scores": "44442201202000224444220044442202002001244444444444220303030303",
+     "fire": true
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3118,
+    "score": 139,
+    "sheet": {
+     "scores": "244422020444222442202000020442204422002102220200220204422044422044422"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 5,
+    "rating": 3043,
+    "score": 128,
+    "sheet": {
+     "scores": "0044444523010044230423020120423244422000002130203042200044220220422"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 6,
+    "rating": 3026,
+    "score": 127,
+    "sheet": {
+     "scores": "000300555442202224422000042300023020304330220443302004545330330"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 7,
+    "rating": 3056,
+    "score": 120,
+    "sheet": {
+     "scores": "300024444220000230224444442200044442210210442202000220444220"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 3120,
+    "score": 112,
+    "sheet": {
+     "scores": "3000220220020030042204220202010200044222442210002204445444423130"
+    }
+   },
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 9,
+    "rating": 3104,
+    "score": 107,
+    "sheet": {
+     "scores": "0422000104220222202102201022444422044220202202202202020444422"
+    }
+   },
+   {
+    "name": "dimochka_tsoi",
+    "title": "FM",
+    "rank": 10,
+    "rating": 3020,
+    "score": 105,
+    "sheet": {
+     "scores": "30042200022102442200022002200220202100202000020002200444422044444422"
+    }
+   }
+  ]
+ },
+ "id": "oct23lta",
+ "createdBy": "lukhas",
+ "startsAt": "2023-10-21T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena October '23",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/oct23wua)",
+ "onlyTitled": true
+}

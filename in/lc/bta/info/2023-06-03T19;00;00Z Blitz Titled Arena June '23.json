@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 423,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2933,
+   "score": 142,
+   "nb": {
+    "game": 52,
+    "berserk": 23,
+    "win": 37
+   },
+   "performance": 3016
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2892,
+   "score": 137,
+   "nb": {
+    "game": 59,
+    "berserk": 54,
+    "win": 32
+   },
+   "performance": 2837
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2834,
+   "score": 117,
+   "nb": {
+    "game": 50,
+    "berserk": 32,
+    "win": 33
+   },
+   "performance": 2939
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 309838,
+  "averageRating": 2455,
+  "berserks": 2464,
+  "blackWins": 1642,
+  "games": 3642,
+  "draws": 273,
+  "whiteWins": 1727
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2933,
+    "score": 142,
+    "sheet": {
+     "scores": "1013010303222310202304445444442205545553300455455423"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2892,
+    "score": 137,
+    "sheet": {
+     "scores": "25331311023325433025555332555330000330000030300255533033010"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2834,
+    "score": 117,
+    "sheet": {
+     "scores": "23204444330303131302303002302300445554330300045533"
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2730,
+    "score": 116,
+    "sheet": {
+     "scores": "123302533030332553300033001303055330330005330033030300003033"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2808,
+    "score": 114,
+    "sheet": {
+     "scores": "2533130313000533031030055330330303000330000553303303025330"
+    }
+   },
+   {
+    "name": "samisahi",
+    "title": "IM",
+    "rank": 6,
+    "rating": 2792,
+    "score": 112,
+    "sheet": {
+     "scores": "44444422020022244320454320304220024220223130330210022",
+     "fire": true
+    }
+   },
+   {
+    "name": "dr_xStranger",
+    "title": "IM",
+    "flair": "smileys.face-with-raised-eyebrow",
+    "rank": 7,
+    "rating": 2762,
+    "score": 110,
+    "sheet": {
+     "scores": "5553301300310202044444442200202002202205444330532",
+     "fire": true
+    }
+   },
+   {
+    "name": "MahammadMuradli2003",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2782,
+    "score": 109,
+    "sheet": {
+     "scores": "1005330300000003030054330013005533030130305555553300303001000"
+    }
+   },
+   {
+    "name": "Mitrabha",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2766,
+    "score": 108,
+    "sheet": {
+     "scores": "5330022230330020330002030303010000545445423033000433103303",
+     "fire": true
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 10,
+    "rating": 2684,
+    "score": 107,
+    "sheet": {
+     "scores": "00454330053305330003010003000030000053303000553303005332330003010"
+    }
+   }
+  ]
+ },
+ "id": "jun23bta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-06-03T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena June '23",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jun23bua) ",
+ "onlyTitled": true
+}

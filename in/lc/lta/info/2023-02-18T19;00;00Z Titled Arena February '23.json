@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 372,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3206,
+   "score": 133,
+   "nb": {
+    "game": 42,
+    "berserk": 26,
+    "win": 34
+   },
+   "performance": 3151
+  },
+  {
+   "name": "Grey_parrot",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3190,
+   "score": 129,
+   "nb": {
+    "game": 63,
+    "berserk": 0,
+    "win": 43
+   },
+   "performance": 3246
+  },
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3272,
+   "score": 127,
+   "nb": {
+    "game": 64,
+    "berserk": 0,
+    "win": 43
+   },
+   "performance": 3208
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 473400,
+  "averageRating": 2561,
+  "berserks": 666,
+  "blackWins": 2553,
+  "games": 5726,
+  "draws": 350,
+  "whiteWins": 2823
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3206,
+    "score": 133,
+    "sheet": {
+     "scores": "533053300533030220444444444332555555553303",
+     "fire": true
+    }
+   },
+   {
+    "name": "Grey_parrot",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3190,
+    "score": 129,
+    "sheet": {
+     "scores": "202444444442202202202022422020222212042222202244444220020204220"
+    }
+   },
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3272,
+    "score": 127,
+    "sheet": {
+     "scores": "0020022020204220220221222202100204442224442204444220204444442212"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3130,
+    "score": 116,
+    "sheet": {
+     "scores": "53303020004444221211002101202220204222444442302200442223302",
+     "fire": true
+    }
+   },
+   {
+    "name": "MatthewG-p4p",
+    "title": "IM",
+    "flair": "smileys.beaming-face-with-smiling-eyes",
+    "patron": true,
+    "rank": 5,
+    "rating": 3001,
+    "score": 115,
+    "sheet": {
+     "scores": "54422020002000004422000104444220444220000042200020203000021020044444230",
+     "fire": true
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3036,
+    "score": 113,
+    "sheet": {
+     "scores": "1004444422000220204444422012020224422000422222020020004422120022"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 7,
+    "rating": 3014,
+    "score": 112,
+    "sheet": {
+     "scores": "0030020022042202004442200001201104444320021302003023030204422042312231"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 3162,
+    "score": 109,
+    "sheet": {
+     "scores": "00204220044423042200022022224442202210303013022442302202422"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2936,
+    "score": 108,
+    "sheet": {
+     "scores": "00033000023003304423030000003020320204433000303030000033003303302320030024330"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 3055,
+    "score": 107,
+    "sheet": {
+     "scores": "0002010042204422002020204442210202211204422020202222020212021210204422"
+    }
+   }
+  ]
+ },
+ "id": "feb23lta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-02-18T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena February '23",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/feb23wua)",
+ "onlyTitled": true
+}

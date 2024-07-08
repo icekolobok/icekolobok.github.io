@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 346,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Mlchael",
+   "title": "IM",
+   "rank": 1,
+   "rating": 2378,
+   "score": 70,
+   "nb": {
+    "game": 33,
+    "berserk": 10,
+    "win": 19
+   },
+   "performance": 2445
+  },
+  {
+   "name": "sumsar42",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2308,
+   "score": 68,
+   "nb": {
+    "game": 33,
+    "berserk": 8,
+    "win": 21
+   },
+   "performance": 2389
+  },
+  {
+   "name": "junglebook1",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2606,
+   "score": 67,
+   "nb": {
+    "game": 18,
+    "berserk": 18,
+    "win": 15
+   },
+   "performance": 2548
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 131460,
+  "averageRating": 2008,
+  "berserks": 773,
+  "blackWins": 765,
+  "games": 1722,
+  "draws": 147,
+  "whiteWins": 810
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 1,
+    "rating": 2378,
+    "score": 70,
+    "sheet": {
+     "scores": "213032522123300030211244230245422"
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2308,
+    "score": 68,
+    "sheet": {
+     "scores": "533244444423022021004230220030300",
+     "fire": true
+    }
+   },
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2606,
+    "score": 67,
+    "sheet": {
+     "scores": "053325332555555533"
+    }
+   },
+   {
+    "name": "caching",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2397,
+    "score": 66,
+    "sheet": {
+     "scores": "3255330024330055331030331303"
+    }
+   },
+   {
+    "name": "Amin_____tb",
+    "title": "GM",
+    "flair": "nature.waxing-gibbous-moon",
+    "rank": 5,
+    "rating": 2359,
+    "score": 66,
+    "sheet": {
+     "scores": "233033124231300330301303132330300311"
+    }
+   },
+   {
+    "name": "Vahe_Dan",
+    "title": "IM",
+    "rank": 6,
+    "rating": 2220,
+    "score": 66,
+    "sheet": {
+     "scores": "422000301224442202220220200453301303000",
+     "fire": true
+    }
+   },
+   {
+    "name": "MrBochwalt",
+    "rank": 7,
+    "rating": 2466,
+    "score": 65,
+    "sheet": {
+     "scores": "00202222204444442202204454220"
+    }
+   },
+   {
+    "name": "Feokl1995",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2386,
+    "score": 65,
+    "sheet": {
+     "scores": "04444444422042204422020002030020"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2285,
+    "score": 63,
+    "sheet": {
+     "scores": "03023030304220023120330544523130"
+    }
+   },
+   {
+    "name": "funny_chess",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2334,
+    "score": 62,
+    "sheet": {
+     "scores": "3313003130120303022030302202442200131210",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "960oct21",
+ "createdBy": "lichess",
+ "startsAt": "2021-10-02T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena October '21",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

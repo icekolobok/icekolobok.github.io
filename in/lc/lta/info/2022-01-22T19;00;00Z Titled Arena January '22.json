@@ -1,0 +1,204 @@
+{
+ "nbPlayers": 501,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3145,
+   "score": 193,
+   "nb": {
+    "game": 68,
+    "berserk": 9,
+    "win": 54
+   },
+   "performance": 3223
+  },
+  {
+   "name": "FeegLood",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3040,
+   "score": 123,
+   "nb": {
+    "game": 57,
+    "berserk": 4,
+    "win": 40
+   },
+   "performance": 3073
+  },
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3055,
+   "score": 122,
+   "nb": {
+    "game": 68,
+    "berserk": 1,
+    "win": 43
+   },
+   "performance": 3044
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 588710,
+  "averageRating": 2509,
+  "berserks": 1025,
+  "blackWins": 3194,
+  "games": 7147,
+  "draws": 425,
+  "whiteWins": 3528
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3145,
+    "score": 193,
+    "sheet": {
+     "scores": "53300224220020444444444432004422021244444444444444220422120444444533",
+     "fire": true
+    }
+   },
+   {
+    "name": "FeegLood",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3040,
+    "score": 123,
+    "sheet": {
+     "scores": "442202044422044220220102204422024442211002022044442304522",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3055,
+    "score": 122,
+    "sheet": {
+     "scores": "22000222020444442202222004422002022022042200042200044220202004444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "hansontwitch",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2981,
+    "score": 117,
+    "sheet": {
+     "scores": "0101044220000204422002022004444422000044220220442202044444423"
+    }
+   },
+   {
+    "name": "yesaiedo",
+    "title": "IM",
+    "rank": 5,
+    "rating": 2889,
+    "score": 115,
+    "sheet": {
+     "scores": "22204444443301000130200200200204423002000100220423222003000442210043202022"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2922,
+    "score": 114,
+    "sheet": {
+     "scores": "20002200022202010202112042201044220422121044220000221044444442203002301"
+    }
+   },
+   {
+    "name": "Heisenberg01",
+    "title": "FM",
+    "rank": 7,
+    "rating": 2966,
+    "score": 113,
+    "sheet": {
+     "scores": "210422244422000002422020100022024422021020002422004443313124432"
+    }
+   },
+   {
+    "name": "Zhalmakhanov_R",
+    "title": "IM",
+    "rank": 8,
+    "rating": 2962,
+    "score": 111,
+    "sheet": {
+     "scores": "010444422022002000004444444422000202002022042204444220200422"
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 9,
+    "rating": 2872,
+    "score": 111,
+    "sheet": {
+     "scores": "330553300001022022022002042202204220220230022030442202202002222044220",
+     "fire": true
+    }
+   },
+   {
+    "name": "Arseniii_Nesterov",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2915,
+    "score": 108,
+    "sheet": {
+     "scores": "023004442204220044220000422002200100022000022220042200000244444422022"
+    }
+   }
+  ]
+ },
+ "id": "jan22lta",
+ "createdBy": "lichess",
+ "startsAt": "2022-01-22T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena January '22",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,500 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $1000/$250/$125/$75/$50",
+ "onlyTitled": true
+}

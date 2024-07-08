@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 336,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3188,
+   "score": 162,
+   "nb": {
+    "game": 71,
+    "berserk": 12,
+    "win": 52
+   },
+   "performance": 3290
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3234,
+   "score": 158,
+   "nb": {
+    "game": 65,
+    "berserk": 20,
+    "win": 46
+   },
+   "performance": 3269
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 3,
+   "rating": 3132,
+   "score": 157,
+   "nb": {
+    "game": 70,
+    "berserk": 21,
+    "win": 44
+   },
+   "performance": 3174
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 382683,
+  "averageRating": 2608,
+  "berserks": 516,
+  "blackWins": 2029,
+  "games": 4643,
+  "draws": 307,
+  "whiteWins": 2307
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3188,
+    "score": 162,
+    "sheet": {
+     "scores": "12042204220202322204220444422102042304444422042310443205422033120444522"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3234,
+    "score": 158,
+    "sheet": {
+     "scores": "30052204445454442200003030022313022030442302244444445422044330422"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 3,
+    "rating": 3132,
+    "score": 157,
+    "sheet": {
+     "scores": "5555553200005330000020542302104320444545444222522000000000442204433022",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3126,
+    "score": 118,
+    "sheet": {
+     "scores": "244442200020442204422002000204422000444220220100020422044442212"
+    }
+   },
+   {
+    "name": "Mirakel05",
+    "title": "FM",
+    "flair": "people.santa-claus",
+    "rank": 5,
+    "rating": 3151,
+    "score": 113,
+    "sheet": {
+     "scores": "222002044454220200004422022044444220022022042202042204220220"
+    }
+   },
+   {
+    "name": "Mitrabha",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3037,
+    "score": 112,
+    "sheet": {
+     "scores": "022200044444220002204422222020022022002202200201244444230220422"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 3170,
+    "score": 110,
+    "sheet": {
+     "scores": "232103042300010442210004444422042201202102042222204423000042300"
+    }
+   },
+   {
+    "name": "DrMelekess",
+    "title": "IM",
+    "flair": "activity.lichess-correspondence",
+    "rank": 8,
+    "rating": 3036,
+    "score": 108,
+    "sheet": {
+     "scores": "200244442204442200444423002020422044220444533"
+    }
+   },
+   {
+    "name": "Shant7777777",
+    "title": "GM",
+    "rank": 9,
+    "rating": 3088,
+    "score": 106,
+    "sheet": {
+     "scores": "3004433021022000022110201011120220202020304221022024444444330001023"
+    }
+   },
+   {
+    "name": "tamojerry",
+    "title": "FM",
+    "rank": 10,
+    "rating": 3009,
+    "score": 106,
+    "sheet": {
+     "scores": "000444553300532000000004220300220230003030303202022000442202104522"
+    }
+   }
+  ]
+ },
+ "id": "apr24lta",
+ "createdBy": "lichess",
+ "startsAt": "2024-04-27T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena April '24",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/apr24wua) ",
+ "onlyTitled": true
+}

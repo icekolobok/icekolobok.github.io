@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 753,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Feokl1995",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2788,
+   "score": 118,
+   "nb": {
+    "game": 60,
+    "berserk": 58,
+    "win": 31
+   },
+   "performance": 2809
+  },
+  {
+   "name": "Konevlad",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3026,
+   "score": 116,
+   "nb": {
+    "game": 47,
+    "berserk": 1,
+    "win": 34
+   },
+   "performance": 3025
+  },
+  {
+   "name": "Vladimirovich9000",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2813,
+   "score": 105,
+   "nb": {
+    "game": 57,
+    "berserk": 42,
+    "win": 31
+   },
+   "performance": 2756
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 608772,
+  "averageRating": 2438,
+  "berserks": 4054,
+  "blackWins": 3049,
+  "games": 7055,
+  "draws": 631,
+  "whiteWins": 3375
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Feokl1995",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2788,
+    "score": 118,
+    "sheet": {
+     "scores": "131301310330310000055523003305553303233001030253300303053303"
+    }
+   },
+   {
+    "name": "Konevlad",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3026,
+    "score": 116,
+    "sheet": {
+     "scores": "42211210222044220244444444444442222204422022221",
+     "fire": true
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2813,
+    "score": 105,
+    "sheet": {
+     "scores": "033002543300030033030004553300203300203033023130303055231"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2798,
+    "score": 104,
+    "sheet": {
+     "scores": "244442204453304442301042203303023030303030331301"
+    }
+   },
+   {
+    "name": "Chopper1905",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2833,
+    "score": 102,
+    "sheet": {
+     "scores": "11303104331020444532102020244422222045445331"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2773,
+    "score": 102,
+    "sheet": {
+     "scores": "5533010553303233003301030033002032033004444433120",
+     "fire": true
+    }
+   },
+   {
+    "name": "may6enexttime",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2842,
+    "score": 102,
+    "sheet": {
+     "scores": "30004422044444523004442303004422053210005330120"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2693,
+    "score": 102,
+    "sheet": {
+     "scores": "12533102330303300000030025330010533030330000030255533030013"
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 9,
+    "rating": 2731,
+    "score": 101,
+    "sheet": {
+     "scores": "10001000303031310330523000523232023043303300305422054330"
+    }
+   },
+   {
+    "name": "Fandorine96",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2702,
+    "score": 101,
+    "sheet": {
+     "scores": "313031003111053313031033003030330303033000000233031300533030330"
+    }
+   }
+  ]
+ },
+ "id": "mar21bta",
+ "createdBy": "lichess",
+ "startsAt": "2021-03-06T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena March '21",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

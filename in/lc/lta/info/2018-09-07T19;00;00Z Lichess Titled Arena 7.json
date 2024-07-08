@@ -1,0 +1,204 @@
+{
+ "nbPlayers": 290,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2816,
+   "score": 121,
+   "nb": {
+    "game": 61,
+    "berserk": 0,
+    "win": 40
+   },
+   "performance": 2810
+  },
+  {
+   "name": "Zaven_ChessMood",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2854,
+   "score": 111,
+   "nb": {
+    "game": 59,
+    "berserk": 0,
+    "win": 39
+   },
+   "performance": 2844
+  },
+  {
+   "name": "manwithavan",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2748,
+   "score": 109,
+   "nb": {
+    "game": 55,
+    "berserk": 0,
+    "win": 36
+   },
+   "performance": 2793
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 339233,
+  "averageRating": 2345,
+  "berserks": 240,
+  "blackWins": 1716,
+  "games": 3968,
+  "draws": 252,
+  "whiteWins": 2000
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2816,
+    "score": 121,
+    "sheet": {
+     "scores": "0024422044444220204444220204442200422000200442210022022044220"
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2854,
+    "score": 111,
+    "sheet": {
+     "scores": "20444220210221202042202004444444220202212020422112044220202"
+    }
+   },
+   {
+    "name": "manwithavan",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2748,
+    "score": 109,
+    "sheet": {
+     "scores": "2120210004442202244442202442204422044442202022120220020"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2774,
+    "score": 102,
+    "sheet": {
+     "scores": "330202044220001020022022004444220220221020204444444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "GeorgMeier",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2779,
+    "score": 102,
+    "sheet": {
+     "scores": "00244442200022004422021022120044422002022242224220442200"
+    }
+   },
+   {
+    "name": "darkghoul",
+    "title": "IM",
+    "rank": 6,
+    "rating": 2757,
+    "score": 101,
+    "sheet": {
+     "scores": "4220000222244444422020004220202204442202204422102200220",
+     "fire": true
+    }
+   },
+   {
+    "name": "SHREKDAVID",
+    "title": "IM",
+    "rank": 7,
+    "rating": 2721,
+    "score": 96,
+    "sheet": {
+     "scores": "20020442200204442210422042204442200220010220021202442210"
+    }
+   },
+   {
+    "name": "gnejs",
+    "title": "FM",
+    "rank": 8,
+    "rating": 2655,
+    "score": 91,
+    "sheet": {
+     "scores": "00444442202210020442202020042202042200202022044220202200"
+    }
+   },
+   {
+    "name": "retired93",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2775,
+    "score": 90,
+    "sheet": {
+     "scores": "221204442222202201044220220002204444444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "BabaRamdev",
+    "title": "GM",
+    "flair": "smileys.clown-face",
+    "patron": true,
+    "rank": 10,
+    "rating": 2700,
+    "score": 90,
+    "sheet": {
+     "scores": "554422002020000422004221000200022020202044444422021202",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "yuZKAN0m",
+ "createdBy": "assios",
+ "startsAt": "2018-09-07T19:00:00Z",
+ "system": "arena",
+ "fullName": "Lichess Titled Arena 7",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,500 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $1000/$250/$125/$75/$50",
+ "onlyTitled": true
+}

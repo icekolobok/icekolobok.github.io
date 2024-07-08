@@ -1,0 +1,212 @@
+{
+ "nbPlayers": 665,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3092,
+   "score": 185,
+   "nb": {
+    "game": 73,
+    "berserk": 5,
+    "win": 53
+   },
+   "performance": 3141
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3019,
+   "score": 156,
+   "nb": {
+    "game": 71,
+    "berserk": 3,
+    "win": 48
+   },
+   "performance": 3090
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 3,
+   "rating": 2903,
+   "score": 123,
+   "nb": {
+    "game": 74,
+    "berserk": 41,
+    "win": 36
+   },
+   "performance": 2850
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 812190,
+  "averageRating": 2418,
+  "berserks": 1006,
+  "blackWins": 4337,
+  "games": 9789,
+  "draws": 593,
+  "whiteWins": 4859
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3092,
+    "score": 185,
+    "sheet": {
+     "scores": "0422101042200221200444422022220022444444422044444454444454444321245221022"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3019,
+    "score": 156,
+    "sheet": {
+     "scores": "22100022222442202202242204444444444221004444442212003021202202104444330",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 3,
+    "rating": 2903,
+    "score": 123,
+    "sheet": {
+     "scores": "23010044542303300330300100005330030300230210030300304220000102004455553300",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2854,
+    "score": 121,
+    "sheet": {
+     "scores": "44444221020044444220022020002042204220200202104220011042204442201022",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2980,
+    "score": 118,
+    "sheet": {
+     "scores": "0444220442202042202200202202120221000444444422110100044444230"
+    }
+   },
+   {
+    "name": "DrNykterstein",
+    "title": "GM",
+    "flair": "people.santa-claus-light-skin-tone",
+    "patron": true,
+    "rank": 6,
+    "rating": 3014,
+    "score": 117,
+    "sheet": {
+     "scores": "000202212042204444220020000212121120202244220204220000244442202204422"
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2895,
+    "score": 115,
+    "sheet": {
+     "scores": "0031020002002010044442212000100002022020042224444442202100444423002303020"
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 8,
+    "rating": 2936,
+    "score": 113,
+    "sheet": {
+     "scores": "2202224220021200202102002130022020000204220200422042202221204443204422032",
+     "fire": true
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2915,
+    "score": 112,
+    "sheet": {
+     "scores": "122422110220220004442204220022042200020022000202120244444220054230"
+    }
+   },
+   {
+    "name": "xasid",
+    "title": "IM",
+    "rank": 10,
+    "rating": 2586,
+    "score": 112,
+    "sheet": {
+     "scores": "24442200044444222220022000122422101202221020442202300001020422002310"
+    }
+   }
+  ]
+ },
+ "id": "aug20lta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-08-22T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena August '20",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,750 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $1250/$250/$125/$75/$50",
+ "onlyTitled": true
+}

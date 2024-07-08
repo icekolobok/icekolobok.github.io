@@ -1,0 +1,212 @@
+{
+ "nbPlayers": 216,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "DrDrunkenstein",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2981,
+   "score": 199,
+   "nb": {
+    "game": 65,
+    "berserk": 0,
+    "win": 56
+   },
+   "performance": 3056
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2849,
+   "score": 137,
+   "nb": {
+    "game": 64,
+    "berserk": 0,
+    "win": 45
+   },
+   "performance": 2921
+  },
+  {
+   "name": "opperwezen",
+   "title": "IM",
+   "flair": "objects.alarm-clock",
+   "patron": true,
+   "rank": 3,
+   "rating": 2801,
+   "score": 124,
+   "nb": {
+    "game": 69,
+    "berserk": 1,
+    "win": 42
+   },
+   "performance": 2809
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 362236,
+  "averageRating": 2352,
+  "berserks": 253,
+  "blackWins": 1902,
+  "games": 4283,
+  "draws": 280,
+  "whiteWins": 2101
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "DrDrunkenstein",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2981,
+    "score": 199,
+    "sheet": {
+     "scores": "44422044422044220024444444444422120442204444442224444444444444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2849,
+    "score": 137,
+    "sheet": {
+     "scores": "2422020220200200442204444220012244444442224220220220444220204422"
+    }
+   },
+   {
+    "name": "opperwezen",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 3,
+    "rating": 2801,
+    "score": 124,
+    "sheet": {
+     "scores": "244444221020200202202200104220204444220022104422002202020200444442300"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 4,
+    "rating": 2719,
+    "score": 114,
+    "sheet": {
+     "scores": "033004442200231042202020300444220000320003020205220042322202204221033"
+    }
+   },
+   {
+    "name": "UnVieuxMonsieur",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2719,
+    "score": 107,
+    "sheet": {
+     "scores": "00010422010020222044422020422000220220044220220120022000002022223010442202022"
+    }
+   },
+   {
+    "name": "VerdeNotte",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2727,
+    "score": 106,
+    "sheet": {
+     "scores": "302020001244444220202204422101242202042212112042200220203300212"
+    }
+   },
+   {
+    "name": "MeneerMandje",
+    "title": "GM",
+    "flair": "objects.basket",
+    "patron": true,
+    "rank": 7,
+    "rating": 2629,
+    "score": 104,
+    "sheet": {
+     "scores": "31044422000422020000020220000020444220422004523030000010003000422020002202302"
+    }
+   },
+   {
+    "name": "GeorgMeier",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2747,
+    "score": 103,
+    "sheet": {
+     "scores": "00021044442200422022220120422001200020220221202200220044444220221"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 9,
+    "rating": 2780,
+    "score": 101,
+    "sheet": {
+     "scores": "4220022044220000202210442210220220020020220442202200444221004220",
+     "fire": true
+    }
+   },
+   {
+    "name": "Macrofago",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2680,
+    "score": 100,
+    "sheet": {
+     "scores": "3022020201002102002244422020202004442200002020422244220422002020120"
+    }
+   }
+  ]
+ },
+ "id": "9kuznL7F",
+ "createdBy": "assios",
+ "startsAt": "2018-03-01T21:00:00Z",
+ "system": "arena",
+ "fullName": "Lichess Titled Arena 3",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $2200 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "[Official stream (IM Astaneh)](https://www.twitch.tv/astaneh)\r\n\r\n[Announcement](https://lichess.org/blog/Wog8VScAADbs2vFM/lichess-titled-arena-3)\r\n\r\nStandard arena rules, $2200 pool:\r\n$1500 - $350 - $175 - $100 - $75",
+ "onlyTitled": true
+}

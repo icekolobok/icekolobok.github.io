@@ -1,0 +1,205 @@
+{
+ "nbPlayers": 466,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "drop_stone",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2802,
+   "score": 109,
+   "nb": {
+    "game": 53,
+    "berserk": 52,
+    "win": 29
+   },
+   "performance": 2798
+  },
+  {
+   "name": "IGMGataKamsky",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2897,
+   "score": 108,
+   "nb": {
+    "game": 48,
+    "berserk": 0,
+    "win": 32
+   },
+   "performance": 2977
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2802,
+   "score": 108,
+   "nb": {
+    "game": 46,
+    "berserk": 29,
+    "win": 29
+   },
+   "performance": 2849
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 377718,
+  "averageRating": 2468,
+  "berserks": 2527,
+  "blackWins": 1948,
+  "games": 4404,
+  "draws": 358,
+  "whiteWins": 2098
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2802,
+    "score": 109,
+    "sheet": {
+     "scores": "23302330533003300000330330533025553300553313003103003"
+    }
+   },
+   {
+    "name": "IGMGataKamsky",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2897,
+    "score": 108,
+    "sheet": {
+     "scores": "244442224220442210124422012422044422020200444221"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2802,
+    "score": 108,
+    "sheet": {
+     "scores": "5444445433030130533030000000003030542305444523",
+     "fire": true
+    }
+   },
+   {
+    "name": "Shant7777777",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2831,
+    "score": 105,
+    "sheet": {
+     "scores": "01253300300100321253300444543300300300303002330000555330"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2885,
+    "score": 104,
+    "sheet": {
+     "scores": "0554230230020020254330552203000422025445332330"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 6,
+    "rating": 2758,
+    "score": 101,
+    "sheet": {
+     "scores": "301300000202330255330305331303003233003003044455330"
+    }
+   },
+   {
+    "name": "Mamikon_Gharibyan",
+    "title": "GM",
+    "flair": "smileys.alien",
+    "rank": 7,
+    "rating": 2752,
+    "score": 101,
+    "sheet": {
+     "scores": "444423000444422023022202010000444422030423000423021200",
+     "fire": true
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 8,
+    "rating": 2742,
+    "score": 99,
+    "sheet": {
+     "scores": "3303003030303030433033030443303300302330053300300003233",
+     "fire": true
+    }
+   },
+   {
+    "name": "Mario_Zagallo",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2888,
+    "score": 97,
+    "sheet": {
+     "scores": "300042211021100244442212255330533030330552212"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2831,
+    "score": 97,
+    "sheet": {
+     "scores": "002330023303013022130010000330302255545330331310313103"
+    }
+   }
+  ]
+ },
+ "id": "may23bta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-05-06T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena May '23",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/may23bua) ",
+ "onlyTitled": true
+}

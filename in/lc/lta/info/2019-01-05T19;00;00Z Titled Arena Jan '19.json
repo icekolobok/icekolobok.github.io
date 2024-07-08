@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 347,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "DrNykterstein",
+   "title": "GM",
+   "flair": "people.santa-claus-light-skin-tone",
+   "patron": true,
+   "rank": 1,
+   "rating": 3109,
+   "score": 181,
+   "nb": {
+    "game": 60,
+    "berserk": 0,
+    "win": 51
+   },
+   "performance": 3105
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2928,
+   "score": 125,
+   "nb": {
+    "game": 55,
+    "berserk": 0,
+    "win": 40
+   },
+   "performance": 2969
+  },
+  {
+   "name": "lodewijkfrederik",
+   "flair": "smileys.nerd-face",
+   "rank": 3,
+   "rating": 2853,
+   "score": 120,
+   "nb": {
+    "game": 66,
+    "berserk": 2,
+    "win": 41
+   },
+   "performance": 2845
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 474426,
+  "averageRating": 2344,
+  "berserks": 271,
+  "blackWins": 2589,
+  "games": 5679,
+  "draws": 358,
+  "whiteWins": 2732
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "DrNykterstein",
+    "title": "GM",
+    "flair": "people.santa-claus-light-skin-tone",
+    "patron": true,
+    "rank": 1,
+    "rating": 3109,
+    "score": 181,
+    "sheet": {
+     "scores": "422120244222444444444444444444444220220444422044444222444220",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2928,
+    "score": 125,
+    "sheet": {
+     "scores": "4444444442200222200204442201202022044220444222422004422",
+     "fire": true
+    }
+   },
+   {
+    "name": "lodewijkfrederik",
+    "flair": "smileys.nerd-face",
+    "rank": 3,
+    "rating": 2853,
+    "score": 120,
+    "sheet": {
+     "scores": "102112022044220012044220004220204423120444442202022004442200422020"
+    }
+   },
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2840,
+    "score": 112,
+    "sheet": {
+     "scores": "05320220004442200042202202204442202044442212104220444220"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2869,
+    "score": 105,
+    "sheet": {
+     "scores": "220442202020042210004220202020202022044442200042200222444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2835,
+    "score": 105,
+    "sheet": {
+     "scores": "22204444220422002242202203022021042200204220002201222044422"
+    }
+   },
+   {
+    "name": "Watneg",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2740,
+    "score": 104,
+    "sheet": {
+     "scores": "0444442200020422000200010044220002000022044444220002124444220"
+    }
+   },
+   {
+    "name": "Ogrilla",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2721,
+    "score": 101,
+    "sheet": {
+     "scores": "4442202020422001024220422222020220200220422120221020000044422002",
+     "fire": true
+    }
+   },
+   {
+    "name": "chessbrahs",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2758,
+    "score": 100,
+    "sheet": {
+     "scores": "2020002022020444444442202020220220020422020220000044220422022"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 10,
+    "rating": 2755,
+    "score": 99,
+    "sheet": {
+     "scores": "0001303023000030020104230042203044220003044432130301055330302"
+    }
+   }
+  ]
+ },
+ "id": "jan19lta",
+ "createdBy": "lukhas",
+ "startsAt": "2019-01-05T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena Jan '19",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

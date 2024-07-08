@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 418,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3096,
+   "score": 153,
+   "nb": {
+    "game": 64,
+    "berserk": 2,
+    "win": 46
+   },
+   "performance": 3160
+  },
+  {
+   "name": "C9C9C9C9C9",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3086,
+   "score": 148,
+   "nb": {
+    "game": 68,
+    "berserk": 14,
+    "win": 45
+   },
+   "performance": 3100
+  },
+  {
+   "name": "Vladimirovich9000",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3062,
+   "score": 128,
+   "nb": {
+    "game": 68,
+    "berserk": 0,
+    "win": 43
+   },
+   "performance": 3067
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 470099,
+  "averageRating": 2515,
+  "berserks": 798,
+  "blackWins": 2537,
+  "games": 5738,
+  "draws": 351,
+  "whiteWins": 2850
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3096,
+    "score": 153,
+    "sheet": {
+     "scores": "2320442202220422222002220224444422044422044442200020444444444231"
+    }
+   },
+   {
+    "name": "C9C9C9C9C9",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3086,
+    "score": 148,
+    "sheet": {
+     "scores": "00304533002000022020002054442304442204422044442201224544220044443302"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3062,
+    "score": 128,
+    "sheet": {
+     "scores": "24442200202202204422002204442210104422022022201044221044220204442200"
+    }
+   },
+   {
+    "name": "FeegLood",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3013,
+    "score": 125,
+    "sheet": {
+     "scores": "1200444422002020444422044444220022010220422022020044444533"
+    }
+   },
+   {
+    "name": "Pon4ik2006",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2950,
+    "score": 114,
+    "sheet": {
+     "scores": "22020112244444220002422002242200442202044422022002210422004221",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 3053,
+    "score": 114,
+    "sheet": {
+     "scores": "12000231200444320000222220004422120022044422020024422003304220230330"
+    }
+   },
+   {
+    "name": "Heisenberg01",
+    "title": "FM",
+    "rank": 7,
+    "rating": 2966,
+    "score": 114,
+    "sheet": {
+     "scores": "104442200442200220422104220021210120000202200004444220200222201045522"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2998,
+    "score": 110,
+    "sheet": {
+     "scores": "30533000044442200310204221022042200202010202044432120201000444221"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2867,
+    "score": 108,
+    "sheet": {
+     "scores": "030202022444443201044220020220204221200020422222002202202204422"
+    }
+   },
+   {
+    "name": "MeneerMandje",
+    "title": "GM",
+    "flair": "objects.basket",
+    "patron": true,
+    "rank": 10,
+    "rating": 2926,
+    "score": 107,
+    "sheet": {
+     "scores": "0302200200010004220442200200004222220200220000444442204220442211300033"
+    }
+   }
+  ]
+ },
+ "id": "nov21lta",
+ "createdBy": "lichess",
+ "startsAt": "2021-11-20T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena November '21",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

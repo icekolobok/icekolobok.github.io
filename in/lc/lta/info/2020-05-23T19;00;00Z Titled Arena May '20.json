@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 913,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Konevlad",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3057,
+   "score": 161,
+   "nb": {
+    "game": 70,
+    "berserk": 0,
+    "win": 51
+   },
+   "performance": 3137
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 2,
+   "rating": 2990,
+   "score": 150,
+   "nb": {
+    "game": 73,
+    "berserk": 29,
+    "win": 47
+   },
+   "performance": 3033
+  },
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3024,
+   "score": 142,
+   "nb": {
+    "game": 78,
+    "berserk": 41,
+    "win": 43
+   },
+   "performance": 2935
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 1164641,
+  "averageRating": 2431,
+  "berserks": 1333,
+  "blackWins": 6284,
+  "games": 14134,
+  "draws": 971,
+  "whiteWins": 6879
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Konevlad",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3057,
+    "score": 161,
+    "sheet": {
+     "scores": "0042202212020022224220224442204422244444444220422044220422004444442202"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 2,
+    "rating": 2990,
+    "score": 150,
+    "sheet": {
+     "scores": "0230432244444422044523044423002303300000200422032030532030432030053300312"
+    }
+   },
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3024,
+    "score": 142,
+    "sheet": {
+     "scores": "000002000444432013020302204442202002020442201043205330310301003305553300553300"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3062,
+    "score": 119,
+    "sheet": {
+     "scores": "204422020022100444442222200220204422020002444423022001302204432"
+    }
+   },
+   {
+    "name": "hitter1999",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2851,
+    "score": 117,
+    "sheet": {
+     "scores": "22221044444220200000020022020224422042224220100200224222222443300210"
+    }
+   },
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 3027,
+    "score": 113,
+    "sheet": {
+     "scores": "120230204220220244220221101210422020022022104220444220442204422"
+    }
+   },
+   {
+    "name": "Watneg",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2948,
+    "score": 112,
+    "sheet": {
+     "scores": "32012102422020220220222204422012422222022022022002210202042210444220",
+     "fire": true
+    }
+   },
+   {
+    "name": "dmitrij_IM",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2909,
+    "score": 111,
+    "sheet": {
+     "scores": "4444221020220210002042202122202004221200422020001200204442224422112",
+     "fire": true
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2933,
+    "score": 111,
+    "sheet": {
+     "scores": "33004220002022002002202020112422110022422024422020202020202044220444230",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2981,
+    "score": 109,
+    "sheet": {
+     "scores": "5330330002011004220042200044422022120044422102020000444220220422",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "may20lta",
+ "createdBy": "lukhas",
+ "startsAt": "2020-05-23T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena May '20",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

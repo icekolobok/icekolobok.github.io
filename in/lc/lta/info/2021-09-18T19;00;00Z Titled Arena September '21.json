@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 399,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "junglebook1",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3122,
+   "score": 142,
+   "nb": {
+    "game": 62,
+    "berserk": 2,
+    "win": 45
+   },
+   "performance": 3158
+  },
+  {
+   "name": "Arka50",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3080,
+   "score": 133,
+   "nb": {
+    "game": 61,
+    "berserk": 2,
+    "win": 44
+   },
+   "performance": 3150
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3087,
+   "score": 125,
+   "nb": {
+    "game": 60,
+    "berserk": 2,
+    "win": 42
+   },
+   "performance": 3127
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 447021,
+  "averageRating": 2500,
+  "berserks": 789,
+  "blackWins": 2473,
+  "games": 5497,
+  "draws": 309,
+  "whiteWins": 2715
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3122,
+    "score": 142,
+    "sheet": {
+     "scores": "02044220042204422044444442204444220212000220020444444442205220"
+    }
+   },
+   {
+    "name": "Arka50",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3080,
+    "score": 133,
+    "sheet": {
+     "scores": "0302244220022004422044442204422120220202204444422044422044221"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3087,
+    "score": 125,
+    "sheet": {
+     "scores": "202000444422042202204220102022004444442204442204321202044422"
+    }
+   },
+   {
+    "name": "elm20o7",
+    "title": "FM",
+    "rank": 4,
+    "rating": 2852,
+    "score": 124,
+    "sheet": {
+     "scores": "42200222102044444444220544220000202202022120242200024220432002000422",
+     "fire": true
+    }
+   },
+   {
+    "name": "C9C9C9C9C9",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2937,
+    "score": 123,
+    "sheet": {
+     "scores": "3033130303253300004330300300330030313033003030030030030330313000300000255523"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 6,
+    "rating": 2966,
+    "score": 119,
+    "sheet": {
+     "scores": "1010131001120002044444422042224452202020304221204231022002044432"
+    }
+   },
+   {
+    "name": "Federicov93",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3019,
+    "score": 115,
+    "sheet": {
+     "scores": "2222021202042204422044442200202004422020220204422022204442202"
+    }
+   },
+   {
+    "name": "Gokerkan",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2852,
+    "score": 108,
+    "sheet": {
+     "scores": "30444230244443200300020000302121204442202002202020221000044422020"
+    }
+   },
+   {
+    "name": "chessbrahs",
+    "title": "GM",
+    "rank": 9,
+    "rating": 3003,
+    "score": 104,
+    "sheet": {
+     "scores": "102244221020203202004220200044220220220020220454330442200422"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2968,
+    "score": 104,
+    "sheet": {
+     "scores": "5533030033030025331202202205553305555533",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "sep21lta",
+ "createdBy": "lichess",
+ "startsAt": "2021-09-18T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena September '21",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Live Commentary w/ IM Alex Astaneh](https://lichess.org/event/TAqNFxGP)",
+ "onlyTitled": true
+}

@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 363,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3250,
+   "score": 133,
+   "nb": {
+    "game": 65,
+    "berserk": 5,
+    "win": 42
+   },
+   "performance": 3219
+  },
+  {
+   "name": "Inventing_Invention",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3196,
+   "score": 125,
+   "nb": {
+    "game": 63,
+    "berserk": 7,
+    "win": 40
+   },
+   "performance": 3173
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3201,
+   "score": 118,
+   "nb": {
+    "game": 64,
+    "berserk": 6,
+    "win": 40
+   },
+   "performance": 3195
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 464240,
+  "averageRating": 2558,
+  "berserks": 628,
+  "blackWins": 2487,
+  "games": 5571,
+  "draws": 328,
+  "whiteWins": 2756
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3250,
+    "score": 133,
+    "sheet": {
+     "scores": "02312422044444220222022024444220442200202002212422120022104444330"
+    }
+   },
+   {
+    "name": "Inventing_Invention",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3196,
+    "score": 125,
+    "sheet": {
+     "scores": "220224442202044221022001042224444220544330000020204222220523031",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3201,
+    "score": 118,
+    "sheet": {
+     "scores": "3000020220220020221044444221042202202200210212044444220044444230"
+    }
+   },
+   {
+    "name": "Gokerkan",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2986,
+    "score": 115,
+    "sheet": {
+     "scores": "44443202000000110422023044422010003042302100000442200202242200442302202",
+     "fire": true
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 3076,
+    "score": 113,
+    "sheet": {
+     "scores": "54220220022020044220000422244442204220444230444422102",
+     "fire": true
+    }
+   },
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3105,
+    "score": 112,
+    "sheet": {
+     "scores": "0200204422020422100204422020022001000442210044422120200244422004422"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3082,
+    "score": 111,
+    "sheet": {
+     "scores": "030042200444422022044442203200020003002120022022044230444422"
+    }
+   },
+   {
+    "name": "Minoli",
+    "title": "GM",
+    "rank": 8,
+    "rating": 3028,
+    "score": 111,
+    "sheet": {
+     "scores": "33042202002020422022044221242200004444220000204220020000422044422",
+     "fire": true
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 9,
+    "rating": 2985,
+    "score": 111,
+    "sheet": {
+     "scores": "52303300102433000000004220002202302202020444444220003004423000433030",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 10,
+    "rating": 3044,
+    "score": 111,
+    "sheet": {
+     "scores": "003300300033130042200000552302432002002200203043204230030300533033000330"
+    }
+   }
+  ]
+ },
+ "id": "mar23lta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-03-18T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena March '23",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/mar23wua)",
+ "onlyTitled": true
+}

@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 412,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2910,
+   "score": 150,
+   "nb": {
+    "game": 57,
+    "berserk": 55,
+    "win": 38
+   },
+   "performance": 2960
+  },
+  {
+   "name": "drop_stone",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2855,
+   "score": 130,
+   "nb": {
+    "game": 61,
+    "berserk": 60,
+    "win": 34
+   },
+   "performance": 2871
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2844,
+   "score": 126,
+   "nb": {
+    "game": 57,
+    "berserk": 57,
+    "win": 33
+   },
+   "performance": 2906
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 321031,
+  "averageRating": 2473,
+  "berserks": 2931,
+  "blackWins": 1645,
+  "games": 3732,
+  "draws": 335,
+  "whiteWins": 1752
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2910,
+    "score": 150,
+    "sheet": {
+     "scores": "330533130002303025555331030533005555330203030305555555330",
+     "fire": true
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2855,
+    "score": 130,
+    "sheet": {
+     "scores": "2555330533011055330330030303300330055533130103300301013030533"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2844,
+    "score": 126,
+    "sheet": {
+     "scores": "253305533023310030553303303310233030003111303305553303033"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2873,
+    "score": 124,
+    "sheet": {
+     "scores": "13032230321005330044423011200032331302124523054330454532"
+    }
+   },
+   {
+    "name": "SindarovGM",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2830,
+    "score": 120,
+    "sheet": {
+     "scores": "0021300131202330300553310300004555232331300305330555533"
+    }
+   },
+   {
+    "name": "Watneg",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2810,
+    "score": 118,
+    "sheet": {
+     "scores": "0303030121130031000130020533233033001030000253300230533255555330"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2845,
+    "score": 115,
+    "sheet": {
+     "scores": "5555220121011000053300054222444523000003112003004523044320",
+     "fire": true
+    }
+   },
+   {
+    "name": "dr_xStranger",
+    "title": "IM",
+    "flair": "smileys.face-with-raised-eyebrow",
+    "rank": 8,
+    "rating": 2746,
+    "score": 111,
+    "sheet": {
+     "scores": "303000303044432030042300244330043300044533033103003000033033"
+    }
+   },
+   {
+    "name": "Shant7777777",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2797,
+    "score": 109,
+    "sheet": {
+     "scores": "3300300000301100244433000300323310031303005332533043300001204432",
+     "fire": true
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 10,
+    "rating": 2795,
+    "score": 108,
+    "sheet": {
+     "scores": "1003300033103000555553303055330533055554330"
+    }
+   }
+  ]
+ },
+ "id": "feb24bta",
+ "createdBy": "lichess",
+ "startsAt": "2024-02-10T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena February '24",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/feb24bua) ",
+ "onlyTitled": true
+}

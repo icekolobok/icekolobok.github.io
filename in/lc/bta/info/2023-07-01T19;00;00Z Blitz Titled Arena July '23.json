@@ -1,0 +1,209 @@
+{
+ "nbPlayers": 456,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "DrNykterstein",
+   "title": "GM",
+   "flair": "people.santa-claus-light-skin-tone",
+   "patron": true,
+   "rank": 1,
+   "rating": 3115,
+   "score": 185,
+   "nb": {
+    "game": 51,
+    "berserk": 48,
+    "win": 42
+   },
+   "performance": 3097
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2949,
+   "score": 137,
+   "nb": {
+    "game": 52,
+    "berserk": 45,
+    "win": 34
+   },
+   "performance": 2999
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2867,
+   "score": 133,
+   "nb": {
+    "game": 56,
+    "berserk": 39,
+    "win": 35
+   },
+   "performance": 2921
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 359575,
+  "averageRating": 2456,
+  "berserks": 2983,
+  "blackWins": 1845,
+  "games": 4277,
+  "draws": 357,
+  "whiteWins": 2075
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "DrNykterstein",
+    "title": "GM",
+    "flair": "people.santa-claus-light-skin-tone",
+    "patron": true,
+    "rank": 1,
+    "rating": 3115,
+    "score": 185,
+    "sheet": {
+     "scores": "305555553325332555555555555533005331030533055555522"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2949,
+    "score": 137,
+    "sheet": {
+     "scores": "1030003255533233053303302332433254433102330555330533"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2867,
+    "score": 133,
+    "sheet": {
+     "scores": "24442300310433124444432245330053300300553300030533233003"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2911,
+    "score": 125,
+    "sheet": {
+     "scores": "00023003301302002422031120453302201255445553225555423"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2851,
+    "score": 117,
+    "sheet": {
+     "scores": "1044231313044443300330033053303313042305533030002523"
+    }
+   },
+   {
+    "name": "Durarbayli",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2800,
+    "score": 117,
+    "sheet": {
+     "scores": "302303055555555320533103053310303005533000224220"
+    }
+   },
+   {
+    "name": "Chesstoday",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2866,
+    "score": 114,
+    "sheet": {
+     "scores": "320301030122523031001030454320030030444432032045330130313030",
+     "fire": true
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2834,
+    "score": 111,
+    "sheet": {
+     "scores": "255330444444444532020443202000210303110533000422"
+    }
+   },
+   {
+    "name": "dr_xStranger",
+    "title": "IM",
+    "flair": "smileys.face-with-raised-eyebrow",
+    "rank": 9,
+    "rating": 2753,
+    "score": 107,
+    "sheet": {
+     "scores": "103305330130330022002202222021020024444455330553303010"
+    }
+   },
+   {
+    "name": "chessbrahs",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2787,
+    "score": 107,
+    "sheet": {
+     "scores": "3003031313000300045221053203303030553305553303303302"
+    }
+   }
+  ]
+ },
+ "id": "jul23bta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2023-07-01T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena July '23",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jul23bua) ",
+ "onlyTitled": true
+}

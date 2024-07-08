@@ -1,0 +1,208 @@
+{
+ "nbPlayers": 501,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2910,
+   "score": 125,
+   "nb": {
+    "game": 47,
+    "berserk": 22,
+    "win": 32
+   },
+   "performance": 3031
+  },
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2851,
+   "score": 116,
+   "nb": {
+    "game": 47,
+    "berserk": 46,
+    "win": 29
+   },
+   "performance": 2911
+  },
+  {
+   "name": "MatthewG-p4p",
+   "title": "IM",
+   "flair": "smileys.beaming-face-with-smiling-eyes",
+   "patron": true,
+   "rank": 3,
+   "rating": 2796,
+   "score": 108,
+   "nb": {
+    "game": 50,
+    "berserk": 27,
+    "win": 31
+   },
+   "performance": 2929
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 396253,
+  "averageRating": 2495,
+  "berserks": 2870,
+  "blackWins": 2056,
+  "games": 4601,
+  "draws": 420,
+  "whiteWins": 2125
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2910,
+    "score": 125,
+    "sheet": {
+     "scores": "23302313110244444423000230024454444543313054533"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2851,
+    "score": 116,
+    "sheet": {
+     "scores": "05230303130555331253313001053300055555330030533"
+    }
+   },
+   {
+    "name": "MatthewG-p4p",
+    "title": "IM",
+    "flair": "smileys.beaming-face-with-smiling-eyes",
+    "patron": true,
+    "rank": 3,
+    "rating": 2796,
+    "score": 108,
+    "sheet": {
+     "scores": "32044422021245231222301302103020455523003131053303",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2830,
+    "score": 101,
+    "sheet": {
+     "scores": "4454444220000000301020230223103300454444453312",
+     "fire": true
+    }
+   },
+   {
+    "name": "MahammadMuradli2003",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2764,
+    "score": 101,
+    "sheet": {
+     "scores": "0032543301300103032533002554330330330000033053303030"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2887,
+    "score": 99,
+    "sheet": {
+     "scores": "2542203003002222002312442210542303121323205522022"
+    }
+   },
+   {
+    "name": "Riquelme93",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2785,
+    "score": 96,
+    "sheet": {
+     "scores": "53300300003003030300300101030300303033023310002331313033253303",
+     "fire": true
+    }
+   },
+   {
+    "name": "Fandorine96",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2816,
+    "score": 95,
+    "sheet": {
+     "scores": "0000553302010030103011103030553313053303005330103300422"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2787,
+    "score": 95,
+    "sheet": {
+     "scores": "004533030000044433030003313033003303013033001100445330"
+    }
+   },
+   {
+    "name": "Pon4ik2006",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2899,
+    "score": 94,
+    "sheet": {
+     "scores": "4454422003044422024220202020422024444422",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "nov22bta",
+ "createdBy": "konstantinos07",
+ "startsAt": "2022-11-05T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena November '22",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50",
+ "onlyTitled": true
+}

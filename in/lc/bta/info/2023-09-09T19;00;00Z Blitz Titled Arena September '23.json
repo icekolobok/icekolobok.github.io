@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 508,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2848,
+   "score": 138,
+   "nb": {
+    "game": 57,
+    "berserk": 54,
+    "win": 33
+   },
+   "performance": 2913
+  },
+  {
+   "name": "nihalsarin2004",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2878,
+   "score": 117,
+   "nb": {
+    "game": 56,
+    "berserk": 49,
+    "win": 33
+   },
+   "performance": 2867
+  },
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2867,
+   "score": 115,
+   "nb": {
+    "game": 50,
+    "berserk": 27,
+    "win": 32
+   },
+   "performance": 2934
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 386109,
+  "averageRating": 2463,
+  "berserks": 2777,
+  "blackWins": 1952,
+  "games": 4541,
+  "draws": 313,
+  "whiteWins": 2276
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2848,
+    "score": 138,
+    "sheet": {
+     "scores": "102523030553300030303030553303001312555331132555553310233"
+    }
+   },
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2878,
+    "score": 117,
+    "sheet": {
+     "scores": "30003033100231325552300330330003030033055553303300552302"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2867,
+    "score": 115,
+    "sheet": {
+     "scores": "33021045444443200330004423000201023255523053313233",
+     "fire": true
+    }
+   },
+   {
+    "name": "Hooligan64",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2903,
+    "score": 110,
+    "sheet": {
+     "scores": "030020032052313033022200444445433233053303310433030"
+    }
+   },
+   {
+    "name": "dr_xStranger",
+    "title": "IM",
+    "flair": "smileys.face-with-raised-eyebrow",
+    "rank": 5,
+    "rating": 2739,
+    "score": 109,
+    "sheet": {
+     "scores": "24330030031100000302533130300130330030031053325533002533010330"
+    }
+   },
+   {
+    "name": "sumsar42",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2839,
+    "score": 104,
+    "sheet": {
+     "scores": "0204330045533000010330303300213025230231310030024455230"
+    }
+   },
+   {
+    "name": "MahammadMuradli2003",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2729,
+    "score": 104,
+    "sheet": {
+     "scores": "03300030555331300003001005330000055533003255533010303001"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2858,
+    "score": 103,
+    "sheet": {
+     "scores": "545545533002104444220130200130021245444221",
+     "fire": true
+    }
+   },
+   {
+    "name": "athena-pallada",
+    "title": "GM",
+    "flair": "nature.fire",
+    "rank": 9,
+    "rating": 2882,
+    "score": 102,
+    "sheet": {
+     "scores": "533103300013000130033024321032030043323301000031130543302330",
+     "fire": true
+    }
+   },
+   {
+    "name": "maybe_maybe",
+    "title": "IM",
+    "flair": "food-drink.pancakes",
+    "rank": 10,
+    "rating": 2717,
+    "score": 102,
+    "sheet": {
+     "scores": "024442325533020303300010030030003200052300303302000300030045330"
+    }
+   }
+  ]
+ },
+ "id": "sep23bta",
+ "createdBy": "lukhas",
+ "startsAt": "2023-09-09T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena September '23",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/sep23bua) ",
+ "onlyTitled": true
+}

@@ -1,0 +1,204 @@
+{
+ "nbPlayers": 323,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3071,
+   "score": 140,
+   "nb": {
+    "game": 63,
+    "berserk": 1,
+    "win": 45
+   },
+   "performance": 3180
+  },
+  {
+   "name": "C9C9C9C9C9",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3035,
+   "score": 131,
+   "nb": {
+    "game": 69,
+    "berserk": 21,
+    "win": 43
+   },
+   "performance": 3071
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3107,
+   "score": 130,
+   "nb": {
+    "game": 65,
+    "berserk": 5,
+    "win": 43
+   },
+   "performance": 3063
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 401768,
+  "averageRating": 2531,
+  "berserks": 752,
+  "blackWins": 2174,
+  "games": 4838,
+  "draws": 293,
+  "whiteWins": 2371
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3071,
+    "score": 140,
+    "sheet": {
+     "scores": "422000222020242204442204220444422102202044422044423024442204422",
+     "fire": true
+    }
+   },
+   {
+    "name": "C9C9C9C9C9",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3035,
+    "score": 131,
+    "sheet": {
+     "scores": "104543303000210222444445220202300423020230200222422223030302203030422"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3107,
+    "score": 130,
+    "sheet": {
+     "scores": "44442202242204442300020204422030204220022433002022000044220444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Heisenberg01",
+    "title": "FM",
+    "rank": 4,
+    "rating": 3015,
+    "score": 130,
+    "sheet": {
+     "scores": "044444422002202020000444221204444220222020120200204422012244442212"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2988,
+    "score": 123,
+    "sheet": {
+     "scores": "0010204220422022202002022202042224220204422020442202024444444422"
+    }
+   },
+   {
+    "name": "Gokerkan",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2907,
+    "score": 122,
+    "sheet": {
+     "scores": "1301002030020002012044433030042300023030204230002044442201244222220102200422"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2953,
+    "score": 117,
+    "sheet": {
+     "scores": "310000030020200220320422042300045422100004422242200021024422044442302"
+    }
+   },
+   {
+    "name": "Positional-Squeezer",
+    "title": "FM",
+    "rank": 8,
+    "rating": 2813,
+    "score": 117,
+    "sheet": {
+     "scores": "125432004220302210042200204444220220202020042200202204220044330022022"
+    }
+   },
+   {
+    "name": "Amin_____tb",
+    "title": "GM",
+    "flair": "nature.waxing-gibbous-moon",
+    "rank": 9,
+    "rating": 2981,
+    "score": 113,
+    "sheet": {
+     "scores": "330300301042210021202020044220442202000000444220423024220444330021",
+     "fire": true
+    }
+   },
+   {
+    "name": "Shant7777777",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2910,
+    "score": 111,
+    "sheet": {
+     "scores": "0000004220444432020000220200220000003022210204422002244444432021310002031"
+    }
+   }
+  ]
+ },
+ "id": "oct21lta",
+ "createdBy": "lichess",
+ "startsAt": "2021-10-16T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena October '21",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Live Stream w/ IM Alex Astaneh](https://lichess.org/event/TAqNFxGP)",
+ "onlyTitled": true
+}
