@@ -34,7 +34,7 @@ def update(tournament, path, token, download):
 
 
 def main(path, token, download):
-    websites = ['cc', 'lc']
+    websites = ['lc', 'cc']
     tournaments = {'lc': ['bta', 'lta', '960'], 'cc': ['bb', 'tt']}
     for website in websites:
         for tournament in tournaments[website]:
@@ -42,4 +42,4 @@ def main(path, token, download):
 
 
 if __name__ == '__main__':
-    main('', {'lc': '', 'cc': ''}, download=False)
+    main('', {'lc': '', 'cc': ''}, download=True)

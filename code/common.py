@@ -53,6 +53,7 @@ def analyze_winners(data, usernames, t):
             players[username]['participation'] += 1
             players[username]['score'].append({
                 'date': tournament['info']['startsAt'],
+                'id': tournament['info']['id'],
                 'points': player['score'],
                 'rating': player['rating'],
                 'rank': player['rank'],

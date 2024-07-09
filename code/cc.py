@@ -196,7 +196,8 @@ def create_part_json(participation, folder):
 
 
 def shrink(dates):
-    return [f'{date[8:10]}.{date[5:7]}.{date[2:4]}' for date in dates]
+    base_url = 'https://www.chess.com/tournament/live/'
+    return [f'<a href={base_url+date[1]} class={'winner' if date[2] <= 1 else 'loser'}>{date[0][8:10]}.{date[0][5:7]}.{date[0][2:4]}</a>' for date in dates]
 
 
 def players_list(data, column):
@@ -359,7 +360,7 @@ def calc_best(data, folder):
                     if player not in scores_data[score]:
                         scores_data[score][player] = {'count': 0, 'dates': []}
                     scores_data[score][player]['count'] += 1
-                    scores_data[score][player]['dates'].append(date)
+                    scores_data[score][player]['dates'].append((date, pr['id'], pr['rank']))
         # Processing for scores in highest_scores_column_1 (R, R-0.5)
         for score in highest_scores_column_1:
             if score in scores_data:
@@ -377,7 +378,7 @@ def calc_best(data, folder):
         html_content += '</div>\n</div>\n</div></div>'
     html_content += '</div>\n</div></div>\n'
 
-    html_content += ('Baadur Jobava also won both Titled Tuesdays on Jan 27, 2015 with a perfect score of 4/4 and 7/7.<p>'
+    html_content += ('Baadur Jobava also won both Titled Tuesdays on Jan 27, 2015 with a perfect score of <a href=https://www.chess.com/tournament/live/-titled-tuesday-32-blitz-459814 class=''winner''>4/4</a> and <a href=https://www.chess.com/tournament/live/-titled-tuesday-32-blitz-483353 class=''winner''>7/7</a>.<p>'
                      '<div class="t-header">Fair Play</div><p>'
                      'The following prize-winning players were disqualified by Chess.com and had their account closed during the tournament or shortly after (X): Matvei Shcherbin, Viacheslav Tilicheev (both 02.06.15), Mark Tran (01.09.15), Tobias Hirneise (07.11.17), '
                      'Santiago Zapata Charles (17.04.18), Daniil Yuffa (06.11.18), Javokhir Sindarov, Vladimir Zakhartsov, and Kanan Garayev (all three 02.04.19), so they are excluded from the winner statistics.<p>'
