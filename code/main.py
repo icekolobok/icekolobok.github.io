@@ -29,7 +29,7 @@ def update(tournament, path, token, download):
     else:
         cc.create_part_json(participation, path)
         cc.calc_best(players, path)
-    common.make_crosstable([tournament['games'] for tournament in data], usernames, next(iter(players)), tournament, 55)
+    common.make_crosstable([tournament['games'] for tournament in data], usernames, next(iter(players)), tournament, 55, path)
     return 0
 
 
@@ -42,4 +42,4 @@ def main(path, token, download):
 
 
 if __name__ == '__main__':
-    main('', {'lc': '', 'cc': ''}, download=True)
+    main('../', {'lc': '', 'cc': ''}, download=True)

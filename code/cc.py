@@ -150,7 +150,7 @@ def download_data(arena_type, path, token):
 
 
 def create_part_json(participation, folder):
-    data = {'Early': [], 'Late': [], 'SCC': [], 'General': []}
+    data = {'Early': [], 'Late': [], 'SCC': [], 'TT': []}
     for tournament in participation:
         date = tournament['date'][:10]
         time = tournament['date'][11:16]
@@ -162,11 +162,11 @@ def create_part_json(participation, folder):
         elif 'Qualifier' in tournament['name'] or 'SCC' in tournament['name']:
             data['SCC'].append({'x': tournament['date'], 'y': tournament['players']})
         else:
-            data['General'].append({'x': tournament['date'], 'y': tournament['players']})
+            data['TT'].append({'x': tournament['date'], 'y': tournament['players']})
     bg = {'Early': {'R': 237, 'G': 40, 'B': 57, 'A': 0.5}, 'Late': {'R': 0, 'G': 24, 'B': 168, 'A': 0.5},
-          'SCC': {'R': 255, 'G': 88, 'B': 0, 'A': 0.5}, 'General': {'R': 0, 'G': 173, 'B': 131, 'A': 0.5}}
+          'SCC': {'R': 255, 'G': 88, 'B': 0, 'A': 0.5}, 'TT': {'R': 0, 'G': 173, 'B': 131, 'A': 0.5}}
     bd = {'Early': {'R': 255, 'G': 0, 'B': 0, 'A': 0.9}, 'Late': {'R': 0, 'G': 0, 'B': 255, 'A': 0.9},
-          'SCC': {'R': 255, 'G': 79, 'B': 0, 'A': 0.9}, 'General': {'R': 1, 'G': 163, 'B': 104, 'A': 0.9}}
+          'SCC': {'R': 255, 'G': 79, 'B': 0, 'A': 0.9}, 'TT': {'R': 1, 'G': 163, 'B': 104, 'A': 0.9}}
 
     p_json = {'labels': [tournament['date'] for tournament in participation], 'datasets': []}
     for t_type in data:

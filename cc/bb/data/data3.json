@@ -11,21 +11,21 @@
   "Renato Terry",
   "Yoseph Theolifus Taher",
   "Magnus Carlsen",
+  "Arjun Erigaisi",
   "David Paravyan (*)",
   "Ediz Gurel",
   "Sergei Zhigalko",
   "Eric Hansen",
   "Emin Ohanyan",
   "Maxime Vachier-Lagrave",
-  "Pranav Venkatesh",
-  "Arjun Erigaisi"
+  "Pranav Venkatesh"
  ],
  "datasets": [
   {
    "label": "Gold",
    "data": [
     25,
-    20,
+    21,
     6,
     3,
     2,
@@ -65,7 +65,7 @@
     1,
     1,
     1,
-    0,
+    1,
     0,
     0,
     0,
@@ -78,7 +78,7 @@
   {
    "label": "Bronze",
    "data": [
-    1,
+    2,
     7,
     10,
     14,
@@ -89,10 +89,10 @@
     1,
     6,
     1,
-    0,
-    0,
-    0,
     1,
+    0,
+    0,
+    0,
     1,
     1,
     1,

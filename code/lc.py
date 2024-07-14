@@ -56,7 +56,7 @@ def download_data(arena_type, folder, token):
                         else:
                             params = {'moves': True, 'pgnInJson': True, 'tags': True, 'clocks': True, 'evals': True,
                                       'accuracy': True, 'opening': True, 'division': True}
-                        response = get(url + f'/{tp}', params, 'x-ndjson')
+                        response = get(url + f'/{tp}', params, 'x-ndjson', token)
                         if response.status_code == 200:
                             data = response.text.strip().split('\n')
                             dicts = [json.loads(line) for line in data]

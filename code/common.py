@@ -189,7 +189,7 @@ def calc_color(x, y, m):
     return color
 
 
-def create_table_html(crosstable, m, arena_type, n):
+def create_table_html(crosstable, m, arena_type, n, path):
     symbol = {'cc': '♟︎', 'lc': '♘'}
     title = {'tt': 'Titled Tuesday', 'bb': 'Bullet Brawl',
              'lta': 'Titled Arena', 'bta': 'Blitz Titled Arena', '960': 'Chess960 Titled Arena'}
@@ -224,17 +224,17 @@ def create_table_html(crosstable, m, arena_type, n):
             html += f'<td style="{cell_style}">{cell}</td>'
         html += '</tr>\n'
     html += '</table>'
-    with open(f'{arena_type['website']}/{arena_type['tournament']}/data/crosstable.html', 'w', encoding='utf-8') as f:
+    with open(path + f'{arena_type['website']}/{arena_type['tournament']}/data/crosstable.html', 'w', encoding='utf-8') as f:
         f.write(html)
     return 0
 
 
-def make_crosstable(data_games, nicknames, player0, tournament, n):
+def make_crosstable(data_games, nicknames, player0, tournament, n, path):
     if tournament['tournament'] == 'tt':
         filename = 'scc_playoff-1613698.json'
-        data_games.append(json.load(open(f'in/{tournament['website']}/{tournament['tournament']}/games/{filename}')))
+        data_games.append(json.load(open(path + f'in/{tournament['website']}/{tournament['tournament']}/games/{filename}')))
     crosstable, max_games = build_crosstable(data_games, nicknames, player0, tournament['website'])
-    create_table_html(crosstable, max_games, tournament, n)
+    create_table_html(crosstable, max_games, tournament, n, path)
     return 0
 
 

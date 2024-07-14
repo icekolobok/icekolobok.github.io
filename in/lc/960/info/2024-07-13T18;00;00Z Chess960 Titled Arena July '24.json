@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 264,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "BenjaminBokTwitch",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2549,
+   "score": 79,
+   "nb": {
+    "game": 35,
+    "berserk": 13,
+    "win": 22
+   },
+   "performance": 2573
+  },
+  {
+   "name": "Vahe_Dan",
+   "title": "IM",
+   "rank": 2,
+   "rating": 2377,
+   "score": 77,
+   "nb": {
+    "game": 41,
+    "berserk": 18,
+    "win": 22
+   },
+   "performance": 2463
+  },
+  {
+   "name": "msb2",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2513,
+   "score": 73,
+   "nb": {
+    "game": 33,
+    "berserk": 14,
+    "win": 20
+   },
+   "performance": 2562
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 109161,
+  "averageRating": 2105,
+  "berserks": 852,
+  "blackWins": 633,
+  "games": 1482,
+  "draws": 129,
+  "whiteWins": 720
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "BenjaminBokTwitch",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2549,
+    "score": 79,
+    "sheet": {
+     "scores": "22044220120000445455332330053302231",
+     "fire": true
+    }
+   },
+   {
+    "name": "Vahe_Dan",
+    "title": "IM",
+    "rank": 2,
+    "rating": 2377,
+    "score": 77,
+    "sheet": {
+     "scores": "05522112003004220024432010025423242200330"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2513,
+    "score": 73,
+    "sheet": {
+     "scores": "444432001300124423223032002444330",
+     "fire": true
+    }
+   },
+   {
+    "name": "SindarovGM",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2479,
+    "score": 73,
+    "sheet": {
+     "scores": "04532004320032330310003300223233032321300"
+    }
+   },
+   {
+    "name": "legendreturns",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2570,
+    "score": 70,
+    "sheet": {
+     "scores": "3054230230130432044542222203023"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2486,
+    "score": 70,
+    "sheet": {
+     "scores": "10104321043203000453301311200303112253300"
+    }
+   },
+   {
+    "name": "Riquelme93",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2405,
+    "score": 68,
+    "sheet": {
+     "scores": "303000100532130224230452303300233033"
+    }
+   },
+   {
+    "name": "may6enexttime",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2519,
+    "score": 62,
+    "sheet": {
+     "scores": "2020202242224220220220224422024220"
+    }
+   },
+   {
+    "name": "Jasugi99",
+    "title": "NM",
+    "rank": 9,
+    "rating": 2283,
+    "score": 62,
+    "sheet": {
+     "scores": "53303000000000000003000303030233001030000030332330331000",
+     "fire": true
+    }
+   },
+   {
+    "name": "Chessfis",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2455,
+    "score": 60,
+    "sheet": {
+     "scores": "2330244423012022330013121004422"
+    }
+   }
+  ]
+ },
+ "id": "960jul24",
+ "createdBy": "cormacobear",
+ "startsAt": "2024-07-13T18:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena July '24",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/96wjul24)\r\n\r\nJoin the [official Lichess Chess960 team](https://lichess.org/team/lichess-chess960) for news and events",
+ "onlyTitled": true
+}
