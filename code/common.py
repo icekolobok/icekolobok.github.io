@@ -200,13 +200,17 @@ def create_table_html(crosstable, m, arena_type, n, path):
     keys = list(crosstable.keys())[:n]
     html = (f'<table border="1" style="border-collapse: collapse; text-align: center; font-size: 11px;">\n<tr>'
             f'<th>{symbol[arena_type['website']]} {title[arena_type['tournament']]}</th>')
+    if arena_type == 'tt' or arena_type == 'bta':
+        width = 1.7
+    else:
+        width = 1.69
     for key in keys:
         key_p = crop_key(key, 'short')
-        html += f'<th style="width: 1.7%; writing-mode: vertical-lr; transform: rotate(180deg);">{key_p}</th>'
+        html += f'<th style="width: {width}%; writing-mode: vertical-lr; transform: rotate(180deg);">{key_p}</th>'
     html += '</tr>\n'
     for key1 in keys:
         key_p = crop_key(key1, 'long')
-        html += f'<tr><td style="text-align: left;">{key_p}</td>'
+        html += f'<tr><td style="text-align: left; white-space: nowrap;">{key_p}</td>'
         for key2 in keys:
             if key1 == key2 and crosstable[key1][key1] == 0:
                 cell = '&nbsp'

@@ -102,7 +102,7 @@ def make_body(tournament, page_type):
     if tournament['website'] == 'cc' and page_type in ['top3', 'top5', 'top8']:
         body += ' <div class="note">(X) - account closed, (M), (S), (B), (C), (?), (!) - have a history of account closures/inactivities/2nd chance accounts, (i) - inactive, (d) - deceased</div>\n'
         body += ' <div class="note">These marks help accumulate results from different accounts of the same player and do not imply cheating, unfair play, or rule violations. For details see Fair Play section in TT Highest Scores tab.</div>\n'
-    body += f' <div class="note">Last Updated: {datetime.now().strftime("%d %B %Y at %H:%M:%S")} ET</div>'
+    body += f' <div class="note">Last Updated: {datetime.now().strftime("%d %B %Y at %H:%M:%S")} ET</div>\n'
     body += '</body>\n'
     body += '</html>'
     return body
