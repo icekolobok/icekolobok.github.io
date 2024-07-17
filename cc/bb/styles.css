@@ -36,7 +36,7 @@
     overflow-y: auto; /* Enable vertical scrolling */
 }
 
-.bb{
+.ss{
     text-decoration-line: underline;
     text-decoration-style: dashed;
     text-decoration-color: rgba(0, 102, 255, 0.9);

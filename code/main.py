@@ -2,6 +2,7 @@ import lc
 import cc
 import utils
 import common
+import webpage
 
 
 def retrieve_data(tournament, path, token, download):
@@ -29,7 +30,9 @@ def update(tournament, path, token, download):
     else:
         cc.create_part_json(participation, path)
         cc.calc_best(players, path)
-    common.make_crosstable([tournament['games'] for tournament in data], usernames, next(iter(players)), tournament, 55, path)
+    common.make_crosstable([tournament['games'] for tournament in data], usernames, next(iter(players)), tournament,
+                           55, path)
+    webpage.make_webpages(path, tournament, len(data), int(data[0]['info']['startsAt'][:4]))
     return 0
 
 
@@ -42,4 +45,4 @@ def main(path, token, download):
 
 
 if __name__ == '__main__':
-    main('../', {'lc': '', 'cc': ''}, download=True)
+    main('../', {'lc': '', 'cc': ''}, download=False)

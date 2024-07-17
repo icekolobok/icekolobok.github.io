@@ -1,5 +1,6 @@
 import utils
 import json
+import math
 
 
 class Crosstable:
@@ -184,7 +185,10 @@ def calc_color(x, y, m):
     r = 0 if z > 0.5 else 255 * (1 - 2 * z)
     g = 255 * (2 * z - 1) if z > 0.5 else 0
     b = 255 * (2 - 2 * z) if z > 0.5 else 255 * 2 * z
-    a = (x + y) / m
+    # a = (x + y) / m
+    a0 = 0.05
+    a1 = 0.7
+    a = (a0 * math.sqrt(m) - a1 + (a1 - a0) * math.sqrt(x + y)) / (math.sqrt(m) - 1)
     color = f'rgba({int(r)}, {int(g)}, {int(b)}, {a:.2f})'
     return color
 
