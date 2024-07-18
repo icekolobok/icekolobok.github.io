@@ -193,17 +193,20 @@ def calc_color(x, y, m):
     return color
 
 
-def create_table_html(crosstable, m, arena_type, n, path):
+def create_table_html(crosstable, m, arena_type, n, path, ext):
     symbol = {'cc': '♟︎', 'lc': '♘'}
     title = {'tt': 'Titled Tuesday', 'bb': 'Bullet Brawl',
              'lta': 'Titled Arena', 'bta': 'Blitz Titled Arena', '960': 'Chess960 Titled Arena'}
+    t_ext = '' if ext == '' else ' & SCC'
     keys = list(crosstable.keys())[:n]
     html = (f'<table border="1" style="border-collapse: collapse; text-align: center; font-size: 11px;">\n<tr>'
-            f'<th>{symbol[arena_type['website']]} {title[arena_type['tournament']]}</th>')
+            f'<th>{symbol[arena_type['website']]} {title[arena_type['tournament']]}{t_ext}</th>')
     if arena_type == 'tt' or arena_type == 'bta':
         width = 1.7
-    else:
+    elif ext == '':
         width = 1.69
+    else:
+        width = 1.55
     for key in keys:
         key_p = crop_key(key, 'short')
         html += f'<th style="width: {width}%; writing-mode: vertical-lr; transform: rotate(180deg);">{key_p}</th>'
@@ -232,17 +235,17 @@ def create_table_html(crosstable, m, arena_type, n, path):
             html += f'<td style="{cell_style}">{cell}</td>'
         html += '</tr>\n'
     html += '</table>'
-    with open(path + f'{arena_type['website']}/{arena_type['tournament']}/data/crosstable.html', 'w', encoding='utf-8') as f:
+    with open(path + f'{arena_type['website']}/{arena_type['tournament']}/data/crosstable{ext}.html', 'w', encoding='utf-8') as f:
         f.write(html)
     return 0
 
 
-def make_crosstable(data_games, nicknames, player0, tournament, n, path):
+def make_crosstable(data_games, nicknames, player0, tournament, n, path, ext):
     if tournament['tournament'] == 'tt':
         filename = 'scc_playoff-1613698.json'
         data_games.append(json.load(open(path + f'in/{tournament['website']}/{tournament['tournament']}/games/{filename}')))
     crosstable, max_games = build_crosstable(data_games, nicknames, player0, tournament['website'])
-    create_table_html(crosstable, max_games, tournament, n, path)
+    create_table_html(crosstable, max_games, tournament, n, path, ext)
     return 0
 
 

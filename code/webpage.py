@@ -27,8 +27,8 @@ def make_header(path, tournament, page_type, n_ev, year):
     header += f'\n <title>{title}</title>\n'
     header += f' <meta property="og:title" content="{title}"/>\n'
     header += f' <meta property="og:description" content="{name(tournament['website'])} {title}"/>\n'
-    if tournament['tournament'] != 'tt' or page_type != 'best':
-        header += '<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>\n'
+    if (tournament['tournament'] != 'tt' or page_type != 'best') and page_type != 'h2h':
+        header += ' <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>\n'
     scripts = ['chartjs-adapter-date-fns', 'chartjs-plugin-datalabels', 'chart.min.js', 'chartjs-plugin-annotation']
     if page_type == 'p':
         for script in scripts:
@@ -99,6 +99,8 @@ def make_body(tournament, page_type):
         tag = tags[page_type]
         body += f' <div class="chart-container{tag}"><canvas id="myChart"></canvas></div>\n'
         body += f' <script src="../scripts/script{tag}.js"></script>'
+    if tournament['tournament'] == 'tt' and page_type == 'h2h':
+        body += '  <a href="h2h_ext.html" target="_blank" style="font-size: 0.6em;">Include SCC Swiss Qualifiers</a>'
     if tournament['website'] == 'cc' and page_type in ['top3', 'top5', 'top8']:
         body += ' <div class="note">(X) - account closed, (M), (S), (B), (C), (?), (!) - have a history of account closures/inactivities/2nd chance accounts, (i) - inactive, (d) - deceased</div>\n'
         body += ' <div class="note">These marks help accumulate results from different accounts of the same player and do not imply cheating, unfair play, or rule violations. For details see Fair Play section in TT Highest Scores tab.</div>\n'
