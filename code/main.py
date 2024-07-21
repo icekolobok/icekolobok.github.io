@@ -50,4 +50,4 @@ def main(path, token, download):
 
 
 if __name__ == '__main__':
-    main('../', {'lc': '', 'cc': ''}, download=False)
+    main('../', {'lc': '', 'cc': ''}, download=True)

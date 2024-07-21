@@ -27,6 +27,7 @@
   "Hikaru Nakamura (2023-12-16, 1 place)",
   "Daniel Naroditsky (2024-07-06, 1 place)",
   "Daniel Naroditsky (2023-08-26, 1 place)",
+  "Yoseph Theolifus Taher (2024-07-20, 1 place)",
   "Daniel Naroditsky (2023-10-14, 1 place)",
   "Daniel Naroditsky (2024-05-25, 2 place)",
   "Andrew Tang (2024-06-22, 1 place)",
@@ -38,8 +39,7 @@
   "Hikaru Nakamura (2023-09-23, 2 place)",
   "Hikaru Nakamura (2023-09-16, 1 place)",
   "Hikaru Nakamura (2023-10-21, 2 place)",
-  "Hikaru Nakamura (2024-02-17, 1 place)",
-  "Daniel Naroditsky (2024-03-16, 2 place)"
+  "Hikaru Nakamura (2024-02-17, 1 place)"
  ],
  "datasets": [
   {
@@ -72,6 +72,7 @@
     260.0,
     257.0,
     257.0,
+    256.0,
     254.0,
     254.0,
     253.0,
@@ -83,8 +84,7 @@
     251.0,
     250.0,
     250.0,
-    249.0,
-    248.0
+    249.0
    ],
    "backgroundColor": [
     "rgba( 10,  49,  97, 1.0)",
@@ -114,6 +114,7 @@
     "rgba( 10,  49,  97, 1.0)",
     "rgba(179,  25,  66, 1.0)",
     "rgba(179,  25,  66, 1.0)",
+    "rgba(246, 141, 145, 1.0)",
     "rgba(179,  25,  66, 1.0)",
     "rgba(179,  25,  66, 1.0)",
     "rgba( 95,  37, 124, 1.0)",
@@ -125,8 +126,7 @@
     "rgba( 10,  49,  97, 1.0)",
     "rgba( 10,  49,  97, 1.0)",
     "rgba( 10,  49,  97, 1.0)",
-    "rgba( 10,  49,  97, 1.0)",
-    "rgba(179,  25,  66, 1.0)"
+    "rgba( 10,  49,  97, 1.0)"
    ],
    "borderColor": "rgb(0, 0, 0)",
    "borderWidth": 1
