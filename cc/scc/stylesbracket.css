@@ -1,0 +1,171 @@
+/* Override the font and font size for the entire bracket */
+div.jQBracket {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+/* Customize the tools (e.g., editing controls) */
+div.jQBracket .tools {
+    color: #fff;
+}
+
+div.jQBracket .tools span {
+    cursor: pointer;
+    margin: 5px;
+    display: block;
+    text-align: center;
+    width: 18px;
+    height: 18px;
+    background-color: #666;
+}
+
+div.jQBracket .tools span:hover {
+    background-color: #999;
+}
+
+/* Customize team elements */
+div.jQBracket .team {
+    background-color: palegreen;
+    box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+    float: left;
+}
+
+div.jQBracket .team:first-child {
+    border-bottom: 1px solid #999;
+}
+
+/* Customize team labels and scores */
+div.jQBracket .team div.label {
+    padding: 3px;
+    position: absolute;
+    height: 22px;
+    white-space: nowrap;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+div.jQBracket .team div.score {
+    float: right;
+    padding: 3px;
+    background-color: rgb(255 255 255 / 30%);
+    text-align: center;
+    box-sizing: border-box;
+}
+
+div.jQBracket .team.win {
+    background-color: palegreen;
+    color: #333;
+}
+
+div.jQBracket .team.lose {
+    background-color: lightpink;
+    color: #555;
+}
+
+div.jQBracket .team.highlight {
+    box-sizing: border-box;
+    box-shadow: inset 0 0 0 2px navy;
+}
+
+div.jQBracket .team.win div.score {
+    color: #355E3B;
+}
+
+div.jQBracket .team.lose div.score {
+    color: #ED0A3F;
+}
+
+/* Customize the connector lines between matches */
+div.jQBracket .connector {
+    border: 2px solid #666;
+    border-left-style: none;
+    position: absolute;
+    z-index: 1;
+}
+
+div.jQBracket .connector div.connector {
+    border: 0;
+    border-bottom: 2px solid #666;
+    height: 0;
+    position: absolute;
+}
+
+/* Highlight connectors for winners and losers */
+div.jQBracket .connector.highlightWinner,
+div.jQBracket .connector div.connector.highlightWinner {
+    border-color: #d4af37;
+}
+
+div.jQBracket .connector.highlightLoser,
+div.jQBracket .connector div.connector.highlightLoser {
+    border-color: #c4aead;
+}
+
+div.jQBracket .connector.highlight,
+div.jQBracket .connector div.connector.highlight {
+    border-color: blue;
+}
+
+/* Customize the bubble elements */
+div.jQBracket .bubble {
+    height: 22px;
+    line-height: 22px;
+    width: 30px;
+    right: -35px;
+    position: absolute;
+    text-align: center;
+    font-size: 11px;
+}
+
+div.jQBracket .bubble::after {
+    content: "";
+    position: absolute;
+    top: 6px;
+    width: 0;
+    height: 0;
+    border-top: 5px solid transparent;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+}
+
+div.jQBracket .bubble::after {
+    left: -5px;
+    border-left: 0;
+}
+
+div.jQBracket .win .bubble {
+    background-color: #da0;
+    color: #960;
+}
+
+div.jQBracket .win .bubble::after {
+    border-right-color: #da0;
+}
+
+div.jQBracket .win .bubble.third {
+    background-color: #963;
+    color: #d95;
+}
+
+div.jQBracket .win .bubble.third::after {
+    border-right: 6px solid #963;
+}
+
+div.jQBracket .lose .bubble {
+    background-color: #ccc;
+    color: #333;
+}
+
+div.jQBracket .lose .bubble::after {
+    border-right-color: #ccc;
+}
+
+div.jQBracket .lose .bubble.fourth {
+    background-color: #678;
+    color: #ccd;
+}
+
+div.jQBracket .lose .bubble.fourth::after {
+    border-right: 6px solid #678;
+}

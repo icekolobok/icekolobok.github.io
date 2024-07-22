@@ -1,0 +1,96 @@
+.qualswiss {
+    border-collapse: collapse;
+    vertical-align: middle;
+    white-space: nowrap;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+    width: 100%;
+    margin: 20px 0;
+}
+
+.qualswiss td {
+    border-bottom: 1px solid #ddd;
+    border-collapse: collapse;
+    vertical-align: middle;
+    padding: 5px;
+}
+
+.qualswiss th {
+    font-weight: normal;
+    font-size: 12px;
+    padding: 5px;
+    text-align: left;
+    background-color: paleturquoise;
+}
+
+.qualswiss tr:hover {
+    background-color: #f1f1f1;
+}
+
+.qualifier {
+    font-weight: bold;
+}
+
+.winner {
+    background-color: palegreen;
+}
+
+.loser {
+    background-color: palegoldenrod;
+}
+
+.qualified {
+    background-color: lightgrey;
+}
+
+.qualwinner {
+    text-decoration: black underline;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.qualhead {
+    text-decoration: none;
+    color: black;
+}
+
+.h1 {
+    text-align: center;
+    font-size: 17px;
+}
+
+.h2 {
+    text-align: center;
+    font-size: 16px;
+}
+
+.h3 {
+    text-align: center;
+    font-size: 15px;
+}
+
+.tRound {
+    text-align: center;
+    border: 1px;
+    background-color: lightcyan;
+    box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+}
+
+.mainBracket {
+    margin: auto;
+}
+
+hr {
+    border: none; /* Remove the default border */
+    height: 2px; /* Set the height of the line */
+    background-color: #333; /* Set the color of the line */
+    margin: 20px 0; /* Add some vertical spacing around the line */
+}

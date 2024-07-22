@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Double Elimination Bracket with Detailed Scores</title>
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-bracket/0.11.1/jquery.bracket.min.css">
+ <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="stylesbracket.css">
+ <script src="https://releases.jquery.com/git/jquery-git.min.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-bracket/0.11.1/jquery.bracket.min.js"></script>
+</head>
+<body>
+<h1 class="h1">Qualification</h1>
+<hr>
+<h2 class="h2">Junior Speed Chess Championship</h2>
+<h3 class="h3">Qualifiers</h3>
+<table>
+ <tr>
+  <th><a href="https://www.chess.com/tournament/live/jscc-qualifier-1-4020321" class="qualhead">Junior Qualifier 1 Swiss (7 rounds, 3+1)</a></th>
+  <th><a href="https://www.chess.com/events/2023-junior-speed-chess-championship-qualifier-1-bracket/results" class="qualhead">Junior Qualifier 1 Knockout (5+1, 3+1, 1+1)</a></th>
+  <th><a href="https://www.chess.com/events/2023-junior-speed-chess-championship-qualifier-2-bracket/results" class="qualhead">Junior Qualifier 2 Knockout (5+1, 3+1, 1+1)</a></th>
+  <th><a href="https://www.chess.com/tournament/live/jscc-qualifier-2-4020322" class="qualhead">Junior Qualifier 2 Swiss (7 rounds, 3+1)</a></th>
+ </tr>
+ <tr>
+  <td>
+   <table class="qualswiss">
+    <tr><th>#</th><th>Player</th><th>Score</th><th>TB</th></tr>
+    <tr class="qualifier winner"><td class="right-align">1</td><td>Jan Malek</td><td class="center-align">5½</td><td class="right-align">26.0</td></tr>
+    <tr class="qualifier winner"><td class="right-align">2</td><td>Ryo Chen</td><td class="center-align">5½</td><td class="right-align">25.5</td></tr>
+    <tr class="qualifier winner"><td class="right-align">3</td><td>Balaji Daggupati</td><td class="center-align">5½</td><td class="right-align">25.0</td></tr>
+    <tr class="qualifier winner"><td class="right-align">4</td><td class="qualwinner">Pranav Venkatesh</td><td class="center-align">5</td><td class="right-align">26.0</td></tr>
+    <tr><td class="right-align">5</td><td>Emin Ohanyan</td><td class="center-align">4½</td><td class="right-align">28.5</td></tr>
+    <tr class="qualifier loser"><td class="right-align">6</td><td>Pranav Anand</td><td class="center-align">4½</td><td class="right-align">27.0</td></tr>
+    <tr class="qualifier loser"><td class="right-align">7</td><td class="qualwinner">Read Samadov</td><td class="center-align">4½</td><td class="right-align">25.5</td></tr>
+    <tr class="qualifier loser"><td class="right-align">8</td><td>Anthony Atanasov</td><td class="center-align">4½</td><td class="right-align">24.0</td></tr>
+    <tr class="qualifier loser"><td class="right-align">9</td><td>Tymur Keleberda</td><td class="center-align">4½</td><td class="right-align">21.5</td></tr>
+    <tr><td class="right-align">10</td><td>Edvin Trost</td><td class="center-align">4½</td><td class="right-align">21.5</td></tr>
+    <tr><td class="right-align">11</td><td>Konstantin Andreev</td><td class="center-align">4</td><td class="right-align">26.5</td></tr>
+    <tr><td class="right-align">12</td><td>Alexander Krastev</td><td class="center-align">4</td><td class="right-align">21.0</td></tr>
+    <tr><td class="right-align">13</td><td>Grayson Rorrer</td><td class="center-align">4</td><td class="right-align">20.5</td></tr>
+    <tr><td class="right-align">14</td><td>Aleksandra Chvedova</td><td class="center-align">4</td><td class="right-align">18.5</td></tr>
+   </table>
+  </td>
+  <td>
+   <div id="junior_qualifier1" class="demo"></div>
+  </td>
+  <td>
+   <div id="junior_qualifier2" class="demo"></div>
+  </td>
+  <td>
+      <table class="qualswiss">
+    <tr><th>#</th><th>Player</th><th>Score</th><th>TB</th></tr>
+    <tr class="qualifier winner"><td class="right-align">1</td><td class="qualwinner">Daniel Dardha</td><td class="center-align">6</td><td class="right-align">28.0</td></tr>
+    <tr class="qualifier winner"><td class="right-align">2</td><td>Pranesh M</td><td class="center-align">5½</td><td class="right-align">28.0</td></tr>
+    <tr class="qualifier winner"><td class="right-align">3</td><td class="qualwinner">Emin Ohanyan</td><td class="center-align">5½</td><td class="right-align">22.5</td></tr>
+    <tr class="qualifier winner"><td class="right-align">4</td><td>Svyatoslav Bazakutsa</td><td class="center-align">5</td><td class="right-align">25.5</td></tr>
+    <tr class="qualifier loser"><td class="right-align">5</td><td>Nagare Kaivalya Sandip</td><td class="center-align">5</td><td class="right-align">24.5</td></tr>
+    <tr class="qualifier loser"><td class="right-align">6</td><td>Aditya Mittal</td><td class="center-align">4½</td><td class="right-align">27.0</td></tr>
+    <tr class="qualifier loser"><td class="right-align">7</td><td>Jan Malek</td><td class="center-align">4½</td><td class="right-align">21.5</td></tr>
+    <tr class="qualifier loser"><td class="right-align">8</td><td>Harsh Suresh</td><td class="center-align">4½</td><td class="right-align">19.0</td></tr>
+    <tr><td class="right-align">9</td><td>Erdem Khubukshanov</td><td class="center-align">4</td><td class="right-align">29.0</td></tr>
+    <tr><td class="right-align">10</td><td>Anthony Atanasov</td><td class="center-align">4</td><td class="right-align">25.5</td></tr>
+    <tr><td class="right-align">11</td><td>Valentyn Hulka</td><td class="center-align">4</td><td class="right-align">23.0</td></tr>
+    <tr><td class="right-align">12</td><td>Edvin Trost</td><td class="center-align">4</td><td class="right-align">21.5</td></tr>
+    <tr><td class="right-align">13</td><td>Clement Kuhn</td><td class="center-align">4</td><td class="right-align">19.5</td></tr>
+    <tr><td class="right-align">14</td><td>Mayank Chakraborty</td><td class="center-align">4</td><td class="right-align">18.0</td></tr>
+       <tr><td class="right-align">15</td><td>Ryo Chen</td><td class="center-align">4</td><td class="right-align">13.5</td></tr>
+      </table>
+  </td>
+ </tr>
+</table>
+<h3 class="h3">Main Event</h3>
+<table class="mainBracket">
+ <tr>
+  <th colspan="3">90 minutes of 5+1 blitz, 60 minutes of 3+1 blitz, and 30 minutes of 1+1 bullet</th>
+ </tr>
+ <tr>
+  <td class="tRound" style="width: 33.3%;">Quarterfinals</td>
+  <td class="tRound" style="width: 33.3%;">Semifinals</td>
+  <td class="tRound" style="width: 33.3%;">Final</td>
+ </tr>
+ <tr>
+  <td colspan="3"><div id="juniorMain" class="demo"></div></td>
+ </tr>
+</table>
+<hr>
+<h2 class="h2">Bullet Chess Championship</h2>
+<h3 class="h3">Qualifier</h3>
+<table>
+ <tr>
+  <th><a href="https://www.chess.com/tournament/live/arena/bcc-qualifier-1-2805155" class="qualhead">Bullet Qualifier 1 Arena (1 hour, 1+0)</a></th>
+  <th><a href="https://www.chess.com/events/2023-bullet-chess-championship-qualifier-1/results" class="qualhead">Bullet Qualifier 1 Knockout (15 min, 1+0)</a></th>
+  <th><a href="https://www.chess.com/events/2023-bullet-chess-championship-qualifier-2/results" class="qualhead">Bullet Qualifier 1 Knockout (15 min, 1+0)</a></th>
+  <th><a href="https://www.chess.com/tournament/live/arena/bcc-qualifier-2-2805156" class="qualhead">Bullet Qualifier 2 Arena (1 hour, 1+0)</a></th>
+ </tr>
+ <tr>
+  <td>
+   <table class="qualswiss">
+    <tr><th>#</th><th>Player</th><th>Score</th><th>W:D:L</th></tr>
+    <tr class="qualified"><td class="right-align">1</td><td>Hikaru Nakamura</td><td class="center-align">128</td><td class="center-align">35:1:03</td></tr>
+    <tr class="qualifier winner"><td class="right-align">2</td><td>Yoseph Theolifus Taher</td><td class="center-align">82</td><td class="center-align">25:4:10</td></tr>
+    <tr class="qualifier winner"><td class="right-align">3</td><td>Aydın Süleymanlı</td><td class="center-align">81</td><td class="center-align">25:2:08</td></tr>
+    <tr class="qualifier winner"><td class="right-align">4</td><td class="qualwinner">José Martínez Alcántara</td><td class="center-align">79</td><td class="center-align">24:6:09</td></tr>
+    <tr class="qualifier winner"><td class="right-align">5</td><td class="qualwinner">Emin Ohanyan</td><td class="center-align">79</td><td class="center-align">24:7:04</td></tr>
+    <tr class="qualifier loser"><td class="right-align">6</td><td>Dmitry Andreikin</td><td class="center-align">76</td><td class="center-align">23:3:09</td></tr>
+    <tr class="qualifier loser"><td class="right-align">7</td><td>Denis Lazavik</td><td class="center-align">76</td><td class="center-align">23:8:08</td></tr>
+    <tr class="qualifier loser"><td class="right-align">8</td><td>Matthias Blübaum</td><td class="center-align">75</td><td class="center-align">26:8:11</td></tr>
+    <tr class="qualifier loser"><td class="right-align">9</td><td>Renato Terry Lujan</td><td class="center-align">75</td><td class="center-align">22:9:06</td></tr>
+    <tr><td class="right-align">10</td><td>Sergei Zhigalko</td><td class="center-align">73</td><td class="center-align">21:5:07</td></tr>
+    <tr><td class="right-align">11</td><td>Rauf Mamedov</td><td class="center-align">72</td><td class="center-align">24:2:15</td></tr>
+    <tr><td class="right-align">12</td><td>Arjun Erigaisi</td><td class="center-align">71</td><td class="center-align">23:1:13</td></tr>
+    <tr><td class="right-align">13</td><td>Alan Pichot</td><td class="center-align">70</td><td class="center-align">23:3:14</td></tr>
+    <tr><td class="right-align">14</td><td>David Paravyan</td><td class="center-align">69</td><td class="center-align">22:8:07</td></tr>
+       <tr class="qualified"><td class="right-align">15</td><td>Andrew Tang</td><td class="center-align">66</td><td class="center-align">21:3:08</td></tr>
+   </table>
+  </td>
+  <td>
+   <div id="bullet_qualifier1" class="demo"></div>
+  </td>
+  <td>
+   <div id="bullet_qualifier2" class="demo"></div>
+  </td>
+  <td>
+      <table class="qualswiss">
+    <tr><th>#</th><th>Player</th><th>Score</th><th>W:D:L</th></tr>
+    <tr class="qualifier winner"><td class="right-align">1</td><td class="qualwinner">David Paravyan</td><td class="center-align">108</td><td class="right-align">31:3:05</td></tr>
+    <tr class="qualified"><td class="right-align">2</td><td>Hikaru Nakamura</td><td class="center-align">103</td><td class="right-align">31:2:06</td></tr>
+    <tr class="qualifier winner"><td class="right-align">3</td><td class="qualwinner">Denis Lazavik</td><td class="center-align">97</td><td class="right-align">28:7:05</td></tr>
+    <tr class="qualifier winner"><td class="right-align">4</td><td>Renato Terry Lujan</td><td class="center-align">83</td><td class="right-align">24:7:07</td></tr>
+    <tr class="qualifier winner"><td class="right-align">5</td><td>Alexander Grischuk</td><td class="center-align">81</td><td class="right-align">24:4:09</td></tr>
+    <tr class="qualifier loser"><td class="right-align">6</td><td>Vladimir Zakhartsov</td><td class="center-align">78</td><td class="right-align">25:4:09</td></tr>
+    <tr class="qualifier loser"><td class="right-align">7</td><td>Luca Moroni Jr</td><td class="center-align">77</td><td class="right-align">24:1:14</td></tr>
+    <tr class="qualified"><td class="right-align">8</td><td>José Martínez Alcántara</td><td class="center-align">77</td><td class="right-align">24:3:07</td></tr>
+    <tr class="qualifier loser"><td class="right-align">9</td><td>Rauf Mamedov</td><td class="center-align">77</td><td class="right-align">24:3:08</td></tr>
+    <tr class="qualifier loser"><td class="right-align">10</td><td>Sergei Zhigalko</td><td class="center-align">76</td><td class="right-align">23:5:07</td></tr>
+    <tr><td class="right-align">11</td><td>Aram Hakobyan</td><td class="center-align">75</td><td class="right-align">21:8:10</td></tr>
+    <tr><td class="right-align">12</td><td>Pranav Venkatesh</td><td class="center-align">74</td><td class="right-align">22:3:10</td></tr>
+    <tr><td class="right-align">13</td><td>Matthias Blübaum</td><td class="center-align">72</td><td class="right-align">23:7:13</td></tr>
+    <tr><td class="right-align">14</td><td>Alan Pichot</td><td class="center-align">71</td><td class="right-align">23:2:14</td></tr>
+       <tr class="qualified"><td class="right-align">15</td><td>Andrew Tang</td><td class="center-align">68</td><td class="right-align">24:0:12</td></tr>
+      </table>
+  </td>
+ </tr>
+</table>
+<table>
+ <tr>
+  <th><a href="https://www.chess.com/tournament/live/arena/bcc-qualifier-3-2805157" class="qualhead">Bullet Qualifier 3 Arena (1 hour, 1+0)</a></th>
+  <th><a href="https://www.chess.com/events/2023-bullet-chess-championship-qualifier-3/results" class="qualhead">Bullet Qualifier 3 Knockout (15 min, 1+0)</a></th>
+  <th></th>
+  <th></th>
+ </tr>
+ <tr>
+  <td>
+   <table class="qualswiss">
+    <tr><th>#</th><th>Player</th><th>Score</th><th>W:D:L</th></tr>
+    <tr class="qualified"><td class="right-align">1</td><td>Andrew Tang</td><td class="center-align">98</td><td class="center-align">30:4:08</td></tr>
+    <tr class="qualified"><td class="right-align">2</td><td>Olexandr Bortnyk</td><td class="center-align">96</td><td class="center-align">27:3:03</td></tr>
+    <tr class="qualified"><td class="right-align">3</td><td>Magnus Carlsen</td><td class="center-align">95</td><td class="center-align">29:3:05</td></tr>
+    <tr class="qualified"><td class="right-align">4</td><td>José Martínez Alcántara</td><td class="center-align">82</td><td class="center-align">23:6:05</td></tr>
+    <tr class="qualified"><td class="right-align">5</td><td>Hikaru Nakamura</td><td class="center-align">81</td><td class="center-align">23:9:10</td></tr>
+    <tr class="qualifier winner"><td class="right-align">6</td><td class="qualwinner">Dmitry Andreikin</td><td class="center-align">78</td><td class="center-align">25:7:06</td></tr>
+    <tr class="qualifier winner"><td class="right-align">7</td><td class="qualwinner">Arjun Erigaisi</td><td class="center-align">77</td><td class="center-align">25:4:07</td></tr>
+    <tr class="qualifier winner"><td class="right-align">8</td><td>Federico Perez Ponsa</td><td class="center-align">75</td><td class="center-align">22:7:10</td></tr>
+    <tr class="qualifier winner"><td class="right-align">9</td><td>Sunilduth L. Narayanan</td><td class="center-align">75</td><td class="center-align">23:7:10</td></tr>
+    <tr class="qualifier loser"><td class="right-align">10</td><td>Cristóbal H. Villagra</td><td class="center-align">74</td><td class="center-align">25:4:15</td></tr>
+    <tr class="qualifier loser"><td class="right-align">11</td><td>Renato Terry Lujan</td><td class="center-align">71</td><td class="center-align">22:6:11</td></tr>
+    <tr class="qualifier loser"><td class="right-align">12</td><td>Alexander Grischuk</td><td class="center-align">71</td><td class="center-align">24:3:08</td></tr>
+    <tr class="qualifier loser"><td class="right-align">13</td><td>Rauf Mamedov</td><td class="center-align">71</td><td class="center-align">22:9:09</td></tr>
+    <tr><td class="right-align">14</td><td>Sergei Zhigalko</td><td class="center-align">70</td><td class="center-align">23:3:09</td></tr>
+       <tr><td class="right-align">15</td><td>Pranav Venkatesh</td><td class="center-align">69</td><td class="center-align">23:0:11</td></tr>
+   </table>
+  </td>
+  <td>
+   <div id="bullet_qualifier3" class="demo"></div>
+  </td>
+  <td>
+  </td>
+  <td>
+  </td>
+ </tr>
+</table>
+<h3 class="h3">Main Event</h3>
+<table class="mainBracket">
+ <tr>
+  <th colspan="7">30 minutes of 1+0, except for Winners Semifinals, Final, and Grand Final, which are 45 minutes</th>
+ </tr>
+  <tr>
+   <td colspan="2"></td>
+   <td colspan="4" class="tRound">Winners</td>
+   <td></td>
+ </tr>
+ <tr>
+  <td style="width: 14.3%;"></td>
+  <td style="width: 14.3%;"></td>
+  <td class="tRound" style="width: 14.3%;">Round of 16</td>
+  <td class="tRound" style="width: 14.3%;">Quarterfinals</td>
+  <td class="tRound" style="width: 14.3%;">Semifinals</td>
+  <td class="tRound" style="width: 14.3%;">Final</td>
+  <td class="tRound" style="width: 14.3%;"><b>Grand Final</b></td>
+ </tr>
+ <tr>
+  <td colspan="7"><div id="bulletMain" class="demo"></div></td>
+ </tr>
+  <tr>
+  <td class="tRound" style="width: 14.3%;">Round 1</td>
+  <td class="tRound" style="width: 14.3%;">Round 2</td>
+  <td class="tRound" style="width: 14.3%;">Round 3</td>
+  <td class="tRound" style="width: 14.3%;">Quarterfinals</td>
+  <td class="tRound" style="width: 14.3%;">Semifinals</td>
+  <td class="tRound" style="width: 14.3%;">Final</td>
+  <td style="width: 14.3%;"></td>
+ </tr>
+   <tr>
+  <td colspan="6" class="tRound">Losers</td>
+    <td></td>
+ </tr>
+</table>
+<hr>
+<h2 class="h2">Open Qualification</h2>
+<table>
+ <tr>
+  <th><a href="https://www.chess.com/tournament/live/speed-chess-championship-2023-qualifier-1-4237505" class="qualhead">Qualifier 1 Swiss (14 rounds, 3+1)</a></th>
+  <th><a href="https://www.chess.com/events/2023-speed-chess-championship-qualifier-1-bracket/results" class="qualhead">Qualifier 1 Knockout (5+1, 3+1, 1+1)</a></th>
+  <th><a href="https://www.chess.com/events/2023-speed-chess-championship-qualifier-2-bracket/results" class="qualhead">Qualifier 2 Knockout (5+1, 3+1, 1+1)</a></th>
+  <th><a href="https://www.chess.com/tournament/live/speed-chess-championship-2023-qualifier-2-4237506" class="qualhead">Qualifier 2 Swiss (14 rounds, 3+1)</a></th>
+ </tr>
+ <tr>
+  <td>
+   <table class="qualswiss">
+    <tr><th>#</th><th>Player</th><th>Score</th><th>TB</th></tr>
+    <tr class="qualified"><td class="right-align">1</td><td>Hikaru Nakamura</td><td class="center-align">11</td><td class="right-align">107.0</td></tr>
+    <tr class="qualifier winner"><td class="right-align">2</td><td class="qualwinner">Yu Yangyi</td><td class="center-align">10½</td><td class="right-align">113.0</td></tr>
+    <tr class="qualifier winner"><td class="right-align">3</td><td>Rauf Mamedov</td><td class="center-align">10½</td><td class="right-align">109.0</td></tr>
+    <tr class="qualifier winner"><td class="right-align">4</td><td>Bogdan-Daniel Deac</td><td class="center-align">10½</td><td class="right-align">109.0</td></tr>
+    <tr class="qualifier winner"><td class="right-align">5</td><td>Rodrigo Vásquez</td><td class="center-align">10</td><td class="right-align">113.0</td></tr>
+    <tr class="qualifier loser"><td class="right-align">6</td><td>Matthias Blübaum</td><td class="center-align">10</td><td class="right-align">106.5</td></tr>
+    <tr class="qualifier loser"><td class="right-align">7</td><td>Aram Hakobyan</td><td class="center-align">10</td><td class="right-align">105.0</td></tr>
+    <tr class="qualifier loser"><td class="right-align">8</td><td class="qualwinner">Vidit Santosh Gujrathi</td><td class="center-align">10</td><td class="right-align">99.5</td></tr>
+    <tr class="qualifier loser"><td class="right-align">9</td><td>Denis Lazavik</td><td class="center-align">10</td><td class="right-align">98.0</td></tr>
+    <tr><td class="right-align">10</td><td>Aleksandar Inđić</td><td class="center-align">9½</td><td class="right-align">111.0</td></tr>
+    <tr><td class="right-align">11</td><td>Raunak Sadhwani</td><td class="center-align">9½</td><td class="right-align">111.0</td></tr>
+    <tr><td class="right-align">12</td><td>Vladimir Kramnik</td><td class="center-align">9½</td><td class="right-align">101.0</td></tr>
+    <tr><td class="right-align">13</td><td>Bharath Subramaniyam</td><td class="center-align">9½</td><td class="right-align">93.0</td></tr>
+    <tr><td class="right-align">14</td><td>Egor Baskakov</td><td class="center-align">9½</td><td class="right-align">81.0</td></tr>
+   </table>
+  </td>
+  <td>
+   <div id="qualifier1" class="demo"></div>
+  </td>
+  <td>
+   <div id="qualifier2" class="demo"></div>
+  </td>
+  <td>
+      <table class="qualswiss">
+    <tr><th>#</th><th>Player</th><th>Score</th><th>TB</th></tr>
+    <tr class="qualifier winner"><td class="right-align">1</td><td class="qualwinner">Alexey Sarana</td><td class="center-align">11</td><td class="right-align">117.5</td></tr>
+    <tr class="qualifier winner"><td class="right-align">2</td><td class="qualwinner">Dmitry Andreikin</td><td class="center-align">10½</td><td class="right-align">115.5</td></tr>
+    <tr class="qualifier winner"><td class="right-align">3</td><td>Aleksandr Shimanov</td><td class="center-align">10½</td><td class="right-align">111.5</td></tr>
+    <tr class="qualifier winner"><td class="right-align">4</td><td>Eduardo Iturrizaga</td><td class="center-align">10½</td><td class="right-align">104.0</td></tr>
+    <tr class="qualifier loser"><td class="right-align">5</td><td>David Paravyan</td><td class="center-align">10½</td><td class="right-align">92.5</td></tr>
+    <tr class="qualifier loser"><td class="right-align">6</td><td>Kirill Shevchenko</td><td class="center-align">10</td><td class="right-align">110.5</td></tr>
+    <tr class="qualifier loser"><td class="right-align">7</td><td>Raunak Sadhwani</td><td class="center-align">10</td><td class="right-align">110.0</td></tr>
+    <tr class="qualified"><td class="right-align">8</td><td>Hikaru Nakamura</td><td class="center-align">10</td><td class="right-align">109.5</td></tr>
+    <tr class="qualifier loser"><td class="right-align">9</td><td>Aram Hakobyan</td><td class="center-align">10</td><td class="right-align">101.0</td></tr>
+    <tr><td class="right-align">10</td><td>Denis Lazavik</td><td class="center-align">10</td><td class="right-align">96.5</td></tr>
+    <tr><td class="right-align">11</td><td>Jeffery Xiong</td><td class="center-align">10</td><td class="right-align">90.0</td></tr>
+    <tr><td class="right-align">12</td><td>Bharath Subramaniyam</td><td class="center-align">9½</td><td class="right-align">107.0</td></tr>
+    <tr><td class="right-align">13</td><td>Alan Pichot</td><td class="center-align">9½</td><td class="right-align">94.5</td></tr>
+    <tr><td class="right-align">14</td><td>Lê Tuấn Minh</td><td class="center-align">9½</td><td class="right-align">86.5</td></tr>
+   </table>
+  </td>
+ </tr>
+</table>
+<hr>
+<h1 class="h1">Main Event</h1>
+<table class="mainBracket">
+ <tr>
+  <th colspan="4">90 minutes of 5+1, 60 minutes of 3+1, and 30 minutes of 1+1</th>
+ </tr>
+ <tr>
+  <td class="tRound" style="width: 25%;">Round of 16</td>
+  <td class="tRound" style="width: 25%;">Quarterfinals</td>
+  <td class="tRound" style="width: 25%;">Semifinals</td>
+  <td class="tRound" style="width: 25%;">Final</td>
+ </tr>
+ <tr>
+  <td colspan="4"><div id="main" class="demo"></div></td>
+ </tr>
+</table>
+<div id="tooltip" class="tooltip"></div>
+<div id="matchCallback"></div>
+
+<script>
+    const jQualifier1Data = {
+        teams: [
+            ["Jan Malek", "Tymur Keleberda"],
+            ["Pranav Venkatesh", "Pranav Anand"],
+            ["Ryo Chen", "Anthony Atanasov"],
+            ["Balaji Daggupati", "Read Samadov"],
+        ],
+        results: [
+            [
+                [[1, 0], [1, 0], [1, 0], [1, 0]],
+                [[1, 4], [2, 4]],
+                [[4, 0]]
+            ],
+            [
+                [[0.5, 3.5], [2.5, 3.5]],
+                [[3.5, 2.5], [3.5, 1.5]],
+                [[1, 4]],
+                [[4, 3]]
+            ]
+        ]
+    };
+
+    const jQualifier2Data = {
+        teams: [
+            ["Daniel Dardha", "Harsh Suresh"],
+            ["Sv. Bazakutsa", "Kaivalya Nagare"],
+            ["Pranesh M", "Aditya Mittal"],
+            ["Emin Ohanyan", "Jan Malek"],
+        ],
+        results: [
+            [
+                [[1, 0], [1, 0], [1, 0], [1, 0]],
+                [[0.5, 3.5], [2.5, 3.5]],
+                [[0.5, 3.5]]
+            ],
+            [
+                [[4, 3.5], [4, 2]],
+                [[3.5, 1.5], [1.5, 3.5]],
+                [[0.5, 3.5]],
+                [[3.5, 0.5]]
+            ]
+        ]
+    };
+
+    $(function () {
+        $('#junior_qualifier1').bracket({
+            init: jQualifier1Data,
+            skipConsolationRound: true,
+            teamWidth: 120,
+            scoreWidth: 25,
+            matchMargin: 25,
+            roundMargin: 10
+        });
+    });
+
+    $(function () {
+        $('#junior_qualifier2').bracket({
+            init: jQualifier2Data,
+            skipConsolationRound: true,
+            dir: 'rl',
+            teamWidth: 120,
+            scoreWidth: 25,
+            matchMargin: 25,
+            roundMargin: 10
+        });
+    });
+</script>
+
+<script>
+    const jMainData = {
+        teams: [
+            ["Dommaraju Gukesh", "Emin Ohanyan"],
+            ["Christopher Woojin Yoo", "Pranav Venkatesh"],
+            ["Raunak Sadhwani", "Read Samadov"],
+            ["Denis V. Lazavik", "Daniel Dardha"],
+        ],
+        results: [
+            [
+                [[25, 6], [11.5, 12.5], [20.5, 6.5], [19, 5]],
+                [[16.5, 10.5], [15.5, 10.5]],
+                [[17.5, 10.5]]
+            ]
+        ]
+    };
+
+    $(function () {
+        $('#juniorMain').bracket({
+            init: jMainData,
+            skipConsolationRound: true,
+            teamWidth: 160,
+            scoreWidth: 35,
+            matchMargin: 25,
+            roundMargin: 15
+        });
+    });
+</script>
+
+<script>
+    const bQualifier1Data = {
+        teams: [
+            ["Yoseph T. Taher", "Denis Lazavik"],
+            ["Emin Ohanyan", "Matthias Blübaum"],
+            ["Aydın Süleymanlı", "Dmitry Andreikin"],
+            ["José Martínez", "Renato Terry"],
+        ],
+        results: [
+            [
+                [[1, 0], [1, 0], [1, 0], [1, 0]],
+                [[4, 5], [3, 5]],
+                [[1.5, 6.5]]
+            ],
+            [
+                [[8, 2], [2.5, 5.5]],
+                [[4, 5], [6, 3]],
+                [[4.5, 5.5]],
+                [[3.5, 4.5]]
+            ]
+        ]
+    };
+
+    const bQualifier2Data = {
+        teams: [
+            ["David Paravyan", "Luca Moroni"],
+            ["Sasha Grischuk", "Rauf Mamedov"],
+            ["Denis Lazavik", "Vl. Zakhartsov"],
+            ["Renato Terry", "Sergei Zhigalko"],
+        ],
+        results: [
+            [
+                [[1, 0], [1, 0], [1, 0], [1, 0]],
+                [[7, 4], [5, 3]],
+                [[7, 3]]
+            ],
+            [
+                [[3.5, 5.5], [2.5, 7.5]],
+                [[4, 5], [6, 5]],
+                [[5.5, 2.5]],
+                [[3, 7]]
+            ]
+        ]
+    };
+
+    const bQualifier3Data = {
+        teams: [
+            ["Dmitry Andreikin", "Renato Terry"],
+            ["S. L. Narayanan", "Sasha Grischuk"],
+            ["Arjun Erigaisi", "Cristóbal Villagra"],
+            ["Federico Perez", "Rauf Mamedov"],
+        ],
+        results: [
+            [
+                [[1, 0], [1, 0], [1, 0], [1, 0]],
+                [[5.5, 3.5], [5.5, 2.5]],
+                [[5.5, 4.5]]
+            ],
+            [
+                [[3.5, 4.5], [3, 7]],
+                [[7, 2], [6, 4]],
+                [[5, 7]],
+                [[1.5, 5.5]]
+            ]
+        ]
+    };
+
+    $(function () {
+        $('#bullet_qualifier1').bracket({
+            init: bQualifier1Data,
+            skipConsolationRound: true,
+            teamWidth: 120,
+            scoreWidth: 25,
+            matchMargin: 25,
+            roundMargin: 10
+        });
+    });
+
+    $(function () {
+        $('#bullet_qualifier2').bracket({
+            init: bQualifier2Data,
+            skipConsolationRound: true,
+            dir: 'rl',
+            teamWidth: 120,
+            scoreWidth: 25,
+            matchMargin: 25,
+            roundMargin: 10
+        });
+    });
+
+    $(function () {
+        $('#bullet_qualifier3').bracket({
+            init: bQualifier3Data,
+            skipConsolationRound: true,
+            teamWidth: 120,
+            scoreWidth: 25,
+            matchMargin: 25,
+            roundMargin: 10
+        });
+    });
+</script>
+
+<script>
+    const bMainData = {
+        teams: [
+            ["Hikaru Nakamura", "Emin Ohanyan"],
+            ["Anish Giri", "José Martínez Alcántara"],
+            ["Daniel Naroditsky", "David Paravyan"],
+            ["Andrew Tang", "Dmitry Andreikin"],
+            ["Magnus Carlsen", "Eric Hansen"],
+            ["Lê Tuấn Minh", "Arjun Erigaisi"],
+            ["Alireza Firouzja", "Denis Lazavik"],
+            ["Oleksandr Bortnyk", "Fabiano Caruana"],
+        ],
+        results: [
+            [
+                [[22.5, 1.5], [11.5, 12.5], [11.5, 5.5], [12.5, 3.5], [16.5, 1.5], [11, 6], [14.5, 3.5], [14, 5]],
+                [[14, 6], [14.5, 6.5], [10, 7], [11, 5]],
+                [[20, 12], [11.5, 14.5]],
+                [[16.5, 12.5]]
+            ],
+            [
+                [[8.5, 6.5], [11.5, 7.5], [1, 0], [11.5, 9.5]],
+                [[0, 1], [9, 7], [3, 14], [7, 9]],
+                [[9, 7], [10, 7]],
+                [[6, 13], [7.5, 13.5]],
+                [[7.5, 12.5]],
+                [[11, 9]]
+            ],
+            [
+                [[17, 15]]
+            ]
+        ]
+    };
+
+    $(function () {
+        $('#bulletMain').bracket({
+            init: bMainData,
+            skipConsolationRound: true,
+            teamWidth: 160,
+            scoreWidth: 35,
+            matchMargin: 25,
+            roundMargin: 15
+        });
+    });
+</script>
+
+<script>
+    const qualifier1Data = {
+        teams: [
+            ["Yu Yangyi", "Matthias Blübaum"],
+            ["Rodrigo Vásquez", "Denis Lazavik"],
+            ["Rauf Mamedov", "Aram Hakobyan"],
+            ["Bogdan Deac", "Vidit S. Gujrathi"],
+        ],
+        results: [
+            [
+                [[1, 0], [1, 0], [1, 0], [1, 0]],
+                [[4, 3], [2, 4]],
+                [[4, 3]]
+            ],
+            [
+                [[1, 4], [2, 4]],
+                [[2.5, 3.5], [3, 1]],
+                [[1.5, 3.5]],
+                [[4, 3]]
+            ]
+        ]
+    };
+
+    const qualifier2Data = {
+        teams: [
+            ["Alexey Sarana", "Aram Hakobyan"],
+            ["Eduardo Iturrizaga", "David Paravyan"],
+            ["Dmitry Andreikin", "Raunak Sadhwani"],
+            ["Alex Shimanov", "Kirill Shevchenko"],
+        ],
+        results: [
+            [
+                [[1, 0], [1, 0], [1, 0], [1, 0]],
+                [[3.5, 2.5], [3.5, 1.5]],
+                [[4, 1]]
+            ],
+            [
+                [[3.5, 1.5], [4, 3]],
+                [[3.5, 0.5], [1.5, 3.5]],
+                [[1.5, 3.5]],
+                [[0.5, 3.5]]
+            ]
+        ]
+    };
+
+    $(function () {
+        $('#qualifier1').bracket({
+            init: qualifier1Data,
+            skipConsolationRound: true,
+            teamWidth: 120,
+            scoreWidth: 25,
+            matchMargin: 25,
+            roundMargin: 10
+        });
+    });
+
+    $(function () {
+        $('#qualifier2').bracket({
+            init: qualifier2Data,
+            skipConsolationRound: true,
+            dir: 'rl',
+            teamWidth: 120,
+            scoreWidth: 25,
+            matchMargin: 25,
+            roundMargin: 10
+        });
+    });
+</script>
+
+<script>
+    const mainData = {
+        teams: [
+            ["Hikaru Nakamura", "Yu Yangyi"],
+            ["Fabiano Caruana", "Nodirbek Abdusattorov"],
+            ["Nihal Sarin", "Alexey Sarana"],
+            ["Maxime Vachier-Lagrave", "Dommaraju Gukesh"],
+            ["Magnus Carlsen", "Vidit Santosh Gujrathi"],
+            ["Ian Nepomniachtchi", "Arjun Erigaisi"],
+            ["Alireza Firouzja", "Dmitry Andreikin"],
+            ["Wesley So", "Levon Aronian"],
+        ],
+        results: [
+            [
+                [[19, 9], [13.5, 10.5], [16, 10], [21.5, 8.5], [17.5, 8.5], [15.5, 14.5], [13.5, 12.5], [15.5, 12.5]],
+                [[18.5, 8.5], [11.5, 19.5], [20.5, 9.5], [15.5, 16.5]],
+                [[16.5, 11.5], [22, 7]],
+                [[12.5, 13.5]]
+            ]
+        ]
+    };
+
+    $(function () {
+        $('#main').bracket({
+            init: mainData,
+            skipConsolationRound: true,
+            teamWidth: 160,
+            scoreWidth: 35,
+            matchMargin: 25,
+            roundMargin: 15
+        });
+    });
+</script>
+
+</body>
+</html>
