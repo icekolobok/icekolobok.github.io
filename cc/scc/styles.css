@@ -77,15 +77,35 @@
     font-size: 15px;
 }
 
-.tRound {
+.t-round {
     text-align: center;
     border: 1px;
     background-color: lightcyan;
     box-shadow: 0 0 10px rgb(0 0 0 / 10%);
 }
 
-.mainBracket {
-    margin: auto;
+.t-header{
+    text-align: center;
+    font-weight: bold;
+}
+
+.t-bracket {
+    display: grid;
+    gap: 2px;
+    box-sizing: border-box;
+    border: 5px solid #000;
+}
+
+.single8 {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.single16 {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.double8 {
+    grid-template-columns: repeat(5, 1fr);
 }
 
 hr {

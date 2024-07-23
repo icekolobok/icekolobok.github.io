@@ -71,14 +71,14 @@
  </tr>
 </table>
 <h3 class="h3">Main Event</h3>
-<table class="mainBracket">
+<table class="t-bracket single8" style="width: 40%; margin: auto;">
  <tr>
   <th colspan="3">90 minutes of 5+1 blitz, 60 minutes of 3+1 blitz, and 30 minutes of 1+1 bullet</th>
  </tr>
  <tr>
-  <td class="tRound" style="width: 33.3%;">Quarterfinals</td>
-  <td class="tRound" style="width: 33.3%;">Semifinals</td>
-  <td class="tRound" style="width: 33.3%;">Final</td>
+  <td class="t-round" style="width: 33.3%;">Quarterfinals</td>
+  <td class="t-round" style="width: 33.3%;">Semifinals</td>
+  <td class="t-round" style="width: 33.3%;">Final</td>
  </tr>
  <tr>
   <td colspan="3"><div id="juniorMain" class="demo"></div></td>
@@ -181,38 +181,38 @@
  </tr>
 </table>
 <h3 class="h3">Main Event</h3>
-<table class="mainBracket">
+<table class="t-bracket double8">
  <tr>
   <th colspan="7">30 minutes of 1+0, except for Winners Semifinals, Final, and Grand Final, which are 45 minutes</th>
  </tr>
   <tr>
    <td colspan="2"></td>
-   <td colspan="4" class="tRound">Winners</td>
+   <td colspan="4" class="t-round">Winners</td>
    <td></td>
  </tr>
  <tr>
   <td style="width: 14.3%;"></td>
   <td style="width: 14.3%;"></td>
-  <td class="tRound" style="width: 14.3%;">Round of 16</td>
-  <td class="tRound" style="width: 14.3%;">Quarterfinals</td>
-  <td class="tRound" style="width: 14.3%;">Semifinals</td>
-  <td class="tRound" style="width: 14.3%;">Final</td>
-  <td class="tRound" style="width: 14.3%;"><b>Grand Final</b></td>
+  <td class="t-round" style="width: 14.3%;">Round of 16</td>
+  <td class="t-round" style="width: 14.3%;">Quarterfinals</td>
+  <td class="t-round" style="width: 14.3%;">Semifinals</td>
+  <td class="t-round" style="width: 14.3%;">Final</td>
+  <td class="t-round" style="width: 14.3%;"><b>Grand Final</b></td>
  </tr>
  <tr>
   <td colspan="7"><div id="bulletMain" class="demo"></div></td>
  </tr>
   <tr>
-  <td class="tRound" style="width: 14.3%;">Round 1</td>
-  <td class="tRound" style="width: 14.3%;">Round 2</td>
-  <td class="tRound" style="width: 14.3%;">Round 3</td>
-  <td class="tRound" style="width: 14.3%;">Quarterfinals</td>
-  <td class="tRound" style="width: 14.3%;">Semifinals</td>
-  <td class="tRound" style="width: 14.3%;">Final</td>
+  <td class="t-round" style="width: 14.3%;">Round 1</td>
+  <td class="t-round" style="width: 14.3%;">Round 2</td>
+  <td class="t-round" style="width: 14.3%;">Round 3</td>
+  <td class="t-round" style="width: 14.3%;">Quarterfinals</td>
+  <td class="t-round" style="width: 14.3%;">Semifinals</td>
+  <td class="t-round" style="width: 14.3%;">Final</td>
   <td style="width: 14.3%;"></td>
  </tr>
    <tr>
-  <td colspan="6" class="tRound">Losers</td>
+  <td colspan="6" class="t-round">Losers</td>
     <td></td>
  </tr>
 </table>
@@ -246,7 +246,24 @@
    </table>
   </td>
   <td>
-   <div id="qualifier1" class="demo"></div>
+<div class="t-bracket double8">
+  <div class="t-round winners" style="grid-column: 2 / span 3;">Winners</div>
+
+  <div class="t-round" style="grid-column: 2;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Final</div>
+  <div class="t-round" style="grid-column: 5;"><b>Qualified</b></div>
+
+  <div id="qualifier1" class="demo" style="grid-column: 1 / span 5;"></div>
+
+  <div class="t-round" style="grid-column: 1;">Round 1</div>
+  <div class="t-round" style="grid-column: 2;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Final</div>
+
+  <div class="t-round losers" style="grid-column: 1 / span 4; text-align: center;">Losers</div>
+</div>
+
   </td>
   <td>
    <div id="qualifier2" class="demo"></div>
@@ -274,22 +291,17 @@
 </table>
 <hr>
 <h1 class="h1">Main Event</h1>
-<table class="mainBracket">
- <tr>
-  <th colspan="4">90 minutes of 5+1, 60 minutes of 3+1, and 30 minutes of 1+1</th>
- </tr>
- <tr>
-  <td class="tRound" style="width: 25%;">Round of 16</td>
-  <td class="tRound" style="width: 25%;">Quarterfinals</td>
-  <td class="tRound" style="width: 25%;">Semifinals</td>
-  <td class="tRound" style="width: 25%;">Final</td>
- </tr>
- <tr>
-  <td colspan="4"><div id="main" class="demo"></div></td>
- </tr>
-</table>
-<div id="tooltip" class="tooltip"></div>
-<div id="matchCallback"></div>
+<div class="t-bracket single16" style="width: 40%; margin: auto;">
+  <div class="t-header" style="grid-column: 1 / span 4;">90 minutes of 5+1, 60 minutes of 3+1, and 30 minutes of 1+1</div>
+
+  <div class="t-round" style="grid-column: 1;">Round of 16</div>
+  <div class="t-round" style="grid-column: 2;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;"><b>Final</b></div>
+
+  <div id="main" class="demo" style="grid-column: 1 / span 4;"></div>
+</div>
+
 
 <script>
     const jQualifier1Data = {
