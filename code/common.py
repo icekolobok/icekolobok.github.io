@@ -199,7 +199,7 @@ def create_table_html(crosstable, m, arena_type, n, path, ext):
              'lta': 'Titled Arena', 'bta': 'Blitz Titled Arena', '960': 'Chess960 Titled Arena'}
     t_ext = '' if ext == '' else ' & SCC'
     keys = list(crosstable.keys())[:n]
-    html = (f'<table border="1" style="border-collapse: collapse; text-align: center; font-size: 11px;">\n<tr>'
+    html = (f'<table border="1" style="border-collapse: collapse; text-align: center; font-size: 9.3px;">\n<tr>'
             f'<th>{symbol[arena_type['website']]} {title[arena_type['tournament']]}{t_ext}</th>')
     if arena_type == 'tt' or arena_type == 'bta':
         width = 1.7

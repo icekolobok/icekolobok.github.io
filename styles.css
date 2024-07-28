@@ -46,6 +46,9 @@
 body {
     justify-content: center;
     align-items: center;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 0.85em;
+    font-optical-sizing: auto;
 }
 
 a {
