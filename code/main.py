@@ -16,7 +16,7 @@ def retrieve_data(tournament, path, token, download):
 
 def update(tournament, path, token, download):
     data = retrieve_data(tournament, path, token, download)
-    if tournament['tournament'] != 'scc':
+    if tournament['tournament'] != 'scc' and tournament['tournament'] != 'bcc':
         usernames = utils.read_nicknames(path + f'in/{tournament['website']}/{tournament['website']}_usernames.csv')
         players, participation = common.analyze_winners(data, usernames, tournament)
         for n in [3, 5, 8]:
@@ -34,20 +34,21 @@ def update(tournament, path, token, download):
         common.make_crosstable([tournament['games'] for tournament in data], usernames, next(iter(players)),
                                tournament,55, path, '')
         webpage.make_webpages(path, tournament, len(data), int(data[0]['info']['startsAt'][:4]))
-        if tournament['tournament'] == 'tt':
-            data += utils.read_data({'website': 'cc', 'tournament': 'scc'}, path)
+        if tournament['tournament'] == 'tt' or tournament['tournament'] == 'bb':
+            prefix = 'SCC' if tournament['tournament'] == 'tt' else 'BCC'
+            data += utils.read_data({'website': 'cc', 'tournament': prefix}, path)
             common.make_crosstable([tournament['games'] for tournament in data], usernames, next(iter(players)),
-                                   tournament, 60, path, '_scc')
+                                   tournament, 60, path, f'{prefix}')
     return 0
 
 
 def main(path, token, download):
     websites = ['cc', 'lc']
-    tournaments = {'lc': ['bta', 'lta', '960'], 'cc': ['scc', 'bb', 'tt']}
+    tournaments = {'lc': ['bta', 'lta', '960'], 'cc': ['bcc', 'scc', 'bb', 'tt']}
     for website in websites:
         for tournament in tournaments[website]:
             update({'website': website, 'tournament': tournament}, path, token[website], download)
 
 
 if __name__ == '__main__':
-    main('../', {'lc': '', 'cc': ''}, download=False)
+    main('../', {'lc': '', 'cc': ''}, download=True)

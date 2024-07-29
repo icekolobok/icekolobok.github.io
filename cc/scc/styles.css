@@ -1,3 +1,33 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: snow;
+}
+
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 0.1em 0.1em 0;
+    width: 20%;
+    margin: auto;
+}
+
+summary {
+    font-weight: bold;
+    margin: -0.1em -0.1em 0;
+    padding: 0.5em;
+}
+
+details[open] {
+    padding: 0.1em;
+    width: 100%;
+}
+
+details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: 0.5em;
+}
+
+
 .qualswiss {
     border-collapse: collapse;
     vertical-align: middle;
@@ -37,6 +67,18 @@
     background-color: palegreen;
 }
 
+.invited {
+    background-color: lightsalmon;
+}
+
+.bwinner {
+    background-color: lightsteelblue;
+}
+
+.jwinner {
+    background-color: lightyellow;
+}
+
 .loser {
     background-color: palegoldenrod;
 }
@@ -60,6 +102,7 @@
 .qualhead {
     text-decoration: none;
     color: black;
+    font-size: 0.9em;
 }
 
 .h1 {
@@ -84,7 +127,7 @@
     box-shadow: 0 0 10px rgb(0 0 0 / 10%);
 }
 
-.t-header{
+.t-header {
     text-align: center;
     font-weight: bold;
 }
@@ -93,11 +136,10 @@
     display: grid;
     gap: 2px;
     box-sizing: border-box;
-    border: 5px solid #000;
 }
 
 .single8 {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
 }
 
 .single16 {
@@ -108,9 +150,18 @@
     grid-template-columns: repeat(5, 1fr);
 }
 
+.double16 {
+    grid-template-columns: repeat(7, 1fr);
+}
+
 hr {
     border: none; /* Remove the default border */
     height: 2px; /* Set the height of the line */
     background-color: #333; /* Set the color of the line */
     margin: 20px 0; /* Add some vertical spacing around the line */
+}
+
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
 }

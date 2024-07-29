@@ -59,10 +59,16 @@ def download_json(tournament, folder, token, url):
         rank = 0
         for i in range(data_total_pages):
             soup = BeautifulSoup(requests.get(url + '?&players=' + str(i + 1)).content, 'html.parser')
-            table_class = ' tournaments-live-view-extra-borders' if tournament == 'tt' or tournament == 'scc' else ''
-            table = soup.find('table',
-                              class_=f'table-component tournaments-live-view-results-table{table_class}')
-            table_rows = table.find_all('tr')
+            try:
+                table = soup.find('table', class_=f'table-component tournaments-live-view-results-table tournaments-live-view-extra-borders')
+                table_rows = table.find_all('tr')
+            except:
+                table = soup.find('table', class_=f'table-component tournaments-live-view-results-table')
+                table_rows = table.find_all('tr')
+            # table_class = ' tournaments-live-view-extra-borders' if tournament == 'tt' or tournament == 'scc' else ''
+            # table = soup.find('table',
+            #                  class_=f'table-component tournaments-live-view-results-table{table_class}')
+            #table_rows = table.find_all('tr')
             table_rows = table_rows[1:]
             for x in table_rows:
                 rank += 1

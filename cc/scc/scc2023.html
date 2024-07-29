@@ -7,13 +7,14 @@
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-bracket/0.11.1/jquery.bracket.min.css">
  <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="stylesbracket.css">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
  <script src="https://releases.jquery.com/git/jquery-git.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-bracket/0.11.1/jquery.bracket.min.js"></script>
 </head>
 <body>
 <h1 class="h1">Qualification</h1>
-<hr>
-<h2 class="h2">Junior Speed Chess Championship</h2>
+<details>
+ <summary class="h2">Junior Speed Chess Championship</summary>
 <h3 class="h3">Qualifiers</h3>
 <table>
  <tr>
@@ -42,11 +43,43 @@
     <tr><td class="right-align">14</td><td>Aleksandra Chvedova</td><td class="center-align">4</td><td class="right-align">18.5</td></tr>
    </table>
   </td>
-  <td>
-   <div id="junior_qualifier1" class="demo"></div>
+<td>
+<div class="t-bracket double8">
+  <div class="t-round winners" style="grid-column: 2 / span 3;">Winners</div>
+
+  <div class="t-round" style="grid-column: 2;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Final</div>
+  <div class="t-round" style="grid-column: 5;"><b>Qualified</b></div>
+
+  <div id="junior_qualifier1" class="demo" style="grid-column: 1 / span 5;"></div>
+
+  <div class="t-round" style="grid-column: 1;">Round 1</div>
+  <div class="t-round" style="grid-column: 2;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Final</div>
+
+  <div class="t-round losers" style="grid-column: 1 / span 4; text-align: center;">Losers</div>
+</div>
   </td>
   <td>
-   <div id="junior_qualifier2" class="demo"></div>
+   <div class="t-bracket double8">
+  <div class="t-round winners" style="grid-column: 2 / span 3;">Winners</div>
+
+  <div class="t-round" style="grid-column: 1;"><b>Qualified</b></div>
+  <div class="t-round" style="grid-column: 2;">Final</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Quarterfinals</div>
+
+  <div id="junior_qualifier2" class="demo" style="grid-column: 1 / span 5;"></div>
+
+  <div class="t-round" style="grid-column: 2;">Final</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 5;">Round 1</div>
+
+  <div class="t-round losers" style="grid-column: 2 / span 4; text-align: center;">Losers</div>
+</div>
   </td>
   <td>
       <table class="qualswiss">
@@ -70,28 +103,25 @@
   </td>
  </tr>
 </table>
-<h3 class="h3">Main Event</h3>
-<table class="t-bracket single8" style="width: 40%; margin: auto;">
- <tr>
-  <th colspan="3">90 minutes of 5+1 blitz, 60 minutes of 3+1 blitz, and 30 minutes of 1+1 bullet</th>
- </tr>
- <tr>
-  <td class="t-round" style="width: 33.3%;">Quarterfinals</td>
-  <td class="t-round" style="width: 33.3%;">Semifinals</td>
-  <td class="t-round" style="width: 33.3%;">Final</td>
- </tr>
- <tr>
-  <td colspan="3"><div id="juniorMain" class="demo"></div></td>
- </tr>
-</table>
-<hr>
-<h2 class="h2">Bullet Chess Championship</h2>
+ <h3 class="h3"><a class="qualhead" href="https://www.chess.com/events/2023-junior-speed-chess-championship-main-event/results">Main Event</a></h3>
+<div class="t-bracket single8" style="margin: auto; width: 640px;">
+  <div class="t-header" style="grid-column: 1 / span 4;">90 minutes of 5+1 blitz, 60 minutes of 3+1 blitz, and 30 minutes of 1+1 bullet</div>
+
+  <div class="t-round" style="grid-column: 1;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 2;">Semifinals</div>
+  <div class="t-round" style="grid-column: 3;"><b>Final</b></div>
+
+  <div id="juniorMain" class="demo" style="grid-column: 1 / span 3;"></div>
+</div>
+</details>
+<details>
+<summary class="h2">Bullet Chess Championship</summary>
 <h3 class="h3">Qualifier</h3>
 <table>
  <tr>
   <th><a href="https://www.chess.com/tournament/live/arena/bcc-qualifier-1-2805155" class="qualhead">Bullet Qualifier 1 Arena (1 hour, 1+0)</a></th>
   <th><a href="https://www.chess.com/events/2023-bullet-chess-championship-qualifier-1/results" class="qualhead">Bullet Qualifier 1 Knockout (15 min, 1+0)</a></th>
-  <th><a href="https://www.chess.com/events/2023-bullet-chess-championship-qualifier-2/results" class="qualhead">Bullet Qualifier 1 Knockout (15 min, 1+0)</a></th>
+  <th><a href="https://www.chess.com/events/2023-bullet-chess-championship-qualifier-2/results" class="qualhead">Bullet Qualifier 2 Knockout (15 min, 1+0)</a></th>
   <th><a href="https://www.chess.com/tournament/live/arena/bcc-qualifier-2-2805156" class="qualhead">Bullet Qualifier 2 Arena (1 hour, 1+0)</a></th>
  </tr>
  <tr>
@@ -115,11 +145,43 @@
        <tr class="qualified"><td class="right-align">15</td><td>Andrew Tang</td><td class="center-align">66</td><td class="center-align">21:3:08</td></tr>
    </table>
   </td>
-  <td>
-   <div id="bullet_qualifier1" class="demo"></div>
+<td>
+<div class="t-bracket double8">
+  <div class="t-round winners" style="grid-column: 2 / span 3;">Winners</div>
+
+  <div class="t-round" style="grid-column: 2;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Final</div>
+  <div class="t-round" style="grid-column: 5;"><b>Qualified</b></div>
+
+  <div id="bullet_qualifier1" class="demo" style="grid-column: 1 / span 5;"></div>
+
+  <div class="t-round" style="grid-column: 1;">Round 1</div>
+  <div class="t-round" style="grid-column: 2;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Final</div>
+
+  <div class="t-round losers" style="grid-column: 1 / span 4; text-align: center;">Losers</div>
+</div>
   </td>
   <td>
-   <div id="bullet_qualifier2" class="demo"></div>
+   <div class="t-bracket double8">
+  <div class="t-round winners" style="grid-column: 2 / span 3;">Winners</div>
+
+  <div class="t-round" style="grid-column: 1;"><b>Qualified</b></div>
+  <div class="t-round" style="grid-column: 2;">Final</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Quarterfinals</div>
+
+  <div id="bullet_qualifier2" class="demo" style="grid-column: 1 / span 5;"></div>
+
+  <div class="t-round" style="grid-column: 2;">Final</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 5;">Round 1</div>
+
+  <div class="t-round losers" style="grid-column: 2 / span 4; text-align: center;">Losers</div>
+</div>
   </td>
   <td>
       <table class="qualswiss">
@@ -172,7 +234,23 @@
    </table>
   </td>
   <td>
-   <div id="bullet_qualifier3" class="demo"></div>
+   <div class="t-bracket double8">
+  <div class="t-round winners" style="grid-column: 2 / span 3;">Winners</div>
+
+  <div class="t-round" style="grid-column: 2;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Final</div>
+  <div class="t-round" style="grid-column: 5;"><b>Qualified</b></div>
+
+  <div id="bullet_qualifier3" class="demo" style="grid-column: 1 / span 5;"></div>
+
+  <div class="t-round" style="grid-column: 1;">Round 1</div>
+  <div class="t-round" style="grid-column: 2;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Final</div>
+
+  <div class="t-round losers" style="grid-column: 1 / span 4; text-align: center;">Losers</div>
+</div>
   </td>
   <td>
   </td>
@@ -180,44 +258,32 @@
   </td>
  </tr>
 </table>
-<h3 class="h3">Main Event</h3>
-<table class="t-bracket double8">
- <tr>
-  <th colspan="7">30 minutes of 1+0, except for Winners Semifinals, Final, and Grand Final, which are 45 minutes</th>
- </tr>
-  <tr>
-   <td colspan="2"></td>
-   <td colspan="4" class="t-round">Winners</td>
-   <td></td>
- </tr>
- <tr>
-  <td style="width: 14.3%;"></td>
-  <td style="width: 14.3%;"></td>
-  <td class="t-round" style="width: 14.3%;">Round of 16</td>
-  <td class="t-round" style="width: 14.3%;">Quarterfinals</td>
-  <td class="t-round" style="width: 14.3%;">Semifinals</td>
-  <td class="t-round" style="width: 14.3%;">Final</td>
-  <td class="t-round" style="width: 14.3%;"><b>Grand Final</b></td>
- </tr>
- <tr>
-  <td colspan="7"><div id="bulletMain" class="demo"></div></td>
- </tr>
-  <tr>
-  <td class="t-round" style="width: 14.3%;">Round 1</td>
-  <td class="t-round" style="width: 14.3%;">Round 2</td>
-  <td class="t-round" style="width: 14.3%;">Round 3</td>
-  <td class="t-round" style="width: 14.3%;">Quarterfinals</td>
-  <td class="t-round" style="width: 14.3%;">Semifinals</td>
-  <td class="t-round" style="width: 14.3%;">Final</td>
-  <td style="width: 14.3%;"></td>
- </tr>
-   <tr>
-  <td colspan="6" class="t-round">Losers</td>
-    <td></td>
- </tr>
-</table>
-<hr>
-<h2 class="h2">Open Qualification</h2>
+ <h3 class="h3"><a target="_blank" class="qualhead" href="https://www.chess.com/events/2023-bullet-chess-championship-main-event/results">Main Event</a></h3>
+<div class="t-bracket double16" style="width: 1480px; margin: auto;">
+  <div class="t-header" style="grid-column: 1 / span 7;">30 minutes of 1+0, except for Winners Semifinals, Final, and Grand Final, which are 45 minutes
+</div>
+
+<div class="t-round winners" style="grid-column: 3 / span 4;">Winners</div>
+
+ <div class="t-round" style="grid-column: 3;">Round of 16</div>
+  <div class="t-round" style="grid-column: 4;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 5;">Semifinals</div>
+  <div class="t-round" style="grid-column: 6;">Final</div>
+  <div class="t-round" style="grid-column: 7;"><b>Grand Final</b></div>
+
+  <div id="bulletMain" class="demo" style="grid-column: 1 / span 7;"></div>
+
+  <div class="t-round" style="grid-column: 1;">Round 1</div>
+ <div class="t-round" style="grid-column: 2;">Round 2</div>
+  <div class="t-round" style="grid-column: 3;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 4;">Semifinals</div>
+  <div class="t-round" style="grid-column: 5;">Final</div>
+
+  <div class="t-round losers" style="grid-column: 1 / span 6; text-align: center;">Losers</div>
+</div>
+ </details>
+<details>
+<summary class="h2">Open Qualification</summary>
 <table>
  <tr>
   <th><a href="https://www.chess.com/tournament/live/speed-chess-championship-2023-qualifier-1-4237505" class="qualhead">Qualifier 1 Swiss (14 rounds, 3+1)</a></th>
@@ -263,10 +329,25 @@
 
   <div class="t-round losers" style="grid-column: 1 / span 4; text-align: center;">Losers</div>
 </div>
-
   </td>
   <td>
-   <div id="qualifier2" class="demo"></div>
+   <div class="t-bracket double8">
+  <div class="t-round winners" style="grid-column: 2 / span 3;">Winners</div>
+
+  <div class="t-round" style="grid-column: 1;"><b>Qualified</b></div>
+  <div class="t-round" style="grid-column: 2;">Final</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Quarterfinals</div>
+
+  <div id="qualifier2" class="demo" style="grid-column: 1 / span 5;"></div>
+
+  <div class="t-round" style="grid-column: 2;">Final</div>
+  <div class="t-round" style="grid-column: 3;">Semifinals</div>
+  <div class="t-round" style="grid-column: 4;">Quarterfinals</div>
+  <div class="t-round" style="grid-column: 5;">Round 1</div>
+
+  <div class="t-round losers" style="grid-column: 2 / span 4; text-align: center;">Losers</div>
+</div>
   </td>
   <td>
       <table class="qualswiss">
@@ -289,9 +370,38 @@
   </td>
  </tr>
 </table>
+ </details>
 <hr>
-<h1 class="h1">Main Event</h1>
-<div class="t-bracket single16" style="width: 40%; margin: auto;">
+<h1 class="h1"><a target="_blank" class="qualhead" href="https://www.chess.com/events/2023-speed-chess-championship-main-event/results">Main Event</a></h1>
+<table style="width: 100%;">
+ <tr>
+  <th>Participants</th>
+  <th></th>
+ </tr>
+ <tr>
+  <td style="width: 25%;">
+    <table style="width: 80%; margin: auto;" class="qualswiss">
+    <tr><th>#</th><th>Player</th><th>FIDE Blitz Rating</th><th>Route</th></tr>
+     <tr class="jwinner"><td class="right-align">1</td><td>Dommaraju Gukesh</td><td class="center-align">2659</td><td class="center-align">Junior SCC</td></tr>
+     <tr class="bwinner"><td class="right-align">2</td><td>Hikaru Nakamura</td><td class="center-align">2874</td><td class="center-align">Bullet CC</td></tr>
+     <tr class="invited"><td class="right-align">3</td><td>Alireza Firouzja</td><td class="center-align">2896</td><td class="center-align" rowspan="10">Invited</td></tr>
+     <tr class="invited"><td class="right-align">4</td><td>Magnus Carlsen</td><td class="center-align">2887</td></tr>
+     <tr class="invited"><td class="right-align">5</td><td>Fabiano Caruana</td><td class="center-align">2813</td></tr>
+     <tr class="invited"><td class="right-align">6</td><td>Ian Nepomniachtchi</td><td class="center-align">2785</td></tr>
+     <tr class="invited"><td class="right-align">7</td><td>Levon Aronian</td><td class="center-align">2772</td></tr>
+     <tr class="invited"><td class="right-align">8</td><td>Wesley So</td><td class="center-align">2765</td></tr>
+     <tr class="invited"><td class="right-align">9</td><td>Maxime Vachier-Lagrave</td><td class="center-align">2740</td></tr>
+     <tr class="invited"><td class="right-align">10</td><td>Arjun Erigaisi</td><td class="center-align">2728</td></tr>
+     <tr class="invited"><td class="right-align">11</td><td>Nodirbek Abdusattorov</td><td class="center-align">2708</td></tr>
+     <tr class="invited"><td class="right-align">12</td><td>Nihal Sarin</td><td class="center-align">2689</td></tr>
+     <tr class="winner"><td class="right-align">13</td><td>Yu Yangyi</td><td class="center-align">2762</td><td class="center-align" rowspan="4">Qualified</td></tr>
+     <tr class="winner"><td class="right-align">14</td><td>Vidit Santosh Gujrathi</td><td class="center-align">2641</td></tr>
+     <tr class="winner"><td class="right-align">15</td><td>Alexey Sarana</td><td class="center-align">2707</td></tr>
+     <tr class="winner"><td class="right-align">16</td><td>Dmitry Andreikin</td><td class="center-align">2736</td></tr>
+   </table>
+  </td>
+  <td>
+<div class="t-bracket single16" style="width: 850px; margin-left: 10%;">
   <div class="t-header" style="grid-column: 1 / span 4;">90 minutes of 5+1, 60 minutes of 3+1, and 30 minutes of 1+1</div>
 
   <div class="t-round" style="grid-column: 1;">Round of 16</div>
@@ -301,6 +411,9 @@
 
   <div id="main" class="demo" style="grid-column: 1 / span 4;"></div>
 </div>
+ </td>
+ </tr>
+ </table>
 
 
 <script>

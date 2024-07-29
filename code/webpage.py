@@ -101,6 +101,8 @@ def make_body(tournament, page_type):
         body += f' <script src="../scripts/script{tag}.js"></script>'
     if tournament['tournament'] == 'tt' and page_type == 'h2h':
         body += '  <a href="h2h_ext.html" target="_blank" style="font-size: 0.6em;">Include SCC Swiss Qualifiers</a>'
+    if tournament['tournament'] == 'bb' and page_type == 'h2h':
+        body += '  <a href="h2h_ext.html" target="_blank" style="font-size: 0.6em;">Include BCC Swiss Qualifiers</a>'
     if tournament['website'] == 'cc' and page_type in ['top3', 'top5', 'top8']:
         body += ' <div class="note">(X) - account closed, (M), (S), (B), (C), (?), (!) - have a history of account closures/inactivities/2nd chance accounts, (i) - inactive, (d) - deceased</div>\n'
         body += ' <div class="note">These marks help accumulate results from different accounts of the same player and do not imply cheating, unfair play, or rule violations. For details see Fair Play section in TT Highest Scores tab.</div>\n'

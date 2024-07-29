@@ -1,6 +1,6 @@
 class MyTable extends HTMLElement {
     connectedCallback() {
-        fetch('../data/crosstable_scc.html')
+        fetch('../data/crosstableSCC.html')
             .then(response => response.text())
             .then(html => {
                 this.innerHTML = html;
