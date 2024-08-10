@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 441,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Wafwhij02",
+   "title": "IM",
+   "flair": "smileys.cold-face",
+   "rank": 1,
+   "rating": 2938,
+   "score": 120,
+   "nb": {
+    "game": 45,
+    "berserk": 20,
+    "win": 33
+   },
+   "performance": 3044
+  },
+  {
+   "name": "Player_06",
+   "title": "IM",
+   "rank": 2,
+   "rating": 2803,
+   "score": 111,
+   "nb": {
+    "game": 60,
+    "berserk": 58,
+    "win": 30
+   },
+   "performance": 2823
+  },
+  {
+   "name": "V_M",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2972,
+   "score": 110,
+   "nb": {
+    "game": 43,
+    "berserk": 1,
+    "win": 32
+   },
+   "performance": 3046
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 315665,
+  "averageRating": 2476,
+  "berserks": 2346,
+  "blackWins": 1614,
+  "games": 3707,
+  "draws": 296,
+  "whiteWins": 1797
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Wafwhij02",
+    "title": "IM",
+    "flair": "smileys.cold-face",
+    "rank": 1,
+    "rating": 2938,
+    "score": 120,
+    "sheet": {
+     "scores": "121210242305522255422022445444442305230433033"
+    }
+   },
+   {
+    "name": "Player_06",
+    "title": "IM",
+    "rank": 2,
+    "rating": 2803,
+    "score": 111,
+    "sheet": {
+     "scores": "132533030300310330533001300000303030553300100310020555330523"
+    }
+   },
+   {
+    "name": "V_M",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2972,
+    "score": 110,
+    "sheet": {
+     "scores": "3102444442202244220204444422002022444444422"
+    }
+   },
+   {
+    "name": "Sportik_Shark",
+    "title": "IM",
+    "flair": "activity.chess-pawn",
+    "rank": 4,
+    "rating": 2857,
+    "score": 98,
+    "sheet": {
+     "scores": "2220244444221222304422124321101242202100444220"
+    }
+   },
+   {
+    "name": "SindarovGM",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2792,
+    "score": 97,
+    "sheet": {
+     "scores": "300325545532030313031300030300300030003203303003253301"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2813,
+    "score": 96,
+    "sheet": {
+     "scores": "030310230303010224444445433003033000231003045331"
+    }
+   },
+   {
+    "name": "niekeZpieczny91",
+    "title": "FM",
+    "flair": "nature.bird",
+    "rank": 7,
+    "rating": 2726,
+    "score": 95,
+    "sheet": {
+     "scores": "102004444444422122210313004432010204320443302"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 2822,
+    "score": 94,
+    "sheet": {
+     "scores": "03001030030313000330332533100230555533033000030533"
+    }
+   },
+   {
+    "name": "Saparmyrat",
+    "title": "IM",
+    "rank": 9,
+    "rating": 2749,
+    "score": 93,
+    "sheet": {
+     "scores": "001303023130300300202300442324423124433023053303"
+    }
+   },
+   {
+    "name": "royalchesssamarkand",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2670,
+    "score": 93,
+    "sheet": {
+     "scores": "25330032330033003011301243301303303132320033033030003"
+    }
+   }
+  ]
+ },
+ "id": "aug24bta",
+ "createdBy": "cormacobear",
+ "startsAt": "2024-08-10T18:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena August '24",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/aug24bua)",
+ "onlyTitled": true
+}
