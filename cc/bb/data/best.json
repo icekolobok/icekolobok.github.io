@@ -38,8 +38,8 @@
   "Daniel Naroditsky (2023-10-21, 1 place)",
   "Daniel Naroditsky (2024-08-03, 2 place)",
   "Daniel Naroditsky (2023-10-07, 1 place)",
-  "Hikaru Nakamura (2024-05-04, 1 place)",
-  "Olexandr Bortnyk (2024-05-11, 2 place)"
+  "Hikaru Nakamura (2024-08-31, 1 place)",
+  "Hikaru Nakamura (2024-05-04, 1 place)"
  ],
  "datasets": [
   {
@@ -126,7 +126,7 @@
     "rgba(179,  25,  66, 1.0)",
     "rgba(179,  25,  66, 1.0)",
     "rgba( 10,  49,  97, 1.0)",
-    "rgba(255, 215,   0, 1.0)"
+    "rgba( 10,  49,  97, 1.0)"
    ],
    "borderColor": "rgb(0, 0, 0)",
    "borderWidth": 1
