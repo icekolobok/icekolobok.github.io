@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 390,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "nihalsarin2004",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2935,
+   "score": 133,
+   "nb": {
+    "game": 50,
+    "berserk": 33,
+    "win": 36
+   },
+   "performance": 3017
+  },
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2860,
+   "score": 118,
+   "nb": {
+    "game": 50,
+    "berserk": 28,
+    "win": 32
+   },
+   "performance": 2912
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2832,
+   "score": 118,
+   "nb": {
+    "game": 48,
+    "berserk": 43,
+    "win": 31
+   },
+   "performance": 2887
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 260152,
+  "averageRating": 2447,
+  "berserks": 2269,
+  "blackWins": 1368,
+  "games": 3099,
+  "draws": 254,
+  "whiteWins": 1477
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2935,
+    "score": 133,
+    "sheet": {
+     "scores": "52313132433005453305220422244433012030330305555533",
+     "fire": true
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2860,
+    "score": 118,
+    "sheet": {
+     "scores": "31225443304454330042200300121300555543304330300331"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2832,
+    "score": 118,
+    "sheet": {
+     "scores": "303033023000030555330255533053303323302533005533"
+    }
+   },
+   {
+    "name": "Cresswell",
+    "title": "FM",
+    "rank": 4,
+    "rating": 2677,
+    "score": 112,
+    "sheet": {
+     "scores": "545330100055533000533010330001004330001013003005330552200230030",
+     "fire": true
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2858,
+    "score": 108,
+    "sheet": {
+     "scores": "23233055332453300131203030313021233033054330100432",
+     "fire": true
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2702,
+    "score": 106,
+    "sheet": {
+     "scores": "000030300320303223025553305533021055330303300033003033000"
+    }
+   },
+   {
+    "name": "dr_xStranger",
+    "title": "IM",
+    "flair": "smileys.face-with-raised-eyebrow",
+    "rank": 7,
+    "rating": 2749,
+    "score": 104,
+    "sheet": {
+     "scores": "04331043310030300030523010301301004330443302200304445330"
+    }
+   },
+   {
+    "name": "gmspideribarra",
+    "title": "GM",
+    "flair": "nature.spider-web",
+    "rank": 8,
+    "rating": 2727,
+    "score": 103,
+    "sheet": {
+     "scores": "10301303033030030000030300130030444433030003033244433023030023"
+    }
+   },
+   {
+    "name": "maybe_maybe",
+    "title": "IM",
+    "flair": "food-drink.pancakes",
+    "rank": 9,
+    "rating": 2732,
+    "score": 96,
+    "sheet": {
+     "scores": "003003002302003001033013003033030010303043303303300253301300433010"
+    }
+   },
+   {
+    "name": "Minoli",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2772,
+    "score": 95,
+    "sheet": {
+     "scores": "030212053301300001130523033043203032055545433"
+    }
+   }
+  ]
+ },
+ "id": "sep24bta",
+ "createdBy": "cormacobear",
+ "startsAt": "2024-09-14T18:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena September '24",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/sep24bua)",
+ "onlyTitled": true
+}
