@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             beginAtZero: true,
                             stacked: false,
                             position: 'top',
-                            max: 360,
+                            max: 370,
                             ticks: {
                                 stepSize: 10
                               }

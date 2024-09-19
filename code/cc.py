@@ -435,7 +435,8 @@ def colormap(performances, a):
             'Janak Awatramani':        f'rgba(127,   0,   0, {a})',
             'Zaven Andriasian':        f'rgba(153,  73,  59, {a})',
             'Shamsiddin Vokhidov':     f'rgba( 83, 176, 174, {a})',
-            'Javokhir Sindarov':       f'rgba(136, 176,  75, {a})'}
+            'Javokhir Sindarov':       f'rgba(136, 176,  75, {a})',
+            'Ediz Gurel':              f'rgba(227,  10,  23, {a})'}
     return [cmap.get(performance['player'], f'rgba(192, 192, 192, {a})') for performance in performances]
 
 
