@@ -33,13 +33,13 @@
   "David Paravyan (2023-07-15, 1 place, rating: 3139)",
   "Alireza Firouzja (2021-02-20, 1 place, rating: 3126)",
   "Alireza Firouzja (2019-07-13, 1 place, rating: 3062)",
+  "Nihal Sarin (2024-09-28, 1 place, rating: 3290)",
   "Daniel Naroditsky (2024-04-27, 2 place, rating: 3234)",
   "Olexandr Bortnyk (2024-02-24, 2 place, rating: 3120)",
   "Alireza Firouzja (2024-07-27, 2 place, rating: 3179)",
   "Andrew Tang (2024-04-27, 3 place, rating: 3132)",
   "Daniel Naroditsky (2023-09-23, 2 place, rating: 3179)",
-  "Alireza Firouzja (2019-11-23, 1 place, rating: 3103)",
-  "Andrew Tang (2021-03-20, 1 place, rating: 3011)"
+  "Alireza Firouzja (2019-11-23, 1 place, rating: 3103)"
  ],
  "datasets": [
   {
@@ -81,7 +81,7 @@
     158,
     158,
     158,
-    157,
+    158,
     157,
     157,
     157
@@ -120,13 +120,13 @@
     "rgba(242, 168,   0, 1.0)",
     "rgba( 35, 159,  64, 1.0)",
     "rgba( 35, 159,  64, 1.0)",
+    "rgba(255, 103,  31, 1.0)",
     "rgba( 10,  49,  97, 1.0)",
     "rgba(255, 215,   0, 1.0)",
     "rgba( 35, 159,  64, 1.0)",
     "rgba( 95,  37,  82, 1.0)",
     "rgba( 10,  49,  97, 1.0)",
-    "rgba( 35, 159,  64, 1.0)",
-    "rgba( 95,  37,  82, 1.0)"
+    "rgba( 35, 159,  64, 1.0)"
    ],
    "borderColor": "rgb(0, 0, 0)",
    "borderWidth": 1,
@@ -168,13 +168,13 @@
     3211,
     3154,
     3116,
+    3313,
     3269,
     3169,
     3157,
     3174,
     3155,
-    3143,
-    3093
+    3143
    ],
    "backgroundColor": [
     "rgba(182,  12,  47, 0.4)",
@@ -210,13 +210,13 @@
     "rgba(242, 168,   0, 0.4)",
     "rgba( 35, 159,  64, 0.4)",
     "rgba( 35, 159,  64, 0.4)",
+    "rgba(255, 103,  31, 0.4)",
     "rgba( 10,  49,  97, 0.4)",
     "rgba(255, 215,   0, 0.4)",
     "rgba( 35, 159,  64, 0.4)",
     "rgba( 95,  37,  82, 0.4)",
     "rgba( 10,  49,  97, 0.4)",
-    "rgba( 35, 159,  64, 0.4)",
-    "rgba( 95,  37,  82, 0.4)"
+    "rgba( 35, 159,  64, 0.4)"
    ],
    "borderColor": "rgb(0, 0, 0)",
    "borderWidth": 1,

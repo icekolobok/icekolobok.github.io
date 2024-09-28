@@ -33,11 +33,11 @@
   "Sunilduth Lyna Narayanan",
   "Kacper Drozdowski",
   "Aram Hakobyan (B)",
+  "Mykola Bortnyk",
   "Raunak Sadhwani",
   "Pranesh Munirethinam",
   "Frederik Svane",
   "Anish Giri",
-  "Mykola Bortnyk",
   "Marcos Lianes",
   "Hans Niemann (M)",
   "Alireza Firouzja"
@@ -46,7 +46,7 @@
   {
    "label": "Gold",
    "data": [
-    28,
+    29,
     23,
     7,
     4,
@@ -98,7 +98,7 @@
     11,
     19,
     14,
-    6,
+    7,
     9,
     1,
     2,
@@ -145,7 +145,7 @@
    "label": "Bronze",
    "data": [
     2,
-    9,
+    10,
     11,
     13,
     16,
@@ -195,7 +195,7 @@
    "data": [
     0,
     4,
-    14,
+    15,
     3,
     6,
     4,
@@ -276,7 +276,7 @@
     2,
     2,
     2,
-    1,
+    2,
     1,
     1,
     1,

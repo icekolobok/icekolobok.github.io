@@ -1,0 +1,212 @@
+{
+ "nbPlayers": 351,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "nihalsarin2004",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 3290,
+   "score": 158,
+   "nb": {
+    "game": 69,
+    "berserk": 8,
+    "win": 47
+   },
+   "performance": 3313
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 2,
+   "rating": 3186,
+   "score": 143,
+   "nb": {
+    "game": 76,
+    "berserk": 34,
+    "win": 44
+   },
+   "performance": 3177
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3188,
+   "score": 140,
+   "nb": {
+    "game": 76,
+    "berserk": 34,
+    "win": 44
+   },
+   "performance": 3152
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 399102,
+  "averageRating": 2665,
+  "berserks": 918,
+  "blackWins": 2200,
+  "games": 4885,
+  "draws": 269,
+  "whiteWins": 2416
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 3290,
+    "score": 158,
+    "sheet": {
+     "scores": "120254422244221020042200422044220045444452202130000444445433022022422"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 2,
+    "rating": 3186,
+    "score": 143,
+    "sheet": {
+     "scores": "0053303120200044422023033002000523002120321031300030552304330543304452300330"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3188,
+    "score": 140,
+    "sheet": {
+     "scores": "5555533000302033104220000204230002302004220201201020220042200044545230304423",
+     "fire": true
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3123,
+    "score": 136,
+    "sheet": {
+     "scores": "303242202423020202022433022000022002000222444422000121303021204444433103003003200"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 3199,
+    "score": 131,
+    "sheet": {
+     "scores": "20204221204422222002004220042202022022442200220042204422042200222444422"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 3203,
+    "score": 129,
+    "sheet": {
+     "scores": "001242204220200442202030452302324330202304220022004423002002210444423"
+    }
+   },
+   {
+    "name": "rob188",
+    "title": "FM",
+    "flair": "smileys.alien",
+    "rank": 7,
+    "rating": 3052,
+    "score": 121,
+    "sheet": {
+     "scores": "031000203012030110452302544330042213000200444533100320000204220433000312"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 8,
+    "rating": 3122,
+    "score": 120,
+    "sheet": {
+     "scores": "10303000220024220200042212020244220042200020200202204444220020204423000442200300"
+    }
+   },
+   {
+    "name": "greennight",
+    "title": "IM",
+    "flair": "objects.musical-note",
+    "rank": 9,
+    "rating": 3017,
+    "score": 120,
+    "sheet": {
+     "scores": "10100012042301300020033102100422002053303030002023020022311302000200022002320302200022552202"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 3147,
+    "score": 118,
+    "sheet": {
+     "scores": "3022452222204221033102002300300422003003020052205422120000442204220230"
+    }
+   }
+  ]
+ },
+ "id": "sep24lta",
+ "createdBy": "cormacobear",
+ "startsAt": "2024-09-28T18:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena September 2024",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/sep24wua)",
+ "onlyTitled": true
+}
