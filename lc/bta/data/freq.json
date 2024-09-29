@@ -153,7 +153,7 @@
   "Jonathan Cruz",
   "Juan Carlos Obregon Rivero",
   "juancruzariasTDF",
-  "Artem_0degov",
+  "Artem Odegov",
   "samssky",
   "Andriy2006",
   "Mikhail Bryakin",
@@ -408,6 +408,7 @@
   "Mukhiddin Madaminov",
   "Mykola Bortnyk",
   "Mustafa Yilmaz",
+  "Jose Carlos Ibarra",
   "maybe_maybe",
   "Samvel Ter-Sahakyan",
   "Artem Uskov",
@@ -648,8 +649,7 @@
   "Alireza Firouzja",
   "Jeffery Xiong",
   "Dincer Tasdogen",
-  "Abdimalik Abdisalimov",
-  "Dmitrij Kollars"
+  "Abdimalik Abdisalimov"
  ],
  "datasets": [
   {
@@ -1113,6 +1113,7 @@
     12,
     12,
     12,
+    12,
     11,
     11,
     11,
@@ -1300,7 +1301,6 @@
     10,
     10,
     10,
-    9,
     9,
     9,
     9,
