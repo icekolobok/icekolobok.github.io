@@ -13,7 +13,7 @@ def get_tournament_links(tournament, path):
     tournament_links = []
     if tournament == 'tt':
         base_url = 'https://www.chess.com/tournament/live/titled-tuesdays'
-        number_of_pages = 18
+        number_of_pages = 19
         for page in range(number_of_pages):
             soup = BeautifulSoup(requests.get(base_url + '?&page=' + str(page + 1)).content, 'html.parser')
             tournament_list = soup.find('table',
