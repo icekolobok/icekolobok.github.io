@@ -37,9 +37,9 @@
   "Olexandr Bortnyk (2024-10-05, 1 place)",
   "Andrew Tang (2024-09-21, 1 place)",
   "Yoseph Theolifus Taher (2024-07-20, 1 place)",
+  "Olexandr Bortnyk (2024-10-12, 1 place)",
   "Daniel Naroditsky (2023-10-14, 1 place)",
-  "Daniel Naroditsky (2024-05-25, 2 place)",
-  "Andrew Tang (2024-06-22, 1 place)"
+  "Daniel Naroditsky (2024-05-25, 2 place)"
  ],
  "datasets": [
   {
@@ -84,7 +84,7 @@
     256.0,
     254.0,
     254.0,
-    253.0
+    254.0
    ],
    "backgroundColor": [
     "rgba( 10,  49,  97, 1.0)",
@@ -124,9 +124,9 @@
     "rgba(255, 215,   0, 1.0)",
     "rgba( 95,  37, 124, 1.0)",
     "rgba(246, 141, 145, 1.0)",
+    "rgba(255, 215,   0, 1.0)",
     "rgba(179,  25,  66, 1.0)",
-    "rgba(179,  25,  66, 1.0)",
-    "rgba( 95,  37, 124, 1.0)"
+    "rgba(179,  25,  66, 1.0)"
    ],
    "borderColor": "rgb(0, 0, 0)",
    "borderWidth": 1

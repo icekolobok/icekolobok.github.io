@@ -1,0 +1,204 @@
+{
+ "nbPlayers": 469,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2860,
+   "score": 160,
+   "nb": {
+    "game": 59,
+    "berserk": 55,
+    "win": 39
+   },
+   "performance": 2905
+  },
+  {
+   "name": "royalchesssamarkand",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2768,
+   "score": 131,
+   "nb": {
+    "game": 61,
+    "berserk": 51,
+    "win": 36
+   },
+   "performance": 2846
+  },
+  {
+   "name": "Mitrabha",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2740,
+   "score": 122,
+   "nb": {
+    "game": 58,
+    "berserk": 35,
+    "win": 32
+   },
+   "performance": 2819
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 307335,
+  "averageRating": 2457,
+  "berserks": 2508,
+  "blackWins": 1608,
+  "games": 3632,
+  "draws": 279,
+  "whiteWins": 1745
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2860,
+    "score": 160,
+    "sheet": {
+     "scores": "23323313103130053305545555533002533005555553310533043302003"
+    }
+   },
+   {
+    "name": "royalchesssamarkand",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2768,
+    "score": 131,
+    "sheet": {
+     "scores": "0000323325330030330033100444443303303053305330031303324533013"
+    }
+   },
+   {
+    "name": "Mitrabha",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2740,
+    "score": 122,
+    "sheet": {
+     "scores": "1252200300545330523003003024230100300233010305454553300433"
+    }
+   },
+   {
+    "name": "Shant7777777",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2861,
+    "score": 121,
+    "sheet": {
+     "scores": "445230302444444443300000003323310003300311253312433233",
+     "fire": true
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 5,
+    "rating": 2751,
+    "score": 120,
+    "sheet": {
+     "scores": "0130031130230203005330004553313030100453302555553305330"
+    }
+   },
+   {
+    "name": "Player_06",
+    "title": "IM",
+    "rank": 6,
+    "rating": 2755,
+    "score": 115,
+    "sheet": {
+     "scores": "3031033033003030301301000000555330555332330303000303300033053300"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2812,
+    "score": 113,
+    "sheet": {
+     "scores": "310000031305330305533000302553310310305553305330533"
+    }
+   },
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2806,
+    "score": 109,
+    "sheet": {
+     "scores": "3101122304454543323313030004330303000533030130533013"
+    }
+   },
+   {
+    "name": "samisahi",
+    "title": "IM",
+    "rank": 9,
+    "rating": 2752,
+    "score": 102,
+    "sheet": {
+     "scores": "44220012444522222102202202044422013010022224444220",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2745,
+    "score": 99,
+    "sheet": {
+     "scores": "00330330330303303125533101300003054543303023310330"
+    }
+   }
+  ]
+ },
+ "id": "oct24bta",
+ "createdBy": "cormacobear",
+ "startsAt": "2024-10-12T18:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena October '24",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/oct24bua)",
+ "onlyTitled": true
+}
