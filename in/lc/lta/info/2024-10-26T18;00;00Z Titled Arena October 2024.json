@@ -1,0 +1,209 @@
+{
+ "nbPlayers": 225,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "toivok3",
+   "title": "IM",
+   "rank": 1,
+   "rating": 3150,
+   "score": 135,
+   "nb": {
+    "game": 67,
+    "berserk": 5,
+    "win": 44
+   },
+   "performance": 3253
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3148,
+   "score": 132,
+   "nb": {
+    "game": 63,
+    "berserk": 9,
+    "win": 41
+   },
+   "performance": 3211
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3187,
+   "score": 117,
+   "nb": {
+    "game": 66,
+    "berserk": 19,
+    "win": 41
+   },
+   "performance": 3163
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 263756,
+  "averageRating": 2638,
+  "berserks": 664,
+  "blackWins": 1436,
+  "games": 3201,
+  "draws": 199,
+  "whiteWins": 1566
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "toivok3",
+    "title": "IM",
+    "rank": 1,
+    "rating": 3150,
+    "score": 135,
+    "sheet": {
+     "scores": "1254444220202223024220020220422020022042222224544422002012044422022"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3148,
+    "score": 132,
+    "sheet": {
+     "scores": "220022020224422000444442204442201012000442212045220444454330030",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3187,
+    "score": 117,
+    "sheet": {
+     "scores": "303305433052203002023002302002302120003204220220200422020445442212"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3059,
+    "score": 116,
+    "sheet": {
+     "scores": "013000004444433030020221030300023030220011021201310200210022444320310000001031302330"
+    }
+   },
+   {
+    "name": "dr_xStranger",
+    "title": "IM",
+    "flair": "smileys.face-with-raised-eyebrow",
+    "rank": 5,
+    "rating": 3073,
+    "score": 114,
+    "sheet": {
+     "scores": "2302200220000002000220201044220204444444422020202212044442200042212",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3149,
+    "score": 113,
+    "sheet": {
+     "scores": "220444220444423020022004220021000022024220204422004423023010422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Mirakel05",
+    "title": "FM",
+    "flair": "people.santa-claus",
+    "rank": 7,
+    "rating": 3074,
+    "score": 111,
+    "sheet": {
+     "scores": "25330020422104422020002000002002024442204442301202300230300033002302300"
+    }
+   },
+   {
+    "name": "Cresswell",
+    "title": "FM",
+    "rank": 8,
+    "rating": 2952,
+    "score": 109,
+    "sheet": {
+     "scores": "00000220022444221212104442300004422010044444554230432"
+    }
+   },
+   {
+    "name": "Bardyk01",
+    "title": "FM",
+    "rank": 9,
+    "rating": 3033,
+    "score": 109,
+    "sheet": {
+     "scores": "3055330000220023204442202110200200020020442212002000100000422044443200202"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 10,
+    "rating": 3079,
+    "score": 108,
+    "sheet": {
+     "scores": "5330053300432000010103022020444230000203030032044423004453300",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "oct24lta",
+ "createdBy": "cormacobear",
+ "startsAt": "2024-10-26T18:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena October 2024",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/oct24wua)",
+ "onlyTitled": true
+}
