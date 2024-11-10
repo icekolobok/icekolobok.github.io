@@ -1,0 +1,202 @@
+{
+ "nbPlayers": 414,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "VincentKeymer2004",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2877,
+   "score": 131,
+   "nb": {
+    "game": 56,
+    "berserk": 45,
+    "win": 34
+   },
+   "performance": 2869
+  },
+  {
+   "name": "iamstraw",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2763,
+   "score": 120,
+   "nb": {
+    "game": 57,
+    "berserk": 43,
+    "win": 33
+   },
+   "performance": 2819
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2862,
+   "score": 110,
+   "nb": {
+    "game": 41,
+    "berserk": 39,
+    "win": 27
+   },
+   "performance": 2878
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 295431,
+  "averageRating": 2445,
+  "berserks": 2246,
+  "blackWins": 1561,
+  "games": 3438,
+  "draws": 280,
+  "whiteWins": 1597
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "VincentKeymer2004",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2877,
+    "score": 131,
+    "sheet": {
+     "scores": "00444433030000310533105533001303055330105455330044552302"
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2763,
+    "score": 120,
+    "sheet": {
+     "scores": "100002213102225555455330303053300553300030303031303304230"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2862,
+    "score": 110,
+    "sheet": {
+     "scores": "25553300533033130003300303030325555555533"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2862,
+    "score": 109,
+    "sheet": {
+     "scores": "25330432003213100004442300132452300545532045331"
+    }
+   },
+   {
+    "name": "handofprince",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2765,
+    "score": 108,
+    "sheet": {
+     "scores": "30330300130032533055553300031030001055330533031200432"
+    }
+   },
+   {
+    "name": "SavvaVetokhin2009",
+    "title": "GM",
+    "flair": "smileys.face-with-open-eyes-and-hand-over-mouth",
+    "rank": 6,
+    "rating": 2681,
+    "score": 106,
+    "sheet": {
+     "scores": "00032554330330303021042305533233110031033030033130023102"
+    }
+   },
+   {
+    "name": "Mitrabha",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2746,
+    "score": 103,
+    "sheet": {
+     "scores": "32030032024433030323303004433233030103033003033030532",
+     "fire": true
+    }
+   },
+   {
+    "name": "Saparmyrat",
+    "title": "IM",
+    "rank": 8,
+    "rating": 2732,
+    "score": 101,
+    "sheet": {
+     "scores": "30233003323303000130100132523000030033124553305330300330"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2871,
+    "score": 98,
+    "sheet": {
+     "scores": "30013010203002244221245230223203122220442224220432"
+    }
+   },
+   {
+    "name": "Zohiiidd_10",
+    "title": "IM",
+    "rank": 10,
+    "rating": 2808,
+    "score": 93,
+    "sheet": {
+     "scores": "0031003301001244422044220002224442212242212432022"
+    }
+   }
+  ]
+ },
+ "id": "nov24bta",
+ "createdBy": "cormacobear",
+ "startsAt": "2024-11-09T18:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena November '24",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/nov24bua)",
+ "onlyTitled": true
+}
