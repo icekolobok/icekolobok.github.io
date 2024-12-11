@@ -1,0 +1,201 @@
+{
+ "nbPlayers": 221,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "caching",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2396,
+   "score": 81,
+   "nb": {
+    "game": 39,
+    "berserk": 30,
+    "win": 22
+   },
+   "performance": 2426
+  },
+  {
+   "name": "BlueGreensun",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2421,
+   "score": 78,
+   "nb": {
+    "game": 39,
+    "berserk": 21,
+    "win": 23
+   },
+   "performance": 2450
+  },
+  {
+   "name": "Mitrabha",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2470,
+   "score": 68,
+   "nb": {
+    "game": 32,
+    "berserk": 13,
+    "win": 19
+   },
+   "performance": 2461
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 75464,
+  "averageRating": 2084,
+  "berserks": 479,
+  "blackWins": 488,
+  "games": 1053,
+  "draws": 63,
+  "whiteWins": 502
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "caching",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2396,
+    "score": 81,
+    "sheet": {
+     "scores": "200003024330044332543300030555330303030"
+    }
+   },
+   {
+    "name": "BlueGreensun",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2421,
+    "score": 78,
+    "sheet": {
+     "scores": "002044432002021310000533054330055330422"
+    }
+   },
+   {
+    "name": "Mitrabha",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2470,
+    "score": 68,
+    "sheet": {
+     "scores": "12044320444455230000303003024330"
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2504,
+    "score": 67,
+    "sheet": {
+     "scores": "3005433002000300442324422002202042203"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2431,
+    "score": 66,
+    "sheet": {
+     "scores": "25320254320423054455330"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2435,
+    "score": 65,
+    "sheet": {
+     "scores": "052205433030030030122302203304433"
+    }
+   },
+   {
+    "name": "samssky",
+    "title": "FM",
+    "rank": 7,
+    "rating": 2525,
+    "score": 58,
+    "sheet": {
+     "scores": "044444222444444422"
+    }
+   },
+   {
+    "name": "SpartakMos",
+    "title": "CM",
+    "flair": "nature.comet",
+    "rank": 8,
+    "rating": 2465,
+    "score": 57,
+    "sheet": {
+     "scores": "2220442300042224221132220220221"
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2380,
+    "score": 56,
+    "sheet": {
+     "scores": "31002242200200022022122220442200042300"
+    }
+   },
+   {
+    "name": "Zkid",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2471,
+    "score": 52,
+    "sheet": {
+     "scores": "00300044221224444220422022"
+    }
+   }
+  ]
+ },
+ "id": "960dec24",
+ "createdBy": "cormacobear",
+ "startsAt": "2024-12-07T18:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena December '24",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/96wdec24)\r\n\r\nJoin the [official Lichess Chess960 team](https://lichess.org/team/lichess-chess960) for news and events",
+ "onlyTitled": true
+}
