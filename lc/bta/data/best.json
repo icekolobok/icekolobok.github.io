@@ -26,6 +26,7 @@
   "Akshat Chandra (2024-06-08, 2 place, rating: 2813)",
   "Daniel Naroditsky (2023-06-03, 2 place, rating: 2892)",
   "Olexandr Bortnyk (2022-01-08, 1 place, rating: 2890)",
+  "Daniel Naroditsky (2025-01-04, 1 place, rating: 2890)",
   "Nihal Sarin (2024-09-14, 1 place, rating: 2935)",
   "Sergei Zhigalko (2023-07-01, 3 place, rating: 2867)",
   "Olexandr Bortnyk (2022-10-01, 2 place, rating: 2876)",
@@ -38,8 +39,7 @@
   "Jakhongir Vakhidov (2024-10-12, 2 place, rating: 2768)",
   "David Paravyan (2020-12-05, 2 place, rating: 2742)",
   "Olexandr Bortnyk (2022-05-14, 1 place, rating: 2855)",
-  "David Paravyan (2021-12-04, 1 place, rating: 2853)",
-  "David Paravyan (2024-02-10, 2 place, rating: 2855)"
+  "David Paravyan (2021-12-04, 1 place, rating: 2853)"
  ],
  "datasets": [
   {
@@ -71,6 +71,7 @@
     137,
     137,
     134,
+    134,
     133,
     133,
     133,
@@ -82,7 +83,6 @@
     131,
     131,
     131,
-    130,
     130,
     130
    ],
@@ -113,6 +113,7 @@
     "rgba(130, 117, 121, 1.0)",
     "rgba( 10,  49,  97, 1.0)",
     "rgba(255, 215,   0, 1.0)",
+    "rgba( 10,  49,  97, 1.0)",
     "rgba(255, 103,  31, 1.0)",
     "rgba(105,  95,  52, 1.0)",
     "rgba(255, 215,   0, 1.0)",
@@ -125,7 +126,6 @@
     "rgba(192, 192, 192, 1.0)",
     "rgba(242, 168,   0, 1.0)",
     "rgba(255, 215,   0, 1.0)",
-    "rgba(242, 168,   0, 1.0)",
     "rgba(242, 168,   0, 1.0)"
    ],
    "borderColor": "rgb(0, 0, 0)",
@@ -161,6 +161,7 @@
     2842,
     2837,
     2970,
+    2940,
     3017,
     2921,
     2913,
@@ -173,8 +174,7 @@
     2846,
     2758,
     2889,
-    2885,
-    2871
+    2885
    ],
    "backgroundColor": [
     "rgba(182,  12,  47, 0.4)",
@@ -203,6 +203,7 @@
     "rgba(130, 117, 121, 0.4)",
     "rgba( 10,  49,  97, 0.4)",
     "rgba(255, 215,   0, 0.4)",
+    "rgba( 10,  49,  97, 0.4)",
     "rgba(255, 103,  31, 0.4)",
     "rgba(105,  95,  52, 0.4)",
     "rgba(255, 215,   0, 0.4)",
@@ -215,7 +216,6 @@
     "rgba(192, 192, 192, 0.4)",
     "rgba(242, 168,   0, 0.4)",
     "rgba(255, 215,   0, 0.4)",
-    "rgba(242, 168,   0, 0.4)",
     "rgba(242, 168,   0, 0.4)"
    ],
    "borderColor": "rgb(0, 0, 0)",
