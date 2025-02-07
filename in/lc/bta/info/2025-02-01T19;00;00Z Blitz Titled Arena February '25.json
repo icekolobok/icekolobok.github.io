@@ -1,0 +1,205 @@
+{
+ "nbPlayers": 369,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2874,
+   "score": 123,
+   "nb": {
+    "game": 56,
+    "berserk": 27,
+    "win": 35
+   },
+   "performance": 2931
+  },
+  {
+   "name": "ARMJoker",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2959,
+   "score": 121,
+   "nb": {
+    "game": 48,
+    "berserk": 12,
+    "win": 35
+   },
+   "performance": 3047
+  },
+  {
+   "name": "AngelitoRT",
+   "title": "IM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2827,
+   "score": 113,
+   "nb": {
+    "game": 55,
+    "berserk": 30,
+    "win": 30
+   },
+   "performance": 2860
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 286237,
+  "averageRating": 2455,
+  "berserks": 2502,
+  "blackWins": 1545,
+  "games": 3402,
+  "draws": 250,
+  "whiteWins": 1607
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2874,
+    "score": 123,
+    "sheet": {
+     "scores": "30321024523042303020003032230301302244231054445533043303"
+    }
+   },
+   {
+    "name": "ARMJoker",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2959,
+    "score": 121,
+    "sheet": {
+     "scores": "244444220220244442200044422022025232452322304523"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2827,
+    "score": 113,
+    "sheet": {
+     "scores": "2232230024445320324331300213010300001303113032222445433"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2872,
+    "score": 110,
+    "sheet": {
+     "scores": "2523005433053300305432120053305543203305320303"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2859,
+    "score": 109,
+    "sheet": {
+     "scores": "1053303303043210444220004444220444523022044422"
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2823,
+    "score": 108,
+    "sheet": {
+     "scores": "000030330255330042303301030300023203104331000445453313032"
+    }
+   },
+   {
+    "name": "nikotheo",
+    "title": "GM",
+    "flair": "smileys.alien",
+    "rank": 7,
+    "rating": 2950,
+    "score": 107,
+    "sheet": {
+     "scores": "004422243301105444442312030024455330004522222"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 2868,
+    "score": 106,
+    "sheet": {
+     "scores": "53300003310004533253310310000320030231223030533032005433",
+     "fire": true
+    }
+   },
+   {
+    "name": "yyoochess",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2873,
+    "score": 105,
+    "sheet": {
+     "scores": "03023023055330010302244221052310220255553303300330"
+    }
+   },
+   {
+    "name": "SindarovGM",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2825,
+    "score": 104,
+    "sheet": {
+     "scores": "30555332331303310032555555555533"
+    }
+   }
+  ]
+ },
+ "id": "feb25bta",
+ "createdBy": "cormacobear",
+ "startsAt": "2025-02-01T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena February '25",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "superBlitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/feb25bua)",
+ "onlyTitled": true
+}
