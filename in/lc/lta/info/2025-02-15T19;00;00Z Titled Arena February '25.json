@@ -1,0 +1,209 @@
+{
+ "nbPlayers": 345,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Ediz_Gurel",
+   "title": "GM",
+   "flair": "smileys.alien",
+   "rank": 1,
+   "rating": 3250,
+   "score": 147,
+   "nb": {
+    "game": 75,
+    "berserk": 36,
+    "win": 45
+   },
+   "performance": 3259
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 2,
+   "rating": 3196,
+   "score": 129,
+   "nb": {
+    "game": 74,
+    "berserk": 32,
+    "win": 41
+   },
+   "performance": 3198
+  },
+  {
+   "name": "yyoochess",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3139,
+   "score": 126,
+   "nb": {
+    "game": 67,
+    "berserk": 9,
+    "win": 40
+   },
+   "performance": 3214
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 400364,
+  "averageRating": 2645,
+  "berserks": 1079,
+  "blackWins": 2185,
+  "games": 4905,
+  "draws": 263,
+  "whiteWins": 2457
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Ediz_Gurel",
+    "title": "GM",
+    "flair": "smileys.alien",
+    "rank": 1,
+    "rating": 3250,
+    "score": 147,
+    "sheet": {
+     "scores": "001000324422044220302301205443302300132230220442302300303055433130222331303"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 2,
+    "rating": 3196,
+    "score": 129,
+    "sheet": {
+     "scores": "24433242300300230120020422030253203020043204230000030020542203000322533022"
+    }
+   },
+   {
+    "name": "yyoochess",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3139,
+    "score": 126,
+    "sheet": {
+     "scores": "2010221002222200120024422004442202204444444444220020210220233022330"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3196,
+    "score": 124,
+    "sheet": {
+     "scores": "11202102442224442204221000044220220222202022442202020244222442202"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 3165,
+    "score": 123,
+    "sheet": {
+     "scores": "30030311043300021023022300000000230300023010220120030205320202204423030545523023"
+    }
+   },
+   {
+    "name": "legendreturns",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3191,
+    "score": 122,
+    "sheet": {
+     "scores": "2455220033004422120203020212000001212004422044422023044445220230"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3184,
+    "score": 121,
+    "sheet": {
+     "scores": "4222330202003000044230023020020202204220220432000000003202022002024444423223020",
+     "fire": true
+    }
+   },
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 8,
+    "rating": 3245,
+    "score": 120,
+    "sheet": {
+     "scores": "3022330000300130202022044220004445444230202321100444230202132422"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 9,
+    "rating": 3097,
+    "score": 118,
+    "sheet": {
+     "scores": "03031224230030103300020330000304442202330130030000012030124330002022030300443301"
+    }
+   },
+   {
+    "name": "Mirakel05",
+    "title": "FM",
+    "flair": "people.santa-claus",
+    "rank": 10,
+    "rating": 3123,
+    "score": 117,
+    "sheet": {
+     "scores": "5433002022030423030022002020442302003030220021202300300300444452203022",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "feb25lta",
+ "createdBy": "cormacobear",
+ "startsAt": "2025-02-15T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena February '25",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/feb25wua)",
+ "onlyTitled": true
+}
