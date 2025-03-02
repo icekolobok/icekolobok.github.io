@@ -25,8 +25,10 @@
   "Daniel Naroditsky (2022-07-09, 2 place, rating: 2968)",
   "Akshat Chandra (2024-06-08, 2 place, rating: 2813)",
   "Daniel Naroditsky (2023-06-03, 2 place, rating: 2892)",
+  "Andrew Tang (2025-03-01, 1 place, rating: 2839)",
   "Olexandr Bortnyk (2022-01-08, 1 place, rating: 2890)",
   "Daniel Naroditsky (2025-01-04, 1 place, rating: 2890)",
+  "Brandon Jacobson (2025-03-01, 2 place, rating: 2801)",
   "Nihal Sarin (2024-09-14, 1 place, rating: 2935)",
   "Sergei Zhigalko (2023-07-01, 3 place, rating: 2867)",
   "Olexandr Bortnyk (2022-10-01, 2 place, rating: 2876)",
@@ -37,9 +39,7 @@
   "Vincent Keymer (2024-11-09, 1 place, rating: 2877)",
   "Yoseph Theolifus Taher (2024-06-08, 3 place, rating: 2815)",
   "Jakhongir Vakhidov (2024-10-12, 2 place, rating: 2768)",
-  "David Paravyan (2020-12-05, 2 place, rating: 2742)",
-  "Olexandr Bortnyk (2022-05-14, 1 place, rating: 2855)",
-  "David Paravyan (2021-12-04, 1 place, rating: 2853)"
+  "David Paravyan (2020-12-05, 2 place, rating: 2742)"
  ],
  "datasets": [
   {
@@ -70,6 +70,8 @@
     137,
     137,
     137,
+    135,
+    134,
     134,
     134,
     133,
@@ -82,9 +84,7 @@
     131,
     131,
     131,
-    131,
-    130,
-    130
+    131
    ],
    "backgroundColor": [
     "rgba(182,  12,  47, 1.0)",
@@ -112,8 +112,10 @@
     "rgba( 10,  49,  97, 1.0)",
     "rgba(130, 117, 121, 1.0)",
     "rgba( 10,  49,  97, 1.0)",
+    "rgba( 95,  37,  82, 1.0)",
     "rgba(255, 215,   0, 1.0)",
     "rgba( 10,  49,  97, 1.0)",
+    "rgba(192, 192, 192, 1.0)",
     "rgba(255, 103,  31, 1.0)",
     "rgba(105,  95,  52, 1.0)",
     "rgba(255, 215,   0, 1.0)",
@@ -124,8 +126,6 @@
     "rgba(192, 192, 192, 1.0)",
     "rgba(246, 142, 146, 1.0)",
     "rgba(192, 192, 192, 1.0)",
-    "rgba(242, 168,   0, 1.0)",
-    "rgba(255, 215,   0, 1.0)",
     "rgba(242, 168,   0, 1.0)"
    ],
    "borderColor": "rgb(0, 0, 0)",
@@ -160,8 +160,10 @@
     2904,
     2842,
     2837,
+    2853,
     2970,
     2940,
+    2826,
     3017,
     2921,
     2913,
@@ -172,9 +174,7 @@
     2869,
     2863,
     2846,
-    2758,
-    2889,
-    2885
+    2758
    ],
    "backgroundColor": [
     "rgba(182,  12,  47, 0.4)",
@@ -202,8 +202,10 @@
     "rgba( 10,  49,  97, 0.4)",
     "rgba(130, 117, 121, 0.4)",
     "rgba( 10,  49,  97, 0.4)",
+    "rgba( 95,  37,  82, 0.4)",
     "rgba(255, 215,   0, 0.4)",
     "rgba( 10,  49,  97, 0.4)",
+    "rgba(192, 192, 192, 0.4)",
     "rgba(255, 103,  31, 0.4)",
     "rgba(105,  95,  52, 0.4)",
     "rgba(255, 215,   0, 0.4)",
@@ -214,8 +216,6 @@
     "rgba(192, 192, 192, 0.4)",
     "rgba(246, 142, 146, 0.4)",
     "rgba(192, 192, 192, 0.4)",
-    "rgba(242, 168,   0, 0.4)",
-    "rgba(255, 215,   0, 0.4)",
     "rgba(242, 168,   0, 0.4)"
    ],
    "borderColor": "rgb(0, 0, 0)",

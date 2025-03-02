@@ -1,0 +1,207 @@
+{
+ "nbPlayers": 407,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 1,
+   "rating": 2839,
+   "score": 135,
+   "nb": {
+    "game": 58,
+    "berserk": 44,
+    "win": 35
+   },
+   "performance": 2853
+  },
+  {
+   "name": "iamstraw",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2801,
+   "score": 134,
+   "nb": {
+    "game": 58,
+    "berserk": 48,
+    "win": 35
+   },
+   "performance": 2826
+  },
+  {
+   "name": "legendreturns",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2839,
+   "score": 130,
+   "nb": {
+    "game": 52,
+    "berserk": 29,
+    "win": 34
+   },
+   "performance": 2919
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 289684,
+  "averageRating": 2435,
+  "berserks": 2212,
+  "blackWins": 1544,
+  "games": 3412,
+  "draws": 293,
+  "whiteWins": 1575
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 1,
+    "rating": 2839,
+    "score": 135,
+    "sheet": {
+     "scores": "2545555230233030053304545230300030205330303001003004455331"
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2801,
+    "score": 134,
+    "sheet": {
+     "scores": "2000033030305553300555533030330310301305445322555330030301"
+    }
+   },
+   {
+    "name": "legendreturns",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2839,
+    "score": 130,
+    "sheet": {
+     "scores": "1132532054230012523044444444331202103303213100555533"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2891,
+    "score": 113,
+    "sheet": {
+     "scores": "055554433012102453210422255542302304533103"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2821,
+    "score": 106,
+    "sheet": {
+     "scores": "124231001010545553300030304452301310302312253313013"
+    }
+   },
+   {
+    "name": "samtakoj",
+    "title": "FM",
+    "flair": "smileys.face-blowing-a-kiss-blob",
+    "rank": 6,
+    "rating": 2674,
+    "score": 97,
+    "sheet": {
+     "scores": "032554545455330000422044422005331313001"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2689,
+    "score": 96,
+    "sheet": {
+     "scores": "5330300031100111005330130300030300031300025553303303300103310",
+     "fire": true
+    }
+   },
+   {
+    "name": "evilhamburger",
+    "title": "CM",
+    "flair": "food-drink.burrito",
+    "rank": 8,
+    "rating": 2642,
+    "score": 96,
+    "sheet": {
+     "scores": "033030301030002330055332330000300000330030055533033030303000"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2742,
+    "score": 93,
+    "sheet": {
+     "scores": "033010102332523003000222444330545230003030010033033"
+    }
+   },
+   {
+    "name": "WhiteRabbit00735",
+    "title": "IM",
+    "rank": 10,
+    "rating": 2682,
+    "score": 92,
+    "sheet": {
+     "scores": "10030300125331103100300010000313005331055330003000330300533030"
+    }
+   }
+  ]
+ },
+ "id": "mar25bta",
+ "createdBy": "cormacobear",
+ "startsAt": "2025-03-01T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena March '25",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "superBlitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/mar25bua)",
+ "onlyTitled": true
+}
