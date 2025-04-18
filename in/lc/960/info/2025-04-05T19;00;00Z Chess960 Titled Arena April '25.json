@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 255,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2552,
+   "score": 98,
+   "nb": {
+    "game": 42,
+    "berserk": 24,
+    "win": 27
+   },
+   "performance": 2589
+  },
+  {
+   "name": "rasulovvugar",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2502,
+   "score": 93,
+   "nb": {
+    "game": 41,
+    "berserk": 17,
+    "win": 25
+   },
+   "performance": 2577
+  },
+  {
+   "name": "Chessfis",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2537,
+   "score": 86,
+   "nb": {
+    "game": 40,
+    "berserk": 14,
+    "win": 26
+   },
+   "performance": 2608
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 133629,
+  "averageRating": 2143,
+  "berserks": 1313,
+  "blackWins": 795,
+  "games": 1774,
+  "draws": 128,
+  "whiteWins": 851
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2552,
+    "score": 98,
+    "sheet": {
+     "scores": "433024445433005433002442303013030303322303",
+     "fire": true
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2502,
+    "score": 93,
+    "sheet": {
+     "scores": "12000100302330303224444444443303044552300"
+    }
+   },
+   {
+    "name": "Chessfis",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2537,
+    "score": 86,
+    "sheet": {
+     "scores": "0032220204422000244442304330032220444522"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2607,
+    "score": 85,
+    "sheet": {
+     "scores": "320444220444442202242324444331002",
+     "fire": true
+    }
+   },
+   {
+    "name": "yyoochess",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2534,
+    "score": 85,
+    "sheet": {
+     "scores": "0305320020444330100220442211204330444522"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 6,
+    "rating": 2452,
+    "score": 84,
+    "sheet": {
+     "scores": "130300324433021030004432104433130330001304330"
+    }
+   },
+   {
+    "name": "caching",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2402,
+    "score": 84,
+    "sheet": {
+     "scores": "005533030030030443300044533033000110003225330"
+    }
+   },
+   {
+    "name": "rob188",
+    "title": "IM",
+    "rank": 8,
+    "rating": 2379,
+    "score": 82,
+    "sheet": {
+     "scores": "0002244444330031323310030301043303010055230"
+    }
+   },
+   {
+    "name": "Zaven_ChessMood",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2483,
+    "score": 78,
+    "sheet": {
+     "scores": "313003004433233022021202202244220220224221"
+    }
+   },
+   {
+    "name": "StrongKhaganaK1ller",
+    "title": "FM",
+    "flair": "smileys.face-holding-back-tears",
+    "rank": 10,
+    "rating": 2363,
+    "score": 76,
+    "sheet": {
+     "scores": "3003053300104533000003013000303053301103003053300"
+    }
+   }
+  ]
+ },
+ "id": "960apr25",
+ "createdBy": "cormacobear",
+ "startsAt": "2025-04-05T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena April '25",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/96wapr25)\r\n\r\nJoin the [official Lichess Chess960 team](https://lichess.org/team/lichess-chess960) for news and events",
+ "onlyTitled": true
+}

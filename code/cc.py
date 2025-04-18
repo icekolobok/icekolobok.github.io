@@ -27,7 +27,10 @@ def get_tournament_links(tournament, path):
 
 
 def metadata(soup):
-    name = soup.find('h1', class_='v5-title-label').get_text().strip()
+    try:
+        name = soup.find('h1', class_='v5-title-label').get_text().strip()
+    except:
+        name = soup.find('h1', class_='cc-page-header-title cc-heading-small').get_text().strip()
     span_elements = soup.find('div', class_='tournaments-live-view-content-stats').find_all('span')
     number_of_players = int(span_elements[1].get_text(strip=True).split()[0])
     date_and_time = span_elements[2].get_text(strip=True)
