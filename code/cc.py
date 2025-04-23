@@ -109,6 +109,8 @@ def download_json(tournament, folder, token, url):
         games = []
         soup = BeautifulSoup(requests.get(url).content, 'html.parser')
         number_rounds_div = soup.find('div', class_='v5-section')
+        if number_rounds_div is None:
+            number_rounds_div = soup.find('div', class_='cc-section')
         number_rounds = int(number_rounds_div.get('data-rounds')) if number_rounds_div else 0
         for i in range(number_rounds):
             rnd = i + 1
