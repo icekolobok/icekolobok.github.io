@@ -1,12 +1,12 @@
 .chart-container3 {
     width: 100%; /* Set your desired width */
-    height: 500px; /* Set your desired height */
+    height: 600px; /* Set your desired height */
     overflow-y: auto; /* Enable vertical scrolling */
 }
 
 .chart-container5 {
     width: 100%; /* Set your desired width */
-    height: 850px; /* Set your desired height */
+    height: 900px; /* Set your desired height */
     overflow-y: auto; /* Enable vertical scrolling */
 }
 
