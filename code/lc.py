@@ -39,7 +39,7 @@ def download_data(arena_type, folder, token):
     params = {'page': 1}
     for url in tournament_urls:
         response = get(url, params, 'json', token)
-        if response.status_code == 200:
+        if response.status_code == 200 and response.content != b'null':
             info = response.json()
             name = info['startsAt'].replace(':', ';') + ' ' + info['fullName']
             if 'isFinished' in info and info['isFinished']:
