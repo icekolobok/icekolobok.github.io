@@ -1,0 +1,209 @@
+{
+ "nbPlayers": 443,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 1,
+   "rating": 2830,
+   "score": 124,
+   "nb": {
+    "game": 55,
+    "berserk": 41,
+    "win": 34
+   },
+   "performance": 2873
+  },
+  {
+   "name": "iamstraw",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 2835,
+   "score": 121,
+   "nb": {
+    "game": 65,
+    "berserk": 55,
+    "win": 34
+   },
+   "performance": 2789
+  },
+  {
+   "name": "Arash-Tahbaz",
+   "title": "IM",
+   "rank": 3,
+   "rating": 2806,
+   "score": 118,
+   "nb": {
+    "game": 60,
+    "berserk": 36,
+    "win": 35
+   },
+   "performance": 2834
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 348425,
+  "averageRating": 2448,
+  "berserks": 3582,
+  "blackWins": 1769,
+  "games": 4044,
+  "draws": 284,
+  "whiteWins": 1991
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 1,
+    "rating": 2830,
+    "score": 124,
+    "sheet": {
+     "scores": "2554230000452203303030523003024330543303000305533055330"
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 2835,
+    "score": 121,
+    "sheet": {
+     "scores": "04442305330533031302331300053300000030031053303000053303030533030"
+    }
+   },
+   {
+    "name": "Arash-Tahbaz",
+    "title": "IM",
+    "rank": 3,
+    "rating": 2806,
+    "score": 118,
+    "sheet": {
+     "scores": "533042300452300033030004432244230303030053305330330100303012",
+     "fire": true
+    }
+   },
+   {
+    "name": "Dr_Martic",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2759,
+    "score": 116,
+    "sheet": {
+     "scores": "00055555330330000304330300313010053305330331305330033033"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 5,
+    "rating": 2860,
+    "score": 114,
+    "sheet": {
+     "scores": "253203302223100523032230303303003042212032244433045330"
+    }
+   },
+   {
+    "name": "StrongKhaganaK1ller",
+    "title": "FM",
+    "flair": "smileys.loudly-crying-face",
+    "rank": 6,
+    "rating": 2671,
+    "score": 111,
+    "sheet": {
+     "scores": "30033003010005330533245553301100030331300300055330100000300533"
+    }
+   },
+   {
+    "name": "Konevlad",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3056,
+    "score": 110,
+    "sheet": {
+     "scores": "444422044220444444422004442224444422121",
+     "fire": true
+    }
+   },
+   {
+    "name": "handofprince",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2765,
+    "score": 109,
+    "sheet": {
+     "scores": "302330300433032330010305230130303030310253305330300005533"
+    }
+   },
+   {
+    "name": "ShcheglovGleb10",
+    "title": "FM",
+    "flair": "smileys.smiling-face-with-halo",
+    "rank": 9,
+    "rating": 2677,
+    "score": 109,
+    "sheet": {
+     "scores": "13000010033255330303305330000310031301300303110003100330305330331033"
+    }
+   },
+   {
+    "name": "coluichenontiaspetti",
+    "title": "GM",
+    "flair": "smileys.clown-face",
+    "rank": 10,
+    "rating": 2728,
+    "score": 107,
+    "sheet": {
+     "scores": "0553310302303301030000045533053303000553310300003033003033"
+    }
+   }
+  ]
+ },
+ "id": "may25bta",
+ "createdBy": "cormacobear",
+ "startsAt": "2025-05-10T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena May '25",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "superBlitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/may25bua)",
+ "onlyTitled": true
+}
