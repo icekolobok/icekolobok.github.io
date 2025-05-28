@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 390,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "junglebook1",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3267,
+   "score": 160,
+   "nb": {
+    "game": 63,
+    "berserk": 2,
+    "win": 49
+   },
+   "performance": 3390
+  },
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3220,
+   "score": 150,
+   "nb": {
+    "game": 79,
+    "berserk": 27,
+    "win": 45
+   },
+   "performance": 3165
+  },
+  {
+   "name": "KonstantinKornienko",
+   "title": "CM",
+   "flair": "smileys.cold-face",
+   "rank": 3,
+   "rating": 3150,
+   "score": 145,
+   "nb": {
+    "game": 83,
+    "berserk": 33,
+    "win": 45
+   },
+   "performance": 3163
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 452517,
+  "averageRating": 2666,
+  "berserks": 1148,
+  "blackWins": 2483,
+  "games": 5422,
+  "draws": 335,
+  "whiteWins": 2604
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3267,
+    "score": 160,
+    "sheet": {
+     "scores": "000204444444442224220422020422022120422244220422044444444444432"
+    }
+   },
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3220,
+    "score": 150,
+    "sheet": {
+     "scores": "3002101013044444442222200004444422000442202000310444220330453300001022053303030"
+    }
+   },
+   {
+    "name": "KonstantinKornienko",
+    "title": "CM",
+    "flair": "smileys.cold-face",
+    "rank": 3,
+    "rating": 3150,
+    "score": 145,
+    "sheet": {
+     "scores": "23000203000300452300444423022021211300210330032102200004432000304553300232030044433",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 3174,
+    "score": 134,
+    "sheet": {
+     "scores": "554422044523100020020220100002224220224444444220000002000224452304231",
+     "fire": true
+    }
+   },
+   {
+    "name": "DrNykterstein",
+    "title": "GM",
+    "flair": "people.santa-claus-light-skin-tone",
+    "patron": true,
+    "rank": 5,
+    "rating": 3226,
+    "score": 132,
+    "sheet": {
+     "scores": "04444422120444422022002021022220222204422002044444222444422"
+    }
+   },
+   {
+    "name": "chess-art-us",
+    "title": "IM",
+    "flair": "people.deaf-man-medium-light-skin-tone",
+    "rank": 6,
+    "rating": 3109,
+    "score": 122,
+    "sheet": {
+     "scores": "330432032254423000002003200000200002200000200444432000000205452304532020522",
+     "fire": true
+    }
+   },
+   {
+    "name": "dr_xStranger",
+    "title": "IM",
+    "flair": "smileys.face-with-raised-eyebrow",
+    "rank": 7,
+    "rating": 3096,
+    "score": 121,
+    "sheet": {
+     "scores": "04445220044442310120020100012000020220044220044230201044422044422030"
+    }
+   },
+   {
+    "name": "Katarina0TP",
+    "title": "GM",
+    "patron": true,
+    "rank": 8,
+    "rating": 3081,
+    "score": 115,
+    "sheet": {
+     "scores": "33000304422002100103002302000442202221000200444422000030303002244220200202422",
+     "fire": true
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 9,
+    "rating": 3184,
+    "score": 114,
+    "sheet": {
+     "scores": "000011012004442204444222222220220042212000422022022044444330220"
+    }
+   },
+   {
+    "name": "MetiForce",
+    "title": "GM",
+    "flair": "nature.fire",
+    "rank": 10,
+    "rating": 3085,
+    "score": 112,
+    "sheet": {
+     "scores": "303030220002002200222002010244444453300442300232553200300522"
+    }
+   }
+  ]
+ },
+ "id": "may25lta",
+ "createdBy": "cormacobear",
+ "startsAt": "2025-05-24T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena May '25",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/may25wua)",
+ "onlyTitled": true
+}
