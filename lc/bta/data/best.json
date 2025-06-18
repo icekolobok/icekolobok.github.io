@@ -9,6 +9,7 @@
   "Daniel Naroditsky (2024-02-10, 1 place, rating: 2910)",
   "Dmitry Andreikin (2024-06-08, 1 place, rating: 2906)",
   "Olexandr Bortnyk (2020-08-08, 1 place, rating: 2774)",
+  "Daniil Dubov (2025-06-07, 1 place, rating: 2871)",
   "Daniil Dubov (2023-01-07, 1 place, rating: 2883)",
   "Le Tuan Minh (2020-12-05, 1 place, rating: 2759)",
   "Jose Martinez Alcantara (2023-06-03, 1 place, rating: 2933)",
@@ -38,8 +39,7 @@
   "Andrew Tang (2021-08-07, 1 place, rating: 2828)",
   "Vincent Keymer (2024-11-09, 1 place, rating: 2877)",
   "Yoseph Theolifus Taher (2024-06-08, 3 place, rating: 2815)",
-  "Jakhongir Vakhidov (2024-10-12, 2 place, rating: 2768)",
-  "David Paravyan (2020-12-05, 2 place, rating: 2742)"
+  "Jakhongir Vakhidov (2024-10-12, 2 place, rating: 2768)"
  ],
  "datasets": [
   {
@@ -54,6 +54,7 @@
     150,
     150,
     146,
+    144,
     143,
     143,
     142,
@@ -83,7 +84,6 @@
     131,
     131,
     131,
-    131,
     131
    ],
    "backgroundColor": [
@@ -96,6 +96,7 @@
     "rgba( 10,  49,  97, 1.0)",
     "rgba(  0, 171, 194, 1.0)",
     "rgba(255, 215,   0, 1.0)",
+    "rgba(168,   0,  44, 1.0)",
     "rgba(168,   0,  44, 1.0)",
     "rgba(218,  37,  29, 1.0)",
     "rgba(  0, 104,  71, 1.0)",
@@ -125,8 +126,7 @@
     "rgba( 95,  37,  82, 1.0)",
     "rgba(192, 192, 192, 1.0)",
     "rgba(246, 142, 146, 1.0)",
-    "rgba(192, 192, 192, 1.0)",
-    "rgba(242, 168,   0, 1.0)"
+    "rgba(192, 192, 192, 1.0)"
    ],
    "borderColor": "rgb(0, 0, 0)",
    "borderWidth": 1,
@@ -144,6 +144,7 @@
     2960,
     2951,
     2843,
+    2941,
     2934,
     2834,
     3016,
@@ -173,8 +174,7 @@
     3002,
     2869,
     2863,
-    2846,
-    2758
+    2846
    ],
    "backgroundColor": [
     "rgba(182,  12,  47, 0.4)",
@@ -186,6 +186,7 @@
     "rgba( 10,  49,  97, 0.4)",
     "rgba(  0, 171, 194, 0.4)",
     "rgba(255, 215,   0, 0.4)",
+    "rgba(168,   0,  44, 0.4)",
     "rgba(168,   0,  44, 0.4)",
     "rgba(218,  37,  29, 0.4)",
     "rgba(  0, 104,  71, 0.4)",
@@ -215,8 +216,7 @@
     "rgba( 95,  37,  82, 0.4)",
     "rgba(192, 192, 192, 0.4)",
     "rgba(246, 142, 146, 0.4)",
-    "rgba(192, 192, 192, 0.4)",
-    "rgba(242, 168,   0, 0.4)"
+    "rgba(192, 192, 192, 0.4)"
    ],
    "borderColor": "rgb(0, 0, 0)",
    "borderWidth": 1,

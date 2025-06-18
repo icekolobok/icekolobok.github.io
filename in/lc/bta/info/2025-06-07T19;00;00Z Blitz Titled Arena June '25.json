@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 463,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "SVODMEVKO",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2871,
+   "score": 144,
+   "nb": {
+    "game": 52,
+    "berserk": 50,
+    "win": 36
+   },
+   "performance": 2941
+  },
+  {
+   "name": "FeegLood",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2900,
+   "score": 129,
+   "nb": {
+    "game": 54,
+    "berserk": 26,
+    "win": 36
+   },
+   "performance": 3011
+  },
+  {
+   "name": "yyoochess",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2868,
+   "score": 129,
+   "nb": {
+    "game": 58,
+    "berserk": 26,
+    "win": 35
+   },
+   "performance": 2896
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "moves": 356462,
+  "averageRating": 2461,
+  "berserks": 3618,
+  "blackWins": 1840,
+  "games": 4178,
+  "draws": 328,
+  "whiteWins": 2010
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "SVODMEVKO",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2871,
+    "score": 144,
+    "sheet": {
+     "scores": "3052303255553300255555533033131303031303055553303033"
+    }
+   },
+   {
+    "name": "FeegLood",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2900,
+    "score": 129,
+    "sheet": {
+     "scores": "233044432023300253200444222330222220223323305432125523"
+    }
+   },
+   {
+    "name": "yyoochess",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2868,
+    "score": 129,
+    "sheet": {
+     "scores": "5320024422244552313003000244452310030023054321020453301232",
+     "fire": true
+    }
+   },
+   {
+    "name": "Shant7777777",
+    "title": "GM",
+    "flair": "activity.soccer-ball",
+    "rank": 4,
+    "rating": 2849,
+    "score": 115,
+    "sheet": {
+     "scores": "103313000132444231130033043300253311033030300000302254533033"
+    }
+   },
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2906,
+    "score": 114,
+    "sheet": {
+     "scores": "013005330533030222331055555553305555533"
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "rank": 6,
+    "rating": 2739,
+    "score": 112,
+    "sheet": {
+     "scores": "103030301103012454533100305330030300300303010301300000533003025533"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2818,
+    "score": 111,
+    "sheet": {
+     "scores": "131112010433252301213023300003002303130454332554533030"
+    }
+   },
+   {
+    "name": "Chessisnotfair",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2719,
+    "score": 111,
+    "sheet": {
+     "scores": "110553300533000030011023030004444443300331023103030044331302"
+    }
+   },
+   {
+    "name": "Mitrabha",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2779,
+    "score": 110,
+    "sheet": {
+     "scores": "230003302202032000243325455554320300433003302053301300",
+     "fire": true
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 10,
+    "rating": 2821,
+    "score": 109,
+    "sheet": {
+     "scores": "0311004443300303021000244445330021300332230444533033"
+    }
+   }
+  ]
+ },
+ "id": "jun25bta",
+ "createdBy": "lichess",
+ "startsAt": "2025-06-07T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena June '25",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "superBlitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jun25bua)",
+ "onlyTitled": true
+}
