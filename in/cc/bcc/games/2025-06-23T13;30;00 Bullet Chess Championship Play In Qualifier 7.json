@@ -1,0 +1,5427 @@
+[
+ {
+  "w": "Parhamov",
+  "b": "Msb2",
+  "r": 0
+ },
+ {
+  "w": "Jospem",
+  "b": "HansOnTwitch",
+  "r": 0
+ },
+ {
+  "w": "hansen",
+  "b": "Zhigalko_Sergei",
+  "r": 0
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "Mykola-Bortnyk",
+  "r": 0
+ },
+ {
+  "w": "frederiksvane",
+  "b": "rasmussvane",
+  "r": 2
+ },
+ {
+  "w": "Indianlad",
+  "b": "Kacparov",
+  "r": 0
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "mitrabhaa",
+  "r": 2
+ },
+ {
+  "w": "Byniolus",
+  "b": "Elsa167",
+  "r": 1
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "Sanan_Sjugirov",
+  "r": 0
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "blitzking1729",
+  "b": "AaravDenglaOfficial",
+  "r": 0
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "juancruzarias",
+  "r": 0
+ },
+ {
+  "w": "MaurinM",
+  "b": "Schachkatze2000",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "manitodeplomo",
+  "r": 0
+ },
+ {
+  "w": "chess13524678",
+  "b": "Lion-Al-Messi",
+  "r": 0
+ },
+ {
+  "w": "chesselephant",
+  "b": "Laurin_2009",
+  "r": 0
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "Payyappat",
+  "r": 0
+ },
+ {
+  "w": "drdaro",
+  "b": "whitemirrorninja",
+  "r": 0
+ },
+ {
+  "w": "StarlightFade",
+  "b": "Kingsman132",
+  "r": 0
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "katharinareinecke",
+  "b": "OleksandrProkhorov",
+  "r": 0
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "ninjatrick",
+  "r": 1
+ },
+ {
+  "w": "frankshar",
+  "b": "Gianmarco_es",
+  "r": 1
+ },
+ {
+  "w": "MITerryble",
+  "b": "CM_rui",
+  "r": 1
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "BardArtem",
+  "r": 1
+ },
+ {
+  "w": "jefferyx",
+  "b": "Alexander_Donchenko",
+  "r": 1
+ },
+ {
+  "w": "Kingsman132",
+  "b": "Mykola-Bortnyk",
+  "r": 0
+ },
+ {
+  "w": "StarlightFade",
+  "b": "Micki-taryan",
+  "r": 1
+ },
+ {
+  "w": "1800_strength",
+  "b": "ToivoK3",
+  "r": 0
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "BardArtem",
+  "r": 2
+ },
+ {
+  "w": "ninjatrick",
+  "b": "Alexander_Donchenko",
+  "r": 1
+ },
+ {
+  "w": "Jospem",
+  "b": "jefferyx",
+  "r": 1
+ },
+ {
+  "w": "HansOnTwitch",
+  "b": "bipe137",
+  "r": 1
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "Elsa167",
+  "r": 1
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "Byniolus",
+  "r": 0
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "Payyappat",
+  "r": 2
+ },
+ {
+  "w": "hansen",
+  "b": "hongnhung1234",
+  "r": 1
+ },
+ {
+  "w": "Gianmarco_es",
+  "b": "MITerryble",
+  "r": 0
+ },
+ {
+  "w": "chess13524678",
+  "b": "CM_rui",
+  "r": 0
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "frankshar",
+  "r": 0
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "HansOnTwitch",
+  "r": 0
+ },
+ {
+  "w": "MaurinM",
+  "b": "bipe137",
+  "r": 0
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "drdaro",
+  "r": 1
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "katharinareinecke",
+  "r": 1
+ },
+ {
+  "w": "Kingsman132",
+  "b": "Laurin_2009",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "chesselephant",
+  "r": 0
+ },
+ {
+  "w": "Msb2",
+  "b": "frederiksvane",
+  "r": 1
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "Parhamov",
+  "r": 1
+ },
+ {
+  "w": "juancruzarias",
+  "b": "Byniolus",
+  "r": 0
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "PiliposyanRobertChess",
+  "r": 0
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "Kacparov",
+  "r": 0
+ },
+ {
+  "w": "Indianlad",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "blitzking1729",
+  "r": 0
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "TrahtarBelarus",
+  "r": 1
+ },
+ {
+  "w": "AaravDenglaOfficial",
+  "b": "Adham_Fawzy",
+  "r": 1
+ },
+ {
+  "w": "CM_rui",
+  "b": "Alexander_Donchenko",
+  "r": 0
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "chess13524678",
+  "r": 1
+ },
+ {
+  "w": "ninjatrick",
+  "b": "1800_strength",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "JakubPulpan",
+  "r": 1
+ },
+ {
+  "w": "yosephtaher",
+  "b": "Elsa167",
+  "r": 0
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "A4RookA3",
+  "r": 1
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "StarlightFade",
+  "r": 0
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "katharinareinecke",
+  "b": "hansen",
+  "r": 0
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "Jospem",
+  "r": 0
+ },
+ {
+  "w": "jefferyx",
+  "b": "rasmussvane",
+  "r": 1
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "Kingsman132",
+  "r": 0
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "bipe137",
+  "r": 1
+ },
+ {
+  "w": "chess13524678",
+  "b": "MaurinM",
+  "r": 0
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "OhanyanEminChess",
+  "r": 0
+ },
+ {
+  "w": "BardArtem",
+  "b": "Parhamov",
+  "r": 1
+ },
+ {
+  "w": "Elsa167",
+  "b": "chesselephant",
+  "r": 1
+ },
+ {
+  "w": "HansOnTwitch",
+  "b": "yosephtaher",
+  "r": 1
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "Queensandpawns",
+  "r": 1
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "mitrabhaa",
+  "r": 1
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "MartinBezuch_YouTube",
+  "r": 1
+ },
+ {
+  "w": "Msb2",
+  "b": "jefferyx",
+  "r": 1
+ },
+ {
+  "w": "blitzking1729",
+  "b": "rasmussvane",
+  "r": 0
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "frederiksvane",
+  "r": 0
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "ToivoK3",
+  "r": 0
+ },
+ {
+  "w": "Payyappat",
+  "b": "JakubPulpan",
+  "r": 1
+ },
+ {
+  "w": "MaurinM",
+  "b": "Schachkatze2000",
+  "r": 0
+ },
+ {
+  "w": "drdaro",
+  "b": "chess13524678",
+  "r": 2
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "frankshar",
+  "b": "Kingsman132",
+  "r": 0
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "CM_rui",
+  "r": 1
+ },
+ {
+  "w": "Byniolus",
+  "b": "OhanyanEminChess",
+  "r": 0
+ },
+ {
+  "w": "MITerryble",
+  "b": "manitodeplomo",
+  "r": 1
+ },
+ {
+  "w": "juancruzarias",
+  "b": "ProfessorChess101",
+  "r": 0
+ },
+ {
+  "w": "Kacparov",
+  "b": "Gianmarco_es",
+  "r": 1
+ },
+ {
+  "w": "bipe137",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "Laurin_2009",
+  "r": 1
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "Jospem",
+  "r": 1
+ },
+ {
+  "w": "hansen",
+  "b": "hongnhung1234",
+  "r": 1
+ },
+ {
+  "w": "StarlightFade",
+  "b": "ninjatrick",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "GilbertElroy",
+  "b": "Lion-Al-Messi",
+  "r": 1
+ },
+ {
+  "w": "CM_rui",
+  "b": "TrahtarBelarus",
+  "r": 1
+ },
+ {
+  "w": "AaravDenglaOfficial",
+  "b": "MartinBezuch_YouTube",
+  "r": 1
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "katharinareinecke",
+  "r": 1
+ },
+ {
+  "w": "A4RookA3",
+  "b": "JakubPulpan",
+  "r": 1
+ },
+ {
+  "w": "Payyappat",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "BardArtem",
+  "b": "Indianlad",
+  "r": 0
+ },
+ {
+  "w": "Parhamov",
+  "b": "whitemirrorninja",
+  "r": 0
+ },
+ {
+  "w": "subham777",
+  "b": "juancruzarias",
+  "r": 1
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "BardArtem",
+  "r": 1
+ },
+ {
+  "w": "StarlightFade",
+  "b": "Indianlad",
+  "r": 0
+ },
+ {
+  "w": "ninjatrick",
+  "b": "Elsa167",
+  "r": 0
+ },
+ {
+  "w": "Kacparov",
+  "b": "MaurinM",
+  "r": 1
+ },
+ {
+  "w": "chesselephant",
+  "b": "Schachkatze2000",
+  "r": 0
+ },
+ {
+  "w": "HansOnTwitch",
+  "b": "Msb2",
+  "r": 2
+ },
+ {
+  "w": "yosephtaher",
+  "b": "jefferyx",
+  "r": 0
+ },
+ {
+  "w": "chess13524678",
+  "b": "hansen",
+  "r": 0
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "drdaro",
+  "r": 0
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "Gianmarco_es",
+  "r": 1
+ },
+ {
+  "w": "Jospem",
+  "b": "katharinareinecke",
+  "r": 1
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "CM_rui",
+  "r": 1
+ },
+ {
+  "w": "Kingsman132",
+  "b": "TrahtarBelarus",
+  "r": 0
+ },
+ {
+  "w": "frankshar",
+  "b": "Lion-Al-Messi",
+  "r": 1
+ },
+ {
+  "w": "frederiksvane",
+  "b": "GilbertElroy",
+  "r": 0
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "Sanan_Sjugirov",
+  "r": 1
+ },
+ {
+  "w": "1800_strength",
+  "b": "PiliposyanRobertChess",
+  "r": 0
+ },
+ {
+  "w": "arminmusovic",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "Indianlad",
+  "b": "bipe137",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "OhanyanEminChess",
+  "r": 1
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "blitzking1729",
+  "r": 0
+ },
+ {
+  "w": "Byniolus",
+  "b": "ProfessorChess101",
+  "r": 1
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "BardArtem",
+  "r": 1
+ },
+ {
+  "w": "A4RookA3",
+  "b": "Parhamov",
+  "r": 1
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "Mykola-Bortnyk",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "MITerryble",
+  "r": 1
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "Zhigalko_Sergei",
+  "r": 1
+ },
+ {
+  "w": "jefferyx",
+  "b": "chessvedant09",
+  "r": 1
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "Alexander_Donchenko",
+  "r": 0
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "AaravDenglaOfficial",
+  "r": 1
+ },
+ {
+  "w": "frankshar",
+  "b": "Payyappat",
+  "r": 0
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "subham777",
+  "r": 0
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "juancruzarias",
+  "r": 1
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "1800_strength",
+  "r": 0
+ },
+ {
+  "w": "GilbertElroy",
+  "b": "lucasmito",
+  "r": 0
+ },
+ {
+  "w": "bipe137",
+  "b": "frederiksvane",
+  "r": 0
+ },
+ {
+  "w": "Kingsman132",
+  "b": "Indianlad",
+  "r": 0
+ },
+ {
+  "w": "Elsa167",
+  "b": "TrahtarBelarus",
+  "r": 1
+ },
+ {
+  "w": "ninjatrick",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "MaurinM",
+  "r": 1
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "Kacparov",
+  "r": 0
+ },
+ {
+  "w": "CM_rui",
+  "b": "juancruzarias",
+  "r": 1
+ },
+ {
+  "w": "StarlightFade",
+  "b": "mitrabhaa",
+  "r": 0
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "Sanan_Sjugirov",
+  "r": 1
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "Adham_Fawzy",
+  "r": 0
+ },
+ {
+  "w": "Jospem",
+  "b": "jefferyx",
+  "r": 0
+ },
+ {
+  "w": "katharinareinecke",
+  "b": "chessvedant09",
+  "r": 0
+ },
+ {
+  "w": "subham777",
+  "b": "BardArtem",
+  "r": 0
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "blitzking1729",
+  "r": 1
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "Parhamov",
+  "b": "chess13524678",
+  "r": 1
+ },
+ {
+  "w": "hansen",
+  "b": "bipe137",
+  "r": 1
+ },
+ {
+  "w": "frederiksvane",
+  "b": "HansOnTwitch",
+  "r": 0
+ },
+ {
+  "w": "MaurinM",
+  "b": "Msb2",
+  "r": 2
+ },
+ {
+  "w": "Kingsman132",
+  "b": "Micki-taryan",
+  "r": 1
+ },
+ {
+  "w": "1800_strength",
+  "b": "A4RookA3",
+  "r": 1
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "Indianlad",
+  "r": 1
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "chesselephant",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "Mykola-Bortnyk",
+  "r": 1
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "whitemirrorninja",
+  "r": 1
+ },
+ {
+  "w": "yosephtaher",
+  "b": "hongnhung1234",
+  "r": 0
+ },
+ {
+  "w": "CM_rui",
+  "b": "drdaro",
+  "r": 2
+ },
+ {
+  "w": "juancruzarias",
+  "b": "Parhamov",
+  "r": 0
+ },
+ {
+  "w": "chess13524678",
+  "b": "AaravDenglaOfficial",
+  "r": 1
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "Byniolus",
+  "r": 1
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "frankshar",
+  "r": 1
+ },
+ {
+  "w": "blitzking1729",
+  "b": "Payyappat",
+  "r": 2
+ },
+ {
+  "w": "Gianmarco_es",
+  "b": "GilbertElroy",
+  "r": 1
+ },
+ {
+  "w": "bipe137",
+  "b": "lucasmito",
+  "r": 1
+ },
+ {
+  "w": "hansen",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "Elsa167",
+  "b": "ToivoK3",
+  "r": 0
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "MITerryble",
+  "r": 0
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "Zhigalko_Sergei",
+  "r": 0
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "manitodeplomo",
+  "r": 1
+ },
+ {
+  "w": "chessvedant09",
+  "b": "subham777",
+  "r": 0
+ },
+ {
+  "w": "BardArtem",
+  "b": "katharinareinecke",
+  "r": 1
+ },
+ {
+  "w": "StarlightFade",
+  "b": "JakubPulpan",
+  "r": 0
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "Queensandpawns",
+  "b": "hongnhung1234",
+  "r": 1
+ },
+ {
+  "w": "Indianlad",
+  "b": "Kacparov",
+  "r": 2
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "PiliposyanRobertChess",
+  "r": 0
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "arminmusovic",
+  "r": 0
+ },
+ {
+  "w": "AaravDenglaOfficial",
+  "b": "ninjatrick",
+  "r": 2
+ },
+ {
+  "w": "Msb2",
+  "b": "Lion-Al-Messi",
+  "r": 1
+ },
+ {
+  "w": "MaurinM",
+  "b": "chess13524678",
+  "r": 1
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "A4RookA3",
+  "r": 1
+ },
+ {
+  "w": "Jospem",
+  "b": "HansOnTwitch",
+  "r": 1
+ },
+ {
+  "w": "chesselephant",
+  "b": "frederiksvane",
+  "r": 0
+ },
+ {
+  "w": "jefferyx",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "Sanan_Sjugirov",
+  "r": 0
+ },
+ {
+  "w": "bipe137",
+  "b": "manitodeplomo",
+  "r": 1
+ },
+ {
+  "w": "lucasmito",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "Alexander_Donchenko",
+  "r": 2
+ },
+ {
+  "w": "frankshar",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "yosephtaher",
+  "b": "ProfessorChess101",
+  "r": 1
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "rasmussvane",
+  "r": 0
+ },
+ {
+  "w": "CM_rui",
+  "b": "hansen",
+  "r": 0
+ },
+ {
+  "w": "drdaro",
+  "b": "Romkachess",
+  "r": 0
+ },
+ {
+  "w": "MITerryble",
+  "b": "OhanyanEminChess",
+  "r": 2
+ },
+ {
+  "w": "1800_strength",
+  "b": "TrahtarBelarus",
+  "r": 1
+ },
+ {
+  "w": "Payyappat",
+  "b": "frankshar",
+  "r": 1
+ },
+ {
+  "w": "blitzking1729",
+  "b": "Msb2",
+  "r": 0
+ },
+ {
+  "w": "Parhamov",
+  "b": "Lion-Al-Messi",
+  "r": 1
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "juancruzarias",
+  "r": 0
+ },
+ {
+  "w": "BardArtem",
+  "b": "MartinBezuch_YouTube",
+  "r": 1
+ },
+ {
+  "w": "katharinareinecke",
+  "b": "Indianlad",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "Kacparov",
+  "r": 1
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "Elsa167",
+  "r": 0
+ },
+ {
+  "w": "GilbertElroy",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "Gianmarco_es",
+  "b": "Queensandpawns",
+  "r": 2
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "Laurin_2009",
+  "r": 1
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "Sanan_Sjugirov",
+  "r": 1
+ },
+ {
+  "w": "hansen",
+  "b": "mitrabhaa",
+  "r": 0
+ },
+ {
+  "w": "Byniolus",
+  "b": "CM_rui",
+  "r": 1
+ },
+ {
+  "w": "chessvedant09",
+  "b": "A4RookA3",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "Parhamov",
+  "r": 2
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "Kostukov_Alex",
+  "r": 0
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "PiliposyanRobertChess",
+  "r": 1
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "MaurinM",
+  "r": 0
+ },
+ {
+  "w": "chess13524678",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "ToivoK3",
+  "b": "bipe137",
+  "r": 1
+ },
+ {
+  "w": "Kacparov",
+  "b": "CM_rui",
+  "r": 0
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "Byniolus",
+  "r": 0
+ },
+ {
+  "w": "Indianlad",
+  "b": "Payyappat",
+  "r": 0
+ },
+ {
+  "w": "frankshar",
+  "b": "Jospem",
+  "r": 0
+ },
+ {
+  "w": "frederiksvane",
+  "b": "HansOnTwitch",
+  "r": 0
+ },
+ {
+  "w": "katharinareinecke",
+  "b": "chesselephant",
+  "r": 0
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "chess13524678",
+  "r": 1
+ },
+ {
+  "w": "jefferyx",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "AaravDenglaOfficial",
+  "r": 1
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "JakubPulpan",
+  "r": 0
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "Mykola-Bortnyk",
+  "r": 0
+ },
+ {
+  "w": "StarlightFade",
+  "b": "lucasmito",
+  "r": 0
+ },
+ {
+  "w": "bipe137",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "Schachkatze2000",
+  "r": 1
+ },
+ {
+  "w": "MaurinM",
+  "b": "Adham_Fawzy",
+  "r": 1
+ },
+ {
+  "w": "ToivoK3",
+  "b": "hansen",
+  "r": 0
+ },
+ {
+  "w": "juancruzarias",
+  "b": "mitrabhaa",
+  "r": 0
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "CM_rui",
+  "b": "drdaro",
+  "r": 1
+ },
+ {
+  "w": "Romkachess",
+  "b": "Queensandpawns",
+  "r": 1
+ },
+ {
+  "w": "Kacparov",
+  "b": "ProfessorChess101",
+  "r": 1
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "chessvedant09",
+  "r": 1
+ },
+ {
+  "w": "A4RookA3",
+  "b": "Zhigalko_Sergei",
+  "r": 0
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "Msb2",
+  "r": 0
+ },
+ {
+  "w": "Elsa167",
+  "b": "blitzking1729",
+  "r": 0
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "Indianlad",
+  "b": "rasmussvane",
+  "r": 0
+ },
+ {
+  "w": "Payyappat",
+  "b": "Parhamov",
+  "r": 0
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "BardArtem",
+  "r": 1
+ },
+ {
+  "w": "frederiksvane",
+  "b": "MITerryble",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "MartinBezuch_YouTube",
+  "r": 1
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "HansOnTwitch",
+  "r": 0
+ },
+ {
+  "w": "1800_strength",
+  "b": "Alexander_Donchenko",
+  "r": 1
+ },
+ {
+  "w": "GilbertElroy",
+  "b": "hongnhung1234",
+  "r": 1
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "PiliposyanRobertChess",
+  "r": 1
+ },
+ {
+  "w": "lucasmito",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "StarlightFade",
+  "b": "whitemirrorninja",
+  "r": 0
+ },
+ {
+  "w": "MITerryble",
+  "b": "Byniolus",
+  "r": 0
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "manitodeplomo",
+  "r": 1
+ },
+ {
+  "w": "Kingsman132",
+  "b": "Kacparov",
+  "r": 0
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "frederiksvane",
+  "r": 0
+ },
+ {
+  "w": "chesselephant",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "chess13524678",
+  "r": 0
+ },
+ {
+  "w": "katharinareinecke",
+  "b": "Elsa167",
+  "r": 0
+ },
+ {
+  "w": "blitzking1729",
+  "b": "Romkachess",
+  "r": 2
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "jefferyx",
+  "r": 0
+ },
+ {
+  "w": "Queensandpawns",
+  "b": "A4RookA3",
+  "r": 0
+ },
+ {
+  "w": "AaravDenglaOfficial",
+  "b": "Jospem",
+  "r": 2
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "TrahtarBelarus",
+  "r": 1
+ },
+ {
+  "w": "chessvedant09",
+  "b": "frankshar",
+  "r": 2
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "juancruzarias",
+  "r": 0
+ },
+ {
+  "w": "arminmusovic",
+  "b": "Alexander_Donchenko",
+  "r": 0
+ },
+ {
+  "w": "lucasmito",
+  "b": "MartinBezuch_YouTube",
+  "r": 1
+ },
+ {
+  "w": "yosephtaher",
+  "b": "MaurinM",
+  "r": 1
+ },
+ {
+  "w": "HansOnTwitch",
+  "b": "Adham_Fawzy",
+  "r": 1
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "Schachkatze2000",
+  "r": 1
+ },
+ {
+  "w": "Payyappat",
+  "b": "Laurin_2009",
+  "r": 1
+ },
+ {
+  "w": "Parhamov",
+  "b": "Gianmarco_es",
+  "r": 0
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "chesselephant",
+  "b": "ToivoK3",
+  "r": 0
+ },
+ {
+  "w": "Byniolus",
+  "b": "hansen",
+  "r": 0
+ },
+ {
+  "w": "GilbertElroy",
+  "b": "MITerryble",
+  "r": 0
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "whitemirrorninja",
+  "r": 1
+ },
+ {
+  "w": "StarlightFade",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "Queensandpawns",
+  "b": "CM_rui",
+  "r": 1
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "drdaro",
+  "r": 1
+ },
+ {
+  "w": "Msb2",
+  "b": "juancruzarias",
+  "r": 1
+ },
+ {
+  "w": "Kacparov",
+  "b": "mitrabhaa",
+  "r": 0
+ },
+ {
+  "w": "1800_strength",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "MaurinM",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "arminmusovic",
+  "b": "Laurin_2009",
+  "r": 1
+ },
+ {
+  "w": "Elsa167",
+  "b": "Payyappat",
+  "r": 1
+ },
+ {
+  "w": "tvjosue",
+  "b": "katharinareinecke",
+  "r": 1
+ },
+ {
+  "w": "chess13524678",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "A4RookA3",
+  "b": "rasmussvane",
+  "r": 2
+ },
+ {
+  "w": "Indianlad",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "arminmusovic",
+  "r": 0
+ },
+ {
+  "w": "CM_rui",
+  "b": "OhanyanEminChess",
+  "r": 0
+ },
+ {
+  "w": "BardArtem",
+  "b": "ProfessorChess101",
+  "r": 0
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "Lion-Al-Messi",
+  "r": 0
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "Queensandpawns",
+  "r": 1
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "PiliposyanRobertChess",
+  "r": 1
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "Kacparov",
+  "b": "chess13524678",
+  "r": 1
+ },
+ {
+  "w": "frederiksvane",
+  "b": "blitzking1729",
+  "r": 1
+ },
+ {
+  "w": "Romkachess",
+  "b": "JakubPulpan",
+  "r": 1
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "Laurin_2009",
+  "r": 2
+ },
+ {
+  "w": "Jospem",
+  "b": "jefferyx",
+  "r": 1
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "Mykola-Bortnyk",
+  "r": 0
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "AaravDenglaOfficial",
+  "r": 0
+ },
+ {
+  "w": "subham777",
+  "b": "hongnhung1234",
+  "r": 2
+ },
+ {
+  "w": "hansen",
+  "b": "MaurinM",
+  "r": 1
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "Byniolus",
+  "r": 0
+ },
+ {
+  "w": "juancruzarias",
+  "b": "chesselephant",
+  "r": 1
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "ToivoK3",
+  "r": 0
+ },
+ {
+  "w": "StarlightFade",
+  "b": "OleksandrProkhorov",
+  "r": 0
+ },
+ {
+  "w": "Msb2",
+  "b": "Parhamov",
+  "r": 1
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "Gianmarco_es",
+  "r": 1
+ },
+ {
+  "w": "frankshar",
+  "b": "MITerryble",
+  "r": 0
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "GilbertElroy",
+  "r": 1
+ },
+ {
+  "w": "lucasmito",
+  "b": "chessvedant09",
+  "r": 1
+ },
+ {
+  "w": "drdaro",
+  "b": "HansOnTwitch",
+  "r": 0
+ },
+ {
+  "w": "AaravDenglaOfficial",
+  "b": "Indianlad",
+  "r": 0
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "Schachkatze2000",
+  "r": 0
+ },
+ {
+  "w": "Byniolus",
+  "b": "JakubPulpan",
+  "r": 1
+ },
+ {
+  "w": "Romkachess",
+  "b": "whitemirrorninja",
+  "r": 0
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "ToivoK3",
+  "b": "Byniolus",
+  "r": 1
+ },
+ {
+  "w": "yosephtaher",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "Sanan_Sjugirov",
+  "r": 0
+ },
+ {
+  "w": "Kingsman132",
+  "b": "GilbertElroy",
+  "r": 1
+ },
+ {
+  "w": "1800_strength",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "Defenstrator",
+  "b": "scrambleyourbrain",
+  "r": 0
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "subham777",
+  "r": 0
+ },
+ {
+  "w": "Msb2",
+  "b": "Elsa167",
+  "r": 0
+ },
+ {
+  "w": "Parhamov",
+  "b": "Payyappat",
+  "r": 1
+ },
+ {
+  "w": "chess13524678",
+  "b": "MaurinM",
+  "r": 0
+ },
+ {
+  "w": "hansen",
+  "b": "Kacparov",
+  "r": 1
+ },
+ {
+  "w": "drdaro",
+  "b": "katharinareinecke",
+  "r": 1
+ },
+ {
+  "w": "HansOnTwitch",
+  "b": "Indianlad",
+  "r": 1
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "AaravDenglaOfficial",
+  "r": 1
+ },
+ {
+  "w": "A4RookA3",
+  "b": "Queensandpawns",
+  "r": 0
+ },
+ {
+  "w": "rasmussvane",
+  "b": "JakubPulpan",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "juancruzarias",
+  "r": 0
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "chesselephant",
+  "r": 1
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "OhanyanEminChess",
+  "r": 1
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "CM_rui",
+  "r": 0
+ },
+ {
+  "w": "blitzking1729",
+  "b": "frankshar",
+  "r": 0
+ },
+ {
+  "w": "MITerryble",
+  "b": "frederiksvane",
+  "r": 0
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "manitodeplomo",
+  "r": 1
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "Azeryahu",
+  "r": 0
+ },
+ {
+  "w": "StarlightFade",
+  "b": "BardArtem",
+  "r": 1
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "hongnhung1234",
+  "r": 1
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "Jospem",
+  "r": 0
+ },
+ {
+  "w": "jefferyx",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "Parhamov",
+  "b": "subham777",
+  "r": 0
+ },
+ {
+  "w": "Payyappat",
+  "b": "Adham_Fawzy",
+  "r": 0
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "hansen",
+  "r": 1
+ },
+ {
+  "w": "chesselephant",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "Kacparov",
+  "r": 2
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "lucasmito",
+  "r": 1
+ },
+ {
+  "w": "chessvedant09",
+  "b": "Schachkatze2000",
+  "r": 0
+ },
+ {
+  "w": "hristos03",
+  "b": "MartinBezuch_YouTube",
+  "r": 0
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "ToivoK3",
+  "r": 0
+ },
+ {
+  "w": "Byniolus",
+  "b": "Romkachess",
+  "r": 2
+ },
+ {
+  "w": "Gianmarco_es",
+  "b": "GilbertElroy",
+  "r": 0
+ },
+ {
+  "w": "Kingsman132",
+  "b": "Alexander_Donchenko",
+  "r": 0
+ },
+ {
+  "w": "katharinareinecke",
+  "b": "Sanan_Sjugirov",
+  "r": 0
+ },
+ {
+  "w": "Payyappat",
+  "b": "Lion-Al-Messi",
+  "r": 0
+ },
+ {
+  "w": "CM_rui",
+  "b": "Defenstrator",
+  "r": 0
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "ToivoK3",
+  "r": 1
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "frederiksvane",
+  "r": 1
+ },
+ {
+  "w": "1800_strength",
+  "b": "whitemirrorninja",
+  "r": 1
+ },
+ {
+  "w": "MITerryble",
+  "b": "blitzking1729",
+  "r": 0
+ },
+ {
+  "w": "scrambleyourbrain",
+  "b": "Azeryahu",
+  "r": 0
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "chess13524678",
+  "r": 1
+ },
+ {
+  "w": "MaurinM",
+  "b": "frankshar",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "Msb2",
+  "r": 0
+ },
+ {
+  "w": "Elsa167",
+  "b": "Lion-Al-Messi",
+  "r": 1
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "A4RookA3",
+  "r": 1
+ },
+ {
+  "w": "Queensandpawns",
+  "b": "lucasmito",
+  "r": 0
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "PiliposyanRobertChess",
+  "r": 0
+ },
+ {
+  "w": "HansOnTwitch",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "Indianlad",
+  "b": "Zhigalko_Sergei",
+  "r": 0
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "Jospem",
+  "r": 0
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "AaravDenglaOfficial",
+  "r": 0
+ },
+ {
+  "w": "drdaro",
+  "b": "TrahtarBelarus",
+  "r": 0
+ },
+ {
+  "w": "chessvedant09",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "ProfessorChess101",
+  "r": 1
+ },
+ {
+  "w": "juancruzarias",
+  "b": "hongnhung1234",
+  "r": 1
+ },
+ {
+  "w": "BardArtem",
+  "b": "jefferyx",
+  "r": 0
+ },
+ {
+  "w": "yosephtaher",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "chesselephant",
+  "b": "hansen",
+  "r": 0
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "Parhamov",
+  "r": 0
+ },
+ {
+  "w": "subham777",
+  "b": "mitrabhaa",
+  "r": 1
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "SuperAwesomeSarthak",
+  "r": 0
+ },
+ {
+  "w": "Kacparov",
+  "b": "JakubPulpan",
+  "r": 0
+ },
+ {
+  "w": "A4RookA3",
+  "b": "hristos03",
+  "r": 1
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "Adham_Fawzy",
+  "r": 0
+ },
+ {
+  "w": "chess13524678",
+  "b": "frederiksvane",
+  "r": 2
+ },
+ {
+  "w": "CM_rui",
+  "b": "Laurin_2009",
+  "r": 1
+ },
+ {
+  "w": "Defenstrator",
+  "b": "lamomiajunior",
+  "r": 0
+ },
+ {
+  "w": "GilbertElroy",
+  "b": "Sanan_Sjugirov",
+  "r": 0
+ },
+ {
+  "w": "Gianmarco_es",
+  "b": "Romkachess",
+  "r": 1
+ },
+ {
+  "w": "Byniolus",
+  "b": "Alexander_Donchenko",
+  "r": 0
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "Kacparov",
+  "b": "Elsa167",
+  "r": 1
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "Lion-Al-Messi",
+  "r": 1
+ },
+ {
+  "w": "katharinareinecke",
+  "b": "drdaro",
+  "r": 0
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "PiliposyanRobertChess",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "chessvedant09",
+  "r": 1
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "arminmusovic",
+  "b": "MITerryble",
+  "r": 0
+ },
+ {
+  "w": "blitzking1729",
+  "b": "ProfessorChess101",
+  "r": 2
+ },
+ {
+  "w": "hansen",
+  "b": "yosephtaher",
+  "r": 1
+ },
+ {
+  "w": "lucasmito",
+  "b": "jefferyx",
+  "r": 0
+ },
+ {
+  "w": "StarlightFade",
+  "b": "chesselephant",
+  "r": 0
+ },
+ {
+  "w": "frankshar",
+  "b": "Queensandpawns",
+  "r": 0
+ },
+ {
+  "w": "AaravDenglaOfficial",
+  "b": "MaurinM",
+  "r": 0
+ },
+ {
+  "w": "Azeryahu",
+  "b": "manitodeplomo",
+  "r": 1
+ },
+ {
+  "w": "scrambleyourbrain",
+  "b": "TrahtarBelarus",
+  "r": 2
+ },
+ {
+  "w": "Jospem",
+  "b": "Msb2",
+  "r": 1
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "rasmussvane",
+  "r": 1
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "Indianlad",
+  "b": "subham777",
+  "r": 1
+ },
+ {
+  "w": "HansOnTwitch",
+  "b": "mitrabhaa",
+  "r": 0
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "A4RookA3",
+  "r": 1
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "hristos03",
+  "r": 0
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "SuperAwesomeSarthak",
+  "r": 1
+ },
+ {
+  "w": "Parhamov",
+  "b": "juancruzarias",
+  "r": 1
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "scarabee43",
+  "r": 0
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "Romkachess",
+  "r": 1
+ },
+ {
+  "w": "Gianmarco_es",
+  "b": "Byniolus",
+  "r": 0
+ },
+ {
+  "w": "Elsa167",
+  "b": "Zhigalko_Sergei",
+  "r": 1
+ },
+ {
+  "w": "frederiksvane",
+  "b": "Kacparov",
+  "r": 0
+ },
+ {
+  "w": "chess13524678",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "CM_rui",
+  "r": 1
+ },
+ {
+  "w": "frankshar",
+  "b": "GilbertElroy",
+  "r": 0
+ },
+ {
+  "w": "Queensandpawns",
+  "b": "Laurin_2009",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "chessvedant09",
+  "b": "A4RookA3",
+  "r": 0
+ },
+ {
+  "w": "MaurinM",
+  "b": "HansOnTwitch",
+  "r": 0
+ },
+ {
+  "w": "AaravDenglaOfficial",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "mitrabhaa",
+  "r": 0
+ },
+ {
+  "w": "drdaro",
+  "b": "shirovin",
+  "r": 1
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "OhanyanEminChess",
+  "r": 0
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "MITerryble",
+  "r": 0
+ },
+ {
+  "w": "1800_strength",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "lamomiajunior",
+  "b": "katharinareinecke",
+  "r": 1
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "hansen",
+  "r": 2
+ },
+ {
+  "w": "yosephtaher",
+  "b": "Mykola-Bortnyk",
+  "r": 0
+ },
+ {
+  "w": "Romkachess",
+  "b": "Defenstrator",
+  "r": 0
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "Alexander_Donchenko",
+  "r": 0
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "drdaro",
+  "r": 1
+ },
+ {
+  "w": "jefferyx",
+  "b": "PiliposyanRobertChess",
+  "r": 1
+ },
+ {
+  "w": "lucasmito",
+  "b": "StarlightFade",
+  "r": 0
+ },
+ {
+  "w": "Msb2",
+  "b": "ToivoK3",
+  "r": 2
+ },
+ {
+  "w": "chesselephant",
+  "b": "shirovin",
+  "r": 1
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "Jospem",
+  "r": 0
+ },
+ {
+  "w": "MaurinM",
+  "b": "TrahtarBelarus",
+  "r": 0
+ },
+ {
+  "w": "blitzking1729",
+  "b": "scrambleyourbrain",
+  "r": 1
+ },
+ {
+  "w": "Byniolus",
+  "b": "HansOnTwitch",
+  "r": 0
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "rasmussvane",
+  "r": 1
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "CM_rui",
+  "r": 0
+ },
+ {
+  "w": "SuperAwesomeSarthak",
+  "b": "Azeryahu",
+  "r": 0
+ },
+ {
+  "w": "scarabee43",
+  "b": "manitodeplomo",
+  "r": 1
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "Indianlad",
+  "r": 0
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "tvjosue",
+  "r": 1
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "Parhamov",
+  "r": 1
+ },
+ {
+  "w": "Elsa167",
+  "b": "PiliposyanRobertChess",
+  "r": 1
+ },
+ {
+  "w": "juancruzarias",
+  "b": "MartinBezuch_YouTube",
+  "r": 0
+ },
+ {
+  "w": "jefferyx",
+  "b": "1800_strength",
+  "r": 0
+ },
+ {
+  "w": "hristos03",
+  "b": "chess13524678",
+  "r": 0
+ },
+ {
+  "w": "Kingsman132",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "JakubPulpan",
+  "r": 1
+ },
+ {
+  "w": "CM_rui",
+  "b": "AaravDenglaOfficial",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "Schachkatze2000",
+  "r": 0
+ },
+ {
+  "w": "rasmussvane",
+  "b": "Indianlad",
+  "r": 2
+ },
+ {
+  "w": "lamomiajunior",
+  "b": "Gianmarco_es",
+  "r": 1
+ },
+ {
+  "w": "hansen",
+  "b": "Kacparov",
+  "r": 2
+ },
+ {
+  "w": "katharinareinecke",
+  "b": "frederiksvane",
+  "r": 0
+ },
+ {
+  "w": "A4RookA3",
+  "b": "hongnhung1234",
+  "r": 1
+ },
+ {
+  "w": "chessvedant09",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "GilbertElroy",
+  "b": "chesselephant",
+  "r": 0
+ },
+ {
+  "w": "Azeryahu",
+  "b": "whitemirrorninja",
+  "r": 1
+ },
+ {
+  "w": "frankshar",
+  "b": "drdaro",
+  "r": 1
+ },
+ {
+  "w": "SuperAwesomeSarthak",
+  "b": "shirovin",
+  "r": 1
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "tvjosue",
+  "r": 1
+ },
+ {
+  "w": "Indianlad",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "rasmussvane",
+  "b": "Mykola-Bortnyk",
+  "r": 0
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "lucasmito",
+  "r": 0
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "Msb2",
+  "r": 1
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "ToivoK3",
+  "r": 1
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "Elsa167",
+  "r": 1
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "MaurinM",
+  "r": 0
+ },
+ {
+  "w": "MITerryble",
+  "b": "TrahtarBelarus",
+  "r": 1
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "Lion-Al-Messi",
+  "r": 1
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "Jospem",
+  "r": 1
+ },
+ {
+  "w": "Romkachess",
+  "b": "ProfessorChess101",
+  "r": 1
+ },
+ {
+  "w": "Defenstrator",
+  "b": "Alexander_Donchenko",
+  "r": 0
+ },
+ {
+  "w": "Byniolus",
+  "b": "blitzking1729",
+  "r": 1
+ },
+ {
+  "w": "HansOnTwitch",
+  "b": "OhanyanEminChess",
+  "r": 1
+ },
+ {
+  "w": "Msb2",
+  "b": "hansen",
+  "r": 2
+ },
+ {
+  "w": "Kacparov",
+  "b": "jefferyx",
+  "r": 1
+ },
+ {
+  "w": "scrambleyourbrain",
+  "b": "1800_strength",
+  "r": 0
+ },
+ {
+  "w": "scarabee43",
+  "b": "juancruzarias",
+  "r": 2
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "katharinareinecke",
+  "r": 1
+ },
+ {
+  "w": "frederiksvane",
+  "b": "chess13524678",
+  "r": 1
+ },
+ {
+  "w": "hristos03",
+  "b": "frankshar",
+  "r": 1
+ },
+ {
+  "w": "drdaro",
+  "b": "Adham_Fawzy",
+  "r": 0
+ },
+ {
+  "w": "Elsa167",
+  "b": "CM_rui",
+  "r": 1
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "JakubPulpan",
+  "r": 0
+ },
+ {
+  "w": "AaravDenglaOfficial",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "lucasmito",
+  "b": "chessvedant09",
+  "r": 1
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "Sanan_Sjugirov",
+  "r": 1
+ },
+ {
+  "w": "Parhamov",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "Micki-taryan",
+  "r": 2
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "lamomiajunior",
+  "r": 0
+ },
+ {
+  "w": "Jospem",
+  "b": "PiliposyanRobertChess",
+  "r": 0
+ },
+ {
+  "w": "Azeryahu",
+  "b": "arminmusovic",
+  "r": 2
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "Byniolus",
+  "r": 2
+ },
+ {
+  "w": "AaravDenglaOfficial",
+  "b": "blitzking1729",
+  "r": 0
+ },
+ {
+  "w": "SuperAwesomeSarthak",
+  "b": "Defenstrator",
+  "r": 1
+ },
+ {
+  "w": "MITerryble",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "shirovin",
+  "b": "TrahtarBelarus",
+  "r": 0
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "hansen",
+  "r": 0
+ },
+ {
+  "w": "Msb2",
+  "b": "Adham_Fawzy",
+  "r": 2
+ },
+ {
+  "w": "drdaro",
+  "b": "scrambleyourbrain",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "frederiksvane",
+  "r": 1
+ },
+ {
+  "w": "chess13524678",
+  "b": "kingside_rook",
+  "r": 0
+ },
+ {
+  "w": "chesselephant",
+  "b": "A4RookA3",
+  "r": 1
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "GilbertElroy",
+  "r": 0
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "Indianlad",
+  "r": 2
+ },
+ {
+  "w": "yosephtaher",
+  "b": "Mykola-Bortnyk",
+  "r": 1
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "rasmussvane",
+  "r": 2
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "manitodeplomo",
+  "r": 1
+ },
+ {
+  "w": "frankshar",
+  "b": "Romkachess",
+  "r": 0
+ },
+ {
+  "w": "jefferyx",
+  "b": "hristos03",
+  "r": 1
+ },
+ {
+  "w": "Kacparov",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "chess13524678",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "Jospem",
+  "b": "kingside_rook",
+  "r": 1
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "Elsa167",
+  "r": 0
+ },
+ {
+  "w": "juancruzarias",
+  "b": "CM_rui",
+  "r": 1
+ },
+ {
+  "w": "chesselephant",
+  "b": "MartinBezuch_YouTube",
+  "r": 1
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "scarabee43",
+  "r": 1
+ },
+ {
+  "w": "Parhamov",
+  "b": "HansOnTwitch",
+  "r": 2
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "JakubPulpan",
+  "r": 0
+ },
+ {
+  "w": "Kingsman132",
+  "b": "katharinareinecke",
+  "r": 1
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "Schachkatze2000",
+  "r": 1
+ },
+ {
+  "w": "A4RookA3",
+  "b": "lucasmito",
+  "r": 0
+ },
+ {
+  "w": "shirovin",
+  "b": "chessvedant09",
+  "r": 0
+ },
+ {
+  "w": "Elsa167",
+  "b": "Zhigalko_Sergei",
+  "r": 2
+ },
+ {
+  "w": "chesselephant",
+  "b": "chess13524678",
+  "r": 1
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "MartinBezuch_YouTube",
+  "r": 0
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "Sanan_Sjugirov",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "Byniolus",
+  "r": 1
+ },
+ {
+  "w": "lamomiajunior",
+  "b": "SuperAwesomeSarthak",
+  "r": 1
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "mitrabhaa",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "whitemirrorninja",
+  "r": 0
+ },
+ {
+  "w": "Defenstrator",
+  "b": "aa175",
+  "r": 1
+ },
+ {
+  "w": "hansen",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "Kingsman132",
+  "b": "Azeryahu",
+  "r": 0
+ },
+ {
+  "w": "Jospem",
+  "b": "Elsa167",
+  "r": 0
+ },
+ {
+  "w": "katharinareinecke",
+  "b": "scrambleyourbrain",
+  "r": 0
+ },
+ {
+  "w": "blitzking1729",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "jefferyx",
+  "b": "Zhigalko_Sergei",
+  "r": 1
+ },
+ {
+  "w": "AaravDenglaOfficial",
+  "b": "whitemirrorninja",
+  "r": 0
+ },
+ {
+  "w": "kingside_rook",
+  "b": "hristos03",
+  "r": 1
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "Kacparov",
+  "r": 1
+ },
+ {
+  "w": "Indianlad",
+  "b": "MITerryble",
+  "r": 1
+ },
+ {
+  "w": "1800_strength",
+  "b": "Lion-Al-Messi",
+  "r": 1
+ },
+ {
+  "w": "yosephtaher",
+  "b": "Msb2",
+  "r": 0
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "ProfessorChess101",
+  "r": 1
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "frankshar",
+  "r": 1
+ },
+ {
+  "w": "chess13524678",
+  "b": "Romkachess",
+  "r": 1
+ },
+ {
+  "w": "ToivoK3",
+  "b": "chesselephant",
+  "r": 1
+ },
+ {
+  "w": "frederiksvane",
+  "b": "Laurin_2009",
+  "r": 1
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "Adham_Fawzy",
+  "r": 0
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "Zhigalko_Sergei",
+  "r": 2
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "jefferyx",
+  "r": 0
+ },
+ {
+  "w": "CM_rui",
+  "b": "Schachkatze2000",
+  "r": 0
+ },
+ {
+  "w": "juancruzarias",
+  "b": "chessvedant09",
+  "r": 1
+ },
+ {
+  "w": "carokannlover213",
+  "b": "shirovin",
+  "r": 1
+ },
+ {
+  "w": "Parhamov",
+  "b": "PiliposyanRobertChess",
+  "r": 1
+ },
+ {
+  "w": "HansOnTwitch",
+  "b": "Sanan_Sjugirov",
+  "r": 0
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "Kacparov",
+  "r": 0
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "Elsa167",
+  "r": 1
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "Jospem",
+  "r": 0
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "whitemirrorninja",
+  "r": 1
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "hansen",
+  "r": 0
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "Indianlad",
+  "r": 1
+ },
+ {
+  "w": "MITerryble",
+  "b": "Parhamov",
+  "r": 2
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "Defenstrator",
+  "r": 1
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "scarabee43",
+  "b": "A4RookA3",
+  "r": 1
+ },
+ {
+  "w": "lucasmito",
+  "b": "Byniolus",
+  "r": 0
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "rasmussvane",
+  "r": 2
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "frederiksvane",
+  "r": 1
+ },
+ {
+  "w": "juancruzarias",
+  "b": "blitzking1729",
+  "r": 0
+ },
+ {
+  "w": "chesselephant",
+  "b": "arminmusovic",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "mitrabhaa",
+  "r": 2
+ },
+ {
+  "w": "chessvedant09",
+  "b": "scrambleyourbrain",
+  "r": 1
+ },
+ {
+  "w": "hristos03",
+  "b": "katharinareinecke",
+  "r": 1
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "kingside_rook",
+  "r": 0
+ },
+ {
+  "w": "1800_strength",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "SuperAwesomeSarthak",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "Azeryahu",
+  "b": "lamomiajunior",
+  "r": 1
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "aa175",
+  "r": 0
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "manitodeplomo",
+  "r": 0
+ },
+ {
+  "w": "jefferyx",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "Msb2",
+  "r": 0
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "chess13524678",
+  "r": 0
+ },
+ {
+  "w": "Romkachess",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "Elsa167",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "chesselephant",
+  "r": 1
+ },
+ {
+  "w": "chessvedant09",
+  "b": "frankshar",
+  "r": 2
+ },
+ {
+  "w": "scrambleyourbrain",
+  "b": "hongnhung1234",
+  "r": 2
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "drdaro",
+  "r": 1
+ },
+ {
+  "w": "Indianlad",
+  "b": "Elsa167",
+  "r": 0
+ },
+ {
+  "w": "Byniolus",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "Gianmarco_es",
+  "b": "carokannlover213",
+  "r": 2
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "Kingsman132",
+  "r": 0
+ },
+ {
+  "w": "CM_rui",
+  "b": "1800_strength",
+  "r": 0
+ },
+ {
+  "w": "HansOnTwitch",
+  "b": "Alexander_Donchenko",
+  "r": 1
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "Kacparov",
+  "r": 1
+ },
+ {
+  "w": "shirovin",
+  "b": "blitzking1729",
+  "r": 0
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "juancruzarias",
+  "r": 0
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "OhanyanEminChess",
+  "r": 0
+ },
+ {
+  "w": "hansen",
+  "b": "jefferyx",
+  "r": 1
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "hristos03",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "Jospem",
+  "r": 0
+ },
+ {
+  "w": "katharinareinecke",
+  "b": "Laurin_2009",
+  "r": 0
+ },
+ {
+  "w": "HansOnTwitch",
+  "b": "ToivoK3",
+  "r": 1
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "Alexander_Donchenko",
+  "r": 1
+ },
+ {
+  "w": "A4RookA3",
+  "b": "Lion-Al-Messi",
+  "r": 0
+ },
+ {
+  "w": "Defenstrator",
+  "b": "scarabee43",
+  "r": 1
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "PiliposyanRobertChess",
+  "r": 2
+ },
+ {
+  "w": "StarlightFade",
+  "b": "drdaro",
+  "r": 0
+ },
+ {
+  "w": "blitzking1729",
+  "b": "frederiksvane",
+  "r": 0
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "hongnhung1234",
+  "r": 0
+ },
+ {
+  "w": "kingside_rook",
+  "b": "scrambleyourbrain",
+  "r": 1
+ },
+ {
+  "w": "Elsa167",
+  "b": "Adham_Fawzy",
+  "r": 0
+ },
+ {
+  "w": "chess13524678",
+  "b": "Indianlad",
+  "r": 1
+ },
+ {
+  "w": "shirovin",
+  "b": "Kostukov_Alex",
+  "r": 0
+ },
+ {
+  "w": "Jospem",
+  "b": "MITerryble",
+  "r": 1
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "Parhamov",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "Azeryahu",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "lamomiajunior",
+  "r": 0
+ },
+ {
+  "w": "Romkachess",
+  "b": "SuperAwesomeSarthak",
+  "r": 1
+ },
+ {
+  "w": "Msb2",
+  "b": "Mykola-Bortnyk",
+  "r": 1
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "ProfessorChess101",
+  "r": 1
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "manitodeplomo",
+  "r": 1
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "chesselephant",
+  "r": 1
+ },
+ {
+  "w": "StarlightFade",
+  "b": "whitemirrorninja",
+  "r": 1
+ },
+ {
+  "w": "drdaro",
+  "b": "frankshar",
+  "r": 2
+ },
+ {
+  "w": "Kacparov",
+  "b": "chessvedant09",
+  "r": 1
+ },
+ {
+  "w": "Byniolus",
+  "b": "TrahtarBelarus",
+  "r": 1
+ },
+ {
+  "w": "yosephtaher",
+  "b": "hansen",
+  "r": 1
+ },
+ {
+  "w": "jefferyx",
+  "b": "PiliposyanRobertChess",
+  "r": 1
+ },
+ {
+  "w": "blitzking1729",
+  "b": "1800_strength",
+  "r": 0
+ },
+ {
+  "w": "frederiksvane",
+  "b": "Indianlad",
+  "r": 0
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "CM_rui",
+  "r": 1
+ },
+ {
+  "w": "scrambleyourbrain",
+  "b": "aa175",
+  "r": 0
+ },
+ {
+  "w": "chess13524678",
+  "b": "lamomiajunior",
+  "r": 0
+ },
+ {
+  "w": "arminmusovic",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "Alexander_Donchenko",
+  "b": "JakubPulpan",
+  "r": 0
+ },
+ {
+  "w": "hristos03",
+  "b": "SuperAwesomeSarthak",
+  "r": 1
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "Romkachess",
+  "r": 1
+ },
+ {
+  "w": "Kingsman132",
+  "b": "Laurin_2009",
+  "r": 0
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "mitrabhaa",
+  "r": 0
+ },
+ {
+  "w": "Msb2",
+  "b": "ToivoK3",
+  "r": 0
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "HansOnTwitch",
+  "r": 1
+ },
+ {
+  "w": "katharinareinecke",
+  "b": "juancruzarias",
+  "r": 0
+ },
+ {
+  "w": "Kacparov",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "chessvedant09",
+  "b": "scrambleyourbrain",
+  "r": 2
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "OhanyanEminChess",
+  "r": 2
+ },
+ {
+  "w": "carokannlover213",
+  "b": "Agent-JL",
+  "r": 1
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "A4RookA3",
+  "r": 1
+ },
+ {
+  "w": "1800_strength",
+  "b": "Elsa167",
+  "r": 0
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "blitzking1729",
+  "r": 1
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "Gianmarco_es",
+  "r": 0
+ },
+ {
+  "w": "Defenstrator",
+  "b": "shirovin",
+  "r": 1
+ },
+ {
+  "w": "CM_rui",
+  "b": "scarabee43",
+  "r": 0
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "MartinBezuch_YouTube",
+  "r": 1
+ },
+ {
+  "w": "Azeryahu",
+  "b": "hongnhung1234",
+  "r": 1
+ },
+ {
+  "w": "chesselephant",
+  "b": "rasmussvane",
+  "r": 0
+ },
+ {
+  "w": "Jospem",
+  "b": "Sanan_Sjugirov",
+  "r": 1
+ },
+ {
+  "w": "Kacparov",
+  "b": "MITerryble",
+  "r": 0
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "HansOnTwitch",
+  "r": 0
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "drdaro",
+  "r": 0
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "Indianlad",
+  "b": "blitzking1729",
+  "r": 1
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "frederiksvane",
+  "r": 0
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "yosephtaher",
+  "r": 1
+ },
+ {
+  "w": "hansen",
+  "b": "OhanyanEminChess",
+  "r": 1
+ },
+ {
+  "w": "1800_strength",
+  "b": "chess13524678",
+  "r": 0
+ },
+ {
+  "w": "Elsa167",
+  "b": "jefferyx",
+  "r": 1
+ },
+ {
+  "w": "lamomiajunior",
+  "b": "Lion-Al-Messi",
+  "r": 1
+ },
+ {
+  "w": "frankshar",
+  "b": "PiliposyanRobertChess",
+  "r": 0
+ },
+ {
+  "w": "juancruzarias",
+  "b": "Byniolus",
+  "r": 0
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "katharinareinecke",
+  "r": 1
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "KonstantinKornienkof5",
+  "r": 1
+ },
+ {
+  "w": "Kingsman132",
+  "b": "Defenstrator",
+  "r": 0
+ },
+ {
+  "w": "elpeordelosmejores",
+  "b": "shirovin",
+  "r": 1
+ },
+ {
+  "w": "HansOnTwitch",
+  "b": "Mykola-Bortnyk",
+  "r": 2
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "whitemirrorninja",
+  "r": 0
+ },
+ {
+  "w": "SuperAwesomeSarthak",
+  "b": "drdaro",
+  "r": 0
+ },
+ {
+  "w": "Agent-JL",
+  "b": "hristos03",
+  "r": 1
+ },
+ {
+  "w": "lamomiajunior",
+  "b": "Schachkatze2000",
+  "r": 0
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "Romkachess",
+  "r": 2
+ },
+ {
+  "w": "Indianlad",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "blitzking1729",
+  "b": "carokannlover213",
+  "r": 0
+ },
+ {
+  "w": "rasmussvane",
+  "b": "JakubPulpan",
+  "r": 1
+ },
+ {
+  "w": "A4RookA3",
+  "b": "chesselephant",
+  "r": 1
+ },
+ {
+  "w": "frederiksvane",
+  "b": "jefferyx",
+  "r": 0
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "Elsa167",
+  "r": 0
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "scrambleyourbrain",
+  "r": 1
+ },
+ {
+  "w": "frankshar",
+  "b": "CM_rui",
+  "r": 0
+ },
+ {
+  "w": "scarabee43",
+  "b": "chessvedant09",
+  "r": 1
+ },
+ {
+  "w": "ToivoK3",
+  "b": "Kacparov",
+  "r": 0
+ },
+ {
+  "w": "Msb2",
+  "b": "Zhigalko_Sergei",
+  "r": 0
+ },
+ {
+  "w": "Gianmarco_es",
+  "b": "StarlightFade",
+  "r": 0
+ },
+ {
+  "w": "Elsa167",
+  "b": "Micki-taryan",
+  "r": 1
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "Indianlad",
+  "r": 2
+ },
+ {
+  "w": "juancruzarias",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "Byniolus",
+  "b": "Azeryahu",
+  "r": 1
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "Kingsman132",
+  "r": 0
+ },
+ {
+  "w": "Defenstrator",
+  "b": "OleksandrProkhorov",
+  "r": 0
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "Jospem",
+  "r": 1
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "hansen",
+  "r": 0
+ },
+ {
+  "w": "StarlightFade",
+  "b": "ProfessorChess101",
+  "r": 2
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "lamomiajunior",
+  "r": 1
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "manitodeplomo",
+  "r": 1
+ },
+ {
+  "w": "Byniolus",
+  "b": "Adham_Fawzy",
+  "r": 1
+ },
+ {
+  "w": "scrambleyourbrain",
+  "b": "Azeryahu",
+  "r": 0
+ },
+ {
+  "w": "yosephtaher",
+  "b": "mitrabhaa",
+  "r": 1
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "chess13524678",
+  "r": 0
+ },
+ {
+  "w": "aa175",
+  "b": "SuperAwesomeSarthak",
+  "r": 1
+ },
+ {
+  "w": "drdaro",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "jefferyx",
+  "b": "TrahtarBelarus",
+  "r": 1
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "frederiksvane",
+  "r": 1
+ },
+ {
+  "w": "elpeordelosmejores",
+  "b": "Agent-JL",
+  "r": 1
+ },
+ {
+  "w": "hristos03",
+  "b": "shirovin",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "scarabee43",
+  "r": 0
+ },
+ {
+  "w": "chessvedant09",
+  "b": "Kacparov",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "HansOnTwitch",
+  "r": 1
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "Lion-Al-Messi",
+  "r": 0
+ },
+ {
+  "w": "Romkachess",
+  "b": "Mykola-Bortnyk",
+  "r": 0
+ },
+ {
+  "w": "CM_rui",
+  "b": "MartinBezuch_YouTube",
+  "r": 1
+ },
+ {
+  "w": "frankshar",
+  "b": "lamomiajunior",
+  "r": 0
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "Micki-taryan",
+  "r": 1
+ },
+ {
+  "w": "chesselephant",
+  "b": "rasmussvane",
+  "r": 0
+ },
+ {
+  "w": "A4RookA3",
+  "b": "Elsa167",
+  "r": 0
+ },
+ {
+  "w": "Azeryahu",
+  "b": "blitzking1729",
+  "r": 1
+ },
+ {
+  "w": "scrambleyourbrain",
+  "b": "carokannlover213",
+  "r": 2
+ },
+ {
+  "w": "hansen",
+  "b": "mitrabhaa",
+  "r": 0
+ },
+ {
+  "w": "yosephtaher",
+  "b": "Sanan_Sjugirov",
+  "r": 1
+ },
+ {
+  "w": "1800_strength",
+  "b": "Msb2",
+  "r": 1
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "juancruzarias",
+  "r": 1
+ },
+ {
+  "w": "drdaro",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "Jospem",
+  "b": "PiliposyanRobertChess",
+  "r": 1
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "Indianlad",
+  "r": 0
+ },
+ {
+  "w": "CM_rui",
+  "b": "hristos03",
+  "r": 1
+ },
+ {
+  "w": "shirovin",
+  "b": "MartinBezuch_YouTube",
+  "r": 0
+ },
+ {
+  "w": "Kingsman132",
+  "b": "Defenstrator",
+  "r": 1
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "ToivoK3",
+  "r": 0
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "whitemirrorninja",
+  "r": 1
+ },
+ {
+  "w": "chess13524678",
+  "b": "ProfessorChess101",
+  "r": 0
+ },
+ {
+  "w": "SuperAwesomeSarthak",
+  "b": "StarlightFade",
+  "r": 0
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "Jospem",
+  "b": "Byniolus",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "PiliposyanRobertChess",
+  "r": 0
+ },
+ {
+  "w": "jefferyx",
+  "b": "Zhigalko_Sergei",
+  "r": 2
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "juancruzarias",
+  "r": 0
+ },
+ {
+  "w": "lamomiajunior",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "scarabee43",
+  "b": "frankshar",
+  "r": 1
+ },
+ {
+  "w": "chessvedant09",
+  "b": "scrambleyourbrain",
+  "r": 2
+ },
+ {
+  "w": "carokannlover213",
+  "b": "elpeordelosmejores",
+  "r": 1
+ },
+ {
+  "w": "Kacparov",
+  "b": "chess13524678",
+  "r": 1
+ },
+ {
+  "w": "SuperAwesomeSarthak",
+  "b": "Agent-JL",
+  "r": 0
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "A4RookA3",
+  "r": 0
+ },
+ {
+  "w": "shirovin",
+  "b": "Gianmarco_es",
+  "r": 0
+ },
+ {
+  "w": "Elsa167",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "frederiksvane",
+  "b": "Lion-Al-Messi",
+  "r": 0
+ },
+ {
+  "w": "scarabee43",
+  "b": "Laurin_2009",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "frankshar",
+  "r": 1
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "CM_rui",
+  "r": 1
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "OhanyanEminChess",
+  "r": 0
+ },
+ {
+  "w": "hristos03",
+  "b": "StarlightFade",
+  "r": 0
+ },
+ {
+  "w": "Indianlad",
+  "b": "ProfessorChess101",
+  "r": 1
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "Romkachess",
+  "r": 1
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "MITerryble",
+  "b": "scarabee43",
+  "r": 0
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "Laurin_2009",
+  "r": 1
+ },
+ {
+  "w": "Agent-JL",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "hansen",
+  "b": "jefferyx",
+  "r": 0
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "Zhigalko_Sergei",
+  "r": 1
+ },
+ {
+  "w": "Azeryahu",
+  "b": "scarabee43",
+  "r": 0
+ },
+ {
+  "w": "blitzking1729",
+  "b": "hongnhung1234",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "Adham_Fawzy",
+  "r": 2
+ },
+ {
+  "w": "1800_strength",
+  "b": "Schachkatze2000",
+  "r": 1
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "Defenstrator",
+  "r": 0
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "lamomiajunior",
+  "r": 0
+ },
+ {
+  "w": "arminmusovic",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "Kacparov",
+  "b": "Jospem",
+  "r": 1
+ },
+ {
+  "w": "chess13524678",
+  "b": "Byniolus",
+  "r": 0
+ },
+ {
+  "w": "frederiksvane",
+  "b": "whitemirrorninja",
+  "r": 1
+ },
+ {
+  "w": "scrambleyourbrain",
+  "b": "shirovin",
+  "r": 1
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "chessvedant09",
+  "r": 1
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "OhanyanEminChess",
+  "r": 0
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "rasmussvane",
+  "r": 1
+ },
+ {
+  "w": "frankshar",
+  "b": "TrahtarBelarus",
+  "r": 1
+ },
+ {
+  "w": "juancruzarias",
+  "b": "jefferyx",
+  "r": 0
+ },
+ {
+  "w": "Elsa167",
+  "b": "hansen",
+  "r": 1
+ },
+ {
+  "w": "A4RookA3",
+  "b": "aa175",
+  "r": 0
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "elpeordelosmejores",
+  "r": 0
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "hansen",
+  "r": 1
+ },
+ {
+  "w": "yosephtaher",
+  "b": "Elsa167",
+  "r": 1
+ },
+ {
+  "w": "carokannlover213",
+  "b": "drdaro",
+  "r": 1
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "MITerryble",
+  "r": 1
+ },
+ {
+  "w": "StarlightFade",
+  "b": "Romkachess",
+  "r": 1
+ },
+ {
+  "w": "Indianlad",
+  "b": "JakubPulpan",
+  "r": 1
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "Sanan_Sjugirov",
+  "r": 1
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "CM_rui",
+  "r": 0
+ },
+ {
+  "w": "hristos03",
+  "b": "whitemirrorninja",
+  "r": 1
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "frederiksvane",
+  "r": 1
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "chess13524678",
+  "r": 0
+ },
+ {
+  "w": "Byniolus",
+  "b": "Jospem",
+  "r": 1
+ },
+ {
+  "w": "CM_rui",
+  "b": "Kacparov",
+  "r": 1
+ },
+ {
+  "w": "blitzking1729",
+  "b": "A4RookA3",
+  "r": 1
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "Azeryahu",
+  "r": 0
+ },
+ {
+  "w": "scarabee43",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "scrambleyourbrain",
+  "r": 0
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "shirovin",
+  "r": 1
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "1800_strength",
+  "r": 0
+ },
+ {
+  "w": "rasmussvane",
+  "b": "Schachkatze2000",
+  "r": 1
+ },
+ {
+  "w": "Agent-JL",
+  "b": "lamomiajunior",
+  "r": 0
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "Laurin_2009",
+  "r": 1
+ },
+ {
+  "w": "hansen",
+  "b": "ToivoK3",
+  "r": 1
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "KonstantinKornienkof5",
+  "r": 0
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "Defenstrator",
+  "r": 1
+ },
+ {
+  "w": "aa175",
+  "b": "OleksandrProkhorov",
+  "r": 0
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "frankshar",
+  "r": 1
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "Zhigalko_Sergei",
+  "r": 0
+ },
+ {
+  "w": "Azeryahu",
+  "b": "JakubPulpan",
+  "r": 1
+ },
+ {
+  "w": "chess13524678",
+  "b": "ProfessorChess101",
+  "r": 1
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "juancruzarias",
+  "r": 2
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "chessvedant09",
+  "r": 1
+ },
+ {
+  "w": "drdaro",
+  "b": "manitodeplomo",
+  "r": 0
+ },
+ {
+  "w": "Kacparov",
+  "b": "jefferyx",
+  "r": 0
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "carokannlover213",
+  "r": 0
+ },
+ {
+  "w": "CM_rui",
+  "b": "rasmussvane",
+  "r": 1
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "hristos03",
+  "r": 0
+ },
+ {
+  "w": "Elsa167",
+  "b": "Schachkatze2000",
+  "r": 1
+ },
+ {
+  "w": "yosephtaher",
+  "b": "PiliposyanRobertChess",
+  "r": 1
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "Adham_Fawzy",
+  "r": 1
+ },
+ {
+  "w": "shirovin",
+  "b": "Indianlad",
+  "r": 0
+ },
+ {
+  "w": "StarlightFade",
+  "b": "lamomiajunior",
+  "r": 1
+ },
+ {
+  "w": "Romkachess",
+  "b": "Agent-JL",
+  "r": 1
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "ToivoK3",
+  "r": 1
+ },
+ {
+  "w": "chessvedant09",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "hansen",
+  "r": 0
+ },
+ {
+  "w": "MITerryble",
+  "b": "blitzking1729",
+  "r": 1
+ },
+ {
+  "w": "Kingsman132",
+  "b": "scrambleyourbrain",
+  "r": 0
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "Sanan_Sjugirov",
+  "r": 1
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "scarabee43",
+  "r": 1
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "MartinBezuch_YouTube",
+  "r": 0
+ },
+ {
+  "w": "elpeordelosmejores",
+  "b": "carokannlover213",
+  "r": 0
+ },
+ {
+  "w": "Jospem",
+  "b": "Mykola-Bortnyk",
+  "r": 1
+ },
+ {
+  "w": "Byniolus",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "rasmussvane",
+  "r": 1
+ },
+ {
+  "w": "CM_rui",
+  "b": "hongnhung1234",
+  "r": 0
+ },
+ {
+  "w": "blitzking1729",
+  "b": "TrahtarBelarus",
+  "r": 1
+ },
+ {
+  "w": "Defenstrator",
+  "b": "frankshar",
+  "r": 1
+ },
+ {
+  "w": "1800_strength",
+  "b": "chess13524678",
+  "r": 1
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "Byniolus",
+  "r": 1
+ },
+ {
+  "w": "drdaro",
+  "b": "Azeryahu",
+  "r": 0
+ },
+ {
+  "w": "hristos03",
+  "b": "manitodeplomo",
+  "r": 1
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "PiliposyanRobertChess",
+  "r": 1
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "yosephtaher",
+  "r": 1
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "MITerryble",
+  "r": 0
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "Romkachess",
+  "r": 0
+ },
+ {
+  "w": "Indianlad",
+  "b": "Zhigalko_Sergei",
+  "r": 1
+ },
+ {
+  "w": "Kingsman132",
+  "b": "Lion-Al-Messi",
+  "r": 0
+ },
+ {
+  "w": "juancruzarias",
+  "b": "Laurin_2009",
+  "r": 0
+ },
+ {
+  "w": "scrambleyourbrain",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "shirovin",
+  "b": "chessvedant09",
+  "r": 0
+ },
+ {
+  "w": "Kacparov",
+  "b": "Elsa167",
+  "r": 1
+ },
+ {
+  "w": "jefferyx",
+  "b": "Jospem",
+  "r": 1
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "Mykola-Bortnyk",
+  "r": 0
+ },
+ {
+  "w": "Azeryahu",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "chess13524678",
+  "b": "drdaro",
+  "r": 1
+ },
+ {
+  "w": "lamomiajunior",
+  "b": "whitemirrorninja",
+  "r": 0
+ },
+ {
+  "w": "StarlightFade",
+  "b": "MartinBezuch_YouTube",
+  "r": 1
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "mitrabhaa",
+  "r": 0
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "ToivoK3",
+  "r": 0
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "hansen",
+  "r": 0
+ },
+ {
+  "w": "A4RookA3",
+  "b": "ProfessorChess101",
+  "r": 0
+ },
+ {
+  "w": "Byniolus",
+  "b": "juancruzarias",
+  "r": 0
+ },
+ {
+  "w": "carokannlover213",
+  "b": "hongnhung1234",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "CM_rui",
+  "r": 0
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "PiliposyanRobertChess",
+  "r": 1
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "elpeordelosmejores",
+  "r": 0
+ },
+ {
+  "w": "hansen",
+  "b": "blitzking1729",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "Elsa167",
+  "r": 1
+ },
+ {
+  "w": "Kacparov",
+  "b": "Adham_Fawzy",
+  "r": 1
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "subham777",
+  "r": 1
+ },
+ {
+  "w": "Defenstrator",
+  "b": "aa175",
+  "r": 1
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "lamomiajunior",
+  "b": "chess13524678",
+  "r": 1
+ },
+ {
+  "w": "frankshar",
+  "b": "Kostukov_Alex",
+  "r": 0
+ },
+ {
+  "w": "Mykola-Bortnyk",
+  "b": "CM_rui",
+  "r": 0
+ },
+ {
+  "w": "scrambleyourbrain",
+  "b": "Schachkatze2000",
+  "r": 0
+ },
+ {
+  "w": "Jospem",
+  "b": "1800_strength",
+  "r": 1
+ },
+ {
+  "w": "Romkachess",
+  "b": "arminmusovic",
+  "r": 0
+ },
+ {
+  "w": "Azeryahu",
+  "b": "rasmussvane",
+  "r": 2
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "OleksandrProkhorov",
+  "r": 0
+ },
+ {
+  "w": "hristos03",
+  "b": "jefferyx",
+  "r": 0
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "chessvedant09",
+  "r": 0
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "shirovin",
+  "r": 1
+ },
+ {
+  "w": "Zhigalko_Sergei",
+  "b": "whitemirrorninja",
+  "r": 1
+ },
+ {
+  "w": "Indianlad",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "Elsa167",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "JakubPulpan",
+  "r": 1
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "TrahtarBelarus",
+  "r": 0
+ },
+ {
+  "w": "elpeordelosmejores",
+  "b": "chessvedant09",
+  "r": 0
+ },
+ {
+  "w": "hansen",
+  "b": "Adham_Fawzy",
+  "r": 2
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "blitzking1729",
+  "r": 1
+ },
+ {
+  "w": "Kingsman132",
+  "b": "A4RookA3",
+  "r": 0
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "hongnhung1234",
+  "r": 0
+ },
+ {
+  "w": "Romkachess",
+  "b": "carokannlover213",
+  "r": 0
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "Kacparov",
+  "r": 0
+ },
+ {
+  "w": "Laurin_2009",
+  "b": "scrambleyourbrain",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "chess13524678",
+  "b": "CM_rui",
+  "r": 1
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "lamomiajunior",
+  "r": 0
+ },
+ {
+  "w": "juancruzarias",
+  "b": "Lion-Al-Messi",
+  "r": 1
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "Byniolus",
+  "r": 1
+ },
+ {
+  "w": "MITerryble",
+  "b": "Sanan_Sjugirov",
+  "r": 0
+ },
+ {
+  "w": "jefferyx",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "hristos03",
+  "r": 0
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "KonstantinKornienkof5",
+  "r": 1
+ },
+ {
+  "w": "1800_strength",
+  "b": "PiliposyanRobertChess",
+  "r": 2
+ },
+ {
+  "w": "StarlightFade",
+  "b": "Queensandpawns",
+  "r": 1
+ },
+ {
+  "w": "Jospem",
+  "b": "Indianlad",
+  "r": 1
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "Defenstrator",
+  "r": 0
+ },
+ {
+  "w": "rasmussvane",
+  "b": "ProfessorChess101",
+  "r": 1
+ },
+ {
+  "w": "blitzking1729",
+  "b": "Laurin_2009",
+  "r": 2
+ },
+ {
+  "w": "lamomiajunior",
+  "b": "Azeryahu",
+  "r": 2
+ },
+ {
+  "w": "frankshar",
+  "b": "TrahtarBelarus",
+  "r": 0
+ },
+ {
+  "w": "arminmusovic",
+  "b": "JakubPulpan",
+  "r": 0
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "hongnhung1234",
+  "r": 0
+ },
+ {
+  "w": "ToivoK3",
+  "b": "Kacparov",
+  "r": 0
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "manitodeplomo",
+  "r": 0
+ },
+ {
+  "w": "MartinBezuch_YouTube",
+  "b": "Romkachess",
+  "r": 0
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "carokannlover213",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "Elsa167",
+  "b": "OhanyanEminChess",
+  "r": 0
+ },
+ {
+  "w": "shirovin",
+  "b": "aa175",
+  "r": 0
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "Jospem",
+  "r": 1
+ },
+ {
+  "w": "CM_rui",
+  "b": "StarlightFade",
+  "r": 0
+ },
+ {
+  "w": "Indianlad",
+  "b": "hansen",
+  "r": 1
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "KonstantinKornienkof5",
+  "r": 2
+ },
+ {
+  "w": "chess13524678",
+  "b": "Queensandpawns",
+  "r": 1
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "juancruzarias",
+  "r": 0
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "A4RookA3",
+  "r": 0
+ },
+ {
+  "w": "PiliposyanRobertChess",
+  "b": "mitrabhaa",
+  "r": 0
+ },
+ {
+  "w": "1800_strength",
+  "b": "Byniolus",
+  "r": 1
+ },
+ {
+  "w": "hristos03",
+  "b": "elpeordelosmejores",
+  "r": 1
+ },
+ {
+  "w": "CM_rui",
+  "b": "whitemirrorninja",
+  "r": 0
+ },
+ {
+  "w": "Defenstrator",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "carokannlover213",
+  "b": "MITerryble",
+  "r": 2
+ },
+ {
+  "w": "jefferyx",
+  "b": "rasmussvane",
+  "r": 1
+ },
+ {
+  "w": "yosephtaher",
+  "b": "ProfessorChess101",
+  "r": 1
+ },
+ {
+  "w": "blitzking1729",
+  "b": "Kostukov_Alex",
+  "r": 1
+ },
+ {
+  "w": "Elsa167",
+  "b": "Indianlad",
+  "r": 1
+ },
+ {
+  "w": "lamomiajunior",
+  "b": "OhanyanEminChess",
+  "r": 0
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "Azeryahu",
+  "r": 1
+ },
+ {
+  "w": "Adham_Fawzy",
+  "b": "hansen",
+  "r": 2
+ },
+ {
+  "w": "aa175",
+  "b": "frankshar",
+  "r": 1
+ },
+ {
+  "w": "Kacparov",
+  "b": "Jospem",
+  "r": 0
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "ToivoK3",
+  "r": 0
+ },
+ {
+  "w": "JakubPulpan",
+  "b": "Schachkatze2000",
+  "r": 0
+ },
+ {
+  "w": "shirovin",
+  "b": "manitodeplomo",
+  "r": 0
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "Defenstrator",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "lamomiajunior",
+  "r": 0
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "OhanyanEminChess",
+  "r": 0
+ },
+ {
+  "w": "StarlightFade",
+  "b": "Sanan_Sjugirov",
+  "r": 0
+ },
+ {
+  "w": "Romkachess",
+  "b": "Laurin_2009",
+  "r": 1
+ },
+ {
+  "w": "Kingsman132",
+  "b": "MartinBezuch_YouTube",
+  "r": 0
+ },
+ {
+  "w": "chess13524678",
+  "b": "Lion-Al-Messi",
+  "r": 1
+ },
+ {
+  "w": "elpeordelosmejores",
+  "b": "Queensandpawns",
+  "r": 0
+ },
+ {
+  "w": "frankshar",
+  "b": "hristos03",
+  "r": 1
+ },
+ {
+  "w": "manitodeplomo",
+  "b": "ToivoK3",
+  "r": 2
+ },
+ {
+  "w": "aa175",
+  "b": "A4RookA3",
+  "r": 1
+ },
+ {
+  "w": "OleksandrProkhorov",
+  "b": "shirovin",
+  "r": 0
+ },
+ {
+  "w": "Byniolus",
+  "b": "KonstantinKornienkof5",
+  "r": 1
+ },
+ {
+  "w": "juancruzarias",
+  "b": "1800_strength",
+  "r": 0
+ },
+ {
+  "w": "Defenstrator",
+  "b": "hongnhung1234",
+  "r": 0
+ },
+ {
+  "w": "Kacparov",
+  "b": "mitrabhaa",
+  "r": 0
+ },
+ {
+  "w": "Jospem",
+  "b": "CM_rui",
+  "r": 1
+ },
+ {
+  "w": "whitemirrorninja",
+  "b": "Indianlad",
+  "r": 0
+ },
+ {
+  "w": "chessvedant09",
+  "b": "blitzking1729",
+  "r": 0
+ },
+ {
+  "w": "yosephtaher",
+  "b": "Elsa167",
+  "r": 1
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "lamomiajunior",
+  "r": 1
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "jefferyx",
+  "b": "OhanyanEminChess",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "Schachkatze2000",
+  "r": 1
+ },
+ {
+  "w": "Byniolus",
+  "b": "Micki-taryan",
+  "r": 1
+ },
+ {
+  "w": "Azeryahu",
+  "b": "MITerryble",
+  "r": 2
+ },
+ {
+  "w": "TrahtarBelarus",
+  "b": "chess13524678",
+  "r": 1
+ },
+ {
+  "w": "arminmusovic",
+  "b": "Lion-Al-Messi",
+  "r": 0
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "Adham_Fawzy",
+  "r": 0
+ },
+ {
+  "w": "hansen",
+  "b": "1800_strength",
+  "r": 0
+ },
+ {
+  "w": "Kostukov_Alex",
+  "b": "juancruzarias",
+  "r": 0
+ },
+ {
+  "w": "Sanan_Sjugirov",
+  "b": "Kacparov",
+  "r": 0
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "StarlightFade",
+  "r": 1
+ },
+ {
+  "w": "elpeordelosmejores",
+  "b": "CuteSheepCloud",
+  "r": 0
+ },
+ {
+  "w": "Queensandpawns",
+  "b": "Byniolus",
+  "r": 1
+ },
+ {
+  "w": "OhanyanEminChess",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "chessvedant09",
+  "b": "OleksandrProkhorov",
+  "r": 1
+ },
+ {
+  "w": "blitzking1729",
+  "b": "manitodeplomo",
+  "r": 0
+ },
+ {
+  "w": "Jospem",
+  "b": "jefferyx",
+  "r": 0
+ },
+ {
+  "w": "A4RookA3",
+  "b": "Romkachess",
+  "r": 0
+ },
+ {
+  "w": "lamomiajunior",
+  "b": "CM_rui",
+  "r": 0
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "Micki-taryan",
+  "r": 0
+ },
+ {
+  "w": "shirovin",
+  "b": "MartinBezuch_YouTube",
+  "r": 0
+ },
+ {
+  "w": "hristos03",
+  "b": "Kingsman132",
+  "r": 1
+ },
+ {
+  "w": "Indianlad",
+  "b": "Adham_Fawzy",
+  "r": 1
+ },
+ {
+  "w": "KonstantinKornienkof5",
+  "b": "mitrabhaa",
+  "r": 0
+ },
+ {
+  "w": "frankshar",
+  "b": "whitemirrorninja",
+  "r": 0
+ },
+ {
+  "w": "StarlightFade",
+  "b": "chess13524678",
+  "r": 0
+ },
+ {
+  "w": "Lion-Al-Messi",
+  "b": "TrahtarBelarus",
+  "r": 0
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "arminmusovic",
+  "r": 1
+ },
+ {
+  "w": "hansen",
+  "b": "Elsa167",
+  "r": 1
+ },
+ {
+  "w": "1800_strength",
+  "b": "yosephtaher",
+  "r": 0
+ },
+ {
+  "w": "ProfessorChess101",
+  "b": "Defenstrator",
+  "r": 1
+ },
+ {
+  "w": "Micki-taryan",
+  "b": "Kacparov",
+  "r": 1
+ },
+ {
+  "w": "rasmussvane",
+  "b": "Sanan_Sjugirov",
+  "r": 0
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "Laurin_2009",
+  "r": 1
+ },
+ {
+  "w": "juancruzarias",
+  "b": "Romkachess",
+  "r": 1
+ },
+ {
+  "w": "jefferyx",
+  "b": "Byniolus",
+  "r": 1
+ },
+ {
+  "w": "Azeryahu",
+  "b": "Jospem",
+  "r": 0
+ },
+ {
+  "w": "Queensandpawns",
+  "b": "elpeordelosmejores",
+  "r": 1
+ },
+ {
+  "w": "hongnhung1234",
+  "b": "CM_rui",
+  "r": 0
+ },
+ {
+  "w": "arminmusovic",
+  "b": "CuteSheepCloud",
+  "r": 0
+ },
+ {
+  "w": "mitrabhaa",
+  "b": "Elsa167",
+  "r": 2
+ },
+ {
+  "w": "hansen",
+  "b": "KonstantinKornienkof5",
+  "r": 1
+ },
+ {
+  "w": "Schachkatze2000",
+  "b": "Queensandpawns",
+  "r": 2
+ },
+ {
+  "w": "StarlightFade",
+  "b": "blitzking1729",
+  "r": 0
+ },
+ {
+  "w": "Byniolus",
+  "b": "Adham_Fawzy",
+  "r": 2
+ },
+ {
+  "w": "arminmusovic",
+  "b": "chessvedant09",
+  "r": 0
+ },
+ {
+  "w": "yosephtaher",
+  "b": "mitrabhaa",
+  "r": 2
+ },
+ {
+  "w": "Kacparov",
+  "b": "Byniolus",
+  "r": 2
+ }
+]
