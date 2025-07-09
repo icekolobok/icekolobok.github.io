@@ -25,13 +25,14 @@
   "Christopher Yoo",
   "Matthias Bluebaum",
   "Emin Ohanyan",
-  "Maxime Vachier-Lagrave"
+  "Maxime Vachier-Lagrave",
+  "Sina Movahed"
  ],
  "datasets": [
   {
    "label": "Gold",
    "data": [
-    42,
+    43,
     28,
     12,
     11,
@@ -56,6 +57,7 @@
     0,
     0,
     0,
+    0,
     0
    ],
    "backgroundColor": "rgba(212, 175, 55, 0.5)",
@@ -68,7 +70,7 @@
     17,
     26,
     21,
-    11,
+    12,
     9,
     5,
     2,
@@ -85,6 +87,7 @@
     1,
     1,
     1,
+    0,
     0,
     0,
     0,
@@ -121,6 +124,7 @@
     0,
     2,
     2,
+    1,
     1,
     1,
     1,
