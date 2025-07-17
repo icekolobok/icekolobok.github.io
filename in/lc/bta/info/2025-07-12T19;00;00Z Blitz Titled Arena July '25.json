@@ -1,0 +1,211 @@
+{
+ "nbPlayers": 408,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2884,
+   "score": 108,
+   "nb": {
+    "game": 44,
+    "berserk": 20,
+    "win": 28
+   },
+   "performance": 3002
+  },
+  {
+   "name": "yoseph2013",
+   "title": "IM",
+   "flair": "objects.alarm-clock",
+   "patron": true,
+   "rank": 2,
+   "rating": 2691,
+   "score": 93,
+   "nb": {
+    "game": 49,
+    "berserk": 43,
+    "win": 24
+   },
+   "performance": 2733
+  },
+  {
+   "name": "AngelitoRT",
+   "title": "IM",
+   "patron": true,
+   "rank": 3,
+   "rating": 2840,
+   "score": 91,
+   "nb": {
+    "game": 35,
+    "berserk": 21,
+    "win": 23
+   },
+   "performance": 2991
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 2895,
+  "moves": 244257,
+  "whiteWins": 1388,
+  "blackWins": 1272,
+  "draws": 235,
+  "berserks": 2417,
+  "averageRating": 2440
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2884,
+    "score": 108,
+    "sheet": {
+     "scores": "11313030044443312322543224330442311032543312"
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 2,
+    "rating": 2691,
+    "score": 93,
+    "sheet": {
+     "scores": "0123300330002533103054553303000053300103313053300"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 3,
+    "rating": 2840,
+    "score": 91,
+    "sheet": {
+     "scores": "31013242301124444455232453313033033"
+    }
+   },
+   {
+    "name": "Eyesless18",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2809,
+    "score": 82,
+    "sheet": {
+     "scores": "100053300003031053300330523003303303325533"
+    }
+   },
+   {
+    "name": "Saparmyrat",
+    "title": "GM",
+    "flair": "smileys.cowboy-hat-face",
+    "rank": 5,
+    "rating": 2710,
+    "score": 81,
+    "sheet": {
+     "scores": "113233055532003300303000433004433243300"
+    }
+   },
+   {
+    "name": "may6enexttime",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2956,
+    "score": 78,
+    "sheet": {
+     "scores": "44444220422244442204444220220",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2787,
+    "score": 78,
+    "sheet": {
+     "scores": "13030553325555555330330303"
+    }
+   },
+   {
+    "name": "tamojerry",
+    "title": "IM",
+    "flair": "smileys.cold-face",
+    "rank": 8,
+    "rating": 2751,
+    "score": 78,
+    "sheet": {
+     "scores": "0204444454533000030300522000444432"
+    }
+   },
+   {
+    "name": "handofprince",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2761,
+    "score": 78,
+    "sheet": {
+     "scores": "010001303002001253300025230455523031243302"
+    }
+   },
+   {
+    "name": "evilhamburger",
+    "title": "CM",
+    "flair": "food-drink.burrito",
+    "patron": true,
+    "rank": 10,
+    "rating": 2656,
+    "score": 77,
+    "sheet": {
+     "scores": "031001053311030053300010555533013005330030"
+    }
+   }
+  ]
+ },
+ "id": "jul25bta",
+ "createdBy": "lichess",
+ "startsAt": "2025-07-12T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena July '25",
+ "minutes": 120,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "superBlitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jul25bua)\r\n\r\nThe tournament duration was changed to two hours as a one-off experiment. We may switch to two hours for all future blitz arenas depending on user feedback. For now, the August Blitz TA and the September Chess960 Blitz TA will not be affected.",
+ "onlyTitled": true
+}
