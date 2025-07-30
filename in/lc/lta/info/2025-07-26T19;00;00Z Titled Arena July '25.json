@@ -1,0 +1,209 @@
+{
+ "nbPlayers": 367,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Ediz_Gurel",
+   "title": "GM",
+   "flair": "smileys.alien",
+   "patron": true,
+   "rank": 1,
+   "rating": 3269,
+   "score": 167,
+   "nb": {
+    "game": 79,
+    "berserk": 35,
+    "win": 50
+   },
+   "performance": 3249
+  },
+  {
+   "name": "CleverTacticButFail",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3162,
+   "score": 167,
+   "nb": {
+    "game": 82,
+    "berserk": 63,
+    "win": 46
+   },
+   "performance": 3179
+  },
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "rank": 3,
+   "rating": 3175,
+   "score": 138,
+   "nb": {
+    "game": 74,
+    "berserk": 26,
+    "win": 42
+   },
+   "performance": 3156
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 5084,
+  "moves": 423977,
+  "whiteWins": 2424,
+  "blackWins": 2337,
+  "draws": 323,
+  "berserks": 1215,
+  "averageRating": 2658
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Ediz_Gurel",
+    "title": "GM",
+    "flair": "smileys.alien",
+    "patron": true,
+    "rank": 1,
+    "rating": 3269,
+    "score": 167,
+    "sheet": {
+     "scores": "0230002124230021044230204554423022231102242303002044452305454220303042312020523"
+    }
+   },
+   {
+    "name": "CleverTacticButFail",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3162,
+    "score": 167,
+    "sheet": {
+     "scores": "0030043313054230533010005433054544330001223030030303305533003210300004331003045532"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 3,
+    "rating": 3175,
+    "score": 138,
+    "sheet": {
+     "scores": "20030330552301044532000021300045422244422002302042200330000003055452200320"
+    }
+   },
+   {
+    "name": "chess-art-us",
+    "title": "IM",
+    "flair": "people.deaf-man-light-skin-tone",
+    "rank": 4,
+    "rating": 3223,
+    "score": 134,
+    "sheet": {
+     "scores": "5452313000022013000023000330022100302044220220324544444523222244330",
+     "fire": true
+    }
+   },
+   {
+    "name": "FeegLood",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3217,
+    "score": 134,
+    "sheet": {
+     "scores": "42202222200444442210210020120204422022020220444442200120442202202044220020",
+     "fire": true
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 3161,
+    "score": 134,
+    "sheet": {
+     "scores": "03030000030422010442200042212003022433000230032020324444542204444330422"
+    }
+   },
+   {
+    "name": "Mitrabha",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3112,
+    "score": 124,
+    "sheet": {
+     "scores": "00023122220022044444230444220103002020120444220023004442201002045230"
+    }
+   },
+   {
+    "name": "handofprince",
+    "title": "GM",
+    "rank": 8,
+    "rating": 3056,
+    "score": 116,
+    "sheet": {
+     "scores": "4330023204220523000000030000020210012013055330220020523042203303003300533",
+     "fire": true
+    }
+   },
+   {
+    "name": "Zohiiidd_10",
+    "title": "IM",
+    "rank": 9,
+    "rating": 3047,
+    "score": 115,
+    "sheet": {
+     "scores": "001032330120002213044423022004230000302002022110444422010000042202030044220102"
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 10,
+    "rating": 3118,
+    "score": 111,
+    "sheet": {
+     "scores": "444221203030100444220300200033022000004444423021022000224423032",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "jul25lta",
+ "createdBy": "lichess",
+ "startsAt": "2025-07-26T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena July '25",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jul25wua)",
+ "onlyTitled": true
+}
