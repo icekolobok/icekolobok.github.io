@@ -1,0 +1,4754 @@
+[
+ {
+  "rank": 1,
+  "score": 130,
+  "rating": 2833,
+  "username": "RebeccaHarris",
+  "title": "GM",
+  "performance": 2908,
+  "sheet": {
+   "scores": "23300543302533005230044220031033122220054331130305545533"
+  }
+ },
+ {
+  "rank": 2,
+  "score": 123,
+  "rating": 2873,
+  "username": "GrraindTime",
+  "title": "GM",
+  "performance": 2929,
+  "sheet": {
+   "scores": "302444422024422020443202020544523233032100330555331"
+  }
+ },
+ {
+  "rank": 3,
+  "score": 117,
+  "rating": 2836,
+  "username": "Amin_____tb",
+  "title": "GM",
+  "flair": "people.man-in-tuxedo-dark-skin-tone",
+  "performance": 2870,
+  "sheet": {
+   "scores": "533010300030330131004444532104554230523103030330523131"
+  }
+ },
+ {
+  "rank": 4,
+  "score": 117,
+  "rating": 2807,
+  "username": "Shant7777777",
+  "title": "GM",
+  "flair": "activity.soccer-ball",
+  "performance": 2757,
+  "sheet": {
+   "scores": "113120305443300003300223131300003101303301310045330310100324453303"
+  }
+ },
+ {
+  "rank": 5,
+  "score": 114,
+  "rating": 2774,
+  "username": "rasulovvugar",
+  "title": "GM",
+  "performance": 2841,
+  "sheet": {
+   "scores": "3005423030223004423024230003130002444444455553300"
+  }
+ },
+ {
+  "rank": 6,
+  "score": 113,
+  "rating": 2835,
+  "username": "Zhigalko_Sergei",
+  "title": "GM",
+  "performance": 2872,
+  "sheet": {
+   "scores": "2533033031323324220445330303032130030544533233"
+  }
+ },
+ {
+  "rank": 7,
+  "score": 108,
+  "rating": 2815,
+  "username": "junglebook1",
+  "title": "GM",
+  "performance": 2873,
+  "sheet": {
+   "scores": "3055533003303303030330533033030233105555533"
+  }
+ },
+ {
+  "rank": 8,
+  "score": 99,
+  "rating": 2670,
+  "username": "innocentguy",
+  "title": "CM",
+  "flair": "nature.glowing-star",
+  "performance": 2695,
+  "sheet": {
+   "scores": "2533002023305230532003043300301100303003000233045330033"
+  }
+ },
+ {
+  "rank": 9,
+  "score": 96,
+  "rating": 2738,
+  "username": "chess-art-us",
+  "title": "GM",
+  "flair": "people.deaf-man-light-skin-tone",
+  "performance": 2720,
+  "sheet": {
+   "scores": "100305553303303300523031033100455230052300021033"
+  }
+ },
+ {
+  "rank": 10,
+  "score": 95,
+  "rating": 2734,
+  "username": "drop_stone",
+  "title": "GM",
+  "performance": 2771,
+  "sheet": {
+   "scores": "0330003303053303030030045433100300555330253303"
+  }
+ },
+ {
+  "rank": 11,
+  "score": 93,
+  "rating": 2667,
+  "username": "chessbrahs",
+  "title": "GM",
+  "performance": 2664,
+  "sheet": {
+   "scores": "030000003025330310300003055330303003030130330330253303202"
+  }
+ },
+ {
+  "rank": 12,
+  "score": 93,
+  "rating": 2651,
+  "username": "evilhamburger",
+  "title": "CM",
+  "flair": "food-drink.burrito",
+  "performance": 2631,
+  "sheet": {
+   "scores": "0005330003030200553300033000055533030000001130005330330330"
+  }
+ },
+ {
+  "rank": 13,
+  "score": 91,
+  "rating": 2823,
+  "username": "Kacparov",
+  "title": "IM",
+  "flair": "symbols.zzz",
+  "performance": 2803,
+  "sheet": {
+   "scores": "1302220422002110221004422044444444330302121131"
+  }
+ },
+ {
+  "rank": 14,
+  "score": 91,
+  "rating": 2653,
+  "username": "GrandByniolus",
+  "title": "GM",
+  "flair": "smileys.alien",
+  "performance": 2756,
+  "sheet": {
+   "scores": "024220004444220224442201222300002044422101302330"
+  }
+ },
+ {
+  "rank": 15,
+  "score": 89,
+  "rating": 2593,
+  "username": "Gabrielian",
+  "title": "GM",
+  "performance": 2597,
+  "sheet": {
+   "scores": "0005330533003001005330300053302252200002202444221200"
+  }
+ },
+ {
+  "rank": 16,
+  "score": 89,
+  "rating": 2602,
+  "username": "SemenPuzyrevsky",
+  "title": "FM",
+  "flair": "nature.phoenix-bird",
+  "performance": 2581,
+  "sheet": {
+   "scores": "000533033000303030003000305552300030010003033003300100533033"
+  }
+ },
+ {
+  "rank": 17,
+  "score": 87,
+  "rating": 2693,
+  "username": "kapaccino",
+  "title": "IM",
+  "performance": 2743,
+  "sheet": {
+   "scores": "01300303004544454554330020332553202"
+  }
+ },
+ {
+  "rank": 18,
+  "score": 85,
+  "rating": 2622,
+  "username": "Fandorine_68",
+  "title": "FM",
+  "flair": "people.call-me-hand-dark-skin-tone",
+  "performance": 2711,
+  "sheet": {
+   "scores": "03120310052303120222523132230103130242310231033"
+  }
+ },
+ {
+  "rank": 19,
+  "score": 85,
+  "rating": 2556,
+  "username": "stomatolog13",
+  "title": "IM",
+  "performance": 2606,
+  "sheet": {
+   "scores": "0103013000202004554330322213000230045230330000533000"
+  }
+ },
+ {
+  "rank": 20,
+  "score": 84,
+  "rating": 2589,
+  "username": "xasid",
+  "title": "IM",
+  "performance": 2612,
+  "sheet": {
+   "scores": "021004442303004220030000230304320330030533000532003000"
+  }
+ },
+ {
+  "rank": 21,
+  "score": 83,
+  "rating": 2763,
+  "username": "Night-King96",
+  "title": "GM",
+  "performance": 2713,
+  "sheet": {
+   "scores": "30030533003113003023003030055553325533"
+  }
+ },
+ {
+  "rank": 22,
+  "score": 83,
+  "rating": 2631,
+  "username": "Remontada_Reloaded",
+  "title": "IM",
+  "performance": 2649,
+  "sheet": {
+   "scores": "020044444220200220220020422122225542300200203020"
+  }
+ },
+ {
+  "rank": 23,
+  "score": 82,
+  "rating": 2872,
+  "username": "may6enexttime",
+  "title": "GM",
+  "performance": 2789,
+  "sheet": {
+   "scores": "2000020000442202200204442202202200442204444422"
+  }
+ },
+ {
+  "rank": 24,
+  "score": 82,
+  "rating": 2601,
+  "username": "Tunartank",
+  "title": "CM",
+  "performance": 2616,
+  "sheet": {
+   "scores": "00220023130030010000030330303055553300303300301005330"
+  }
+ },
+ {
+  "rank": 25,
+  "score": 81,
+  "rating": 2789,
+  "username": "Andrey11976",
+  "title": "NM",
+  "performance": 2833,
+  "sheet": {
+   "scores": "22020220220422044220444422042204422120202"
+  }
+ },
+ {
+  "rank": 26,
+  "score": 81,
+  "rating": 2447,
+  "username": "wannabe2700",
+  "title": "IM",
+  "performance": 2488,
+  "sheet": {
+   "scores": "0553300030001003000031000033005533000103003300000030300253303"
+  }
+ },
+ {
+  "rank": 27,
+  "score": 80,
+  "rating": 2480,
+  "username": "FredFertig_fuer_Arme",
+  "title": "FM",
+  "flair": "nature.rat",
+  "performance": 2534,
+  "sheet": {
+   "scores": "555555330003033030055553303300"
+  }
+ },
+ {
+  "rank": 28,
+  "score": 78,
+  "rating": 2752,
+  "username": "BlunderPandaZz",
+  "title": "GM",
+  "flair": "symbols.zzz",
+  "performance": 2804,
+  "sheet": {
+   "scores": "03111131303013103000130330004444332553303"
+  }
+ },
+ {
+  "rank": 29,
+  "score": 78,
+  "rating": 2516,
+  "username": "krivoy1973",
+  "title": "FM",
+  "flair": "activity.lichess-berserk",
+  "performance": 2545,
+  "sheet": {
+   "scores": "0030300300231204231300330523030003020003102533032002"
+  }
+ },
+ {
+  "rank": 30,
+  "score": 77,
+  "rating": 2634,
+  "username": "ang1372",
+  "title": "NM",
+  "flair": "smileys.slightly-smiling-face",
+  "performance": 2671,
+  "sheet": {
+   "scores": "322313020202202001200022442200442204220200422103"
+  }
+ },
+ {
+  "rank": 31,
+  "score": 76,
+  "rating": 2559,
+  "username": "Valery_Skatchkov2004",
+  "title": "FM",
+  "performance": 2705,
+  "sheet": {
+   "scores": "02320220102202004422242212221104422020220023022"
+  }
+ },
+ {
+  "rank": 32,
+  "score": 74,
+  "rating": 2674,
+  "username": "ikica77",
+  "title": "GM",
+  "performance": 2681,
+  "sheet": {
+   "scores": "523020022003012444444220422130022004220"
+  }
+ },
+ {
+  "rank": 33,
+  "score": 74,
+  "rating": 2515,
+  "username": "TheBullyBoy",
+  "title": "IM",
+  "performance": 2506,
+  "sheet": {
+   "scores": "303000000000030203103000000020000205331000553311000033000325330"
+  }
+ },
+ {
+  "rank": 34,
+  "score": 72,
+  "rating": 2654,
+  "username": "Koshulyan_Egor",
+  "title": "FM",
+  "flair": "activity.lichess-berserk",
+  "performance": 2575,
+  "sheet": {
+   "scores": "000003003000020001000001023055555555330053300"
+  }
+ },
+ {
+  "rank": 35,
+  "score": 72,
+  "rating": 2604,
+  "username": "papasi",
+  "title": "IM",
+  "flair": "people.man-pilot-light-skin-tone",
+  "performance": 2477,
+  "sheet": {
+   "scores": "0323302302310444220000030003233000103033130000003030"
+  }
+ },
+ {
+  "rank": 36,
+  "score": 71,
+  "rating": 2608,
+  "username": "MirOBV",
+  "title": "CM",
+  "performance": 2573,
+  "sheet": {
+   "scores": "30221020031003023243310110242204444220002002"
+  }
+ },
+ {
+  "rank": 37,
+  "score": 70,
+  "rating": 2412,
+  "username": "manitodeplomo",
+  "title": "IM",
+  "flair": "symbols.black-circle",
+  "performance": 2480,
+  "sheet": {
+   "scores": "31003300030000030001300032444230004442300005330"
+  }
+ },
+ {
+  "rank": 38,
+  "score": 69,
+  "rating": 2752,
+  "username": "funny_chess",
+  "title": "GM",
+  "performance": 2718,
+  "sheet": {
+   "scores": "01002300330320204452205533105533"
+  }
+ },
+ {
+  "rank": 39,
+  "score": 69,
+  "rating": 2629,
+  "username": "Jb2mix",
+  "title": "IM",
+  "performance": 2609,
+  "sheet": {
+   "scores": "0042202002024423000423130330300303233003030"
+  }
+ },
+ {
+  "rank": 40,
+  "score": 68,
+  "rating": 2479,
+  "username": "crazyluzhinTh3",
+  "title": "IM",
+  "performance": 2459,
+  "sheet": {
+   "scores": "031301033103300033000030433130000003033033010233"
+  }
+ },
+ {
+  "rank": 41,
+  "score": 68,
+  "rating": 2496,
+  "username": "gmtal2026",
+  "title": "CM",
+  "flair": "travel-places.kaaba",
+  "performance": 2421,
+  "sheet": {
+   "scores": "000330030200030005330030000000320205330013223003300030002"
+  }
+ },
+ {
+  "rank": 42,
+  "score": 68,
+  "rating": 2503,
+  "username": "matteorf2b",
+  "title": "CM",
+  "flair": "food-drink.kitchen-knife",
+  "performance": 2384,
+  "sheet": {
+   "scores": "00030330233030005330101003100003310301100533000000330020"
+  }
+ },
+ {
+  "rank": 43,
+  "score": 67,
+  "rating": 2588,
+  "username": "Sadullo_Azizov1",
+  "title": "CM",
+  "performance": 2594,
+  "sheet": {
+   "scores": "004443300004444230003004433003300302"
+  }
+ },
+ {
+  "rank": 44,
+  "score": 67,
+  "rating": 2573,
+  "username": "Gianmarco_es",
+  "title": "IM",
+  "performance": 2543,
+  "sheet": {
+   "scores": "00305331303305533033031053303300"
+  }
+ },
+ {
+  "rank": 45,
+  "score": 66,
+  "rating": 2580,
+  "username": "ilprofessore87",
+  "title": "FM",
+  "flair": "people.brain",
+  "performance": 2538,
+  "sheet": {
+   "scores": "1022104444220020201030423044221202020200020"
+  }
+ },
+ {
+  "rank": 46,
+  "score": 66,
+  "rating": 2612,
+  "username": "goltsev2000",
+  "title": "FM",
+  "performance": 2533,
+  "sheet": {
+   "scores": "03232020301053300030000300053305330533"
+  }
+ },
+ {
+  "rank": 47,
+  "score": 66,
+  "rating": 2541,
+  "username": "Ghost-lupinx",
+  "title": "FM",
+  "flair": "people.supervillain-dark-skin-tone",
+  "performance": 2517,
+  "sheet": {
+   "scores": "1022030022005331302000030443303300033002031200"
+  }
+ },
+ {
+  "rank": 48,
+  "score": 65,
+  "rating": 2638,
+  "username": "Kornflakes1994",
+  "title": "CM",
+  "performance": 2696,
+  "sheet": {
+   "scores": "042201022002042210442200220004444221022"
+  }
+ },
+ {
+  "rank": 49,
+  "score": 64,
+  "rating": 2655,
+  "username": "Bestinblitz",
+  "title": "GM",
+  "performance": 2609,
+  "sheet": {
+   "scores": "003130255330105533005330533"
+  }
+ },
+ {
+  "rank": 50,
+  "score": 64,
+  "rating": 2621,
+  "username": "TheCableBox",
+  "title": "FM",
+  "performance": 2529,
+  "sheet": {
+   "scores": "300303020020422030443200442200020210230023"
+  }
+ },
+ {
+  "rank": 51,
+  "score": 63,
+  "rating": 2475,
+  "username": "Matviy2009",
+  "title": "NM",
+  "flair": "nature.penguin",
+  "performance": 2435,
+  "sheet": {
+   "scores": "0330010033010300305330030000030303001023300130010033"
+  }
+ },
+ {
+  "rank": 52,
+  "score": 62,
+  "rating": 2566,
+  "username": "dariustanz",
+  "title": "IM",
+  "performance": 2530,
+  "sheet": {
+   "scores": "00003030330030003030330004330003030303304330"
+  }
+ },
+ {
+  "rank": 53,
+  "score": 61,
+  "rating": 2525,
+  "username": "Hard_Utilizator",
+  "title": "FM",
+  "flair": "smileys.goblin",
+  "performance": 2640,
+  "sheet": {
+   "scores": "200004220220030044422222032432020222"
+  }
+ },
+ {
+  "rank": 54,
+  "score": 61,
+  "rating": 2565,
+  "username": "EricRosen",
+  "title": "IM",
+  "flair": "travel-places.ambulance",
+  "performance": 2584,
+  "sheet": {
+   "scores": "30100002303033030302100030422032120533022"
+  }
+ },
+ {
+  "rank": 55,
+  "score": 61,
+  "rating": 2485,
+  "username": "schachlatan64",
+  "title": "IM",
+  "performance": 2566,
+  "sheet": {
+   "scores": "422100100102220202002020004220022422044422"
+  }
+ },
+ {
+  "rank": 56,
+  "score": 61,
+  "rating": 2497,
+  "username": "DmitriyBiryuk777",
+  "title": "FM",
+  "performance": 2487,
+  "sheet": {
+   "scores": "00023301030300030030100000002302030200004445433"
+  }
+ },
+ {
+  "rank": 57,
+  "score": 60,
+  "rating": 2325,
+  "username": "Logmann72",
+  "title": "IM",
+  "performance": 2372,
+  "sheet": {
+   "scores": "0005553300000433000303000100523022010003020002"
+  }
+ },
+ {
+  "rank": 58,
+  "score": 57,
+  "rating": 2451,
+  "username": "BulgakDamir",
+  "title": "CM",
+  "flair": "nature.eagle",
+  "performance": 2542,
+  "sheet": {
+   "scores": "0222042202020300200033004320200443202200"
+  }
+ },
+ {
+  "rank": 59,
+  "score": 57,
+  "rating": 2459,
+  "username": "jeppehaldfalk",
+  "title": "FM",
+  "performance": 2523,
+  "sheet": {
+   "scores": "023002221054220000444442200220022"
+  }
+ },
+ {
+  "rank": 60,
+  "score": 57,
+  "rating": 2601,
+  "username": "Arad_Nazari",
+  "title": "IM",
+  "flair": "food-drink.pineapple",
+  "performance": 2488,
+  "sheet": {
+   "scores": "302130000021003202052304533000021233020"
+  }
+ },
+ {
+  "rank": 61,
+  "score": 56,
+  "rating": 2665,
+  "username": "Alex_Sahakyan",
+  "title": "IM",
+  "performance": 2676,
+  "sheet": {
+   "scores": "02042202204444523044422"
+  }
+ },
+ {
+  "rank": 62,
+  "score": 56,
+  "rating": 2387,
+  "username": "Arsen2002",
+  "title": "FM",
+  "performance": 2515,
+  "sheet": {
+   "scores": "000224444222444221002000220223"
+  }
+ },
+ {
+  "rank": 63,
+  "score": 55,
+  "rating": 2538,
+  "username": "IvanMarinkovic",
+  "title": "IM",
+  "performance": 2533,
+  "sheet": {
+   "scores": "00244220020422020022044422002202102"
+  }
+ },
+ {
+  "rank": 64,
+  "score": 55,
+  "rating": 2405,
+  "username": "blue_tiger98",
+  "title": "CM",
+  "flair": "nature.scorpion",
+  "performance": 2513,
+  "sheet": {
+   "scores": "423002244321120221102022010422000202"
+  }
+ },
+ {
+  "rank": 65,
+  "score": 54,
+  "rating": 2473,
+  "username": "Vladimir_Aridov",
+  "title": "FM",
+  "performance": 2516,
+  "sheet": {
+   "scores": "244220010004422022002000210422020422"
+  }
+ },
+ {
+  "rank": 66,
+  "score": 54,
+  "rating": 2517,
+  "username": "mikhailtal20100",
+  "title": "CM",
+  "performance": 2490,
+  "sheet": {
+   "scores": "024230022020422000453203042202002"
+  }
+ },
+ {
+  "rank": 67,
+  "score": 54,
+  "rating": 2386,
+  "username": "Offtherecord",
+  "title": "CM",
+  "flair": "smileys.ghost",
+  "performance": 2362,
+  "sheet": {
+   "scores": "10013005533000200032220330001204220300200"
+  }
+ },
+ {
+  "rank": 68,
+  "score": 54,
+  "rating": 2185,
+  "username": "TaylorPrime",
+  "title": "CM",
+  "flair": "people.santa-claus-medium-skin-tone",
+  "performance": 2239,
+  "sheet": {
+   "scores": "0130300030030000030055330330000000300013003000300003"
+  }
+ },
+ {
+  "rank": 69,
+  "score": 53,
+  "rating": 2463,
+  "username": "Aleksandar-Topalov",
+  "title": "CM",
+  "performance": 2488,
+  "sheet": {
+   "scores": "42202000220020202222020422020204220020102"
+  }
+ },
+ {
+  "rank": 70,
+  "score": 53,
+  "rating": 2419,
+  "username": "KerpetenAta33",
+  "title": "NM",
+  "performance": 2437,
+  "sheet": {
+   "scores": "0004422023030000230002030301300303303000022"
+  }
+ },
+ {
+  "rank": 71,
+  "score": 52,
+  "rating": 2437,
+  "username": "imsorrycheckmate",
+  "title": "NM",
+  "performance": 2429,
+  "sheet": {
+   "scores": "303000002010200222220000442200010042202042200"
+  }
+ },
+ {
+  "rank": 72,
+  "score": 52,
+  "rating": 2435,
+  "username": "Billy_Kimba",
+  "title": "NM",
+  "flair": "activity.chess-pawn",
+  "performance": 2389,
+  "sheet": {
+   "scores": "0003033000030000330030030010305433030033"
+  }
+ },
+ {
+  "rank": 73,
+  "score": 51,
+  "rating": 2458,
+  "username": "NewNr1",
+  "title": "NM",
+  "performance": 2481,
+  "sheet": {
+   "scores": "201001010422000220042202020044442300001"
+  }
+ },
+ {
+  "rank": 74,
+  "score": 51,
+  "rating": 2355,
+  "username": "Dragon_Sword",
+  "title": "NM",
+  "flair": "activity.lichess-horsey",
+  "performance": 2370,
+  "sheet": {
+   "scores": "0001042200000022053303000000230300042200422"
+  }
+ },
+ {
+  "rank": 75,
+  "score": 50,
+  "rating": 2810,
+  "username": "SVODMEVKO",
+  "title": "GM",
+  "performance": 2723,
+  "sheet": {
+   "scores": "003000303033000055553213033"
+  }
+ },
+ {
+  "rank": 76,
+  "score": 50,
+  "rating": 2410,
+  "username": "HabibAmini",
+  "title": "CM",
+  "performance": 2427,
+  "sheet": {
+   "scores": "002000000200220044220004220204442300300"
+  }
+ },
+ {
+  "rank": 77,
+  "score": 49,
+  "rating": 2702,
+  "username": "Mamikon_Gharibyan",
+  "title": "GM",
+  "flair": "smileys.cold-face",
+  "performance": 2688,
+  "sheet": {
+   "scores": "20203104522002220210103323313"
+  }
+ },
+ {
+  "rank": 78,
+  "score": 48,
+  "rating": 2620,
+  "username": "NikolaGry",
+  "title": "FM",
+  "performance": 2549,
+  "sheet": {
+   "scores": "02200212422020202020020004444221"
+  }
+ },
+ {
+  "rank": 79,
+  "score": 48,
+  "rating": 2440,
+  "username": "Yurasova_Daria",
+  "title": "WFM",
+  "flair": "smileys.alien-monster",
+  "performance": 2488,
+  "sheet": {
+   "scores": "2004320303004422032052202000012"
+  }
+ },
+ {
+  "rank": 80,
+  "score": 48,
+  "rating": 2533,
+  "username": "Yurovskykh_Oleksandr",
+  "title": "FM",
+  "flair": "travel-places.anchor",
+  "performance": 2485,
+  "sheet": {
+   "scores": "22220202042200010002242210423000032"
+  }
+ },
+ {
+  "rank": 81,
+  "score": 48,
+  "rating": 2480,
+  "username": "satrancdelisi23",
+  "title": "CM",
+  "flair": "smileys.alien",
+  "performance": 2443,
+  "sheet": {
+   "scores": "000523004442302043303000030003"
+  }
+ },
+ {
+  "rank": 82,
+  "score": 48,
+  "rating": 2241,
+  "username": "Artchessplay",
+  "title": "CM",
+  "performance": 2360,
+  "sheet": {
+   "scores": "422124220200000200022000020102104422010200"
+  }
+ },
+ {
+  "rank": 83,
+  "score": 47,
+  "rating": 2519,
+  "username": "DirikoluDeniz",
+  "title": "CM",
+  "performance": 2583,
+  "sheet": {
+   "scores": "0002022004444220302200002004422"
+  }
+ },
+ {
+  "rank": 84,
+  "score": 47,
+  "rating": 2577,
+  "username": "YasseQuesada",
+  "title": "GM",
+  "performance": 2570,
+  "sheet": {
+   "scores": "003302030423030130301033033022"
+  }
+ },
+ {
+  "rank": 85,
+  "score": 47,
+  "rating": 2458,
+  "username": "chesspawnrookking",
+  "title": "NM",
+  "performance": 2473,
+  "sheet": {
+   "scores": "0444221020444230000533"
+  }
+ },
+ {
+  "rank": 86,
+  "score": 47,
+  "rating": 2278,
+  "username": "Urochess",
+  "title": "FM",
+  "performance": 2254,
+  "sheet": {
+   "scores": "00012025220004422003020002000000010301003300003"
+  }
+ },
+ {
+  "rank": 87,
+  "score": 46,
+  "rating": 2577,
+  "username": "emirislamking",
+  "title": "CM",
+  "flair": "nature.eagle",
+  "performance": 2639,
+  "sheet": {
+   "scores": "000302230000533030000545422"
+  }
+ },
+ {
+  "rank": 88,
+  "score": 46,
+  "rating": 2451,
+  "username": "Victory24601",
+  "title": "FM",
+  "performance": 2460,
+  "sheet": {
+   "scores": "00010222442202202020200220204220120"
+  }
+ },
+ {
+  "rank": 89,
+  "score": 46,
+  "rating": 2456,
+  "username": "Strelok2222",
+  "title": "FM",
+  "performance": 2355,
+  "sheet": {
+   "scores": "00313012231020030033000303003310000020220"
+  }
+ },
+ {
+  "rank": 90,
+  "score": 45,
+  "rating": 2449,
+  "username": "PablosEscobar",
+  "title": "FM",
+  "flair": "smileys.cowboy-hat-face",
+  "performance": 2521,
+  "sheet": {
+   "scores": "00003303000230302031301030303030303"
+  }
+ },
+ {
+  "rank": 91,
+  "score": 45,
+  "rating": 2502,
+  "username": "novik70",
+  "title": "GM",
+  "performance": 2466,
+  "sheet": {
+   "scores": "02200444422044220102000200022"
+  }
+ },
+ {
+  "rank": 92,
+  "score": 45,
+  "rating": 2383,
+  "username": "Klimenko_Sergey_IM",
+  "title": "IM",
+  "performance": 2427,
+  "sheet": {
+   "scores": "02044220002200044442201200220"
+  }
+ },
+ {
+  "rank": 93,
+  "score": 45,
+  "rating": 2467,
+  "username": "Joker123chemp",
+  "title": "IM",
+  "performance": 2426,
+  "sheet": {
+   "scores": "00222010030020310201200200211020330200422"
+  }
+ },
+ {
+  "rank": 94,
+  "score": 45,
+  "rating": 2427,
+  "username": "Phillipe1995",
+  "title": "CM",
+  "performance": 2381,
+  "sheet": {
+   "scores": "00220303000001303000303030310030130003302"
+  }
+ },
+ {
+  "rank": 95,
+  "score": 44,
+  "rating": 2549,
+  "username": "The_Machine04",
+  "title": "IM",
+  "flair": "nature.phoenix-bird",
+  "performance": 2539,
+  "sheet": {
+   "scores": "00031300023004422233033030300"
+  }
+ },
+ {
+  "rank": 96,
+  "score": 44,
+  "rating": 2029,
+  "username": "Caroltorres84",
+  "title": "WFM",
+  "flair": "nature.sun",
+  "performance": 2496,
+  "sheet": {
+   "scores": "2000044442224220004220202"
+  }
+ },
+ {
+  "rank": 97,
+  "score": 44,
+  "rating": 2312,
+  "username": "Fisherman_Pro",
+  "title": "FM",
+  "flair": "objects.musical-notes",
+  "performance": 2466,
+  "sheet": {
+   "scores": "0002002020210204442202020100220422"
+  }
+ },
+ {
+  "rank": 98,
+  "score": 44,
+  "rating": 2379,
+  "username": "koll6",
+  "title": "CM",
+  "flair": "smileys.angry-face-with-horns",
+  "performance": 2450,
+  "sheet": {
+   "scores": "00330242304422020422020100002"
+  }
+ },
+ {
+  "rank": 99,
+  "score": 43,
+  "rating": 2444,
+  "username": "rennafulmine",
+  "title": "NM",
+  "flair": "objects.crown",
+  "performance": 2597,
+  "sheet": {
+   "scores": "01042202022000244220442202"
+  }
+ },
+ {
+  "rank": 100,
+  "score": 43,
+  "rating": 2275,
+  "username": "SacrificialNinja101",
+  "title": "NM",
+  "flair": "people.person-facepalming",
+  "performance": 2338,
+  "sheet": {
+   "scores": "04220321002002000444230001000300220"
+  }
+ },
+ {
+  "rank": 101,
+  "score": 42,
+  "rating": 2215,
+  "username": "PulcinoPro",
+  "title": "NM",
+  "flair": "smileys.face-holding-back-tears",
+  "performance": 2378,
+  "sheet": {
+   "scores": "02001204442200210010002222202012002"
+  }
+ },
+ {
+  "rank": 102,
+  "score": 41,
+  "rating": 2356,
+  "username": "AAPA23",
+  "title": "CM",
+  "performance": 2520,
+  "sheet": {
+   "scores": "4444444422020201"
+  }
+ },
+ {
+  "rank": 103,
+  "score": 40,
+  "rating": 2627,
+  "username": "Firebullet",
+  "title": "IM",
+  "flair": "activity.joker",
+  "performance": 2818,
+  "sheet": {
+   "scores": "44444444422"
+  }
+ },
+ {
+  "rank": 104,
+  "score": 40,
+  "rating": 2806,
+  "username": "IGMGataKamsky",
+  "title": "GM",
+  "performance": 2801,
+  "sheet": {
+   "scores": "01002422120444442211"
+  }
+ },
+ {
+  "rank": 105,
+  "score": 40,
+  "rating": 2536,
+  "username": "pekowitsch",
+  "title": "IM",
+  "performance": 2687,
+  "sheet": {
+   "scores": "3022122202204220204422"
+  }
+ },
+ {
+  "rank": 106,
+  "score": 40,
+  "rating": 2535,
+  "username": "Blind_mole1",
+  "title": "CM",
+  "flair": "people.mx-claus",
+  "performance": 2569,
+  "sheet": {
+   "scores": "0433004220220200200005522"
+  }
+ },
+ {
+  "rank": 107,
+  "score": 40,
+  "rating": 2457,
+  "username": "josiur",
+  "title": "FM",
+  "performance": 2518,
+  "sheet": {
+   "scores": "00422022442202204422"
+  }
+ },
+ {
+  "rank": 108,
+  "score": 40,
+  "rating": 2424,
+  "username": "Shivananda1964",
+  "title": "FM",
+  "performance": 2427,
+  "sheet": {
+   "scores": "0020220204422000422000422022000"
+  }
+ },
+ {
+  "rank": 109,
+  "score": 39,
+  "rating": 2397,
+  "username": "Gransiurell",
+  "title": "FM",
+  "performance": 2382,
+  "sheet": {
+   "scores": "22002200101204442201202002022"
+  }
+ },
+ {
+  "rank": 110,
+  "score": 39,
+  "rating": 2384,
+  "username": "Paff_Morris_Twitch",
+  "title": "CM",
+  "flair": "nature.gorilla",
+  "performance": 2312,
+  "sheet": {
+   "scores": "044220002000202112020000020020422102"
+  }
+ },
+ {
+  "rank": 111,
+  "score": 39,
+  "rating": 2183,
+  "username": "zorch81",
+  "title": "NM",
+  "performance": 2146,
+  "sheet": {
+   "scores": "300001003033000303300000003002020002100002012002"
+  }
+ },
+ {
+  "rank": 112,
+  "score": 38,
+  "rating": 2605,
+  "username": "The_Fawkes",
+  "title": "FM",
+  "performance": 2608,
+  "sheet": {
+   "scores": "2000432020522044422"
+  }
+ },
+ {
+  "rank": 113,
+  "score": 38,
+  "rating": 2550,
+  "username": "Saif_2004_JOR",
+  "title": "CM",
+  "flair": "symbols.heart-on-fire",
+  "performance": 2542,
+  "sheet": {
+   "scores": "030330300042203225330"
+  }
+ },
+ {
+  "rank": 114,
+  "score": 38,
+  "rating": 2522,
+  "username": "IGS_Progresa",
+  "title": "FM",
+  "performance": 2511,
+  "sheet": {
+   "scores": "0002023202120330033030322200"
+  }
+ },
+ {
+  "rank": 115,
+  "score": 38,
+  "rating": 2350,
+  "username": "nemtsevguru",
+  "title": "FM",
+  "flair": "smileys.beaming-face-with-smiling-eyes",
+  "performance": 2401,
+  "sheet": {
+   "scores": "0022020202020020002044221010220202"
+  }
+ },
+ {
+  "rank": 116,
+  "score": 38,
+  "rating": 2343,
+  "username": "BillieJoe",
+  "title": "FM",
+  "performance": 2305,
+  "sheet": {
+   "scores": "2000020000022044220000002002422022020"
+  }
+ },
+ {
+  "rank": 117,
+  "score": 38,
+  "rating": 2252,
+  "username": "Efremova",
+  "title": "WIM",
+  "performance": 2216,
+  "sheet": {
+   "scores": "00533000533033010300000000220200"
+  }
+ },
+ {
+  "rank": 118,
+  "score": 37,
+  "rating": 2574,
+  "username": "Garayev_Kanan",
+  "title": "IM",
+  "performance": 2556,
+  "sheet": {
+   "scores": "005330555533"
+  }
+ },
+ {
+  "rank": 119,
+  "score": 37,
+  "rating": 2549,
+  "username": "QWERT0808",
+  "title": "CM",
+  "flair": "people.right-facing-fist",
+  "performance": 2528,
+  "sheet": {
+   "scores": "00200000012422000044221000533"
+  }
+ },
+ {
+  "rank": 120,
+  "score": 37,
+  "rating": 2438,
+  "username": "Alexr58",
+  "title": "IM",
+  "performance": 2326,
+  "sheet": {
+   "scores": "0220202012030020200202042200020000230"
+  }
+ },
+ {
+  "rank": 121,
+  "score": 36,
+  "rating": 2789,
+  "username": "BenjaminBokTwitch",
+  "title": "GM",
+  "performance": 2685,
+  "sheet": {
+   "scores": "2004553325330010"
+  }
+ },
+ {
+  "rank": 122,
+  "score": 36,
+  "rating": 2551,
+  "username": "Miguelho67",
+  "title": "IM",
+  "performance": 2666,
+  "sheet": {
+   "scores": "4444422044220"
+  }
+ },
+ {
+  "rank": 123,
+  "score": 36,
+  "rating": 2316,
+  "username": "harunov",
+  "title": "FM",
+  "performance": 2458,
+  "sheet": {
+   "scores": "004220452202020020422100"
+  }
+ },
+ {
+  "rank": 124,
+  "score": 36,
+  "rating": 2267,
+  "username": "speshu",
+  "title": "FM",
+  "flair": "activity.running-shirt",
+  "performance": 2336,
+  "sheet": {
+   "scores": "02202120022120202004422002020"
+  }
+ },
+ {
+  "rank": 125,
+  "score": 36,
+  "rating": 2522,
+  "username": "SamTakoj",
+  "title": "FM",
+  "flair": "smileys.face-screaming-in-fear-blob",
+  "performance": 2336,
+  "sheet": {
+   "scores": "000055330033002000303303"
+  }
+ },
+ {
+  "rank": 126,
+  "score": 35,
+  "rating": 2489,
+  "username": "Serog1sPerog1s",
+  "title": "NM",
+  "performance": 2419,
+  "sheet": {
+   "scores": "0220003000304422131030302"
+  }
+ },
+ {
+  "rank": 127,
+  "score": 34,
+  "rating": 2652,
+  "username": "gmadham",
+  "title": "GM",
+  "flair": "food-drink.watermelon",
+  "performance": 2624,
+  "sheet": {
+   "scores": "0300300030330533233"
+  }
+ },
+ {
+  "rank": 128,
+  "score": 34,
+  "rating": 2406,
+  "username": "MrTarrasch",
+  "title": "FM",
+  "flair": "people.person-lifting-weights-medium-light-skin-tone",
+  "performance": 2460,
+  "sheet": {
+   "scores": "0444220020220000000242202"
+  }
+ },
+ {
+  "rank": 129,
+  "score": 34,
+  "rating": 2401,
+  "username": "XilacOrigami",
+  "title": "NM",
+  "flair": "food-drink.croissant",
+  "performance": 2229,
+  "sheet": {
+   "scores": "30030130003033030303000300000003"
+  }
+ },
+ {
+  "rank": 130,
+  "score": 34,
+  "rating": 2200,
+  "username": "Reynold9402",
+  "title": "FM",
+  "performance": 2117,
+  "sheet": {
+   "scores": "00220330003003030033030000330"
+  }
+ },
+ {
+  "rank": 131,
+  "score": 33,
+  "rating": 2236,
+  "username": "Genarovsky",
+  "title": "NM",
+  "performance": 2285,
+  "sheet": {
+   "scores": "20220442200022001210002102200"
+  }
+ },
+ {
+  "rank": 132,
+  "score": 33,
+  "rating": 2298,
+  "username": "pakarma",
+  "title": "FM",
+  "performance": 2232,
+  "sheet": {
+   "scores": "00301000433100010053300030000030"
+  }
+ },
+ {
+  "rank": 133,
+  "score": 32,
+  "rating": 2660,
+  "username": "Koenigsindisch",
+  "title": "IM",
+  "performance": 2780,
+  "sheet": {
+   "scores": "0202220220444422"
+  }
+ },
+ {
+  "rank": 134,
+  "score": 32,
+  "rating": 2743,
+  "username": "Cruel_Yaro",
+  "title": "GM",
+  "performance": 2775,
+  "sheet": {
+   "scores": "0444444422"
+  }
+ },
+ {
+  "rank": 135,
+  "score": 32,
+  "rating": 2567,
+  "username": "Matinghffarifar",
+  "title": "FM",
+  "flair": "objects.stethoscope",
+  "performance": 2725,
+  "sheet": {
+   "scores": "0204221200203204422"
+  }
+ },
+ {
+  "rank": 136,
+  "score": 32,
+  "rating": 2644,
+  "username": "Daskevich",
+  "title": "IM",
+  "performance": 2573,
+  "sheet": {
+   "scores": "220012002444220022120"
+  }
+ },
+ {
+  "rank": 137,
+  "score": 32,
+  "rating": 2434,
+  "username": "guillembaches",
+  "title": "IM",
+  "performance": 2402,
+  "sheet": {
+   "scores": "4221020020020222422100011"
+  }
+ },
+ {
+  "rank": 138,
+  "score": 32,
+  "rating": 2433,
+  "username": "Mimma",
+  "title": "CM",
+  "flair": "smileys.yawning-face",
+  "performance": 2354,
+  "sheet": {
+   "scores": "0000320204220320020220312000"
+  }
+ },
+ {
+  "rank": 139,
+  "score": 32,
+  "rating": 2302,
+  "username": "MetreveliG",
+  "title": "NM",
+  "flair": "nature.frog",
+  "performance": 2331,
+  "sheet": {
+   "scores": "004442200000444220"
+  }
+ },
+ {
+  "rank": 140,
+  "score": 32,
+  "rating": 2183,
+  "username": "kulik2007",
+  "title": "NM",
+  "flair": "nature.microbe",
+  "performance": 2297,
+  "sheet": {
+   "scores": "00422000212120200020020000220200022"
+  }
+ },
+ {
+  "rank": 141,
+  "score": 32,
+  "rating": 2305,
+  "username": "Mossadcentral",
+  "title": "FM",
+  "performance": 2209,
+  "sheet": {
+   "scores": "000001030330000030003000000000055330"
+  }
+ },
+ {
+  "rank": 142,
+  "score": 31,
+  "rating": 2514,
+  "username": "Krutoiizekb2003",
+  "title": "NM",
+  "performance": 2562,
+  "sheet": {
+   "scores": "020220220230444220"
+  }
+ },
+ {
+  "rank": 143,
+  "score": 31,
+  "rating": 2471,
+  "username": "KingsCordial",
+  "title": "FM",
+  "performance": 2497,
+  "sheet": {
+   "scores": "000104230030220200004422"
+  }
+ },
+ {
+  "rank": 144,
+  "score": 31,
+  "rating": 2377,
+  "username": "Immortal-Fighter",
+  "title": "FM",
+  "performance": 2435,
+  "sheet": {
+   "scores": "00200020000120202044433002"
+  }
+ },
+ {
+  "rank": 145,
+  "score": 31,
+  "rating": 2325,
+  "username": "smotherhubbard",
+  "title": "FM",
+  "performance": 2313,
+  "sheet": {
+   "scores": "00220020423020220220000000002202"
+  }
+ },
+ {
+  "rank": 146,
+  "score": 31,
+  "rating": 2021,
+  "username": "Sabreena",
+  "title": "WCM",
+  "performance": 2303,
+  "sheet": {
+   "scores": "000002202003022200022202002102003"
+  }
+ },
+ {
+  "rank": 147,
+  "score": 31,
+  "rating": 2293,
+  "username": "tunacem",
+  "title": "CM",
+  "performance": 2299,
+  "sheet": {
+   "scores": "2002020220120221022120020002000020"
+  }
+ },
+ {
+  "rank": 148,
+  "score": 30,
+  "rating": 2812,
+  "username": "Cruise97",
+  "title": "GM",
+  "performance": 2593,
+  "sheet": {
+   "scores": "22021020222442212"
+  }
+ },
+ {
+  "rank": 149,
+  "score": 30,
+  "rating": 2416,
+  "username": "Umumba",
+  "title": "FM",
+  "performance": 2570,
+  "sheet": {
+   "scores": "5320004422004220"
+  }
+ },
+ {
+  "rank": 150,
+  "score": 30,
+  "rating": 2475,
+  "username": "Slea",
+  "title": "FM",
+  "performance": 2566,
+  "sheet": {
+   "scores": "02204220321000004422"
+  }
+ },
+ {
+  "rank": 151,
+  "score": 30,
+  "rating": 2398,
+  "username": "A_H_Kashefi",
+  "title": "FM",
+  "flair": "symbols.currency-exchange",
+  "performance": 2385,
+  "sheet": {
+   "scores": "0553300330300230"
+  }
+ },
+ {
+  "rank": 152,
+  "score": 30,
+  "rating": 2319,
+  "username": "kekic76",
+  "title": "CM",
+  "performance": 2279,
+  "sheet": {
+   "scores": "22201044220022000300020002"
+  }
+ },
+ {
+  "rank": 153,
+  "score": 30,
+  "rating": 2141,
+  "username": "king_of_australia",
+  "title": "CM",
+  "flair": "smileys.cold-face",
+  "performance": 2210,
+  "sheet": {
+   "scores": "1042200212020200000000012000202021200"
+  }
+ },
+ {
+  "rank": 154,
+  "score": 29,
+  "rating": 2302,
+  "username": "Vanellope04",
+  "title": "WFM",
+  "performance": 2675,
+  "sheet": {
+   "scores": "0042304452212"
+  }
+ },
+ {
+  "rank": 155,
+  "score": 29,
+  "rating": 2528,
+  "username": "NguyenDucHoa",
+  "title": "GM",
+  "performance": 2541,
+  "sheet": {
+   "scores": "0002022032020220442200"
+  }
+ },
+ {
+  "rank": 156,
+  "score": 29,
+  "rating": 2326,
+  "username": "Dangor",
+  "title": "IM",
+  "performance": 2362,
+  "sheet": {
+   "scores": "0442202020222200010220"
+  }
+ },
+ {
+  "rank": 157,
+  "score": 29,
+  "rating": 2289,
+  "username": "Byf",
+  "title": "WFM",
+  "performance": 2324,
+  "sheet": {
+   "scores": "2300120212042212021000020"
+  }
+ },
+ {
+  "rank": 158,
+  "score": 29,
+  "rating": 2167,
+  "username": "iAspet",
+  "title": "CM",
+  "performance": 2121,
+  "sheet": {
+   "scores": "2001020000442210002200000000200000100202"
+  }
+ },
+ {
+  "rank": 159,
+  "score": 28,
+  "rating": 2355,
+  "username": "Puerco",
+  "title": "NM",
+  "flair": "nature.pig-face",
+  "performance": 2326,
+  "sheet": {
+   "scores": "44220002200442200"
+  }
+ },
+ {
+  "rank": 160,
+  "score": 28,
+  "rating": 2103,
+  "username": "FabianPonzo",
+  "title": "NM",
+  "flair": "nature.fire",
+  "performance": 2213,
+  "sheet": {
+   "scores": "0020020220020004442202"
+  }
+ },
+ {
+  "rank": 161,
+  "score": 27,
+  "rating": 2316,
+  "username": "GmenLudo",
+  "title": "NM",
+  "performance": 2533,
+  "sheet": {
+   "scores": "30331300030000533"
+  }
+ },
+ {
+  "rank": 162,
+  "score": 27,
+  "rating": 2632,
+  "username": "BabaRamdev",
+  "title": "GM",
+  "flair": "activity.lichess-hogger",
+  "performance": 2507,
+  "sheet": {
+   "scores": "0300554532"
+  }
+ },
+ {
+  "rank": 163,
+  "score": 27,
+  "rating": 2470,
+  "username": "kaua18",
+  "title": "FM",
+  "performance": 2417,
+  "sheet": {
+   "scores": "00000000233004423030003"
+  }
+ },
+ {
+  "rank": 164,
+  "score": 27,
+  "rating": 2277,
+  "username": "Nyameba",
+  "title": "CM",
+  "flair": "smileys.ghost",
+  "performance": 2244,
+  "sheet": {
+   "scores": "10220220042200022000220000020"
+  }
+ },
+ {
+  "rank": 165,
+  "score": 27,
+  "rating": 2148,
+  "username": "Rasputin20202",
+  "title": "FM",
+  "performance": 2064,
+  "sheet": {
+   "scores": "000044220020000000200202003202000000"
+  }
+ },
+ {
+  "rank": 166,
+  "score": 26,
+  "rating": 2550,
+  "username": "piotrek212",
+  "title": "CM",
+  "flair": "smileys.smiling-face-with-sunglasses",
+  "performance": 2651,
+  "sheet": {
+   "scores": "24220220422000220"
+  }
+ },
+ {
+  "rank": 167,
+  "score": 26,
+  "rating": 2339,
+  "username": "RichardAlejandro9006",
+  "title": "IM",
+  "performance": 2450,
+  "sheet": {
+   "scores": "002003325533"
+  }
+ },
+ {
+  "rank": 168,
+  "score": 26,
+  "rating": 2261,
+  "username": "ivanrojo",
+  "title": "CM",
+  "performance": 2404,
+  "sheet": {
+   "scores": "04220422020422000"
+  }
+ },
+ {
+  "rank": 169,
+  "score": 26,
+  "rating": 2331,
+  "username": "ava1411",
+  "title": "FM",
+  "flair": "symbols.growing-heart",
+  "performance": 2342,
+  "sheet": {
+   "scores": "20211222042202200200"
+  }
+ },
+ {
+  "rank": 170,
+  "score": 26,
+  "rating": 2273,
+  "username": "Lily-lissana",
+  "title": "IM",
+  "performance": 2144,
+  "sheet": {
+   "scores": "000222020000002002200200422002000"
+  }
+ },
+ {
+  "rank": 171,
+  "score": 25,
+  "rating": 2460,
+  "username": "HardDrive54",
+  "title": "CM",
+  "performance": 2394,
+  "sheet": {
+   "scores": "00330000033003100303030"
+  }
+ },
+ {
+  "rank": 172,
+  "score": 25,
+  "rating": 2300,
+  "username": "HaraldEtuna",
+  "title": "FM",
+  "performance": 2326,
+  "sheet": {
+   "scores": "00212442202001210101"
+  }
+ },
+ {
+  "rank": 173,
+  "score": 25,
+  "rating": 2322,
+  "username": "ScrewlessMachine",
+  "title": "NM",
+  "performance": 2258,
+  "sheet": {
+   "scores": "033000000010000030000330330003"
+  }
+ },
+ {
+  "rank": 174,
+  "score": 24,
+  "rating": 2547,
+  "username": "DonFulgencio",
+  "title": "IM",
+  "performance": 2746,
+  "sheet": {
+   "scores": "4444422"
+  }
+ },
+ {
+  "rank": 175,
+  "score": 24,
+  "rating": 2491,
+  "username": "mobil",
+  "title": "NM",
+  "performance": 2595,
+  "sheet": {
+   "scores": "00044443302"
+  }
+ },
+ {
+  "rank": 176,
+  "score": 24,
+  "rating": 2249,
+  "username": "waltereador",
+  "title": "FM",
+  "flair": "people.man-biking-light-skin-tone",
+  "performance": 2391,
+  "sheet": {
+   "scores": "04444220020002"
+  }
+ },
+ {
+  "rank": 177,
+  "score": 24,
+  "rating": 2292,
+  "username": "kasztan_10",
+  "title": "WCM",
+  "flair": "food-drink.chestnut",
+  "performance": 2268,
+  "sheet": {
+   "scores": "00002000200422000422002200"
+  }
+ },
+ {
+  "rank": 178,
+  "score": 24,
+  "rating": 2355,
+  "username": "PowerThinking2650",
+  "title": "IM",
+  "performance": 2237,
+  "sheet": {
+   "scores": "42200030300000030002212"
+  }
+ },
+ {
+  "rank": 179,
+  "score": 24,
+  "rating": 2207,
+  "username": "secretpieces6",
+  "title": "WCM",
+  "flair": "food-drink.green-apple",
+  "performance": 2226,
+  "sheet": {
+   "scores": "00000002001000222024221200020"
+  }
+ },
+ {
+  "rank": 180,
+  "score": 24,
+  "rating": 2179,
+  "username": "jab2015",
+  "title": "NM",
+  "performance": 2199,
+  "sheet": {
+   "scores": "20022222002222000000200000200"
+  }
+ },
+ {
+  "rank": 181,
+  "score": 24,
+  "rating": 2294,
+  "username": "Kondor75",
+  "title": "IM",
+  "performance": 2132,
+  "sheet": {
+   "scores": "003200300000001000000103000533000"
+  }
+ },
+ {
+  "rank": 182,
+  "score": 24,
+  "rating": 2165,
+  "username": "malkalmardgh",
+  "title": "CM",
+  "performance": 2129,
+  "sheet": {
+   "scores": "300002002002002300000000000030030000022"
+  }
+ },
+ {
+  "rank": 183,
+  "score": 23,
+  "rating": 2640,
+  "username": "Oganian_Miran",
+  "title": "IM",
+  "performance": 2470,
+  "sheet": {
+   "scores": "00330124523"
+  }
+ },
+ {
+  "rank": 184,
+  "score": 23,
+  "rating": 2442,
+  "username": "luizbuganca",
+  "title": "CM",
+  "flair": "symbols.blue-heart",
+  "performance": 2375,
+  "sheet": {
+   "scores": "00300031103130021102020"
+  }
+ },
+ {
+  "rank": 185,
+  "score": 23,
+  "rating": 2306,
+  "username": "AdrianoNunesFX",
+  "title": "CM",
+  "flair": "travel-places.classical-building",
+  "performance": 2188,
+  "sheet": {
+   "scores": "20000000012022020000044220"
+  }
+ },
+ {
+  "rank": 186,
+  "score": 22,
+  "rating": 2320,
+  "username": "Konek_Gorbunok",
+  "title": "FM",
+  "performance": 2432,
+  "sheet": {
+   "scores": "02042200104221002"
+  }
+ },
+ {
+  "rank": 187,
+  "score": 22,
+  "rating": 2247,
+  "username": "Sandro2011",
+  "title": "CM",
+  "flair": "activity.chess-pawn",
+  "performance": 2421,
+  "sheet": {
+   "scores": "0202002020000442202"
+  }
+ },
+ {
+  "rank": 188,
+  "score": 22,
+  "rating": 2359,
+  "username": "Isurox",
+  "title": "FM",
+  "performance": 2344,
+  "sheet": {
+   "scores": "000004422000020422"
+  }
+ },
+ {
+  "rank": 189,
+  "score": 22,
+  "rating": 2302,
+  "username": "Pawnstructures",
+  "title": "CM",
+  "performance": 2257,
+  "sheet": {
+   "scores": "44422000020002200"
+  }
+ },
+ {
+  "rank": 190,
+  "score": 22,
+  "rating": 2231,
+  "username": "Ashiev_Eduard",
+  "title": "FM",
+  "performance": 2123,
+  "sheet": {
+   "scores": "10202020000220002000022002000201"
+  }
+ },
+ {
+  "rank": 191,
+  "score": 21,
+  "rating": 2604,
+  "username": "maciek_92",
+  "title": "GM",
+  "performance": 2672,
+  "sheet": {
+   "scores": "055533"
+  }
+ },
+ {
+  "rank": 192,
+  "score": 21,
+  "rating": 2439,
+  "username": "banane_verte",
+  "title": "FM",
+  "performance": 2429,
+  "sheet": {
+   "scores": "0020022002201204220"
+  }
+ },
+ {
+  "rank": 193,
+  "score": 21,
+  "rating": 2539,
+  "username": "Gagarinec",
+  "title": "IM",
+  "performance": 2317,
+  "sheet": {
+   "scores": "3020003123300022"
+  }
+ },
+ {
+  "rank": 194,
+  "score": 21,
+  "rating": 2347,
+  "username": "khalilovchess2009",
+  "title": "CM",
+  "performance": 2314,
+  "sheet": {
+   "scores": "002021020220042200200"
+  }
+ },
+ {
+  "rank": 195,
+  "score": 21,
+  "rating": 2103,
+  "username": "entrenador_Lcst",
+  "title": "NM",
+  "flair": "activity.chess",
+  "performance": 2085,
+  "sheet": {
+   "scores": "0012002200020200042200000020000"
+  }
+ },
+ {
+  "rank": 196,
+  "score": 20,
+  "rating": 2369,
+  "username": "Shahistja",
+  "title": "WFM",
+  "performance": 2660,
+  "sheet": {
+   "scores": "2202200422022"
+  }
+ },
+ {
+  "rank": 197,
+  "score": 20,
+  "rating": 2467,
+  "username": "Maletaja1",
+  "title": "CM",
+  "flair": "objects.mouse-trap",
+  "performance": 2449,
+  "sheet": {
+   "scores": "020020220042200220"
+  }
+ },
+ {
+  "rank": 198,
+  "score": 20,
+  "rating": 2379,
+  "username": "Hanbutaev_2012",
+  "title": "NM",
+  "performance": 2448,
+  "sheet": {
+   "scores": "20220000202223120"
+  }
+ },
+ {
+  "rank": 199,
+  "score": 20,
+  "rating": 2356,
+  "username": "wgraif",
+  "title": "FM",
+  "flair": "objects.sunglasses",
+  "performance": 2409,
+  "sheet": {
+   "scores": "2000042200204220"
+  }
+ },
+ {
+  "rank": 200,
+  "score": 20,
+  "rating": 2359,
+  "username": "Boglad",
+  "title": "CM",
+  "flair": "activity.pool-8-ball",
+  "performance": 2376,
+  "sheet": {
+   "scores": "00202000220020200422"
+  }
+ },
+ {
+  "rank": 201,
+  "score": 20,
+  "rating": 2312,
+  "username": "Barrsik007",
+  "title": "IM",
+  "performance": 2358,
+  "sheet": {
+   "scores": "00453302030"
+  }
+ },
+ {
+  "rank": 202,
+  "score": 20,
+  "rating": 2221,
+  "username": "kaissa10",
+  "title": "WFM",
+  "flair": "activity.chess-pawn",
+  "performance": 2286,
+  "sheet": {
+   "scores": "003200330001000002033"
+  }
+ },
+ {
+  "rank": 203,
+  "score": 20,
+  "rating": 2182,
+  "username": "Gica505",
+  "title": "CM",
+  "flair": "activity.lichess-variant-960",
+  "performance": 2219,
+  "sheet": {
+   "scores": "20200202002220202200"
+  }
+ },
+ {
+  "rank": 204,
+  "score": 19,
+  "rating": 2470,
+  "username": "zehra77",
+  "title": "WFM",
+  "performance": 2541,
+  "sheet": {
+   "scores": "0002022042212101"
+  }
+ },
+ {
+  "rank": 205,
+  "score": 19,
+  "rating": 2563,
+  "username": "KP213",
+  "title": "IM",
+  "performance": 2522,
+  "sheet": {
+   "scores": "204330320002"
+  }
+ },
+ {
+  "rank": 206,
+  "score": 19,
+  "rating": 2413,
+  "username": "MrMasterMak",
+  "title": "CM",
+  "flair": "objects.crown",
+  "performance": 2489,
+  "sheet": {
+   "scores": "00021004220202022"
+  }
+ },
+ {
+  "rank": 207,
+  "score": 19,
+  "rating": 2323,
+  "username": "jomarag",
+  "title": "FM",
+  "performance": 2463,
+  "sheet": {
+   "scores": "0442300020022"
+  }
+ },
+ {
+  "rank": 208,
+  "score": 19,
+  "rating": 2397,
+  "username": "TeAbro",
+  "title": "NM",
+  "performance": 2402,
+  "sheet": {
+   "scores": "310321000043200"
+  }
+ },
+ {
+  "rank": 209,
+  "score": 19,
+  "rating": 2251,
+  "username": "Kvaidan",
+  "title": "CM",
+  "performance": 2254,
+  "sheet": {
+   "scores": "02201044220200000"
+  }
+ },
+ {
+  "rank": 210,
+  "score": 18,
+  "rating": 2223,
+  "username": "Khamzat_BChimaev14",
+  "title": "CM",
+  "performance": 2422,
+  "sheet": {
+   "scores": "00020000011204422"
+  }
+ },
+ {
+  "rank": 211,
+  "score": 18,
+  "rating": 2492,
+  "username": "Igrok_V_Proshlom",
+  "title": "FM",
+  "flair": "smileys.ogre",
+  "performance": 2320,
+  "sheet": {
+   "scores": "0044220001021002"
+  }
+ },
+ {
+  "rank": 212,
+  "score": 18,
+  "rating": 2303,
+  "username": "Jake0206",
+  "title": "NM",
+  "performance": 2306,
+  "sheet": {
+   "scores": "005533020"
+  }
+ },
+ {
+  "rank": 213,
+  "score": 18,
+  "rating": 2236,
+  "username": "Jaqueline142",
+  "title": "WCM",
+  "flair": "nature.mammoth",
+  "performance": 2104,
+  "sheet": {
+   "scores": "010004220000200020022010"
+  }
+ },
+ {
+  "rank": 214,
+  "score": 17,
+  "rating": 2396,
+  "username": "Yeknafar",
+  "title": "FM",
+  "performance": 2495,
+  "sheet": {
+   "scores": "22021200422"
+  }
+ },
+ {
+  "rank": 215,
+  "score": 17,
+  "rating": 2246,
+  "username": "carloseduar100",
+  "title": "FM",
+  "performance": 2394,
+  "sheet": {
+   "scores": "02102204220200"
+  }
+ },
+ {
+  "rank": 216,
+  "score": 17,
+  "rating": 2440,
+  "username": "Siarinho",
+  "title": "FM",
+  "performance": 2375,
+  "sheet": {
+   "scores": "010020000244220"
+  }
+ },
+ {
+  "rank": 217,
+  "score": 17,
+  "rating": 2133,
+  "username": "mnmassari",
+  "title": "NM",
+  "performance": 2215,
+  "sheet": {
+   "scores": "200210200202002000000220"
+  }
+ },
+ {
+  "rank": 218,
+  "score": 17,
+  "rating": 2253,
+  "username": "PrDrProper",
+  "title": "NM",
+  "flair": "symbols.heavy-dollar-sign",
+  "performance": 2164,
+  "sheet": {
+   "scores": "00223004220000002000"
+  }
+ },
+ {
+  "rank": 219,
+  "score": 16,
+  "rating": 2737,
+  "username": "lagartodeleyende",
+  "title": "IM",
+  "performance": 2858,
+  "sheet": {
+   "scores": "044422"
+  }
+ },
+ {
+  "rank": 220,
+  "score": 16,
+  "rating": 2692,
+  "username": "IgorVershinin2009",
+  "title": "FM",
+  "flair": "smileys.alien",
+  "performance": 2756,
+  "sheet": {
+   "scores": "0044422"
+  }
+ },
+ {
+  "rank": 221,
+  "score": 16,
+  "rating": 2197,
+  "username": "KingDray",
+  "title": "FM",
+  "flair": "activity.chess-pawn",
+  "performance": 2445,
+  "sheet": {
+   "scores": "442201210"
+  }
+ },
+ {
+  "rank": 222,
+  "score": 16,
+  "rating": 2351,
+  "username": "TreinadorBR",
+  "title": "CM",
+  "performance": 2353,
+  "sheet": {
+   "scores": "022020022002022"
+  }
+ },
+ {
+  "rank": 223,
+  "score": 16,
+  "rating": 2238,
+  "username": "Sesenco",
+  "title": "FM",
+  "performance": 2274,
+  "sheet": {
+   "scores": "022000220002202020"
+  }
+ },
+ {
+  "rank": 224,
+  "score": 16,
+  "rating": 2188,
+  "username": "Kyrie-Irving",
+  "title": "FM",
+  "performance": 2179,
+  "sheet": {
+   "scores": "0000044220000022"
+  }
+ },
+ {
+  "rank": 225,
+  "score": 15,
+  "rating": 2598,
+  "username": "hamidtahmasebiii",
+  "title": "FM",
+  "performance": 2783,
+  "sheet": {
+   "scores": "005433"
+  }
+ },
+ {
+  "rank": 226,
+  "score": 15,
+  "rating": 2378,
+  "username": "chesslh",
+  "title": "CM",
+  "performance": 2510,
+  "sheet": {
+   "scores": "0422012022"
+  }
+ },
+ {
+  "rank": 227,
+  "score": 15,
+  "rating": 2384,
+  "username": "strawberry11",
+  "title": "WIM",
+  "flair": "activity.sparkles",
+  "performance": 2219,
+  "sheet": {
+   "scores": "1200030303300000"
+  }
+ },
+ {
+  "rank": 228,
+  "score": 14,
+  "rating": 2545,
+  "username": "juancruzariasTDF",
+  "title": "FM",
+  "performance": 2520,
+  "sheet": {
+   "scores": "0330422"
+  }
+ },
+ {
+  "rank": 229,
+  "score": 14,
+  "rating": 2241,
+  "username": "Nersisyan_Garnik",
+  "title": "CM",
+  "performance": 2317,
+  "sheet": {
+   "scores": "0022011102200102"
+  }
+ },
+ {
+  "rank": 230,
+  "score": 14,
+  "rating": 2169,
+  "username": "FRAM3D_T",
+  "title": "CM",
+  "performance": 2261,
+  "sheet": {
+   "scores": "000220042202"
+  }
+ },
+ {
+  "rank": 231,
+  "score": 14,
+  "rating": 2282,
+  "username": "Prohorov_Olexandr123",
+  "title": "NM",
+  "performance": 2258,
+  "sheet": {
+   "scores": "02202000220000220"
+  }
+ },
+ {
+  "rank": 232,
+  "score": 14,
+  "rating": 2221,
+  "username": "Dani097",
+  "title": "CM",
+  "flair": "smileys.cold-face",
+  "performance": 2241,
+  "sheet": {
+   "scores": "02002202202002"
+  }
+ },
+ {
+  "rank": 233,
+  "score": 14,
+  "rating": 2324,
+  "username": "ultrahunter",
+  "title": "NM",
+  "performance": 2191,
+  "sheet": {
+   "scores": "020002042200020"
+  }
+ },
+ {
+  "rank": 234,
+  "score": 14,
+  "rating": 2085,
+  "username": "Kamillo",
+  "title": "NM",
+  "performance": 1993,
+  "sheet": {
+   "scores": "0002000220000000000202200000020000"
+  }
+ },
+ {
+  "rank": 235,
+  "score": 13,
+  "rating": 2611,
+  "username": "AmbartsumianTyhran",
+  "title": "CM",
+  "flair": "objects.teddy-bear",
+  "performance": 2629,
+  "sheet": {
+   "scores": "023000422"
+  }
+ },
+ {
+  "rank": 236,
+  "score": 13,
+  "rating": 2536,
+  "username": "Pabllik1983",
+  "title": "FM",
+  "performance": 2571,
+  "sheet": {
+   "scores": "4220212"
+  }
+ },
+ {
+  "rank": 237,
+  "score": 13,
+  "rating": 2295,
+  "username": "fuglfonix",
+  "title": "CM",
+  "performance": 2370,
+  "sheet": {
+   "scores": "0002202212020"
+  }
+ },
+ {
+  "rank": 238,
+  "score": 13,
+  "rating": 2335,
+  "username": "hectorjose02",
+  "title": "FM",
+  "flair": "activity.lichess-bullet",
+  "performance": 2358,
+  "sheet": {
+   "scores": "100242202"
+  }
+ },
+ {
+  "rank": 239,
+  "score": 13,
+  "rating": 2480,
+  "username": "LuukDeGrote",
+  "title": "FM",
+  "flair": "nature.hedgehog",
+  "performance": 2342,
+  "sheet": {
+   "scores": "20202120202"
+  }
+ },
+ {
+  "rank": 240,
+  "score": 13,
+  "rating": 2510,
+  "username": "maciejos95",
+  "title": "IM",
+  "performance": 2331,
+  "sheet": {
+   "scores": "004422010"
+  }
+ },
+ {
+  "rank": 241,
+  "score": 13,
+  "rating": 2170,
+  "username": "JS2606",
+  "title": "FM",
+  "performance": 2189,
+  "sheet": {
+   "scores": "000042201022"
+  }
+ },
+ {
+  "rank": 242,
+  "score": 13,
+  "rating": 2325,
+  "username": "Otrovnipacov2405",
+  "title": "FM",
+  "performance": 2143,
+  "sheet": {
+   "scores": "0220211020020010"
+  }
+ },
+ {
+  "rank": 243,
+  "score": 13,
+  "rating": 2026,
+  "username": "Margim",
+  "title": "NM",
+  "performance": 1957,
+  "sheet": {
+   "scores": "00200020020000020000000002100002000000"
+  }
+ },
+ {
+  "rank": 244,
+  "score": 12,
+  "rating": 2776,
+  "username": "Eagle_2019",
+  "title": "GM",
+  "performance": 2680,
+  "sheet": {
+   "scores": "044220"
+  }
+ },
+ {
+  "rank": 245,
+  "score": 12,
+  "rating": 2313,
+  "username": "Unununium",
+  "title": "NM",
+  "performance": 2545,
+  "sheet": {
+   "scores": "220422"
+  }
+ },
+ {
+  "rank": 246,
+  "score": 12,
+  "rating": 2509,
+  "username": "rotaberg",
+  "title": "IM",
+  "performance": 2440,
+  "sheet": {
+   "scores": "0422022"
+  }
+ },
+ {
+  "rank": 247,
+  "score": 12,
+  "rating": 2544,
+  "username": "munster1",
+  "title": "FM",
+  "performance": 2431,
+  "sheet": {
+   "scores": "2202022002"
+  }
+ },
+ {
+  "rank": 248,
+  "score": 12,
+  "rating": 2568,
+  "username": "Mortred07",
+  "title": "FM",
+  "flair": "people.flexed-biceps",
+  "performance": 2414,
+  "sheet": {
+   "scores": "303000330"
+  }
+ },
+ {
+  "rank": 249,
+  "score": 12,
+  "rating": 2374,
+  "username": "MadDawgg",
+  "title": "NM",
+  "flair": "nature.dog-face",
+  "performance": 2394,
+  "sheet": {
+   "scores": "42200220"
+  }
+ },
+ {
+  "rank": 250,
+  "score": 12,
+  "rating": 2399,
+  "username": "Blunderbus9",
+  "title": "FM",
+  "flair": "smileys.shushing-face",
+  "performance": 2377,
+  "sheet": {
+   "scores": "4220220"
+  }
+ },
+ {
+  "rank": 251,
+  "score": 12,
+  "rating": 2435,
+  "username": "mickeljackson1388",
+  "title": "CM",
+  "performance": 2332,
+  "sheet": {
+   "scores": "0002020422"
+  }
+ },
+ {
+  "rank": 252,
+  "score": 12,
+  "rating": 2402,
+  "username": "Kavaliro",
+  "title": "CM",
+  "performance": 2314,
+  "sheet": {
+   "scores": "002422002"
+  }
+ },
+ {
+  "rank": 253,
+  "score": 12,
+  "rating": 2369,
+  "username": "miksa99",
+  "title": "FM",
+  "performance": 2212,
+  "sheet": {
+   "scores": "002200220200020"
+  }
+ },
+ {
+  "rank": 254,
+  "score": 12,
+  "rating": 2197,
+  "username": "BeautiFullMindChess",
+  "title": "FM",
+  "performance": 2197,
+  "sheet": {
+   "scores": "330030000003"
+  }
+ },
+ {
+  "rank": 255,
+  "score": 12,
+  "rating": 2217,
+  "username": "serendipitymate",
+  "title": "WIM",
+  "flair": "smileys.disguised-face",
+  "performance": 2158,
+  "sheet": {
+   "scores": "020022002000200020"
+  }
+ },
+ {
+  "rank": 256,
+  "score": 12,
+  "rating": 2220,
+  "username": "KingsChessAdmin",
+  "title": "NM",
+  "performance": 2150,
+  "sheet": {
+   "scores": "000120201002022"
+  }
+ },
+ {
+  "rank": 257,
+  "score": 12,
+  "rating": 2125,
+  "username": "perpz",
+  "title": "WFM",
+  "performance": 1984,
+  "sheet": {
+   "scores": "00020000202020002000200000"
+  }
+ },
+ {
+  "rank": 258,
+  "score": 11,
+  "rating": 2591,
+  "username": "Astramariy",
+  "title": "IM",
+  "performance": 2419,
+  "sheet": {
+   "scores": "005330"
+  }
+ },
+ {
+  "rank": 259,
+  "score": 11,
+  "rating": 2321,
+  "username": "Mkarp",
+  "title": "FM",
+  "performance": 2342,
+  "sheet": {
+   "scores": "0204221"
+  }
+ },
+ {
+  "rank": 260,
+  "score": 11,
+  "rating": 2477,
+  "username": "Zenekritikus04",
+  "title": "CM",
+  "performance": 2313,
+  "sheet": {
+   "scores": "1023210020"
+  }
+ },
+ {
+  "rank": 261,
+  "score": 11,
+  "rating": 2151,
+  "username": "VYCMA",
+  "title": "NM",
+  "performance": 2167,
+  "sheet": {
+   "scores": "012002002000202"
+  }
+ },
+ {
+  "rank": 262,
+  "score": 10,
+  "rating": 2569,
+  "username": "mmzeynalli",
+  "title": "CM",
+  "performance": 2790,
+  "sheet": {
+   "scores": "532"
+  }
+ },
+ {
+  "rank": 263,
+  "score": 10,
+  "rating": 2580,
+  "username": "jaime_sonho01",
+  "title": "CM",
+  "flair": "people.mx-claus-dark-skin-tone",
+  "performance": 2641,
+  "sheet": {
+   "scores": "0433"
+  }
+ },
+ {
+  "rank": 264,
+  "score": 10,
+  "rating": 2662,
+  "username": "jbj",
+  "title": "NM",
+  "performance": 2573,
+  "sheet": {
+   "scores": "0021120202"
+  }
+ },
+ {
+  "rank": 265,
+  "score": 10,
+  "rating": 2432,
+  "username": "prakharbajaj",
+  "title": "CM",
+  "performance": 2417,
+  "sheet": {
+   "scores": "0200220121"
+  }
+ },
+ {
+  "rank": 266,
+  "score": 10,
+  "rating": 2312,
+  "username": "DEadpoOlShIkAmarU",
+  "title": "CM",
+  "flair": "objects.clapper-board",
+  "performance": 2231,
+  "sheet": {
+   "scores": "02202202000000"
+  }
+ },
+ {
+  "rank": 267,
+  "score": 10,
+  "rating": 2075,
+  "username": "juandivc",
+  "title": "CM",
+  "flair": "nature.snake",
+  "performance": 2209,
+  "sheet": {
+   "scores": "02000200020202"
+  }
+ },
+ {
+  "rank": 268,
+  "score": 10,
+  "rating": 2154,
+  "username": "Mariia29",
+  "title": "WFM",
+  "flair": "nature.cherry-blossom",
+  "performance": 2140,
+  "sheet": {
+   "scores": "022002000202000000"
+  }
+ },
+ {
+  "rank": 269,
+  "score": 9,
+  "rating": 2817,
+  "username": "MatthewG-p4p",
+  "title": "IM",
+  "flair": "people.man-student",
+  "performance": 2625,
+  "sheet": {
+   "scores": "3003210"
+  }
+ },
+ {
+  "rank": 270,
+  "score": 9,
+  "rating": 2486,
+  "username": "umutbekiragaoglu",
+  "title": "NM",
+  "performance": 2483,
+  "sheet": {
+   "scores": "030303"
+  }
+ },
+ {
+  "rank": 271,
+  "score": 9,
+  "rating": 2255,
+  "username": "allesgehtzubruch",
+  "title": "FM",
+  "performance": 2222,
+  "sheet": {
+   "scores": "012020202"
+  }
+ },
+ {
+  "rank": 272,
+  "score": 9,
+  "rating": 2195,
+  "username": "kirotori",
+  "title": "WCM",
+  "flair": "nature.hatching-chick",
+  "performance": 2157,
+  "sheet": {
+   "scores": "110002103001"
+  }
+ },
+ {
+  "rank": 273,
+  "score": 8,
+  "rating": 2574,
+  "username": "toog",
+  "title": "IM",
+  "performance": 2686,
+  "sheet": {
+   "scores": "422"
+  }
+ },
+ {
+  "rank": 274,
+  "score": 8,
+  "rating": 2502,
+  "username": "Billythekid30",
+  "title": "CM",
+  "flair": "smileys.astonished-face",
+  "performance": 2495,
+  "sheet": {
+   "scores": "20330"
+  }
+ },
+ {
+  "rank": 275,
+  "score": 8,
+  "rating": 2460,
+  "username": "Noki102",
+  "title": "NM",
+  "performance": 2455,
+  "sheet": {
+   "scores": "202022"
+  }
+ },
+ {
+  "rank": 276,
+  "score": 8,
+  "rating": 2372,
+  "username": "giftedcreation",
+  "title": "NM",
+  "performance": 2368,
+  "sheet": {
+   "scores": "02200202"
+  }
+ },
+ {
+  "rank": 277,
+  "score": 8,
+  "rating": 2304,
+  "username": "leochessq",
+  "title": "CM",
+  "performance": 2253,
+  "sheet": {
+   "scores": "0102002120"
+  }
+ },
+ {
+  "rank": 278,
+  "score": 8,
+  "rating": 2179,
+  "username": "bizzaredovez",
+  "title": "WCM",
+  "performance": 2147,
+  "sheet": {
+   "scores": "00422000"
+  }
+ },
+ {
+  "rank": 279,
+  "score": 8,
+  "rating": 2270,
+  "username": "Irvik",
+  "title": "NM",
+  "performance": 2141,
+  "sheet": {
+   "scores": "002200022000"
+  }
+ },
+ {
+  "rank": 280,
+  "score": 8,
+  "rating": 2393,
+  "username": "pedrogil",
+  "title": "FM",
+  "performance": 2107,
+  "sheet": {
+   "scores": "000022202"
+  }
+ },
+ {
+  "rank": 281,
+  "score": 8,
+  "rating": 2174,
+  "username": "luis-garcia",
+  "title": "NM",
+  "flair": "nature.fire",
+  "performance": 2030,
+  "sheet": {
+   "scores": "020021000002001"
+  }
+ },
+ {
+  "rank": 282,
+  "score": 8,
+  "rating": 2119,
+  "username": "Showdrez",
+  "title": "NM",
+  "flair": "people.mx-claus-light-skin-tone",
+  "performance": 1991,
+  "sheet": {
+   "scores": "02020000000022000"
+  }
+ },
+ {
+  "rank": 283,
+  "score": 7,
+  "rating": 2522,
+  "username": "chessknight2001",
+  "title": "NM",
+  "performance": 2345,
+  "sheet": {
+   "scores": "03022"
+  }
+ },
+ {
+  "rank": 284,
+  "score": 7,
+  "rating": 2564,
+  "username": "TheNotoriousNH",
+  "title": "CM",
+  "performance": 2333,
+  "sheet": {
+   "scores": "02230"
+  }
+ },
+ {
+  "rank": 285,
+  "score": 7,
+  "rating": 2373,
+  "username": "MAMAYOQUIERO",
+  "title": "FM",
+  "performance": 2327,
+  "sheet": {
+   "scores": "1022002"
+  }
+ },
+ {
+  "rank": 286,
+  "score": 7,
+  "rating": 2259,
+  "username": "FernandoAcevedo",
+  "title": "NM",
+  "flair": "smileys.cowboy-hat-face",
+  "performance": 2215,
+  "sheet": {
+   "scores": "0000001202200"
+  }
+ },
+ {
+  "rank": 287,
+  "score": 7,
+  "rating": 2290,
+  "username": "dragan961",
+  "title": "IM",
+  "performance": 2159,
+  "sheet": {
+   "scores": "02002021"
+  }
+ },
+ {
+  "rank": 288,
+  "score": 7,
+  "rating": 2171,
+  "username": "erdalars6565",
+  "title": "CM",
+  "performance": 2155,
+  "sheet": {
+   "scores": "130030"
+  }
+ },
+ {
+  "rank": 289,
+  "score": 7,
+  "rating": 2276,
+  "username": "EloXadrez23",
+  "title": "NM",
+  "flair": "nature.fox",
+  "performance": 2143,
+  "sheet": {
+   "scores": "00020120002"
+  }
+ },
+ {
+  "rank": 290,
+  "score": 7,
+  "rating": 2464,
+  "username": "Laurin_2009",
+  "title": "CM",
+  "performance": 2135,
+  "sheet": {
+   "scores": "00103030"
+  }
+ },
+ {
+  "rank": 291,
+  "score": 7,
+  "rating": 1977,
+  "username": "ajam73",
+  "title": "WIM",
+  "performance": 2120,
+  "sheet": {
+   "scores": "20102000002"
+  }
+ },
+ {
+  "rank": 292,
+  "score": 7,
+  "rating": 2009,
+  "username": "Anonym365492",
+  "title": "WCM",
+  "flair": "activity.lichess-berserk",
+  "performance": 2087,
+  "sheet": {
+   "scores": "0003020200"
+  }
+ },
+ {
+  "rank": 293,
+  "score": 7,
+  "rating": 2177,
+  "username": "FearlessKing64",
+  "title": "CM",
+  "performance": 1982,
+  "sheet": {
+   "scores": "00002100200002"
+  }
+ },
+ {
+  "rank": 294,
+  "score": 6,
+  "rating": 2477,
+  "username": "MaurinM",
+  "title": "FM",
+  "flair": "nature.turtle",
+  "performance": 2717,
+  "sheet": {
+   "scores": "33"
+  }
+ },
+ {
+  "rank": 295,
+  "score": 6,
+  "rating": 2510,
+  "username": "ruslan1541",
+  "title": "FM",
+  "flair": "smileys.face-screaming-in-fear",
+  "performance": 2685,
+  "sheet": {
+   "scores": "2022"
+  }
+ },
+ {
+  "rank": 296,
+  "score": 6,
+  "rating": 2294,
+  "username": "ArmanGhevondyanchess",
+  "title": "CM",
+  "performance": 2424,
+  "sheet": {
+   "scores": "033"
+  }
+ },
+ {
+  "rank": 297,
+  "score": 6,
+  "rating": 2347,
+  "username": "Wolfito11",
+  "title": "NM",
+  "flair": "nature.turtle",
+  "performance": 2372,
+  "sheet": {
+   "scores": "20202"
+  }
+ },
+ {
+  "rank": 298,
+  "score": 6,
+  "rating": 2289,
+  "username": "ptrujillo",
+  "title": "FM",
+  "performance": 2271,
+  "sheet": {
+   "scores": "20220000"
+  }
+ },
+ {
+  "rank": 299,
+  "score": 6,
+  "rating": 2542,
+  "username": "Suleyman_Chess06",
+  "title": "FM",
+  "flair": "nature.eagle",
+  "performance": 2213,
+  "sheet": {
+   "scores": "030030"
+  }
+ },
+ {
+  "rank": 300,
+  "score": 6,
+  "rating": 2147,
+  "username": "SarthakGattani",
+  "title": "NM",
+  "flair": "nature.fire",
+  "performance": 2180,
+  "sheet": {
+   "scores": "00220020"
+  }
+ },
+ {
+  "rank": 301,
+  "score": 6,
+  "rating": 2181,
+  "username": "Akhi21",
+  "title": "CM",
+  "flair": "smileys.smiling-face-with-halo",
+  "performance": 2146,
+  "sheet": {
+   "scores": "030300"
+  }
+ },
+ {
+  "rank": 302,
+  "score": 6,
+  "rating": 2165,
+  "username": "quelqn",
+  "title": "CM",
+  "performance": 2076,
+  "sheet": {
+   "scores": "0200200200"
+  }
+ },
+ {
+  "rank": 303,
+  "score": 5,
+  "rating": 2348,
+  "username": "Joejan",
+  "title": "FM",
+  "performance": 2300,
+  "sheet": {
+   "scores": "020120"
+  }
+ },
+ {
+  "rank": 304,
+  "score": 5,
+  "rating": 2452,
+  "username": "ChSalas",
+  "title": "FM",
+  "flair": "symbols.white-star",
+  "performance": 2231,
+  "sheet": {
+   "scores": "220010"
+  }
+ },
+ {
+  "rank": 305,
+  "score": 5,
+  "rating": 1894,
+  "username": "baagadde",
+  "title": "CM",
+  "performance": 2150,
+  "sheet": {
+   "scores": "00020200100"
+  }
+ },
+ {
+  "rank": 306,
+  "score": 5,
+  "rating": 2143,
+  "username": "GG1223334444",
+  "title": "CM",
+  "flair": "nature.spider",
+  "performance": 2130,
+  "sheet": {
+   "scores": "000003200"
+  }
+ },
+ {
+  "rank": 307,
+  "score": 5,
+  "rating": 2070,
+  "username": "CorvosChess",
+  "title": "CM",
+  "flair": "activity.martial-arts-uniform",
+  "performance": 2056,
+  "sheet": {
+   "scores": "020000120"
+  }
+ },
+ {
+  "rank": 308,
+  "score": 5,
+  "rating": 2206,
+  "username": "Gollatzproblem",
+  "title": "FM",
+  "performance": 1978,
+  "sheet": {
+   "scores": "010002002000"
+  }
+ },
+ {
+  "rank": 309,
+  "score": 4,
+  "rating": 2661,
+  "username": "BelBelTT",
+  "title": "GM",
+  "performance": 2829,
+  "sheet": {
+   "scores": "22"
+  }
+ },
+ {
+  "rank": 310,
+  "score": 4,
+  "rating": 2840,
+  "username": "FeegLood",
+  "title": "GM",
+  "performance": 2738,
+  "sheet": {
+   "scores": "031"
+  }
+ },
+ {
+  "rank": 311,
+  "score": 4,
+  "rating": 2408,
+  "username": "BrutneySpears",
+  "title": "CM",
+  "flair": "smileys.face-with-tongue",
+  "performance": 2617,
+  "sheet": {
+   "scores": "022"
+  }
+ },
+ {
+  "rank": 312,
+  "score": 4,
+  "rating": 2499,
+  "username": "GKANSK",
+  "title": "CM",
+  "performance": 2580,
+  "sheet": {
+   "scores": "022"
+  }
+ },
+ {
+  "rank": 313,
+  "score": 4,
+  "rating": 2290,
+  "username": "bitter-cikolata",
+  "title": "WCM",
+  "performance": 2398,
+  "sheet": {
+   "scores": "0220"
+  }
+ },
+ {
+  "rank": 314,
+  "score": 4,
+  "rating": 2541,
+  "username": "prettyScream",
+  "title": "CM",
+  "flair": "food-drink.coconut",
+  "performance": 2396,
+  "sheet": {
+   "scores": "000202"
+  }
+ },
+ {
+  "rank": 315,
+  "score": 4,
+  "rating": 2298,
+  "username": "gmgattass",
+  "title": "FM",
+  "performance": 2343,
+  "sheet": {
+   "scores": "022"
+  }
+ },
+ {
+  "rank": 316,
+  "score": 4,
+  "rating": 2562,
+  "username": "holtchess",
+  "title": "CM",
+  "flair": "smileys.clown-face",
+  "performance": 2175,
+  "sheet": {
+   "scores": "020002"
+  }
+ },
+ {
+  "rank": 317,
+  "score": 4,
+  "rating": 2510,
+  "username": "fsalguero",
+  "title": "FM",
+  "performance": 2147,
+  "sheet": {
+   "scores": "0000022"
+  }
+ },
+ {
+  "rank": 318,
+  "score": 4,
+  "rating": 2069,
+  "username": "Shadow_Breaker",
+  "title": "CM",
+  "performance": 2141,
+  "sheet": {
+   "scores": "00022"
+  }
+ },
+ {
+  "rank": 319,
+  "score": 4,
+  "rating": 2042,
+  "username": "NWCapa",
+  "title": "NM",
+  "performance": 1985,
+  "sheet": {
+   "scores": "20020000"
+  }
+ },
+ {
+  "rank": 320,
+  "score": 4,
+  "rating": 1889,
+  "username": "NF2019",
+  "title": "WCM",
+  "flair": "nature.glowing-star",
+  "performance": 1915,
+  "sheet": {
+   "scores": "000020020000000000"
+  }
+ },
+ {
+  "rank": 321,
+  "score": 4,
+  "rating": 2138,
+  "username": "GlenGratz",
+  "title": "CM",
+  "performance": 1903,
+  "sheet": {
+   "scores": "0000000200020"
+  }
+ },
+ {
+  "rank": 322,
+  "score": 3,
+  "rating": 2225,
+  "username": "topce",
+  "title": "CM",
+  "performance": 2645,
+  "sheet": {
+   "scores": "3"
+  }
+ },
+ {
+  "rank": 323,
+  "score": 3,
+  "rating": 2712,
+  "username": "Craze",
+  "title": "GM",
+  "performance": 2476,
+  "sheet": {
+   "scores": "021"
+  }
+ },
+ {
+  "rank": 324,
+  "score": 3,
+  "rating": 2308,
+  "username": "Lavrik87",
+  "title": "IM",
+  "flair": "activity.basketball",
+  "performance": 2344,
+  "sheet": {
+   "scores": "03"
+  }
+ },
+ {
+  "rank": 325,
+  "score": 3,
+  "rating": 2652,
+  "username": "Chessisnotfair",
+  "title": "GM",
+  "performance": 2287,
+  "sheet": {
+   "scores": "0003"
+  }
+ },
+ {
+  "rank": 326,
+  "score": 3,
+  "rating": 2428,
+  "username": "No_leas_mi_nick12",
+  "title": "IM",
+  "flair": "smileys.clown-face",
+  "performance": 2257,
+  "sheet": {
+   "scores": "003"
+  }
+ },
+ {
+  "rank": 327,
+  "score": 3,
+  "rating": 2613,
+  "username": "SNCSolidGuy",
+  "title": "FM",
+  "performance": 2232,
+  "sheet": {
+   "scores": "03"
+  }
+ },
+ {
+  "rank": 328,
+  "score": 3,
+  "rating": 2392,
+  "username": "Chessibague",
+  "title": "IM",
+  "performance": 2232,
+  "sheet": {
+   "scores": "030"
+  }
+ },
+ {
+  "rank": 329,
+  "score": 3,
+  "rating": 2576,
+  "username": "NightOFzero",
+  "title": "FM",
+  "flair": "food-drink.clinking-beer-mugs",
+  "performance": 2227,
+  "sheet": {
+   "scores": "30"
+  }
+ },
+ {
+  "rank": 330,
+  "score": 3,
+  "rating": 2271,
+  "username": "Outsourcer",
+  "title": "CM",
+  "flair": "people.man-vampire-light-skin-tone",
+  "performance": 2215,
+  "sheet": {
+   "scores": "002010"
+  }
+ },
+ {
+  "rank": 331,
+  "score": 3,
+  "rating": 2686,
+  "username": "smurf42",
+  "title": "NM",
+  "performance": 2209,
+  "sheet": {
+   "scores": "03"
+  }
+ },
+ {
+  "rank": 332,
+  "score": 3,
+  "rating": 2500,
+  "username": "iazz1",
+  "title": "FM",
+  "performance": 2187,
+  "sheet": {
+   "scores": "030"
+  }
+ },
+ {
+  "rank": 333,
+  "score": 3,
+  "rating": 2100,
+  "username": "Catherine_Kaslan",
+  "title": "WFM",
+  "performance": 2169,
+  "sheet": {
+   "scores": "10200"
+  }
+ },
+ {
+  "rank": 334,
+  "score": 3,
+  "rating": 2476,
+  "username": "licg",
+  "title": "IM",
+  "performance": 1977,
+  "sheet": {
+   "scores": "0300000"
+  }
+ },
+ {
+  "rank": 335,
+  "score": 2,
+  "rating": 2306,
+  "username": "h-bar",
+  "title": "FM",
+  "performance": 3032,
+  "sheet": {
+   "scores": "2"
+  }
+ },
+ {
+  "rank": 336,
+  "score": 2,
+  "rating": 2251,
+  "username": "DreadlordPawn3",
+  "title": "NM",
+  "flair": "smileys.face-with-diagonal-mouth",
+  "performance": 2912,
+  "sheet": {
+   "scores": "2"
+  }
+ },
+ {
+  "rank": 337,
+  "score": 2,
+  "rating": 2291,
+  "username": "Yudhishtira1",
+  "title": "CM",
+  "performance": 2678,
+  "sheet": {
+   "scores": "2"
+  }
+ },
+ {
+  "rank": 338,
+  "score": 2,
+  "rating": 2345,
+  "username": "Mennyhagen",
+  "title": "CM",
+  "flair": "nature.tornado",
+  "performance": 2627,
+  "sheet": {
+   "scores": "2"
+  }
+ },
+ {
+  "rank": 339,
+  "score": 2,
+  "rating": 2453,
+  "username": "Crusher22",
+  "title": "FM",
+  "performance": 2604,
+  "sheet": {
+   "scores": "2"
+  }
+ },
+ {
+  "rank": 340,
+  "score": 2,
+  "rating": 2393,
+  "username": "AusHoin",
+  "title": "FM",
+  "performance": 2268,
+  "sheet": {
+   "scores": "02"
+  }
+ },
+ {
+  "rank": 341,
+  "score": 2,
+  "rating": 2408,
+  "username": "gsoppe",
+  "title": "IM",
+  "performance": 2256,
+  "sheet": {
+   "scores": "02"
+  }
+ },
+ {
+  "rank": 342,
+  "score": 2,
+  "rating": 2639,
+  "username": "Valentun_Hulka",
+  "title": "FM",
+  "performance": 2201,
+  "sheet": {
+   "scores": "02"
+  }
+ },
+ {
+  "rank": 343,
+  "score": 2,
+  "rating": 2791,
+  "username": "GMadly",
+  "title": "GM",
+  "performance": 2181,
+  "sheet": {
+   "scores": "11"
+  }
+ },
+ {
+  "rank": 344,
+  "score": 2,
+  "rating": 2363,
+  "username": "safikiet",
+  "title": "NM",
+  "flair": "smileys.upside-down-face",
+  "performance": 2147,
+  "sheet": {
+   "scores": "00200"
+  }
+ },
+ {
+  "rank": 345,
+  "score": 2,
+  "rating": 2394,
+  "username": "kty99",
+  "title": "CM",
+  "performance": 2105,
+  "sheet": {
+   "scores": "002"
+  }
+ },
+ {
+  "rank": 346,
+  "score": 2,
+  "rating": 2304,
+  "username": "Barbashinigor",
+  "title": "FM",
+  "performance": 2048,
+  "sheet": {
+   "scores": "000200"
+  }
+ },
+ {
+  "rank": 347,
+  "score": 1,
+  "rating": 2431,
+  "username": "daaleksandrov",
+  "title": "CM",
+  "flair": "activity.performing-arts",
+  "performance": 2069,
+  "sheet": {
+   "scores": "10"
+  }
+ },
+ {
+  "rank": 348,
+  "score": 0,
+  "rating": 2903,
+  "username": "Avaada_kedavra",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 349,
+  "score": 0,
+  "rating": 2833,
+  "username": "HomayooonT",
+  "title": "GM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 350,
+  "score": 0,
+  "rating": 2718,
+  "username": "SuperbAmir",
+  "title": "FM",
+  "flair": "food-drink.clinking-beer-mugs",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 351,
+  "score": 0,
+  "rating": 2635,
+  "username": "GP9isback",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 352,
+  "score": 0,
+  "rating": 2617,
+  "username": "JJPL03",
+  "title": "IM",
+  "flair": "travel-places.world-map",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 353,
+  "score": 0,
+  "rating": 2608,
+  "username": "MeneerMandje",
+  "title": "GM",
+  "flair": "objects.basket",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 354,
+  "score": 0,
+  "rating": 2608,
+  "username": "Kastrokefalos",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 355,
+  "score": 0,
+  "rating": 2604,
+  "username": "MetiForce",
+  "title": "GM",
+  "flair": "nature.fire",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 356,
+  "score": 0,
+  "rating": 2600,
+  "username": "SecretPieces",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 357,
+  "score": 0,
+  "rating": 2597,
+  "username": "supermanA",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 358,
+  "score": 0,
+  "rating": 2587,
+  "username": "GAGIK_JAN",
+  "title": "CM",
+  "flair": "objects.money-with-wings",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 359,
+  "score": 0,
+  "rating": 2578,
+  "username": "Jasugi99",
+  "title": "NM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 360,
+  "score": 0,
+  "rating": 2573,
+  "username": "duongvuanh",
+  "title": "CM",
+  "flair": "food-drink.sushi",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 361,
+  "score": 0,
+  "rating": 2543,
+  "username": "StanislavNPZ2020",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 362,
+  "score": 0,
+  "rating": 2542,
+  "username": "DrKerfuffle",
+  "title": "IM",
+  "flair": "symbols.puzzle-storm",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 363,
+  "score": 0,
+  "rating": 2534,
+  "username": "T2016",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 364,
+  "score": 0,
+  "rating": 2534,
+  "username": "Vanya_004",
+  "title": "FM",
+  "flair": "smileys.cat-with-wry-smile",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 365,
+  "score": 0,
+  "rating": 2527,
+  "username": "Chessdreamer2020",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 366,
+  "score": 0,
+  "rating": 2517,
+  "username": "kiflaaa",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 367,
+  "score": 0,
+  "rating": 2515,
+  "username": "deadly_bishops",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 368,
+  "score": 0,
+  "rating": 2504,
+  "username": "Ch1llax",
+  "title": "IM",
+  "flair": "smileys.slightly-smiling-face",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 369,
+  "score": 0,
+  "rating": 2466,
+  "username": "HakanTooGood",
+  "title": "CM",
+  "flair": "nature.wing",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 370,
+  "score": 0,
+  "rating": 2456,
+  "username": "MaxikerMayta",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 371,
+  "score": 0,
+  "rating": 2441,
+  "username": "koncheto",
+  "title": "CM",
+  "flair": "activity.lichess-berserk",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 372,
+  "score": 0,
+  "rating": 2433,
+  "username": "Dom1nant1337",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 373,
+  "score": 0,
+  "rating": 2428,
+  "username": "BaldHedgehog",
+  "title": "WFM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 374,
+  "score": 0,
+  "rating": 2426,
+  "username": "xovan",
+  "title": "CM",
+  "flair": "smileys.clown-face",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 375,
+  "score": 0,
+  "rating": 2423,
+  "username": "kandiladham",
+  "title": "IM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 376,
+  "score": 0,
+  "rating": 2422,
+  "username": "flamaster7",
+  "title": "NM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 377,
+  "score": 0,
+  "rating": 2414,
+  "username": "Rsmon54Terrible",
+  "title": "FM",
+  "flair": "objects.graduation-cap",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 378,
+  "score": 0,
+  "rating": 2410,
+  "username": "polishmozart",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 379,
+  "score": 0,
+  "rating": 2403,
+  "username": "meridaandres",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 380,
+  "score": 0,
+  "rating": 2401,
+  "username": "jeffforever",
+  "title": "FM",
+  "flair": "activity.lichess-horsey",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 381,
+  "score": 0,
+  "rating": 2396,
+  "username": "jorgedj2003",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 382,
+  "score": 0,
+  "rating": 2395,
+  "username": "Davesondo",
+  "title": "CM",
+  "flair": "smileys.smiling-face-with-sunglasses",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 383,
+  "score": 0,
+  "rating": 2381,
+  "username": "MathiCasa",
+  "title": "FM",
+  "flair": "activity.soccer-ball",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 384,
+  "score": 0,
+  "rating": 2374,
+  "username": "Gadhavi_Veerbhadra",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 385,
+  "score": 0,
+  "rating": 2362,
+  "username": "cuervo22",
+  "title": "NM",
+  "flair": "people.victory-hand-medium-skin-tone",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 386,
+  "score": 0,
+  "rating": 2348,
+  "username": "ChellyYh2010",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 387,
+  "score": 0,
+  "rating": 2336,
+  "username": "Minty0209",
+  "title": "WFM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 388,
+  "score": 0,
+  "rating": 2314,
+  "username": "Godaga77",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 389,
+  "score": 0,
+  "rating": 2296,
+  "username": "ElimChessKG",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 390,
+  "score": 0,
+  "rating": 2282,
+  "username": "cubanoases",
+  "title": "IM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 391,
+  "score": 0,
+  "rating": 2272,
+  "username": "Cazulo97",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 392,
+  "score": 0,
+  "rating": 2264,
+  "username": "TrainToBusan",
+  "title": "WFM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 393,
+  "score": 0,
+  "rating": 2261,
+  "username": "zoarprodhan",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 394,
+  "score": 0,
+  "rating": 2245,
+  "username": "Lorenzo1624",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 395,
+  "score": 0,
+  "rating": 2706,
+  "username": "Shamatava_Nick",
+  "title": "FM",
+  "performance": 2230,
+  "sheet": {
+   "scores": "0"
+  }
+ },
+ {
+  "rank": 396,
+  "score": 0,
+  "rating": 2228,
+  "username": "camivette",
+  "title": "WFM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 397,
+  "score": 0,
+  "rating": 2186,
+  "username": "preparandotorneo2007",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 398,
+  "score": 0,
+  "rating": 2172,
+  "username": "Serg_Uray",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 399,
+  "score": 0,
+  "rating": 2887,
+  "username": "KontraJaKO",
+  "title": "GM",
+  "performance": 2158,
+  "sheet": {
+   "scores": "00"
+  }
+ },
+ {
+  "rank": 400,
+  "score": 0,
+  "rating": 2403,
+  "username": "ArtemAndrienko2008",
+  "title": "NM",
+  "flair": "nature.first-quarter-moon",
+  "performance": 2158,
+  "sheet": {
+   "scores": "00"
+  }
+ },
+ {
+  "rank": 401,
+  "score": 0,
+  "rating": 2121,
+  "username": "lilyrishu",
+  "title": "WCM",
+  "flair": "nature.tulip",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 402,
+  "score": 0,
+  "rating": 2601,
+  "username": "AlmasChampion1",
+  "title": "IM",
+  "performance": 2111,
+  "sheet": {
+   "scores": "00"
+  }
+ },
+ {
+  "rank": 403,
+  "score": 0,
+  "rating": 2107,
+  "username": "Lamajoojiye",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 404,
+  "score": 0,
+  "rating": 2100,
+  "username": "pankajfm",
+  "title": "FM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 405,
+  "score": 0,
+  "rating": 2090,
+  "username": "Sarker_Avik",
+  "title": "CM",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 406,
+  "score": 0,
+  "rating": 2451,
+  "username": "ChessisEternal",
+  "title": "FM",
+  "performance": 2076,
+  "sheet": {
+   "scores": "0"
+  }
+ },
+ {
+  "rank": 407,
+  "score": 0,
+  "rating": 2443,
+  "username": "TocinoEspacial",
+  "title": "CM",
+  "flair": "people.santa-claus",
+  "performance": 2038,
+  "sheet": {
+   "scores": "000"
+  }
+ },
+ {
+  "rank": 408,
+  "score": 0,
+  "rating": 2013,
+  "username": "rey_jacinto",
+  "title": "NM",
+  "flair": "smileys.alien",
+  "sheet": {
+   "scores": ""
+  }
+ },
+ {
+  "rank": 409,
+  "score": 0,
+  "rating": 2433,
+  "username": "Satscho",
+  "title": "FM",
+  "flair": "objects.accordion",
+  "performance": 1904,
+  "sheet": {
+   "scores": "000"
+  }
+ },
+ {
+  "rank": 410,
+  "score": 0,
+  "rating": 2582,
+  "username": "Edgarhay012",
+  "title": "FM",
+  "performance": 1873,
+  "sheet": {
+   "scores": "0"
+  }
+ },
+ {
+  "rank": 411,
+  "score": 0,
+  "rating": 2234,
+  "username": "EGNfanclub",
+  "title": "NM",
+  "performance": 1863,
+  "sheet": {
+   "scores": "00"
+  }
+ },
+ {
+  "rank": 412,
+  "score": 0,
+  "rating": 2527,
+  "username": "nuagesgris",
+  "title": "FM",
+  "performance": 1819,
+  "sheet": {
+   "scores": "0"
+  }
+ },
+ {
+  "rank": 413,
+  "score": 0,
+  "rating": 2517,
+  "username": "czasnaszachy",
+  "title": "FM",
+  "flair": "nature.t-rex",
+  "performance": 1817,
+  "sheet": {
+   "scores": "00"
+  }
+ },
+ {
+  "rank": 414,
+  "score": 0,
+  "rating": 2091,
+  "username": "wonderknight64",
+  "title": "FM",
+  "performance": 1817,
+  "sheet": {
+   "scores": "000000"
+  }
+ },
+ {
+  "rank": 415,
+  "score": 0,
+  "rating": 2387,
+  "username": "Alexi_Founder",
+  "title": "FM",
+  "flair": "symbols.fleur-de-lis",
+  "performance": 1797,
+  "sheet": {
+   "scores": "0"
+  }
+ },
+ {
+  "rank": 416,
+  "score": 0,
+  "rating": 2127,
+  "username": "MTN2020",
+  "title": "CM",
+  "performance": 1762,
+  "sheet": {
+   "scores": "00"
+  }
+ },
+ {
+  "rank": 417,
+  "score": 0,
+  "rating": 2007,
+  "username": "thecatdoglady",
+  "title": "WFM",
+  "performance": 1752,
+  "sheet": {
+   "scores": "00"
+  }
+ },
+ {
+  "rank": 418,
+  "score": 0,
+  "rating": 2402,
+  "username": "SanthoshAyyappan",
+  "title": "NM",
+  "flair": "nature.dog",
+  "performance": 1743,
+  "sheet": {
+   "scores": "0"
+  }
+ },
+ {
+  "rank": 419,
+  "score": 0,
+  "rating": 2245,
+  "username": "XadrezLogico",
+  "title": "NM",
+  "flair": "objects.magnifying-glass-tilted-left",
+  "performance": 1667,
+  "sheet": {
+   "scores": "0"
+  }
+ },
+ {
+  "rank": 420,
+  "score": 0,
+  "rating": 2183,
+  "username": "petrosianuro",
+  "title": "FM",
+  "performance": 1666,
+  "sheet": {
+   "scores": "0"
+  }
+ },
+ {
+  "rank": 421,
+  "score": 0,
+  "rating": 2170,
+  "username": "Sunrisebyself",
+  "title": "NM",
+  "performance": 1662,
+  "sheet": {
+   "scores": "00"
+  }
+ },
+ {
+  "rank": 422,
+  "score": 0,
+  "rating": 2303,
+  "username": "barbriaya",
+  "title": "CM",
+  "flair": "smileys.alien",
+  "performance": 1651,
+  "sheet": {
+   "scores": "0"
+  }
+ },
+ {
+  "rank": 423,
+  "score": 0,
+  "rating": 2752,
+  "username": "tamojerry",
+  "title": "IM",
+  "flair": "smileys.cold-face",
+  "performance": 1450,
+  "sheet": {
+   "scores": "0"
+  }
+ }
+]

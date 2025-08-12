@@ -1,0 +1,203 @@
+{
+ "nbPlayers": 423,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2833,
+   "score": 130,
+   "nb": {
+    "game": 56,
+    "berserk": 39,
+    "win": 35
+   },
+   "performance": 2908
+  },
+  {
+   "name": "GrraindTime",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2873,
+   "score": 123,
+   "nb": {
+    "game": 51,
+    "berserk": 19,
+    "win": 35
+   },
+   "performance": 2929
+  },
+  {
+   "name": "Amin_____tb",
+   "title": "GM",
+   "flair": "people.man-in-tuxedo-dark-skin-tone",
+   "rank": 3,
+   "rating": 2836,
+   "score": 117,
+   "nb": {
+    "game": 54,
+    "berserk": 38,
+    "win": 32
+   },
+   "performance": 2870
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 3967,
+  "moves": 339307,
+  "whiteWins": 1927,
+  "blackWins": 1759,
+  "draws": 281,
+  "berserks": 2934,
+  "averageRating": 2424
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2833,
+    "score": 130,
+    "sheet": {
+     "scores": "23300543302533005230044220031033122220054331130305545533"
+    }
+   },
+   {
+    "name": "GrraindTime",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2873,
+    "score": 123,
+    "sheet": {
+     "scores": "302444422024422020443202020544523233032100330555331"
+    }
+   },
+   {
+    "name": "Amin_____tb",
+    "title": "GM",
+    "flair": "people.man-in-tuxedo-dark-skin-tone",
+    "rank": 3,
+    "rating": 2836,
+    "score": 117,
+    "sheet": {
+     "scores": "533010300030330131004444532104554230523103030330523131",
+     "fire": true
+    }
+   },
+   {
+    "name": "Shant7777777",
+    "title": "GM",
+    "flair": "activity.soccer-ball",
+    "rank": 4,
+    "rating": 2807,
+    "score": 117,
+    "sheet": {
+     "scores": "113120305443300003300223131300003101303301310045330310100324453303"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2774,
+    "score": 114,
+    "sheet": {
+     "scores": "3005423030223004423024230003130002444444455553300"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2835,
+    "score": 113,
+    "sheet": {
+     "scores": "2533033031323324220445330303032130030544533233"
+    }
+   },
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 7,
+    "rating": 2815,
+    "score": 108,
+    "sheet": {
+     "scores": "3055533003303303030330533033030233105555533"
+    }
+   },
+   {
+    "name": "innocentguy",
+    "title": "CM",
+    "flair": "nature.glowing-star",
+    "rank": 8,
+    "rating": 2670,
+    "score": 99,
+    "sheet": {
+     "scores": "2533002023305230532003043300301100303003000233045330033"
+    }
+   },
+   {
+    "name": "chess-art-us",
+    "title": "GM",
+    "flair": "people.deaf-man-light-skin-tone",
+    "rank": 9,
+    "rating": 2738,
+    "score": 96,
+    "sheet": {
+     "scores": "100305553303303300523031033100455230052300021033"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2734,
+    "score": 95,
+    "sheet": {
+     "scores": "0330003303053303030030045433100300555330253303"
+    }
+   }
+  ]
+ },
+ "id": "aug25bta",
+ "createdBy": "lichess",
+ "startsAt": "2025-08-09T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena August '25",
+ "minutes": 180,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "superBlitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/aug25bua)",
+ "onlyTitled": true
+}
