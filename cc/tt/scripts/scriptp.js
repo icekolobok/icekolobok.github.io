@@ -150,7 +150,21 @@ fetchData().then(data => {
                           backgroundColor: 'rgba(255, 255, 255, 0.5)',
                           color: '#00F'
                         }
-                      }
+                      },
+                    line2: {
+                        type: 'line',
+                        xMin: "2024-12-17T00:00:00",
+                        xMax: "2024-12-17T00:00:00",
+                        borderColor: 'rgba(0, 0, 255, 0.5)',
+                        borderWidth: 2,
+                        label:{
+                          content: "Proctor Introduction",
+                          display: true,
+                          position: "end",
+                          backgroundColor: 'rgba(255, 255, 255, 0.5)',
+                          color: '#00F'
+                        }
+                    }
                   }
                 }
               }

@@ -40,35 +40,74 @@ class Crosstable:
 
 
 def analyze_winners(data, usernames, t):
-    max_rank = max(item['info']['nbPlayers'] for item in data)
-    players = {}
-    participation = []
+    # Use the largest player list length we’ve *seen* across events to size the rank histogram.
+    # If info['nbPlayers'] exists it’s fine, but duplicated/old scrapes can lie.
+    def _safe_nb_players(ev):
+        try:
+            return int(ev['info'].get('nbPlayers', 0))
+        except Exception:
+            return 0
+    max_rank = max([_safe_nb_players(ev) for ev in data] + [0]) or 1
+
+    players = {}        # username -> {'results': [..], 'participation': int, 'score': [..]}
+    participation = []  # per-event summary you already record
+
     for tournament in data:
+        # 1) De-duplicate entries per event by canonical username, keep the best (lowest) rank if duplicates.
+        per_event = {}
+        for rec in tournament['results']:
+            uname_raw = rec.get('username', '')
+            uname = usernames.get(uname_raw, uname_raw)  # your nicknames mapping
+            old = per_event.get(uname)
+            if old is None:
+                per_event[uname] = rec
+            else:
+                try:
+                    r_old = old.get('rank', 10**9)
+                    r_new = rec.get('rank', 10**9)
+                    if isinstance(r_new, int) and isinstance(r_old, int) and r_new < r_old:
+                        per_event[uname] = rec
+                except Exception:
+                    pass
+
+        # 2) Aggregate once per player per event
         tdict = {}
-        for player in tournament['results']:
-            username = usernames.get(player['username'], player['username'])
-            if username not in players:
-                players[username] = {'results': [0] * max_rank, 'participation': 0, 'score': []}
-            if t['tournament'] != 'tt' or player['tie_break'] > 0:
-                players[username]['results'][player['rank'] - 1] += 1
-            players[username]['participation'] += 1
-            players[username]['score'].append({
-                'date': tournament['info']['startsAt'],
-                'id': tournament['info']['id'],
-                'points': player['score'],
-                'rating': player['rating'],
-                'rank': player['rank'],
-                'sheet': player['sheet']['scores'] if t['website'] == 'lc' else
-                f'{player['wins']}w{player['draws']}d{player['byes']}b',
-                'performance': player.get('performance', -1) if t['website'] == 'lc' else player['tie_break'],
+        for uname, rec in per_event.items():
+            if uname not in players:
+                players[uname] = {'results': [0] * max_rank, 'participation': 0, 'score': []}
+
+            # Only stamp a finishing position for TT when tie_break present (your prior rule)
+            if t['tournament'] != 'tt' or rec.get('tie_break', 0) > 0:
+                r = rec.get('rank')
+                if isinstance(r, int) and 1 <= r <= max_rank:
+                    players[uname]['results'][r - 1] += 1
+
+            players[uname]['participation'] += 1
+            players[uname]['score'].append({
+                'date': tournament['info'].get('startsAt'),
+                'id': tournament['info'].get('id'),
+                'points': rec.get('score'),
+                'rating': rec.get('rating'),
+                'rank': rec.get('rank'),
+                'sheet': rec['sheet']['scores'] if t['website'] == 'lc' else f"{rec.get('wins',0)}w{rec.get('draws',0)}d{rec.get('byes',0)}b",
+                'performance': rec.get('performance', -1) if t['website'] == 'lc' else rec.get('tie_break', 0),
             })
-            player_title = player.get('title') or 'Untitled'
+
+            player_title = rec.get('title') or 'Untitled'
             tdict[player_title] = tdict.get(player_title, 0) + 1
-        participation.append({'date': tournament['info']['startsAt'], 'name': tournament['info']['fullName'],
-                              'players': tournament['info']['nbPlayers'], 'unique_players': len(players),
-                              'titles': tdict})
+
+        # Keep your per-event summary; use info['nbPlayers'] if you trust it.
+        participation.append({
+            'date': tournament['info'].get('startsAt'),
+            'name': tournament['info'].get('fullName'),
+            'players': tournament['info'].get('nbPlayers'),  # leave as-is if you prefer
+            'unique_players': len(players),                   # cumulative unique across dataset
+            'titles': tdict
+        })
+
     sorted_ranks = dict(sorted(players.items(), key=lambda item: tuple(item[1]['results']), reverse=True))
     return sorted_ranks, participation
+
 
 
 def create_top_json(tournament, players, n, path):
