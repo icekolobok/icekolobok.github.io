@@ -116,15 +116,59 @@ def create_freq_json(tournament, players, n, path):
 
 
 def sorted_list(table, player0):
+    """
+    Return an ordering of players by a greedy 'most-connected next' rule.
+    Robust to:
+      - empty table
+      - player0 not present in the table
+      - player0 having no edges (empty row)
+    """
+    if not table:
+        return []
+
+    # If the requested seed isn't present, start from the most-connected player.
+    if player0 not in table:
+        player0 = max(table.keys(), key=lambda k: sum(table[k].values()) if isinstance(table[k], dict) else 0)
+
     players = [player0]
-    cum_dict = table[player0].copy()
+
+    # Build the initial frontier, excluding already-picked players.
+    row0 = table.get(player0, {}) or {}
+    cum_dict = {k: v for k, v in row0.items() if k not in players}
+
+    # If there are other players but the seed row is empty, seed zeros for them.
+    if not cum_dict and len(table) > 1:
+        for k in table.keys():
+            if k not in players:
+                cum_dict[k] = 0
+
     while len(players) < len(table):
-        player_next = max(cum_dict, key=cum_dict.get)
-        players.append(player_next)
-        cum_dict.pop(player_next)
-        for key, value in table[player_next].items():
-            if key not in players:
-                cum_dict[key] = cum_dict.get(key, 0) + value
+        # If frontier is empty (disconnected component), pick any remaining player.
+        if not cum_dict:
+            remaining = [k for k in table.keys() if k not in players]
+            if not remaining:
+                break
+            next_p = remaining[0]
+        else:
+            next_p = max(cum_dict, key=cum_dict.get)
+
+        players.append(next_p)
+        # Remove from frontier
+        if next_p in cum_dict:
+            cum_dict.pop(next_p, None)
+
+        # Expand frontier with the new row
+        row = table.get(next_p, {}) or {}
+        for k, v in row.items():
+            if k not in players:
+                cum_dict[k] = cum_dict.get(k, 0) + v
+
+        # If still empty but there are more players left, seed zeros for them.
+        if not cum_dict and len(players) < len(table):
+            for k in table.keys():
+                if k not in players:
+                    cum_dict[k] = 0
+
     return players
 
 
@@ -147,8 +191,14 @@ def build_crosstable(data_games, usernames, player0, website):
             result = game['r']
         games_s.append({'white': white, 'black': black, 'result': result})
         count_table.add_result(white, black, 3)
-    max_games = max(count_table.results[player][opponent] for player in count_table.results
-                    for opponent in count_table.results[player])
+    vals = [
+        count_table.results[p][o]
+        for p in count_table.results
+        for o in count_table.results[p]
+    ]
+    max_games = max(vals) if vals else 0
+    if player0 not in count_table.results and count_table.results:
+        player0 = next(iter(count_table.results))  # or pick most-connected as above
     sorted_players = sorted_list(count_table.results, player0)
     table = Crosstable()
     table.initialize_with_players(sorted_players)

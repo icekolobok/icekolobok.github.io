@@ -1,0 +1,211 @@
+{
+ "nbPlayers": 329,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Ediz_Gurel",
+   "title": "GM",
+   "flair": "smileys.alien",
+   "rank": 1,
+   "rating": 3240,
+   "score": 183,
+   "nb": {
+    "game": 80,
+    "berserk": 40,
+    "win": 52
+   },
+   "performance": 3303
+  },
+  {
+   "name": "RebeccaHarris",
+   "title": "GM",
+   "patron": true,
+   "rank": 2,
+   "rating": 3230,
+   "score": 170,
+   "nb": {
+    "game": 74,
+    "berserk": 24,
+    "win": 50
+   },
+   "performance": 3271
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "rank": 3,
+   "rating": 3200,
+   "score": 167,
+   "nb": {
+    "game": 82,
+    "berserk": 65,
+    "win": 46
+   },
+   "performance": 3180
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 4310,
+  "moves": 354681,
+  "whiteWins": 2127,
+  "blackWins": 1955,
+  "draws": 228,
+  "berserks": 1360,
+  "averageRating": 2628
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Ediz_Gurel",
+    "title": "GM",
+    "flair": "smileys.alien",
+    "rank": 1,
+    "rating": 3240,
+    "score": 183,
+    "sheet": {
+     "scores": "55523052310123200000023202044230220422043204230032454554532254320030023044453303",
+     "fire": true
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 2,
+    "rating": 3230,
+    "score": 170,
+    "sheet": {
+     "scores": "31254444330210000422054220044422044452210022254442200444445330020303302022"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 3,
+    "rating": 3200,
+    "score": 167,
+    "sheet": {
+     "scores": "0322300045331033030243205555445532000032433031003030303303233000330005230030305330"
+    }
+   },
+   {
+    "name": "legendreturns",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3301,
+    "score": 158,
+    "sheet": {
+     "scores": "3312103052204444220320002045422020220022244422242202422044444444331212",
+     "fire": true
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3177,
+    "score": 137,
+    "sheet": {
+     "scores": "000100010323213044442200422000200200320120020442202244454230444444433030"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 6,
+    "rating": 3236,
+    "score": 125,
+    "sheet": {
+     "scores": "13030522042204443224422044221030021101202022042202200212044444220"
+    }
+   },
+   {
+    "name": "Statham_13",
+    "title": "FM",
+    "flair": "people.santa-claus",
+    "rank": 7,
+    "rating": 2829,
+    "score": 123,
+    "sheet": {
+     "scores": "54445553300002044330423030300010303003300005553310305533",
+     "fire": true
+    }
+   },
+   {
+    "name": "toivok3",
+    "title": "IM",
+    "rank": 8,
+    "rating": 3094,
+    "score": 122,
+    "sheet": {
+     "scores": "00000202433000202300012004523023002043200432102202002000045230105443203004532"
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 9,
+    "rating": 3098,
+    "score": 122,
+    "sheet": {
+     "scores": "00000432001030100523000003002022045442203045330433003030300030010003002030305533"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "rank": 10,
+    "rating": 3165,
+    "score": 117,
+    "sheet": {
+     "scores": "044220200000022422004444422042300022000220102203030312054230244423"
+    }
+   }
+  ]
+ },
+ "id": "aug25lta",
+ "createdBy": "lichess",
+ "startsAt": "2025-08-23T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena August '25",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/aug25wua)",
+ "onlyTitled": true
+}

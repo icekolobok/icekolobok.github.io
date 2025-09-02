@@ -5,6 +5,139 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 import common
 import utils
+import re
+
+
+def _get_total_pages(soup):
+    pag = soup.find("div", class_="index-pagination")
+    if not pag:
+        return 1
+    nums = []
+    for btn in pag.find_all(["button", "a"]):
+        txt = (btn.get_text(strip=True) or "")
+        if txt.isdigit():
+            nums.append(int(txt))
+    return max(nums) if nums else 1
+
+def _first_username_from_results(soup):
+    table = soup.find("table", class_=re.compile(r"tournaments-live-view-results-table"))
+    if not table:
+        return None
+    rows = table.find_all("tr")[1:]
+    if not rows:
+        return None
+    # Username moved to cc-user-username-component; keep a fallback
+    u = rows[0].select_one('a.cc-user-username-component[href*="/member/"]')
+    if u:
+        return u.get_text(strip=True)
+    u = rows[0].select_one(".user-tagline-username")
+    if u:
+        return u.get_text(strip=True)
+    a_any = rows[0].find("a", href=re.compile(r"/member/"))
+    return a_any.get_text(strip=True) if a_any else None
+
+def _fetch_results_page_soup(session, base_url, page):
+    """
+    Try likely query patterns until the first username differs from page 1,
+    to avoid re-parsing page 1 when a pattern is wrong.
+    """
+    sep = "&" if "?" in base_url else "?"
+    candidates = [
+        f"{base_url}{sep}players=100&page={page}",  # best (bigger pages if supported)
+        f"{base_url}{sep}page={page}&players=100",
+        f"{base_url}{sep}page={page}",
+        f"{base_url}{sep}playersPage={page}",
+        f"{base_url}{sep}players={page}",
+    ]
+    first_page_soup = session.get(base_url, timeout=20)
+    first_name = _first_username_from_results(BeautifulSoup(first_page_soup.content, "html.parser"))
+
+    for url in candidates:
+        r = session.get(url, timeout=20)
+        sp = BeautifulSoup(r.content, "html.parser")
+        table = sp.find("table", class_=re.compile(r"tournaments-live-view-results-table"))
+        if not table:
+            continue
+        name = _first_username_from_results(sp)
+        if name and name != first_name:
+            return sp
+    # Fall back: return whatever we got with ?page=
+    r = session.get(f"{base_url}{sep}page={page}", timeout=20)
+    return BeautifulSoup(r.content, "html.parser")
+
+def _parse_results_page(soup, tournament, start_rank):
+    """Parse one standings page. Returns (list_of_players, new_rank)."""
+    table = soup.find("table", class_=re.compile(r"tournaments-live-view-results-table"))
+    if not table:
+        return [], start_rank
+    rows = table.find_all("tr")[1:]
+    out, rank = [], start_rank
+    for tr in rows:
+        rank += 1
+
+        # username (new + fallback)
+        u = tr.select_one('a.cc-user-username-component[href*="/member/"]')
+        if u:
+            username = u.get_text(strip=True)
+        else:
+            u = tr.select_one(".user-tagline-username")
+            if u:
+                username = u.get_text(strip=True)
+            else:
+                a_any = tr.find("a", href=re.compile(r"/member/"))
+                username = a_any.get_text(strip=True) if a_any else None
+
+        # country tooltip
+        cdiv = tr.select_one(".country-flags-component")
+        country = cdiv.get("v-tooltip") if cdiv else None
+
+        # rating
+        rating_el = tr.select_one(".user-rating")
+        rating = None
+        if rating_el:
+            txt = rating_el.get_text(strip=True)
+            if txt != "Unrated":
+                digits = re.sub(r"[^\d]", "", txt)
+                rating = int(digits) if digits else None
+
+        # title (new class)
+        t_el = tr.select_one(".cc-user-title-component") or tr.select_one(".post-view-meta-title")
+        title = t_el.get_text(strip=True) if t_el else None
+
+        # score
+        s_el = tr.select_one(".tournaments-live-view-total-score")
+        try:
+            score = float(re.sub(r"[^\d.]", "", s_el.get_text(strip=True))) if s_el else 0.0
+        except Exception:
+            score = 0.0
+
+        # tie-breaks (TT only)
+        tb_el = tr.select_one(".tournaments-live-view-tie-break")
+        tie_break = float(tb_el.get_text(strip=True)) if (tb_el and tournament == "tt") else 0.0
+
+        # wins/draws/byes from tooltip (be generous in parsing)
+        wdb_tt = s_el.get("v-tooltip", "") if s_el else ""
+        def _pick(pat):
+            m = re.search(pat, wdb_tt, re.I)
+            return int(m.group(1)) if m else 0
+        wins  = _pick(r"(\d+)\s*wins?")
+        draws = _pick(r"(\d+)\s*draws?")
+        byes  = _pick(r"(\d+)\s*byes?")
+
+        out.append({
+            "rank": rank,
+            "username": username,
+            "country": country,
+            "rating": rating,
+            "title": title,
+            "score": score,
+            "tie_break": tie_break,
+            "wins": wins,
+            "draws": draws,
+            "byes": byes,
+        })
+    return out, rank
+
 
 
 def get_tournament_links(tournament, path):
@@ -44,113 +177,342 @@ def metadata(soup):
 
 
 def download_json(tournament, folder, token, url):
-    soup = BeautifulSoup(requests.get(url + '?&players=100').content, 'html.parser')
-    info = metadata(soup)
-    info['id'] = url.split('/')[-1]
-    path = folder + f'in/cc/{tournament}/'
-    name = f"{info['startsAt']} {info['fullName']}.json".replace(':', ';').replace('*', '#').replace('|', '+')
-    directories = ['info', 'results', 'games']
-    if all(os.path.exists(os.path.join(path, directory, name)) for directory in directories):
-        print(f'{name}: Results already downloaded')
-    else:
-        utils.dump_json(info, path + f'info/{name}')
-        i_p = soup.find('div', class_='index-pagination')
-        data_total_pages = 0
-        if i_p:
-            data_total_pages = int(i_p.find('div')['data-total-pages'])
-        results = []
-        rank = 0
-        for i in range(data_total_pages):
-            soup = BeautifulSoup(requests.get(url + '?&players=' + str(i + 1)).content, 'html.parser')
-            try:
-                table = soup.find('table', class_=f'table-component tournaments-live-view-results-table tournaments-live-view-extra-borders')
-                table_rows = table.find_all('tr')
-            except:
-                table = soup.find('table', class_=f'table-component tournaments-live-view-results-table')
-                table_rows = table.find_all('tr')
-            # table_class = ' tournaments-live-view-extra-borders' if tournament == 'tt' or tournament == 'scc' else ''
-            # table = soup.find('table',
-            #                  class_=f'table-component tournaments-live-view-results-table{table_class}')
-            #table_rows = table.find_all('tr')
-            table_rows = table_rows[1:]
-            for x in table_rows:
-                rank += 1
-                username = x.select_one('.user-tagline-username').get_text(strip=True)
-                country = x.select_one('.country-flags-component')['v-tooltip']
-                rating = x.select_one('.user-rating').get_text(strip=True).replace('(', '').replace(')', '')
-                if rating != 'Unrated':
-                    rating = int(rating)
-                title_element = x.select_one('.post-view-meta-title')
-                title = title_element.get_text(strip=True) if title_element is not None else None
-                score = float(x.select_one('.tournaments-live-view-total-score').get_text(strip=True))
-                if tournament == 'tt':
-                    tie_break = float(x.select_one('.tournaments-live-view-tie-break').get_text(strip=True))
+    """
+    Scrape a Chess.com live tournament page and save:
+      - info/<name>.json     (metadata)
+      - results/<name>.json  (standings for all pages)
+      - games/<name>.json    (all pairings for each round)
+    Returns 0.
+    """
+    import re
+    import os
+    import requests
+    from bs4 import BeautifulSoup
+
+    # ---------- inner helpers (scoped to keep cc.py tidy) ----------
+    def _session():
+        s = requests.Session()
+        s.headers.update({
+            "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                           "AppleWebKit/537.36 (KHTML, like Gecko) "
+                           "Chrome/124.0 Safari/537.36"),
+            "Accept-Language": "en-US,en;q=0.8",
+        })
+        return s
+
+    def _soup(resp):
+        return BeautifulSoup(resp.content, "html.parser")
+
+    def _first_username_from_results(soup):
+        table = soup.find("table", class_=re.compile(r"tournaments-live-view-results-table"))
+        if not table:
+            return None
+        rows = table.find_all("tr")[1:]
+        if not rows:
+            return None
+        # New UI: anchor with cc-user-username-component; keep fallbacks
+        u = rows[0].select_one('a.cc-user-username-component[href*="/member/"]')
+        if u:
+            return u.get_text(strip=True)
+        u = rows[0].select_one(".user-tagline-username")
+        if u:
+            return u.get_text(strip=True)
+        a_any = rows[0].find("a", href=re.compile(r"/member/"))
+        return a_any.get_text(strip=True) if a_any else None
+
+    def _is_last_results_page(soup):
+        # Look for "Next Page" button inside index-pagination and see if it's disabled
+        pag = soup.find("div", class_="index-pagination")
+        if not pag:
+            # If there is pagination nowhere, assume single page
+            return True
+        for btn in pag.find_all(["button", "a"]):
+            label = (btn.get("aria-label") or btn.get_text("") or "").strip().lower()
+            classes = btn.get("class") or []
+            disabled_attr = btn.has_attr("disabled")
+            if "next page" in label:
+                return disabled_attr or any("cc-pagination-disabled" in c for c in classes)
+        # If no explicit "Next Page" found, keep iterating until a page repeats.
+        return False
+
+    def _parse_results_page(soup, tournament, start_rank):
+        """Parse one standings page. Returns (list_of_players, new_rank)."""
+        table = soup.find("table", class_=re.compile(r"tournaments-live-view-results-table"))
+        if not table:
+            return [], start_rank
+        rows = table.find_all("tr")[1:]
+        out, rank = [], start_rank
+        for tr in rows:
+            rank += 1
+            # username
+            u = tr.select_one('a.cc-user-username-component[href*="/member/"]')
+            if u:
+                username = u.get_text(strip=True)
+            else:
+                u = tr.select_one(".user-tagline-username")
+                if u:
+                    username = u.get_text(strip=True)
                 else:
-                    tie_break = 0
-                wdb = x.find('div', class_='tournaments-live-view-total-score')['v-tooltip'].split(',')
-                wins = int(wdb[0].strip().split()[0])
-                draws = int(wdb[1].strip().split()[0])
-                byes = int(wdb[2].strip().split()[0])
-                player = {
-                    'rank': rank,
-                    'username': username,
-                    'country': country,
-                    'rating': rating,
-                    'title': title,
-                    'score': score,
-                    'tie_break': tie_break,
-                    'wins': wins,
-                    'draws': draws,
-                    'byes': byes
-                }
-                results.append(player)
-        utils.dump_json(results, path + f'results/{name}')
-        print(f'{name}: Results and Info downloaded')
+                    a_any = tr.find("a", href=re.compile(r"/member/"))
+                    username = a_any.get_text(strip=True) if a_any else None
+
+            # country tooltip
+            cdiv = tr.select_one(".country-flags-component")
+            country = cdiv.get("v-tooltip") if cdiv else None
+
+            # rating (may be 'Unrated' or '(xxxx)')
+            rating_el = tr.select_one(".user-rating")
+            rating = None
+            if rating_el:
+                txt = rating_el.get_text(strip=True)
+                if txt != "Unrated":
+                    digits = re.sub(r"[^\d]", "", txt)
+                    try:
+                        rating = int(digits) if digits else None
+                    except Exception:
+                        rating = None
+
+            # title
+            t_el = tr.select_one(".cc-user-title-component") or tr.select_one(".post-view-meta-title")
+            title = t_el.get_text(strip=True) if t_el else None
+
+            # score
+            s_el = tr.select_one(".tournaments-live-view-total-score")
+            if s_el:
+                txt = s_el.get_text(strip=True)
+                try:
+                    score = float(re.sub(r"[^\d.]", "", txt))
+                except Exception:
+                    score = 0.0
+            else:
+                score = 0.0
+
+            # tie-break (present in some formats like TT)
+            tb_el = tr.select_one(".tournaments-live-view-tie-break")
+            tie_break = 0.0
+            if tournament == "tt" and tb_el:
+                try:
+                    tie_break = float(tb_el.get_text(strip=True))
+                except Exception:
+                    tie_break = 0.0
+
+            # wins/draws/byes from tooltip on total-score
+            wdb_tt = s_el.get("v-tooltip", "") if s_el else ""
+            def _pick(pat):
+                m = re.search(pat, wdb_tt, re.I)
+                return int(m.group(1)) if m else 0
+            wins  = _pick(r"(\d+)\s*wins?")
+            draws = _pick(r"(\d+)\s*draws?")
+            byes  = _pick(r"(\d+)\s*byes?")
+
+            out.append({
+                "rank": rank,
+                "username": username,
+                "country": country,
+                "rating": rating,
+                "title": title,
+                "score": score,
+                "tie_break": tie_break,
+                "wins": wins,
+                "draws": draws,
+                "byes": byes,
+            })
+        return out, rank
+
+    def _fetch_results_page_soup(session, base_url, page, prev_first):
+        """
+        Try likely query patterns until the first username differs from the previous page.
+        Returns (soup, first_username) or (None, None) if no valid table found.
+        """
+        sep = "&" if "?" in base_url else "?"
+        candidates = [
+            f"{base_url}{sep}players=100&page={page}",  # preferred when supported
+            f"{base_url}{sep}page={page}&players=100",
+            f"{base_url}{sep}page={page}",
+            f"{base_url}{sep}playersPage={page}",
+            f"{base_url}{sep}players={page}",
+        ]
+        for u in candidates:
+            r = session.get(u, timeout=20)
+            sp = _soup(r)
+            table = sp.find("table", class_=re.compile(r"tournaments-live-view-results-table"))
+            if not table:
+                continue
+            first_name = _first_username_from_results(sp)
+            # accept when first username changes from prev page
+            if first_name and first_name != prev_first:
+                return sp, first_name
+        # As a last resort, return the ?page= variant even if it repeats
+        r = session.get(f"{base_url}{sep}page={page}", timeout=20)
+        sp = _soup(r)
+        return sp, _first_username_from_results(sp)
+
+    def _pairings_table_to_games(soup):
+        """Extract games from a pairings page soup."""
+        table = soup.find("table", class_=re.compile(r"tournaments-live-view-pairings-table"))
+        if not table:
+            return []
+        rows = table.find_all("tr")[1:]
         games = []
-        soup = BeautifulSoup(requests.get(url).content, 'html.parser')
-        number_rounds_div = soup.find('div', class_='v5-section')
-        if number_rounds_div is None:
-            number_rounds_div = soup.find('div', class_='cc-section')
-        number_rounds = int(number_rounds_div.get('data-rounds')) if number_rounds_div else 0
-        for i in range(number_rounds):
-            rnd = i + 1
-            rnd_url = url + "?round=" + str(rnd) + "&pairings=1"
-            rnd_r = requests.get(rnd_url)
-            rnd_soup = BeautifulSoup(rnd_r.content, 'html.parser')
-            pairing_dev = rnd_soup.find('div', {'id': 'pairings-pagination-bottom'})
-            data_total_pages_value = 1
-            if pairing_dev:
-                data_total_pages_value = int(pairing_dev.get('data-total-pages', 1))
-            for j in range(data_total_pages_value):
-                pairing = j + 1
-                pairing_url = url + "?round=" + str(rnd) + "&pairings=" + str(pairing)
-                pairing_r = requests.get(pairing_url)
-                pairing_soup = BeautifulSoup(pairing_r.content, 'html.parser')
-                table = pairing_soup.find('table',
-                                          class_='table-component table-hover tournaments-live-view-pairings-table')
-                table_rows = table.find_all('tr')
-                table_rows = table_rows[1:]
-                for row in table_rows:
-                    # a = row.find('a', class_='tournaments-live-view-background-link')
-                    players = row.find_all('div', class_='tournaments-live-view-pairings-user')
-                    result = row.text.replace("\n", "").replace("\t", "").strip()
-                    if '1 - 0' in result:
-                        x = 1
-                    elif '0 - 1' in result:
-                        x = 0
-                    elif '½ - ½' in result:
-                        x = 2
-                    else:
-                        x = 3
-                    game = {
-                        "w": players[0].find('a', class_='tournaments-live-view-player-avatar').get('title', ''),
-                        "b": players[1].find('a', class_='tournaments-live-view-player-avatar').get('title', ''),
-                        "r": x
-                    }
-                    games.append(game)
-        utils.dump_json(games, path + f'games/{name}')
-        print(f'{name}: Games downloaded')
+        for tr in rows:
+            users = tr.find_all("div", class_="tournaments-live-view-pairings-user")
+            if len(users) < 2:
+                continue
+            txt = tr.get_text(" ", strip=True)
+            if "1 - 0" in txt:
+                r = 1
+            elif "0 - 1" in txt:
+                r = 0
+            elif "½ - ½" in txt or "1/2 - 1/2" in txt:
+                r = 2
+            else:
+                r = 3  # unknown / not finished
+
+            def _nick(u):
+                a = u.find("a", class_="tournaments-live-view-player-avatar")
+                return a.get("title", "") if a else ""
+
+            games.append({"w": _nick(users[0]), "b": _nick(users[1]), "r": r})
+        return games
+
+    def _is_last_pairings_page(soup):
+        pag = soup.find("div", class_="index-pagination")
+        if not pag:
+            return True
+        for btn in pag.find_all(["button", "a"]):
+            label = (btn.get("aria-label") or btn.get_text("") or "").strip().lower()
+            classes = btn.get("class") or []
+            disabled_attr = btn.has_attr("disabled")
+            if "next page" in label:
+                return disabled_attr or any("cc-pagination-disabled" in c for c in classes)
+        return False
+
+    # ---------- begin function body ----------
+
+    sess = _session()
+
+    # 1) First page soup (try to force 100-per page; harmless if ignored)
+    sep = "&" if "?" in url else "?"
+    first = sess.get(url + f"{sep}players=100", timeout=20)
+    soup = _soup(first)
+
+    # 2) Info/metadata
+    try:
+        info = metadata(soup)
+    except Exception:
+        # Fallback: very light info extraction
+        info = {}
+        h1 = soup.find("h1")
+        info["fullName"] = h1.get_text(strip=True) if h1 else url.split("/")[-1]
+        stats = soup.find("div", class_="tournaments-live-view-content-stats")
+        if stats:
+            text = stats.get_text(" ", strip=True)
+            m = re.search(r"([A-Z][a-z]{2,}\s+\d{1,2},\s+\d{4},\s+\d{1,2}:\d{2}\s*[AP]M)", text)
+            if m:
+                # keep your ISO style to preserve naming compatibility
+                from datetime import datetime as _dt
+                try:
+                    dt = _dt.strptime(m.group(1), "%b %d, %Y, %I:%M %p")
+                    info["startsAt"] = dt.isoformat()
+                except Exception:
+                    info["startsAt"] = m.group(1)
+        info.setdefault("startsAt", "UnknownDate")
+
+    info["id"] = url.rstrip("/").split("/")[-1]
+
+    # 3) Paths and filenames
+    path = folder + f"in/cc/{tournament}/"
+    os.makedirs(os.path.join(path, "info"), exist_ok=True)
+    os.makedirs(os.path.join(path, "results"), exist_ok=True)
+    os.makedirs(os.path.join(path, "games"), exist_ok=True)
+
+    name = f"{info['startsAt']} {info['fullName']}.json".replace(":", ";").replace("*", "#").replace("|", "+")
+    info_fp    = os.path.join(path, "info",    name)
+    results_fp = os.path.join(path, "results", name)
+    games_fp   = os.path.join(path, "games",   name)
+
+    # Skip if all files present
+    if all(os.path.exists(os.path.join(path, d, name)) for d in ("info", "results", "games")):
+        print(f"{name}: Results already downloaded")
+        return 0
+
+    utils.dump_json(info, info_fp)
+
+    # 4) Standings / Results (iterate pages until last or repetition)
+    results = []
+    rank = 0
+
+    # Page 1
+    page1_first = _first_username_from_results(soup)
+    page_res, rank = _parse_results_page(soup, tournament, rank)
+    results.extend(page_res)
+
+    # Subsequent pages
+    p = 2
+    while True:
+        sp, first_name = _fetch_results_page_soup(sess, url, p, prev_first=page1_first if p == 2 else prev_first)
+        # If the fetch yields no table, or duplicates first page again, stop
+        table_ok = sp and sp.find("table", class_=re.compile(r"tournaments-live-view-results-table"))
+        if not table_ok:
+            break
+
+        # If this page looks identical to the previous page's first entry, break to avoid loops
+        if not first_name:
+            break
+        if p == 2:
+            prev_first = first_name
+        else:
+            if first_name == prev_first:
+                break
+            prev_first = first_name
+
+        page_res, rank = _parse_results_page(sp, tournament, rank)
+        if not page_res:
+            break
+        results.extend(page_res)
+
+        # If the currently loaded page is the last (Next disabled), stop
+        if _is_last_results_page(sp):
+            break
+
+        p += 1
+
+    utils.dump_json(results, results_fp)
+    print(f"{name}: Results and Info downloaded")
+
+    # 5) Games / Pairings by round
+    games = []
+
+    # number of rounds (Chess.com moved the attribute across containers)
+    number_rounds_div = soup.find("div", class_="v5-section")
+    if number_rounds_div is None:
+        number_rounds_div = soup.find("div", class_="cc-section")
+    number_rounds = int(number_rounds_div.get("data-rounds")) if number_rounds_div else 0
+
+    for rnd in range(1, number_rounds + 1):
+        # Round page 1
+        pr = sess.get(url + f"{sep}round={rnd}&pairings=1", timeout=20)
+        r_soup = _soup(pr)
+        games.extend(_pairings_table_to_games(r_soup))
+
+        # Iterate subsequent pairings pages until 'Next Page' is disabled or nothing new
+        j = 2
+        while True:
+            # stop if this was last pairings page
+            if _is_last_pairings_page(r_soup):
+                break
+            pr = sess.get(url + f"{sep}round={rnd}&pairings={j}", timeout=20)
+            r_soup = _soup(pr)
+            page_games = _pairings_table_to_games(r_soup)
+            if not page_games:
+                break
+            games.extend(page_games)
+            j += 1
+
+    utils.dump_json(games, games_fp)
+    print(f"{name}: Games downloaded")
     return 0
+
 
 
 def download_data(arena_type, path, token):
