@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 320,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "AngelitoRT",
+   "title": "IM",
+   "patron": true,
+   "rank": 1,
+   "rating": 2511,
+   "score": 95,
+   "nb": {
+    "game": 40,
+    "berserk": 16,
+    "win": 27
+   },
+   "performance": 2576
+  },
+  {
+   "name": "Arseniii_Nesterov",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2648,
+   "score": 91,
+   "nb": {
+    "game": 37,
+    "berserk": 9,
+    "win": 27
+   },
+   "performance": 2708
+  },
+  {
+   "name": "rasulovvugar",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2504,
+   "score": 89,
+   "nb": {
+    "game": 42,
+    "berserk": 22,
+    "win": 25
+   },
+   "performance": 2510
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 1692,
+  "moves": 128031,
+  "whiteWins": 768,
+  "blackWins": 778,
+  "draws": 146,
+  "berserks": 1102,
+  "averageRating": 2092
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "rank": 1,
+    "rating": 2511,
+    "score": 95,
+    "sheet": {
+     "scores": "4422030022100244443305445452303033005230",
+     "fire": true
+    }
+   },
+   {
+    "name": "Arseniii_Nesterov",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2648,
+    "score": 91,
+    "sheet": {
+     "scores": "2022242224442224442210303254330304422"
+    }
+   },
+   {
+    "name": "rasulovvugar",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2504,
+    "score": 89,
+    "sheet": {
+     "scores": "330300000304444444330030000453303013044532",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "rank": 4,
+    "rating": 2465,
+    "score": 85,
+    "sheet": {
+     "scores": "44455330452325423033010303053303",
+     "fire": true
+    }
+   },
+   {
+    "name": "Mlchael",
+    "title": "IM",
+    "rank": 5,
+    "rating": 2550,
+    "score": 82,
+    "sheet": {
+     "scores": "0043304433130053303302324433044422"
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "rank": 6,
+    "rating": 2364,
+    "score": 80,
+    "sheet": {
+     "scores": "02303301030033053300003000303000300301030025523003300330"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "rank": 7,
+    "rating": 2384,
+    "score": 78,
+    "sheet": {
+     "scores": "000300303300053305230302023305330000000055533"
+    }
+   },
+   {
+    "name": "IGMGataKamsky",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2602,
+    "score": 74,
+    "sheet": {
+     "scores": "00220221204222444442212024444422"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "rank": 9,
+    "rating": 2505,
+    "score": 74,
+    "sheet": {
+     "scores": "330300303303303030042313030313242313033",
+     "fire": true
+    }
+   },
+   {
+    "name": "BlunderPandaZz",
+    "title": "GM",
+    "flair": "symbols.zzz",
+    "patron": true,
+    "rank": 10,
+    "rating": 2371,
+    "score": 74,
+    "sheet": {
+     "scores": "00003023311003300233103303300325330030000045330"
+    }
+   }
+  ]
+ },
+ "id": "960sep25",
+ "createdBy": "lichess",
+ "startsAt": "2025-09-06T19:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena September '25",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/96wsep25)\r\n\r\nJoin the [official Lichess Chess960 team](https://lichess.org/team/lichess-chess960) for news and events",
+ "onlyTitled": true
+}
