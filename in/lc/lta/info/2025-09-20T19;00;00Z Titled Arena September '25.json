@@ -1,0 +1,205 @@
+{
+ "nbPlayers": 353,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "alireza2003",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3230,
+   "score": 156,
+   "nb": {
+    "game": 84,
+    "berserk": 58,
+    "win": 45
+   },
+   "performance": 3183
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "patronTier": "lifetime",
+   "rank": 2,
+   "rating": 3257,
+   "score": 154,
+   "nb": {
+    "game": 73,
+    "berserk": 1,
+    "win": 48
+   },
+   "performance": 3324
+  },
+  {
+   "name": "Ediz_Gurel",
+   "title": "GM",
+   "flair": "smileys.alien",
+   "rank": 3,
+   "rating": 3289,
+   "score": 153,
+   "nb": {
+    "game": 72,
+    "berserk": 32,
+    "win": 45
+   },
+   "performance": 3312
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 4825,
+  "moves": 399958,
+  "whiteWins": 2342,
+  "blackWins": 2172,
+  "draws": 311,
+  "berserks": 1596,
+  "averageRating": 2666
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "alireza2003",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3230,
+    "score": 156,
+    "sheet": {
+     "scores": "303002000544422004220022245330022000005433003323300000000300033030330005533055555330"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "patronTier": "lifetime",
+    "rank": 2,
+    "rating": 3257,
+    "score": 154,
+    "sheet": {
+     "scores": "0120000444220202022201044220202042212444220044444422242202044444230444220"
+    }
+   },
+   {
+    "name": "Ediz_Gurel",
+    "title": "GM",
+    "flair": "smileys.alien",
+    "rank": 3,
+    "rating": 3289,
+    "score": 153,
+    "sheet": {
+     "scores": "032010023020044554330020320544532043300304332453303020323211200523044221"
+    }
+   },
+   {
+    "name": "legendreturns",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3232,
+    "score": 142,
+    "sheet": {
+     "scores": "222044422103000210022222445230004432042200432030423100042202044423022000533000"
+    }
+   },
+   {
+    "name": "RebeccaHarris",
+    "title": "GM",
+    "patron": true,
+    "patronTier": "lifetime",
+    "rank": 5,
+    "rating": 3205,
+    "score": 141,
+    "sheet": {
+     "scores": "130300303003002130444532025320020230004231305432022545522003210423000230022"
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3083,
+    "score": 134,
+    "sheet": {
+     "scores": "0000302304330024443303010030010103033000300000033003000030300030033030000300330300304444533000003003"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 7,
+    "rating": 3197,
+    "score": 132,
+    "sheet": {
+     "scores": "03033044330230000044442202044232423102301000000022104220303010230220030004452202"
+    }
+   },
+   {
+    "name": "Bardyk01",
+    "title": "FM",
+    "rank": 8,
+    "rating": 3129,
+    "score": 130,
+    "sheet": {
+     "scores": "305542200230300044552201300022002232002005221200002203200202032044442204321"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 9,
+    "rating": 3124,
+    "score": 129,
+    "sheet": {
+     "scores": "23300233033010044444443303023200422120022004220220202002242204221042202"
+    }
+   },
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 10,
+    "rating": 3264,
+    "score": 123,
+    "sheet": {
+     "scores": "0044220545220202022110544222454330002204330220103300042204422"
+    }
+   }
+  ]
+ },
+ "id": "sep25lta",
+ "createdBy": "lichess",
+ "startsAt": "2025-09-20T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena September '25",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/sep25wua)",
+ "onlyTitled": true
+}
