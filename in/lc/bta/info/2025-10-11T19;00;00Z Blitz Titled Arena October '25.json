@@ -1,0 +1,209 @@
+{
+ "nbPlayers": 386,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "doughnut42",
+   "title": "IM",
+   "flair": "food-drink.doughnut",
+   "rank": 1,
+   "rating": 2982,
+   "score": 110,
+   "nb": {
+    "game": 32,
+    "berserk": 1,
+    "win": 29
+   },
+   "performance": 3133
+  },
+  {
+   "name": "tacticthunder",
+   "title": "IM",
+   "rank": 2,
+   "rating": 2733,
+   "score": 104,
+   "nb": {
+    "game": 43,
+    "berserk": 35,
+    "win": 26
+   },
+   "performance": 2879
+  },
+  {
+   "name": "chessmaster2006",
+   "title": "GM",
+   "rank": 3,
+   "rating": 2888,
+   "score": 92,
+   "nb": {
+    "game": 32,
+    "berserk": 8,
+    "win": 26
+   },
+   "performance": 3043
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 2817,
+  "moves": 240528,
+  "whiteWins": 1362,
+  "blackWins": 1241,
+  "draws": 214,
+  "berserks": 2175,
+  "averageRating": 2443
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "doughnut42",
+    "title": "IM",
+    "flair": "food-drink.doughnut",
+    "rank": 1,
+    "rating": 2982,
+    "score": 110,
+    "sheet": {
+     "scores": "24442224444444444444444444222422"
+    }
+   },
+   {
+    "name": "tacticthunder",
+    "title": "IM",
+    "rank": 2,
+    "rating": 2733,
+    "score": 104,
+    "sheet": {
+     "scores": "0103045444532000003055330311055330300555533"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 3,
+    "rating": 2888,
+    "score": 92,
+    "sheet": {
+     "scores": "23304444432032044444443302045522"
+    }
+   },
+   {
+    "name": "Bardiya___Daneshvar",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2840,
+    "score": 92,
+    "sheet": {
+     "scores": "1032543300330523033013020303005555553301"
+    }
+   },
+   {
+    "name": "RakitinD",
+    "title": "CM",
+    "flair": "smileys.distorted-face",
+    "patron": true,
+    "patronColor": 1,
+    "rank": 5,
+    "rating": 2776,
+    "score": 91,
+    "sheet": {
+     "scores": "30255533003000310300300533130300555553303"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "patronColor": 1,
+    "rank": 6,
+    "rating": 2873,
+    "score": 89,
+    "sheet": {
+     "scores": "101210433004444444453304331244433"
+    }
+   },
+   {
+    "name": "Trojanhorse2009",
+    "flair": "smileys.face-with-hand-over-mouth",
+    "rank": 7,
+    "rating": 2807,
+    "score": 83,
+    "sheet": {
+     "scores": "13005321104542204442200202224444523"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 8,
+    "rating": 2811,
+    "score": 83,
+    "sheet": {
+     "scores": "3104533000330005330222545330555330"
+    }
+   },
+   {
+    "name": "SavvaVetokhin2009",
+    "title": "GM",
+    "flair": "smileys.sleeping-face-blob",
+    "rank": 9,
+    "rating": 2700,
+    "score": 77,
+    "sheet": {
+     "scores": "033000030445433003233033003010533000300433"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 10,
+    "rating": 2785,
+    "score": 69,
+    "sheet": {
+     "scores": "2533054330004330303303253303030"
+    }
+   }
+  ]
+ },
+ "id": "oct25bta",
+ "createdBy": "lichess",
+ "startsAt": "2025-10-11T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena October '25",
+ "minutes": 120,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "superBlitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/oct25bua)",
+ "onlyTitled": true
+}
