@@ -261,7 +261,7 @@ def crop_key(key, method):
     if key in unique_names:
         key_p = unique_names[key][0] if method == 'short' else unique_names[key][1] if method == 'long' else key
     else:
-        text_to_delete = [' (?)', ' (X)', ' (i)', ' (S)', ' (M)', ' (!)', ' (B)', ' (C)', ' (*)']
+        text_to_delete = [' (?)', ' (X)', ' (i)', ' (S)', ' (M)', ' (!)', ' (B)', ' (C)', ' (*)', ' (d)']
         key_p = key
         for text in text_to_delete:
             key_p = key_p.replace(text, '')

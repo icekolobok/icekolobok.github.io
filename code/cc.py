@@ -778,6 +778,7 @@ def colormap(performances, a):
     cmap = {'Magnus Carlsen':          f'rgba(182,  12,  47, {a})',
             'Hikaru Nakamura':         f'rgba( 10,  49,  97, {a})',
             'Daniel Naroditsky':       f'rgba(179,  25,  66, {a})',
+            'Daniel Naroditsky (d)':   f'rgba(179,  25,  66, {a})',
             'Olexandr Bortnyk':        f'rgba(255, 215,   0, {a})',
             'Alireza Firouzja':        f'rgba( 35, 159,  64, {a})',
             'Jose Martinez Alcantara': f'rgba(  0, 104,  71, {a})',
