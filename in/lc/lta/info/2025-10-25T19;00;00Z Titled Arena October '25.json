@@ -1,0 +1,211 @@
+{
+ "nbPlayers": 330,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Ediz_Gurel",
+   "title": "GM",
+   "flair": "smileys.alien",
+   "rank": 1,
+   "rating": 3319,
+   "score": 169,
+   "nb": {
+    "game": 70,
+    "berserk": 17,
+    "win": 50
+   },
+   "performance": 3336
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "patronColor": 10,
+   "rank": 2,
+   "rating": 3245,
+   "score": 151,
+   "nb": {
+    "game": 66,
+    "berserk": 21,
+    "win": 44
+   },
+   "performance": 3232
+  },
+  {
+   "name": "mutdpro",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3225,
+   "score": 142,
+   "nb": {
+    "game": 62,
+    "berserk": 0,
+    "win": 45
+   },
+   "performance": 3328
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 4335,
+  "moves": 359702,
+  "whiteWins": 2154,
+  "blackWins": 1941,
+  "draws": 240,
+  "berserks": 1048,
+  "averageRating": 2681
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Ediz_Gurel",
+    "title": "GM",
+    "flair": "smileys.alien",
+    "rank": 1,
+    "rating": 3319,
+    "score": 169,
+    "sheet": {
+     "scores": "4220005432004432004522002200002204454444445220212243204330220455554522",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 2,
+    "rating": 3245,
+    "score": 151,
+    "sheet": {
+     "scores": "043302205231103300202304444444523000452304444533000125522242202022"
+    }
+   },
+   {
+    "name": "mutdpro",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3225,
+    "score": 142,
+    "sheet": {
+     "scores": "04422004444442202204444220044220202121004444444222220220044422"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3266,
+    "score": 142,
+    "sheet": {
+     "scores": "2020224221044443300204423012020002042300244444221002110321044230544220230"
+    }
+   },
+   {
+    "name": "RakitinD",
+    "title": "CM",
+    "rank": 5,
+    "rating": 3032,
+    "score": 125,
+    "sheet": {
+     "scores": "00533003030130044330000543303200004230100423000002002030000303200102010445552200320"
+    }
+   },
+   {
+    "name": "tamojerry",
+    "title": "IM",
+    "flair": "smileys.cold-face",
+    "rank": 6,
+    "rating": 3121,
+    "score": 123,
+    "sheet": {
+     "scores": "5330000320200222202020044320022443204423022045422022033000053300320300",
+     "fire": true
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 7,
+    "rating": 3181,
+    "score": 118,
+    "sheet": {
+     "scores": "0200202002020444220221204422042200444220022002210444444442203001"
+    }
+   },
+   {
+    "name": "chess-art-us",
+    "title": "GM",
+    "flair": "people.deaf-man-light-skin-tone",
+    "rank": 8,
+    "rating": 3193,
+    "score": 117,
+    "sheet": {
+     "scores": "00022022232043203203024230200442200300030423024423130020030210443300202"
+    }
+   },
+   {
+    "name": "Herzog2012",
+    "title": "CM",
+    "flair": "smileys.face-with-symbols-on-mouth",
+    "rank": 9,
+    "rating": 3011,
+    "score": 114,
+    "sheet": {
+     "scores": "020444444444442200203120012004444220002303030030300220302200320"
+    }
+   },
+   {
+    "name": "FairChess_on_YouTube",
+    "title": "GM",
+    "rank": 10,
+    "rating": 3200,
+    "score": 112,
+    "sheet": {
+     "scores": "220044422102211204444220202202201024220044220220202204422022022",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "oct25lta",
+ "createdBy": "lichess",
+ "startsAt": "2025-10-25T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena October '25",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "In memory of GM [Daniel Naroditsky](https://en.wikipedia.org/wiki/Daniel_Naroditsky) (1995 - 2025), known here as [RebeccaHarris](https://lichess.org/@/RebeccaHarris).\r\n\r\nPrizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/oct25wua)",
+ "onlyTitled": true
+}

@@ -17,6 +17,7 @@
   "Alireza Firouzja (2020-03-07, 1 place, rating: 3145)",
   "Daniel Naroditsky (2024-06-22, 1 place, rating: 3253)",
   "Daniel Naroditsky (2025-08-23, 2 place, rating: 3230)",
+  "Ediz Gurel (2025-10-25, 1 place, rating: 3319)",
   "Magnus Carlsen (2018-04-12, 1 place, rating: 3030)",
   "Ediz Gurel (2025-07-26, 1 place, rating: 3269)",
   "Andrew Tang (2025-08-23, 3 place, rating: 3200)",
@@ -38,8 +39,7 @@
   "Magnus Carlsen (2020-07-25, 1 place, rating: 3125)",
   "Nihal Sarin (2025-05-24, 1 place, rating: 3267)",
   "Andrew Tang (2018-04-12, 2 place, rating: 2939)",
-  "Daniel Naroditsky (2024-07-27, 1 place, rating: 3231)",
-  "David Paravyan (2023-07-15, 1 place, rating: 3139)"
+  "Daniel Naroditsky (2024-07-27, 1 place, rating: 3231)"
  ],
  "datasets": [
   {
@@ -62,6 +62,7 @@
     172,
     170,
     170,
+    169,
     168,
     167,
     167,
@@ -83,7 +84,6 @@
     161,
     160,
     160,
-    159,
     159
    ],
    "backgroundColor": [
@@ -104,6 +104,7 @@
     "rgba( 35, 159,  64, 1.0)",
     "rgba( 10,  49,  97, 1.0)",
     "rgba( 10,  49,  97, 1.0)",
+    "rgba(192, 192, 192, 1.0)",
     "rgba(182,  12,  47, 1.0)",
     "rgba(192, 192, 192, 1.0)",
     "rgba( 95,  37,  82, 1.0)",
@@ -125,8 +126,7 @@
     "rgba(182,  12,  47, 1.0)",
     "rgba(255, 103,  31, 1.0)",
     "rgba( 95,  37,  82, 1.0)",
-    "rgba( 10,  49,  97, 1.0)",
-    "rgba(242, 168,   0, 1.0)"
+    "rgba( 10,  49,  97, 1.0)"
    ],
    "borderColor": "rgb(0, 0, 0)",
    "borderWidth": 1,
@@ -152,6 +152,7 @@
     3174,
     3288,
     3271,
+    3336,
     3012,
     3249,
     3180,
@@ -173,8 +174,7 @@
     3088,
     3390,
     2972,
-    3247,
-    3211
+    3247
    ],
    "backgroundColor": [
     "rgba(182,  12,  47, 0.4)",
@@ -194,6 +194,7 @@
     "rgba( 35, 159,  64, 0.4)",
     "rgba( 10,  49,  97, 0.4)",
     "rgba( 10,  49,  97, 0.4)",
+    "rgba(192, 192, 192, 0.4)",
     "rgba(182,  12,  47, 0.4)",
     "rgba(192, 192, 192, 0.4)",
     "rgba( 95,  37,  82, 0.4)",
@@ -215,8 +216,7 @@
     "rgba(182,  12,  47, 0.4)",
     "rgba(255, 103,  31, 0.4)",
     "rgba( 95,  37,  82, 0.4)",
-    "rgba( 10,  49,  97, 0.4)",
-    "rgba(242, 168,   0, 0.4)"
+    "rgba( 10,  49,  97, 0.4)"
    ],
    "borderColor": "rgb(0, 0, 0)",
    "borderWidth": 1,
