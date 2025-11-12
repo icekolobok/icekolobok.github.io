@@ -1,0 +1,214 @@
+{
+ "nbPlayers": 399,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Zhigalko_Sergei",
+   "title": "GM",
+   "patron": true,
+   "patronColor": 10,
+   "rank": 1,
+   "rating": 2874,
+   "score": 122,
+   "nb": {
+    "game": 37,
+    "berserk": 26,
+    "win": 31
+   },
+   "performance": 3027
+  },
+  {
+   "name": "yoseph2013",
+   "title": "IM",
+   "flair": "objects.alarm-clock",
+   "rank": 2,
+   "rating": 2709,
+   "score": 111,
+   "nb": {
+    "game": 44,
+    "berserk": 44,
+    "win": 26
+   },
+   "performance": 2780
+  },
+  {
+   "name": "tamojerry",
+   "title": "IM",
+   "flair": "smileys.cold-face",
+   "rank": 3,
+   "rating": 2785,
+   "score": 107,
+   "nb": {
+    "game": 37,
+    "berserk": 19,
+    "win": 29
+   },
+   "performance": 2924
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 2716,
+  "moves": 232336,
+  "whiteWins": 1326,
+  "blackWins": 1213,
+  "draws": 177,
+  "berserks": 2078,
+  "averageRating": 2444
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 1,
+    "rating": 2874,
+    "score": 122,
+    "sheet": {
+     "scores": "5445445230304544444553303325330553303",
+     "fire": true
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "rank": 2,
+    "rating": 2709,
+    "score": 111,
+    "sheet": {
+     "scores": "02330303100553310533055555555331003031125330"
+    }
+   },
+   {
+    "name": "tamojerry",
+    "title": "IM",
+    "flair": "smileys.cold-face",
+    "rank": 3,
+    "rating": 2785,
+    "score": 107,
+    "sheet": {
+     "scores": "3045230444445443204444545230030533003"
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 4,
+    "rating": 2740,
+    "score": 104,
+    "sheet": {
+     "scores": "01303300301025330300555533033005555533000533"
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 5,
+    "rating": 2861,
+    "score": 100,
+    "sheet": {
+     "scores": "0305330312330555555522255331055330"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 6,
+    "rating": 2756,
+    "score": 90,
+    "sheet": {
+     "scores": "305533100303030305330330454332545330"
+    }
+   },
+   {
+    "name": "JayDee0305",
+    "title": "IM",
+    "flair": "objects.crown",
+    "rank": 7,
+    "rating": 2589,
+    "score": 88,
+    "sheet": {
+     "scores": "030033055555533130300005553302303300022"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 1,
+    "rank": 8,
+    "rating": 2829,
+    "score": 86,
+    "sheet": {
+     "scores": "103300545433130533033003300330003304330330"
+    }
+   },
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2813,
+    "score": 82,
+    "sheet": {
+     "scores": "3305330030533053303303233255330032",
+     "fire": true
+    }
+   },
+   {
+    "name": "Riquelme93",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2754,
+    "score": 82,
+    "sheet": {
+     "scores": "53300544445533233000300300031032330032",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "nov25bta",
+ "createdBy": "lichess",
+ "startsAt": "2025-11-08T20:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena November '25",
+ "minutes": 120,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "superBlitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/nov25bua)",
+ "onlyTitled": true
+}
