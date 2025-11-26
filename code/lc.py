@@ -1,9 +1,9 @@
-import json
+# import json
 import os
 import json
 import utils
 import requests
-import common
+# import common
 
 
 def generate_links(arena_type, folder):
