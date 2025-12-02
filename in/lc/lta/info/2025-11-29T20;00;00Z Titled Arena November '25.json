@@ -1,0 +1,210 @@
+{
+ "nbPlayers": 339,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "junglebook1",
+   "title": "GM",
+   "rank": 1,
+   "rating": 3316,
+   "score": 159,
+   "nb": {
+    "game": 68,
+    "berserk": 17,
+    "win": 47
+   },
+   "performance": 3366
+  },
+  {
+   "name": "OhanyanEminChess",
+   "title": "GM",
+   "flair": "symbols.exclamation-question-mark",
+   "rank": 2,
+   "rating": 3176,
+   "score": 144,
+   "nb": {
+    "game": 72,
+    "berserk": 32,
+    "win": 44
+   },
+   "performance": 3181
+  },
+  {
+   "name": "chessmaster2006",
+   "title": "GM",
+   "rank": 3,
+   "rating": 3239,
+   "score": 128,
+   "nb": {
+    "game": 59,
+    "berserk": 5,
+    "win": 41
+   },
+   "performance": 3302
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 4398,
+  "moves": 367295,
+  "whiteWins": 2152,
+  "blackWins": 1982,
+  "draws": 264,
+  "berserks": 1165,
+  "averageRating": 2667
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 1,
+    "rating": 3316,
+    "score": 159,
+    "sheet": {
+     "scores": "01202204322232422054444445433030023021012020204220044442205445445320"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 2,
+    "rating": 3176,
+    "score": 144,
+    "sheet": {
+     "scores": "300044432022302223045230444230230204442303000304222330003033055330000303"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 3,
+    "rating": 3239,
+    "score": 128,
+    "sheet": {
+     "scores": "24423003000442224422020020220444444422020202022032044444522"
+    }
+   },
+   {
+    "name": "MatthewG-p4p",
+    "title": "IM",
+    "flair": "people.man-student",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 4,
+    "rating": 3167,
+    "score": 126,
+    "sheet": {
+     "scores": "1204422010444330120442202200204422022102222022044422002204231242202"
+    }
+   },
+   {
+    "name": "Bardyk01",
+    "title": "FM",
+    "rank": 5,
+    "rating": 3097,
+    "score": 124,
+    "sheet": {
+     "scores": "1042301022300020543300002320030000044422002000002545220004555444320032"
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3151,
+    "score": 123,
+    "sheet": {
+     "scores": "0330443300300000054232230304523003000003020230320423024442300045331"
+    }
+   },
+   {
+    "name": "Fir_09",
+    "title": "FM",
+    "flair": "smileys.alien",
+    "rank": 7,
+    "rating": 3031,
+    "score": 117,
+    "sheet": {
+     "scores": "10030305330302300104320003300003000033000001103301030311304543202130302252301031"
+    }
+   },
+   {
+    "name": "Berserk2600",
+    "title": "FM",
+    "patron": true,
+    "patronColor": 1,
+    "rank": 8,
+    "rating": 3047,
+    "score": 114,
+    "sheet": {
+     "scores": "0330432013003303002005443201000202104220030002100020302030302200300554522003"
+    }
+   },
+   {
+    "name": "muisback",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 9,
+    "rank": 9,
+    "rating": 3211,
+    "score": 113,
+    "sheet": {
+     "scores": "2210002004220422242202202202200020204442204220244320230444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "patronColor": 1,
+    "rank": 10,
+    "rating": 3174,
+    "score": 113,
+    "sheet": {
+     "scores": "10302022202042200204444220220224422042204220020044444532010"
+    }
+   }
+  ]
+ },
+ "id": "nov25lta",
+ "createdBy": "lichess",
+ "startsAt": "2025-11-29T20:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena November '25",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/nov25wua)",
+ "onlyTitled": true
+}

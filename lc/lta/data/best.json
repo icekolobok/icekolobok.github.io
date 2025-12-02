@@ -39,7 +39,7 @@
   "Magnus Carlsen (2020-07-25, 1 place, rating: 3125)",
   "Nihal Sarin (2025-05-24, 1 place, rating: 3267)",
   "Andrew Tang (2018-04-12, 2 place, rating: 2939)",
-  "Daniel Naroditsky (2024-07-27, 1 place, rating: 3231)"
+  "Nihal Sarin (2025-11-29, 1 place, rating: 3316)"
  ],
  "datasets": [
   {
@@ -126,7 +126,7 @@
     "rgba(182,  12,  47, 1.0)",
     "rgba(255, 103,  31, 1.0)",
     "rgba( 95,  37,  82, 1.0)",
-    "rgba( 10,  49,  97, 1.0)"
+    "rgba(255, 103,  31, 1.0)"
    ],
    "borderColor": "rgb(0, 0, 0)",
    "borderWidth": 1,
@@ -174,7 +174,7 @@
     3088,
     3390,
     2972,
-    3247
+    3366
    ],
    "backgroundColor": [
     "rgba(182,  12,  47, 0.4)",
@@ -216,7 +216,7 @@
     "rgba(182,  12,  47, 0.4)",
     "rgba(255, 103,  31, 0.4)",
     "rgba( 95,  37,  82, 0.4)",
-    "rgba( 10,  49,  97, 0.4)"
+    "rgba(255, 103,  31, 0.4)"
    ],
    "borderColor": "rgb(0, 0, 0)",
    "borderWidth": 1,
