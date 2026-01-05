@@ -11,6 +11,7 @@
   "David Paravyan (2023-12-09, 3 place, rating: 2451)",
   "Olexandr Bortnyk (2022-02-05, 1 place, rating: 2442)",
   "GM Grey_parrot (2021-06-05, 1 place, rating: 2564)",
+  "Renato Terry (2025-12-06, 1 place, rating: 2590)",
   "Renato Terry (2025-09-06, 1 place, rating: 2511)",
   "David Paravyan (2022-12-03, 2 place, rating: 2370)",
   "Dmitry Andreikin (2022-02-05, 2 place, rating: 2524)",
@@ -36,10 +37,9 @@
   "Jeffery Xiong (2021-02-06, 2 place, rating: 2379)",
   "Vugar Rasulov (2022-06-04, 4 place, rating: 2328)",
   "Vugar Rasulov (2023-12-09, 5 place, rating: 2308)",
+  "Pranav Venkatesh (2025-12-06, 2 place, rating: 2638)",
   "Mykola Bortnyk (2022-06-04, 5 place, rating: 2541)",
-  "Frederik Svane (2025-04-05, 3 place, rating: 2537)",
-  "Daniil Dubov (2022-08-13, 3 place, rating: 2442)",
-  "GM caching (2021-02-06, 3 place, rating: 2420)"
+  "Frederik Svane (2025-04-05, 3 place, rating: 2537)"
  ],
  "datasets": [
   {
@@ -56,6 +56,7 @@
     98,
     97,
     96,
+    95,
     95,
     94,
     93,
@@ -83,7 +84,6 @@
     87,
     86,
     86,
-    86,
     86
    ],
    "backgroundColor": [
@@ -97,6 +97,7 @@
     "rgba(192, 192, 192, 1.0)",
     "rgba(242, 168,   0, 1.0)",
     "rgba(255, 215,   0, 1.0)",
+    "rgba(192, 192, 192, 1.0)",
     "rgba(192, 192, 192, 1.0)",
     "rgba(192, 192, 192, 1.0)",
     "rgba(242, 168,   0, 1.0)",
@@ -123,9 +124,8 @@
     "rgba(179,  25,  66, 1.0)",
     "rgba( 80, 158,  47, 1.0)",
     "rgba( 80, 158,  47, 1.0)",
-    "rgba(  0,  87, 183, 1.0)",
     "rgba(192, 192, 192, 1.0)",
-    "rgba(168,   0,  44, 1.0)",
+    "rgba(  0,  87, 183, 1.0)",
     "rgba(192, 192, 192, 1.0)"
    ],
    "borderColor": "rgb(0, 0, 0)",
@@ -146,6 +146,7 @@
     2497,
     2492,
     2620,
+    2708,
     2576,
     2427,
     2593,
@@ -171,10 +172,9 @@
     2428,
     2356,
     2334,
+    2676,
     2640,
-    2608,
-    2538,
-    2474
+    2608
    ],
    "backgroundColor": [
     "rgba(192, 192, 192, 0.4)",
@@ -187,6 +187,7 @@
     "rgba(192, 192, 192, 0.4)",
     "rgba(242, 168,   0, 0.4)",
     "rgba(255, 215,   0, 0.4)",
+    "rgba(192, 192, 192, 0.4)",
     "rgba(192, 192, 192, 0.4)",
     "rgba(192, 192, 192, 0.4)",
     "rgba(242, 168,   0, 0.4)",
@@ -213,9 +214,8 @@
     "rgba(179,  25,  66, 0.4)",
     "rgba( 80, 158,  47, 0.4)",
     "rgba( 80, 158,  47, 0.4)",
-    "rgba(  0,  87, 183, 0.4)",
     "rgba(192, 192, 192, 0.4)",
-    "rgba(168,   0,  44, 0.4)",
+    "rgba(  0,  87, 183, 0.4)",
     "rgba(192, 192, 192, 0.4)"
    ],
    "borderColor": "rgb(0, 0, 0)",

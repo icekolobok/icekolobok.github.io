@@ -1,0 +1,215 @@
+{
+ "nbPlayers": 331,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "chess-art-us",
+   "title": "GM",
+   "flair": "people.deaf-man-light-skin-tone",
+   "patron": true,
+   "patronColor": 1,
+   "rank": 1,
+   "rating": 3235,
+   "score": 159,
+   "nb": {
+    "game": 76,
+    "berserk": 26,
+    "win": 47
+   },
+   "performance": 3267
+  },
+  {
+   "name": "msb2",
+   "title": "GM",
+   "patron": true,
+   "patronColor": 10,
+   "rank": 2,
+   "rating": 3241,
+   "score": 158,
+   "nb": {
+    "game": 74,
+    "berserk": 4,
+    "win": 50
+   },
+   "performance": 3339
+  },
+  {
+   "name": "nihalsarin2004",
+   "title": "GM",
+   "patron": true,
+   "patronColor": 10,
+   "rank": 3,
+   "rating": 3209,
+   "score": 155,
+   "nb": {
+    "game": 75,
+    "berserk": 41,
+    "win": 45
+   },
+   "performance": 3236
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 4760,
+  "moves": 405196,
+  "whiteWins": 2271,
+  "blackWins": 2182,
+  "draws": 307,
+  "berserks": 1350,
+  "averageRating": 2695
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "chess-art-us",
+    "title": "GM",
+    "flair": "people.deaf-man-light-skin-tone",
+    "patron": true,
+    "patronColor": 1,
+    "rank": 1,
+    "rating": 3235,
+    "score": 159,
+    "sheet": {
+     "scores": "0100202000444423024220230204422021044423000003000220445545523042304553305330"
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 2,
+    "rating": 3241,
+    "score": 158,
+    "sheet": {
+     "scores": "04220422112004442210120444220422022122444422000042202300444444444220304230"
+    }
+   },
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 3,
+    "rating": 3209,
+    "score": 155,
+    "sheet": {
+     "scores": "300013002030023020302044423002013020444444445220230203005330030000555555533"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 4,
+    "rating": 3182,
+    "score": 145,
+    "sheet": {
+     "scores": "0244422044423000304433001023033000004230204422000320042300000200044444330303000004330"
+    }
+   },
+   {
+    "name": "rob188",
+    "title": "IM",
+    "rank": 5,
+    "rating": 3145,
+    "score": 135,
+    "sheet": {
+     "scores": "55330204230020120000442202004444220000120445230020443302533100030533100030",
+     "fire": true
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "patronColor": 1,
+    "rank": 6,
+    "rating": 3174,
+    "score": 134,
+    "sheet": {
+     "scores": "1002022022020221024422044444422000300012444220002024220044444444422"
+    }
+   },
+   {
+    "name": "toivok3",
+    "title": "IM",
+    "rank": 7,
+    "rating": 3163,
+    "score": 133,
+    "sheet": {
+     "scores": "223054443202202020302020002020000422044522042203003304230442204442202031"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 8,
+    "rating": 3155,
+    "score": 129,
+    "sheet": {
+     "scores": "000303310022003030302000002000052302204445552300045444330331303303052300"
+    }
+   },
+   {
+    "name": "drop_stone",
+    "title": "GM",
+    "rank": 9,
+    "rating": 3132,
+    "score": 128,
+    "sheet": {
+     "scores": "3030030044444444552301044220302200300230302030255230232422022"
+    }
+   },
+   {
+    "name": "iamstraw",
+    "title": "GM",
+    "rank": 10,
+    "rating": 3116,
+    "score": 125,
+    "sheet": {
+     "scores": "00000000303033030020030000000303001023003003030030300020302204555330210543302030454422"
+    }
+   }
+  ]
+ },
+ "id": "dec25lta",
+ "createdBy": "lichess",
+ "startsAt": "2025-12-13T20:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena December '25",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/dec25wua)",
+ "onlyTitled": true
+}

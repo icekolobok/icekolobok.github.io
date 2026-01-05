@@ -1,0 +1,209 @@
+{
+ "nbPlayers": 260,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "AngelitoRT",
+   "title": "IM",
+   "patron": true,
+   "patronColor": 1,
+   "rank": 1,
+   "rating": 2590,
+   "score": 95,
+   "nb": {
+    "game": 35,
+    "berserk": 7,
+    "win": 26
+   },
+   "performance": 2708
+  },
+  {
+   "name": "chessmaster2006",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2638,
+   "score": 86,
+   "nb": {
+    "game": 33,
+    "berserk": 7,
+    "win": 24
+   },
+   "performance": 2676
+  },
+  {
+   "name": "PawnArchitect",
+   "title": "FM",
+   "rank": 3,
+   "rating": 2505,
+   "score": 80,
+   "nb": {
+    "game": 35,
+    "berserk": 1,
+    "win": 26
+   },
+   "performance": 2570
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 1251,
+  "moves": 94449,
+  "whiteWins": 573,
+  "blackWins": 577,
+  "draws": 101,
+  "berserks": 708,
+  "averageRating": 2092
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "patronColor": 1,
+    "rank": 1,
+    "rating": 2590,
+    "score": 95,
+    "sheet": {
+     "scores": "10202024444533244232444230444222423"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2638,
+    "score": 86,
+    "sheet": {
+     "scores": "033030000224444442224444444222432"
+    }
+   },
+   {
+    "name": "PawnArchitect",
+    "title": "FM",
+    "rank": 3,
+    "rating": 2505,
+    "score": 80,
+    "sheet": {
+     "scores": "00444220444422044442200422020442202"
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "rank": 4,
+    "rating": 2352,
+    "score": 77,
+    "sheet": {
+     "scores": "3030003043303303030003004230030000103003310003003053300030"
+    }
+   },
+   {
+    "name": "ARM-777777",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2406,
+    "score": 74,
+    "sheet": {
+     "scores": "3044330310322443200000010000300230443304330"
+    }
+   },
+   {
+    "name": "QWERT0808",
+    "title": "CM",
+    "flair": "smileys.face-holding-back-tears",
+    "rank": 6,
+    "rating": 2490,
+    "score": 73,
+    "sheet": {
+     "scores": "0222224444442202242302202224422"
+    }
+   },
+   {
+    "name": "caching",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 7,
+    "rating": 2364,
+    "score": 67,
+    "sheet": {
+     "scores": "04532010300103030433033033000003030305330"
+    }
+   },
+   {
+    "name": "Zubrrr",
+    "title": "IM",
+    "flair": "nature.bison",
+    "rank": 8,
+    "rating": 2569,
+    "score": 66,
+    "sheet": {
+     "scores": "11213025230522023254221032024230"
+    }
+   },
+   {
+    "name": "samisahi",
+    "title": "IM",
+    "rank": 9,
+    "rating": 2473,
+    "score": 64,
+    "sheet": {
+     "scores": "220300044220000202223204422042322202030",
+     "fire": true
+    }
+   },
+   {
+    "name": "BlunderPandaZz",
+    "title": "GM",
+    "flair": "symbols.zzz",
+    "patron": true,
+    "patronColor": 6,
+    "rank": 10,
+    "rating": 2336,
+    "score": 61,
+    "sheet": {
+     "scores": "000010044330300230000255533030030030330"
+    }
+   }
+  ]
+ },
+ "id": "960dec25",
+ "createdBy": "lichess",
+ "startsAt": "2025-12-06T20:00:00Z",
+ "system": "arena",
+ "fullName": "Chess960 Titled Arena December '25",
+ "minutes": 180,
+ "perf": {
+  "key": "chess960",
+  "name": "Chess960"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 2
+ },
+ "variant": "chess960",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "blitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/96wdec25)\r\n\r\nJoin the [official Lichess Chess960 team](https://lichess.org/team/lichess-chess960) for news and events",
+ "onlyTitled": true
+}
