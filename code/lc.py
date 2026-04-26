@@ -9,7 +9,7 @@ import requests
 def generate_links(arena_type, folder):
     base_url = 'https://lichess.org/api/tournament/'
     months = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec']
-    years = ['19', '20', '21', '22', '23', '24', '25']
+    years = ['19', '20', '21', '22', '23', '24', '25', '26']
     links = []
     for year in years:
         for month in months:
