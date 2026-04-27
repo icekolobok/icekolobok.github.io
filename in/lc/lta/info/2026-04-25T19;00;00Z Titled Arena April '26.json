@@ -1,0 +1,213 @@
+{
+ "nbPlayers": 348,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "patronColor": 10,
+   "rank": 1,
+   "rating": 3242,
+   "score": 137,
+   "nb": {
+    "game": 60,
+    "berserk": 7,
+    "win": 44
+   },
+   "performance": 3323
+  },
+  {
+   "name": "Hooligan64",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3236,
+   "score": 135,
+   "nb": {
+    "game": 69,
+    "berserk": 8,
+    "win": 46
+   },
+   "performance": 3251
+  },
+  {
+   "name": "MeneerMandje",
+   "title": "GM",
+   "flair": "objects.basket",
+   "patron": true,
+   "patronColor": 10,
+   "rank": 3,
+   "rating": 3053,
+   "score": 131,
+   "nb": {
+    "game": 80,
+    "berserk": 21,
+    "win": 42
+   },
+   "performance": 3104
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 4570,
+  "moves": 374631,
+  "whiteWins": 2279,
+  "blackWins": 2017,
+  "draws": 274,
+  "berserks": 947,
+  "averageRating": 2645
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 1,
+    "rating": 3242,
+    "score": 137,
+    "sheet": {
+     "scores": "202044444444330220454422021204220444422043210022244220202203"
+    }
+   },
+   {
+    "name": "Hooligan64",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3236,
+    "score": 135,
+    "sheet": {
+     "scores": "043224444442204220020202210220442200422120442210444220220000205220422"
+    }
+   },
+   {
+    "name": "MeneerMandje",
+    "title": "GM",
+    "flair": "objects.basket",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 3,
+    "rating": 3053,
+    "score": 131,
+    "sheet": {
+     "scores": "02000210000212002120220330444230204444220024442301130000305220022004453301300022"
+    }
+   },
+   {
+    "name": "chess-art-us",
+    "title": "GM",
+    "flair": "people.deaf-man-light-skin-tone",
+    "rank": 4,
+    "rating": 3168,
+    "score": 130,
+    "sheet": {
+     "scores": "022444230444423043302032000003303300020302002200330002020301044523053302030"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 5,
+    "rating": 3210,
+    "score": 129,
+    "sheet": {
+     "scores": "10444222423004220000033000104422120213022220044221204422004422244422"
+    }
+   },
+   {
+    "name": "rob188",
+    "title": "IM",
+    "rank": 6,
+    "rating": 3161,
+    "score": 129,
+    "sheet": {
+     "scores": "0244423021001122200242224442204442200002204443302210303020433004330"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 7,
+    "rating": 3173,
+    "score": 117,
+    "sheet": {
+     "scores": "2030010043302000203020320201020220020444442200444443305331300013030310"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "patronColor": 8,
+    "rank": 8,
+    "rating": 3190,
+    "score": 115,
+    "sheet": {
+     "scores": "0123300042203000330442224320001102422005544444554433"
+    }
+   },
+   {
+    "name": "delta_horsey",
+    "title": "GM",
+    "flair": "activity.lichess-blitz",
+    "rank": 9,
+    "rating": 3214,
+    "score": 113,
+    "sheet": {
+     "scores": "3300002020202201224442212020104442210002023020444444444422",
+     "fire": true
+    }
+   },
+   {
+    "name": "Gokerkan",
+    "title": "GM",
+    "rank": 10,
+    "rating": 3057,
+    "score": 110,
+    "sheet": {
+     "scores": "0003030444442300002020300023004330102422032120220000444422020422022"
+    }
+   }
+  ]
+ },
+ "id": "apr26lta",
+ "createdBy": "lichess",
+ "startsAt": "2026-04-25T19:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena April '26",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/apr26wua)",
+ "onlyTitled": true
+}

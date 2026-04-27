@@ -1,0 +1,215 @@
+{
+ "nbPlayers": 300,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "yoseph2013",
+   "title": "IM",
+   "flair": "objects.alarm-clock",
+   "patron": true,
+   "patronColor": 4,
+   "rank": 1,
+   "rating": 2748,
+   "score": 112,
+   "nb": {
+    "game": 39,
+    "berserk": 34,
+    "win": 27
+   },
+   "performance": 2898
+  },
+  {
+   "name": "Eyesless18",
+   "title": "GM",
+   "rank": 2,
+   "rating": 2760,
+   "score": 96,
+   "nb": {
+    "game": 45,
+    "berserk": 41,
+    "win": 24
+   },
+   "performance": 2831
+  },
+  {
+   "name": "AngelitoRT",
+   "title": "IM",
+   "patron": true,
+   "patronColor": 8,
+   "rank": 3,
+   "rating": 2857,
+   "score": 93,
+   "nb": {
+    "game": 35,
+    "berserk": 19,
+    "win": 23
+   },
+   "performance": 2928
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 2321,
+  "moves": 197679,
+  "whiteWins": 1101,
+  "blackWins": 1040,
+  "draws": 180,
+  "berserks": 2208,
+  "averageRating": 2456
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "patronColor": 4,
+    "rank": 1,
+    "rating": 2748,
+    "score": 112,
+    "sheet": {
+     "scores": "555533000003255553305543300555330305330",
+     "fire": true
+    }
+   },
+   {
+    "name": "Eyesless18",
+    "title": "GM",
+    "rank": 2,
+    "rating": 2760,
+    "score": 96,
+    "sheet": {
+     "scores": "233033113010000300553302331300533055330025533"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "patronColor": 8,
+    "rank": 3,
+    "rating": 2857,
+    "score": 93,
+    "sheet": {
+     "scores": "24423002455230443325544330100054331"
+    }
+   },
+   {
+    "name": "innocentguy",
+    "title": "CM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 4,
+    "rating": 2705,
+    "score": 89,
+    "sheet": {
+     "scores": "1104444444330030044433024533033030033"
+    }
+   },
+   {
+    "name": "handofprince",
+    "title": "GM",
+    "rank": 5,
+    "rating": 2784,
+    "score": 87,
+    "sheet": {
+     "scores": "2330230233033025533003031030130053310055330"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 6,
+    "rating": 2831,
+    "score": 86,
+    "sheet": {
+     "scores": "03030330022003100554330331324330455532"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 7,
+    "rating": 2797,
+    "score": 82,
+    "sheet": {
+     "scores": "33003325330313252300533033033030303303",
+     "fire": true
+    }
+   },
+   {
+    "name": "GrraindTime",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2813,
+    "score": 80,
+    "sheet": {
+     "scores": "330555543210000442303003303030304423",
+     "fire": true
+    }
+   },
+   {
+    "name": "chess-art-us",
+    "title": "GM",
+    "flair": "people.deaf-man-light-skin-tone",
+    "rank": 9,
+    "rating": 2784,
+    "score": 76,
+    "sheet": {
+     "scores": "00055533003303300130030033233023055331"
+    }
+   },
+   {
+    "name": "chessmaster2006",
+    "title": "GM",
+    "rank": 10,
+    "rating": 2875,
+    "score": 74,
+    "sheet": {
+     "scores": "000304423033030124230302544445330"
+    }
+   }
+  ]
+ },
+ "id": "jan26bta",
+ "createdBy": "lichess",
+ "startsAt": "2026-01-17T20:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena January '26",
+ "minutes": 120,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "superBlitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jan26bua)",
+ "onlyTitled": true
+}

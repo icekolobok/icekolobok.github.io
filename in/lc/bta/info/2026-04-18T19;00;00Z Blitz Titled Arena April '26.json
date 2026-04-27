@@ -1,0 +1,218 @@
+{
+ "nbPlayers": 307,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "AngelitoRT",
+   "title": "IM",
+   "patron": true,
+   "patronColor": 8,
+   "rank": 1,
+   "rating": 2887,
+   "score": 100,
+   "nb": {
+    "game": 35,
+    "berserk": 26,
+    "win": 24
+   },
+   "performance": 3018
+  },
+  {
+   "name": "OhanyanEminChess",
+   "title": "GM",
+   "flair": "symbols.exclamation-question-mark",
+   "rank": 2,
+   "rating": 2792,
+   "score": 97,
+   "nb": {
+    "game": 42,
+    "berserk": 31,
+    "win": 26
+   },
+   "performance": 2883
+  },
+  {
+   "name": "KontraJaKO",
+   "title": "GM",
+   "patron": true,
+   "patronColor": 10,
+   "rank": 3,
+   "rating": 2882,
+   "score": 88,
+   "nb": {
+    "game": 36,
+    "berserk": 15,
+    "win": 24
+   },
+   "performance": 3035
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 1931,
+  "moves": 164866,
+  "whiteWins": 925,
+  "blackWins": 852,
+  "draws": 154,
+  "berserks": 1499,
+  "averageRating": 2450
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "patronColor": 8,
+    "rank": 1,
+    "rating": 2887,
+    "score": 100,
+    "sheet": {
+     "scores": "23310233013045454553303323302545533"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 2,
+    "rating": 2792,
+    "score": 97,
+    "sheet": {
+     "scores": "300131030322544552313025330300553303303303"
+    }
+   },
+   {
+    "name": "KontraJaKO",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 3,
+    "rating": 2882,
+    "score": 88,
+    "sheet": {
+     "scores": "422232130222222433132553210025444330",
+     "fire": true
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 4,
+    "rating": 2845,
+    "score": 88,
+    "sheet": {
+     "scores": "5330032452300055330022325230224443310",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 5,
+    "rating": 2846,
+    "score": 85,
+    "sheet": {
+     "scores": "1232001300533005330005433055330553313"
+    }
+   },
+   {
+    "name": "mraquariyaz67",
+    "title": "GM",
+    "flair": "smileys.disguised-face",
+    "rank": 6,
+    "rating": 2928,
+    "score": 82,
+    "sheet": {
+     "scores": "423003025555553303053303053313",
+     "fire": true
+    }
+   },
+   {
+    "name": "Vladimirovich9000",
+    "title": "GM",
+    "flair": "smileys.cowboy-hat-face",
+    "rank": 7,
+    "rating": 2890,
+    "score": 75,
+    "sheet": {
+     "scores": "44442202200442201200212020444444221",
+     "fire": true
+    }
+   },
+   {
+    "name": "Chessfis",
+    "title": "GM",
+    "rank": 8,
+    "rating": 2805,
+    "score": 74,
+    "sheet": {
+     "scores": "303044432004321044555532023210"
+    }
+   },
+   {
+    "name": "chess-art-us",
+    "title": "GM",
+    "flair": "people.deaf-man-light-skin-tone",
+    "rank": 9,
+    "rating": 2871,
+    "score": 74,
+    "sheet": {
+     "scores": "0303303300533053303055453303003300"
+    }
+   },
+   {
+    "name": "FaustiOro",
+    "title": "IM",
+    "rank": 10,
+    "rating": 2962,
+    "score": 70,
+    "sheet": {
+     "scores": "004220230320545452303043204422"
+    }
+   }
+  ]
+ },
+ "id": "apr26bta",
+ "createdBy": "lichess",
+ "startsAt": "2026-04-18T19:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena April '26",
+ "minutes": 120,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "superBlitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/apr26bua)",
+ "onlyTitled": true
+}

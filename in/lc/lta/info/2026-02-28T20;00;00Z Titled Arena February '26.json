@@ -1,0 +1,223 @@
+{
+ "nbPlayers": 264,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "nihalsarin2004",
+   "title": "GM",
+   "patron": true,
+   "patronColor": 10,
+   "rank": 1,
+   "rating": 3273,
+   "score": 166,
+   "nb": {
+    "game": 65,
+    "berserk": 32,
+    "win": 45
+   },
+   "performance": 3306
+  },
+  {
+   "name": "AngelitoRT",
+   "title": "IM",
+   "patron": true,
+   "patronColor": 8,
+   "rank": 2,
+   "rating": 3205,
+   "score": 159,
+   "nb": {
+    "game": 65,
+    "berserk": 9,
+    "win": 48
+   },
+   "performance": 3216
+  },
+  {
+   "name": "penguingim1",
+   "title": "GM",
+   "flair": "nature.penguin",
+   "patron": true,
+   "patronColor": 10,
+   "rank": 3,
+   "rating": 3196,
+   "score": 155,
+   "nb": {
+    "game": 75,
+    "berserk": 40,
+    "win": 46
+   },
+   "performance": 3225
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 3173,
+  "moves": 262069,
+  "whiteWins": 1523,
+  "blackWins": 1474,
+  "draws": 176,
+  "berserks": 821,
+  "averageRating": 2630
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "nihalsarin2004",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 1,
+    "rating": 3273,
+    "score": 166,
+    "sheet": {
+     "scores": "24532101030453312000544455433045320433010220555523030442305442212"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "patronColor": 8,
+    "rank": 2,
+    "rating": 3205,
+    "score": 159,
+    "sheet": {
+     "scores": "30444444444444442202044444523044442202002300200203044230303023222"
+    }
+   },
+   {
+    "name": "penguingim1",
+    "title": "GM",
+    "flair": "nature.penguin",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 3,
+    "rating": 3196,
+    "score": 155,
+    "sheet": {
+     "scores": "300453310011023042302200443302302020033032032005523044533000004330445455330"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 4,
+    "rating": 3117,
+    "score": 149,
+    "sheet": {
+     "scores": "0303203003032330030045423012030545330303053300045453300522002130103130433030"
+    }
+   },
+   {
+    "name": "RakitinD",
+    "title": "FM",
+    "rank": 5,
+    "rating": 3065,
+    "score": 145,
+    "sheet": {
+     "scores": "23202054543203020422000423130305232522023000330020100024423021204222445330"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 6,
+    "rating": 3242,
+    "score": 136,
+    "sheet": {
+     "scores": "5231003002242210200230204442200004222442224454442312220042300044330",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 7,
+    "rating": 3197,
+    "score": 132,
+    "sheet": {
+     "scores": "330300310301245330200422002022020442204442202020320022044444230443210",
+     "fire": true
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "patronColor": 4,
+    "rank": 8,
+    "rating": 3027,
+    "score": 124,
+    "sheet": {
+     "scores": "053301030313003000032023023102000002205433003055433030553300000053303033"
+    }
+   },
+   {
+    "name": "rob188",
+    "title": "IM",
+    "rank": 9,
+    "rating": 3079,
+    "score": 118,
+    "sheet": {
+     "scores": "3300000533003002023020045220303030223030302300021200220204220444442200312",
+     "fire": true
+    }
+   },
+   {
+    "name": "tamojerry",
+    "title": "IM",
+    "flair": "smileys.cold-face",
+    "rank": 10,
+    "rating": 3164,
+    "score": 116,
+    "sheet": {
+     "scores": "003030130300004220020202004452210422053205444422004423044220012"
+    }
+   }
+  ]
+ },
+ "id": "feb26lta",
+ "createdBy": "lichess",
+ "startsAt": "2026-02-28T20:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena February '26",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/feb26wua)",
+ "onlyTitled": true
+}

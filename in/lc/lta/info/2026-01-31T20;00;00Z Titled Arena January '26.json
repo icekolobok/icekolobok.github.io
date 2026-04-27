@@ -1,0 +1,218 @@
+{
+ "nbPlayers": 328,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "chess-art-us",
+   "title": "GM",
+   "flair": "people.deaf-man-light-skin-tone",
+   "rank": 1,
+   "rating": 3282,
+   "score": 142,
+   "nb": {
+    "game": 75,
+    "berserk": 40,
+    "win": 40
+   },
+   "performance": 3198
+  },
+  {
+   "name": "yyoochess",
+   "title": "GM",
+   "rank": 2,
+   "rating": 3273,
+   "score": 140,
+   "nb": {
+    "game": 63,
+    "berserk": 7,
+    "win": 44
+   },
+   "performance": 3339
+  },
+  {
+   "name": "Night-King96",
+   "title": "GM",
+   "patron": true,
+   "patronColor": 10,
+   "rank": 3,
+   "rating": 3265,
+   "score": 137,
+   "nb": {
+    "game": 66,
+    "berserk": 18,
+    "win": 42
+   },
+   "performance": 3285
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 5060,
+  "moves": 415366,
+  "whiteWins": 2509,
+  "blackWins": 2273,
+  "draws": 278,
+  "berserks": 1453,
+  "averageRating": 2658
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "chess-art-us",
+    "title": "GM",
+    "flair": "people.deaf-man-light-skin-tone",
+    "rank": 1,
+    "rating": 3282,
+    "score": 142,
+    "sheet": {
+     "scores": "442303033254330300302003020010030302443304433100031031300253310433003045230",
+     "fire": true
+    }
+   },
+   {
+    "name": "yyoochess",
+    "title": "GM",
+    "rank": 2,
+    "rating": 3273,
+    "score": 140,
+    "sheet": {
+     "scores": "444422044445433022223030022022022442303104221202020202444442212",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 3,
+    "rating": 3265,
+    "score": 137,
+    "sheet": {
+     "scores": "220220044445543203301100203204423000204422124422053200210444522030",
+     "fire": true
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "patronColor": 8,
+    "rank": 4,
+    "rating": 3240,
+    "score": 134,
+    "sheet": {
+     "scores": "2442200300204220020222212042224221202242212044444442202044442303"
+    }
+   },
+   {
+    "name": "Zhigalko_Sergei",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 5,
+    "rating": 3163,
+    "score": 133,
+    "sheet": {
+     "scores": "3044230030300303002205523024442300220200020000203032532000054544330003120230"
+    }
+   },
+   {
+    "name": "Hooligan64",
+    "title": "GM",
+    "rank": 6,
+    "rating": 3258,
+    "score": 130,
+    "sheet": {
+     "scores": "320202200220422020204222422024442205230004220044221044444330002422",
+     "fire": true
+    }
+   },
+   {
+    "name": "yoseph2013",
+    "title": "IM",
+    "flair": "objects.alarm-clock",
+    "patron": true,
+    "patronColor": 4,
+    "rank": 7,
+    "rating": 3100,
+    "score": 130,
+    "sheet": {
+     "scores": "030055331032044423004220044230300003200022030305442300433055533"
+    }
+   },
+   {
+    "name": "Ediz_Gurel",
+    "title": "GM",
+    "flair": "smileys.alien",
+    "patron": true,
+    "patronColor": 4,
+    "rank": 8,
+    "rating": 3303,
+    "score": 129,
+    "sheet": {
+     "scores": "030030100422045221010422043301000023030444220044330104445330443313"
+    }
+   },
+   {
+    "name": "junglebook1",
+    "title": "GM",
+    "rank": 9,
+    "rating": 3277,
+    "score": 129,
+    "sheet": {
+     "scores": "032042300300000205533053303000101213022043204230305445442300453202"
+    }
+   },
+   {
+    "name": "OhanyanEminChess",
+    "title": "GM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 10,
+    "rating": 3149,
+    "score": 128,
+    "sheet": {
+     "scores": "0000302002300002030303004230220454330230230044533033053200303030043310004330"
+    }
+   }
+  ]
+ },
+ "id": "jan26lta",
+ "createdBy": "lichess",
+ "startsAt": "2026-01-31T20:00:00Z",
+ "system": "arena",
+ "fullName": "Titled Arena January '26",
+ "minutes": 120,
+ "perf": {
+  "key": "bullet",
+  "name": "Bullet",
+  "icon": "T"
+ },
+ "clock": {
+  "limit": 60,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "bullet"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/jan26wua)",
+ "onlyTitled": true
+}

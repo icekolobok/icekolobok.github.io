@@ -1,0 +1,211 @@
+{
+ "nbPlayers": 381,
+ "duels": [],
+ "isFinished": true,
+ "podium": [
+  {
+   "name": "legendreturns",
+   "title": "GM",
+   "rank": 1,
+   "rating": 2984,
+   "score": 94,
+   "nb": {
+    "game": 35,
+    "berserk": 13,
+    "win": 24
+   },
+   "performance": 3048
+  },
+  {
+   "name": "bubeliang",
+   "title": "FM",
+   "rank": 2,
+   "rating": 2819,
+   "score": 89,
+   "nb": {
+    "game": 33,
+    "berserk": 27,
+    "win": 23
+   },
+   "performance": 2959
+  },
+  {
+   "name": "innocentguy",
+   "title": "CM",
+   "flair": "symbols.exclamation-question-mark",
+   "rank": 3,
+   "rating": 2813,
+   "score": 87,
+   "nb": {
+    "game": 40,
+    "berserk": 11,
+    "win": 24
+   },
+   "performance": 2940
+  }
+ ],
+ "pairingsClosed": true,
+ "stats": {
+  "games": 2602,
+  "moves": 221684,
+  "whiteWins": 1247,
+  "blackWins": 1143,
+  "draws": 212,
+  "berserks": 1876,
+  "averageRating": 2445
+ },
+ "standing": {
+  "page": 1,
+  "players": [
+   {
+    "name": "legendreturns",
+    "title": "GM",
+    "rank": 1,
+    "rating": 2984,
+    "score": 94,
+    "sheet": {
+     "scores": "02444222532025432010325222454523233"
+    }
+   },
+   {
+    "name": "bubeliang",
+    "title": "FM",
+    "rank": 2,
+    "rating": 2819,
+    "score": 89,
+    "sheet": {
+     "scores": "024444230330053305555330303312533"
+    }
+   },
+   {
+    "name": "innocentguy",
+    "title": "CM",
+    "flair": "symbols.exclamation-question-mark",
+    "rank": 3,
+    "rating": 2813,
+    "score": 87,
+    "sheet": {
+     "scores": "1121033010305220024442213042302444444321"
+    }
+   },
+   {
+    "name": "AngelitoRT",
+    "title": "IM",
+    "patron": true,
+    "patronColor": 8,
+    "rank": 4,
+    "rating": 2898,
+    "score": 84,
+    "sheet": {
+     "scores": "321243225433000210523004555454320",
+     "fire": true
+    }
+   },
+   {
+    "name": "Night-King96",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 5,
+    "rating": 2846,
+    "score": 83,
+    "sheet": {
+     "scores": "1305555331301302553223310230300533"
+    }
+   },
+   {
+    "name": "Mitrabha",
+    "title": "GM",
+    "rank": 6,
+    "rating": 2717,
+    "score": 83,
+    "sheet": {
+     "scores": "330301130244543300330303001000433053305320",
+     "fire": true
+    }
+   },
+   {
+    "name": "msb2",
+    "title": "GM",
+    "patron": true,
+    "patronColor": 10,
+    "rank": 7,
+    "rating": 2833,
+    "score": 80,
+    "sheet": {
+     "scores": "0312130044444423244444231300331003"
+    }
+   },
+   {
+    "name": "evilhamburger",
+    "title": "CM",
+    "flair": "food-drink.burrito",
+    "rank": 8,
+    "rating": 2684,
+    "score": 80,
+    "sheet": {
+     "scores": "3025330000300105554330300000555330030230003"
+    }
+   },
+   {
+    "name": "may6enexttime",
+    "title": "GM",
+    "rank": 9,
+    "rating": 2938,
+    "score": 76,
+    "sheet": {
+     "scores": "444220224220044444444444220",
+     "fire": true
+    }
+   },
+   {
+    "name": "Kostik_Mostik",
+    "title": "IM",
+    "flair": "smileys.skull",
+    "rank": 10,
+    "rating": 2866,
+    "score": 76,
+    "sheet": {
+     "scores": "330113000105330243300555555533",
+     "fire": true
+    }
+   }
+  ]
+ },
+ "id": "mar26bta",
+ "createdBy": "lichess",
+ "startsAt": "2026-03-14T20:00:00Z",
+ "system": "arena",
+ "fullName": "Blitz Titled Arena March '26",
+ "minutes": 120,
+ "perf": {
+  "key": "blitz",
+  "name": "Blitz",
+  "icon": ")"
+ },
+ "clock": {
+  "limit": 180,
+  "increment": 0
+ },
+ "variant": "standard",
+ "rated": true,
+ "spotlight": {
+  "headline": "Titled only, $1,000 prize pool"
+ },
+ "berserkable": true,
+ "verdicts": {
+  "list": [
+   {
+    "condition": "Only titled players",
+    "verdict": "ok"
+   }
+  ],
+  "accepted": true
+ },
+ "schedule": {
+  "freq": "unique",
+  "speed": "superBlitz"
+ },
+ "description": "Prizes: $500/$250/$125/$75/$50\r\n\r\n[Warm-up event](https://lichess.org/tournament/mar26bua)",
+ "onlyTitled": true
+}
